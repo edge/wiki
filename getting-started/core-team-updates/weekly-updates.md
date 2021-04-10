@@ -24,18 +24,17 @@ description: >-
 |  | 18th January | The split out of Console and SSL Automation | ed.ge/updates/2021/01/18 |
 |  | 11th January | Open sourced packages, $EDGE reissue and project governance | ed.ge/updates/2021/01/11 |
 |  | 04th January | $EDGE Reissue, real time monitoring and business growth | ed.ge/updates/2021/01/04 |
-| 2020 |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| 2020 | 14th December | Lightning Cache and Customer News | ed.ge/updates/2020/12/14 |
+|  | 07th December | CDN Documentation and Certificate Store | ed.ge/updates/2020/12/07 |
+|  | 30th November | CDN Update, Console and Services | ed.ge/updates/2020/11/30 |
+|  | 23rd November | Multi-Arch Build Process | ed.ge/updates/2020/11/23 |
+|  | 16th November | Sync Service and Build Architectures | ed.ge/updates/2020/11/16 |
+|  | 09th November | Moving Away From Consul | ed.ge/updates/2020/11/09 |
+|  | 02nd November | Service-Based Networking | ed.ge/updates/2020/11/02 |
+|  | 26th October | Load Testing, Auth and eCom | ed.ge/updates/2020/10/26 |
+|  | 19th October | Stargate, Gateway, Host and CDN Updates | ed.ge/updates/2020/10/19 |
+|  | 12th October | Edge Content Delivery and Network API | ed.ge/updates/2020/10/12 |
+|  | 05th October | Edit and Consul KV Removal | ed.ge/updates/2020/10/05 |
 |  | 28th September | TNC delay, Consul migration and future tokenonmics | ed.ge/updates/2020/09/28 |
 |  | 21st September | TNC, DNS, eCommerce, Masternodes and CDN | ed.ge/updates/2020/09/21 |
 |  | 14th September | Moving on from Consul, new business and CDN | ed.ge/updates/2020/09/14 |
