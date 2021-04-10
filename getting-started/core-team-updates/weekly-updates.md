@@ -114,6 +114,6 @@ description: >-
 |  | 05th April | A new core network service | [ed.ge/updates/2019/04/05](https://ed.ge/updates/2019/04/05) |
 |  | 29th March | Edge Network explorer | [ed.ge/updates/2019/03/29](https://ed.ge/updates/2019/03/29) |
 |  | 22nd March | Network-level data storage, Consul and persisted storage | [ed.ge/updates/2019/03/22](https://ed.ge/updates/2019/03/22) |
-|  | 15th March | Network telemetry, ephemeral storage and OEM integration | [ed.ge/updates/2019/03/15](https://ed.ge/updates/2019/03/15) |
-|  | 08th March | The first weekly update from the core team | [ed.ge/updates/2019/03/08](https://ed.ge/updates/2019/03/08) |
+|  | 15th March | Network telemetry, ephemeral storage and OEM integration | [ed.ge/update/2019/03/15](https://ed.ge/update/2019/03/15) |
+|  | 08th March | The first weekly update from the core team | [ed.ge/update/2019/03/08](https://ed.ge/update/2019/03/08) |
 
