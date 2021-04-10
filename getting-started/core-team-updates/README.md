@@ -2,71 +2,53 @@
 
 As part of Edge's ongoing commitment to transparency and development in the open, the core team write weekly updates to the Edge community.
 
-There have been 101 of these so far.
+There have been 104 of these so far.
 
 {% page-ref page="weekly-updates.md" %}
 
 ## Latest Update
 
-![](../../.gitbook/assets/weeklyupdate220321.png)
+![](../../.gitbook/assets/weeklyupdate050421.png)
 
 Hi everyone 👋
 
-It’s been another jam packed week here, as we push towards the release of $XE 🏗️
+Another short week this week after bank holiday weekend, but it was still jammed packed with development.
 
-$EDGE itself is ready \(contracts + the bridge\). Distribution will be in $XE, which will be available to claim and which can be bridged out to $EDGE at the end of April/early May \(TBC depending on development pace on remaining items\).
+$XE moved ahead significantly \(detail below\). We are broadly on track for the end of April. Security testing starts soon, the output of which may affect timing in that anything highlighted that needs to be developed further will add time. This could add a week or two to the schedule. We’ll obviously keep the community updated as we progress.
 
-The network team changed the way Gateway handles device scoring to ignore responses that include error codes. Typically a response from CDN with an error return faster because there is no asset manipulation, therefore scoring based on a quick but failing response gives far too much priority to a device that has configuration issues.
+We expect to be discussing tokenomics next week. And the Community Wiki will follow shortly thereafter.
 
-The way applications are launched in the network is getting a large refactor, including the introduction of the Edge Finite State Machine package in order to avoid conflicting states and duplicate containers. This is expected to be delivered at the very start of April.
+Before I get into the week's updates, a reminder that you will need to go through the swap process in Edge Console in order to be able to claim $XE. The swap process closes towards the end of May.
 
-The test.network build of the $XE chain has been updated with a series of P2P Synchronisation fixes & enhancements.
+On to the weeks updates:
 
-It’s also been under continuous load testing, and has shown itself to be stable. We’ve pushed it hard, with 5 second block times and heavy usage. Adam will share some more data on this front next week all being well.
+The refactor of the upgrade process on Gateway and Host extended to Stargate, and after some issues with the way that Edge atomicstore handled callbacks, a new version of each of the core apps have been pushed to testnet.
 
-A metrics dashboard for the chain has been deployed giving us a bunch of insight and trend data.
+These will be deployed to mainnet towards the middle of next week if testing is successful.
 
-$XE wallet generation and restoration is now complete in the client-side JS wallet.
+Essential maintenance has taken place on network registries, specifically looking at reducing footprint and removing the reliance on a single third party. This is critical path stuff, adding further security and redundancy to the core of the platform.
 
-A wallet utilities module and support API have also been completed. This will be made publicly available, allowing third parties to interact with it directly.
+We now have a fully synchronised mempool – with persistent storage – for pending transactions in the network chain. This includes database cloning for redundancy.
 
-This includes crypto functions such as wallet generation, public key to checksum address, checksum address verification, private key to private key phrase generator, private key phrase to private key recovery, private key to public key, private key to address and world list generation.
+Transactions and the ledger are now fully integrated into the mining process.
 
-As we move towards the issuance of $XE we’ve taken the opportunity to make some small changes to the Edge logo.
+API endpoints for $XE covering transactions were also completed. These are being used in the explorer and will eventually be made public. The $XE Mainnet now has multiple nodes live across Europe. The initial deployment of the nodes also took place, moving us towards mainnet security testing.
 
-> “After living and working with the word mark and the ‘e’ icon over the past 18 months, we felt it wasn’t quite as well balanced as it should be and needed a little refinement.
->
-> “The original logo was intended to convey balance, uniformity and simplicity. The 4 circles being the starting point of the letter forms. There was a slight angle applied to the endings of the cross section on the ‘e’ and ’g’. This little detail has now been simplified and removed in favour of a straight edge.
->
-> “Although this is a small detail, the straight edge adheres to the ideas of simplicity and clarity and makes for a more balanced, less fussy shape.”
->
-> _– Ravi Chandwani, Edge Desgin Director_
+Network DNS integration was also completed this week, along with core service proxies, status services, Grafana & Prometheus integrations and CI/CD jobs for builds & deployments.
 
-Here’s the updated logo:
+We kicked off the engagement with the broadband provider mentioned in a previous update. There’s a lot of work happening here through Edit, with the expectation that core components of what’s being delivered will be running in the network in due course. As ever, as soon as we can share details on this, we will.
 
-![](../../.gitbook/assets/logo.png)
+We picked up the domain ed.ge, which we’re planning on using for URL shortening in the network.
 
-And here’s the icon:
+Chris wrote another article, The Network Under Your Nose:
 
-![](../../.gitbook/assets/icon.png)
+[edge.network/en/knowledge/network/the-network-under-your-nose](https://edge.network/en/knowledge/network/the-network-under-your-nose)
 
-The brand pages on the site will be updated next week.
+And we sent the first Edge Digest, a fortnightly wrap up of all things Edge, delivered straight to your inbox. You can see the issue here:
 
-We have also been putting together a community wiki for the project. This is near completion and does a great job communicating the scale of the project and how much has been achieved so far.
+[edge.press/issues/edge-digest-issue-1-469492](https://edge.press/issues/edge-digest-issue-1-469492)
 
-![](../../.gitbook/assets/wiki.png)
-
-We’ll be making this public in mid April, along with a whole lot of additional information relating to $XE, $EDGE and the network bridge.
-
-The definitions around project governance have been moved forward, with guiding principles defined along with guidelines for the use of governance for the core team.
-
-This will be laid out in detail in the wiki.
-
-Cookalong are hosting an evening with William Sitwell – a charity event in support of Muscular Dystrophy UK. I’ll share the link as soon as it’s available.
-
-The updates to the Ecohustler site mentioned in earlier updates is set to go live on Monday, with eCom functionality following the week after.
-
-And finally, we have had a couple of business meetings this week, including with a leading motorsport. Chris is leading on partnerships and special projects, and has been doing a great job getting the network and its tech in front of some really exciting organisations.
+If you’re not signed up, what are you waiting for! Sign up now at: [edge.press](https://edge.press/)
 
 And that’s it for this week.
 
