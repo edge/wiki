@@ -2,7 +2,7 @@
 description: Help to grow network usage and network scale and earn rewards.
 ---
 
-# Referral programme
+# Referral Programme
 
 The success of the Edge Network depends on the support of its community. These referral programmes are designed to support community efforts in bringing business to Edge and helping to scale the network.
 

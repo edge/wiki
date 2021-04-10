@@ -2,7 +2,7 @@
 
 If you have spare computational power you can earn income by being an Edge Host.
 
-Edge nodes earn $XE coins in return for this, and these tokens can be used to purchase services from the network, or exchanged for $EDGE for trading in the wider crypto marketplace.
+Edge nodes earn $XE coins in return for this, and these can be used to purchase services from the network, or exchanged for $EDGE for trading in the wider crypto marketplace.
 
 Stakes also form an important part of the tokenomics of the platform, locking value in the network and reducing overall circulating supply.
 

@@ -58,7 +58,7 @@ The core team at Edge manage a series of nodes in order to ensure and front run 
 
 Nodes in the network backbone are made available for staking to members of the community. This gives access to ndoes without the requirement for providing hardware and conenctivity yourself.
 
-Stake levels are the same as if you were running a node yourself, but the nodes yield is split between the staker and the network growth fund, with 75% going to the staker and 25% going towards future network development.
+Stake levels are the same as if you were running a node yourself, but the nodes yield is split between the staker and the dev fund, with 75% going to the stake provider and 25% going towards future network development.
 
 {% hint style="info" %}
 **Yield distribution figures are subject to change**

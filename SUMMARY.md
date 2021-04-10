@@ -49,7 +49,7 @@
 ## Supporting the Network
 
 * [Brand Docs](https://brand.edge.network)
-* [Referral programme](supporting-the-network/referral-programme.md)
+* [Referral Programme](supporting-the-network/referral-programme.md)
 * [Community Leads](supporting-the-network/community-leads.md)
 * [Careers](https://edge.network/en/careers)
 

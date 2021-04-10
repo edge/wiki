@@ -7,7 +7,7 @@ description: >-
 # FAQ
 
 {% hint style="info" %}
-**The FAQs foind here are added to periodically**
+**The FAQs found here are added to periodically**
 {% endhint %}
 
 ## General
@@ -18,7 +18,7 @@ The name Edge refers to the edge of the network. The Internet is made up of mill
 
 ### How Old Is the Edge Network?
 
-The Edge Network was first released in 2018, but the technology has been being worked on since 2013.
+The Edge Network was first released in 2018, but the technology has been in actvie R&D since 2013.
 
 ### Who Founded the Edge Network?
 
@@ -26,7 +26,7 @@ The Edge Network was originally concieved by Joseph Denne, Chris Mair and Will L
 
 ### How Many People Are in the Edge Team?
 
-The core team is comprised of 18 people. Edge is an all-remote company, and has been since inception. You can read about how we work here: [https://edge.network/en/culture](https://edge.network/en/culture)
+The core team is currently comprised of 18 people. Edge is an all-remote company, and has been since inception. You can read about how we work here: [https://edge.network/en/culture](https://edge.network/en/culture)
 
 ### Is There an Edge Explorer?
 
@@ -105,6 +105,10 @@ $XE and $EDGE are of equal value. The 1:1 relationship is because the coin and t
 ### Where Can I Sign Up for Edge CDN?
 
 Edge CDN can be accessed via the [Edge Network website](https://edge.network) or by typing `cdn.new` into your browser.
+
+### When Can I Get My Hands on Edge Object Storage?
+
+Edge Object Storage is currently in active R&D. A proof of concept exists and is currently being tested and evolved. A beta release is expected to be reelased for community testing at some point in 2021, with a first production release expected in 2022.
 
 ## Community
 

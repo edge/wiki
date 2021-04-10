@@ -62,6 +62,8 @@ Services purchased using $XE directly attract a service discount of 10%, designe
 
 Edge is a Proof of Stake network. Contributing a node to the network requires a POS in $XE. Stakes are locked in the network for a minimum period of time and for the duration of the node being online.
 
+Nodes that are found to be bad actors will have their stake penalised or removed. Stakes reclaimed by the network in this manner are burned \(sent to a zero address\).
+
 ### Network Governance
 
 Participation in network governance requires a stake locked in the network in $XE. This can be a stake used for the contribution of a node or an unassigned stake used purely for governance participation.
