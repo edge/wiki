@@ -34,7 +34,7 @@ Services in the Edge Network can be purchased with $EDGE. They are also availabl
 
 Purchases made in $EDGE are automatically bridged in to Edge Network and swapped for $XE.
 
-Purchases made in fiat \(Visa/MasterCard\) or in other cryptocurrencies are swapped for $EDGE before being bridged in to Edge Network and swapped for $XE.
+Purchases made in fiat \(Visa/MasterCard\) or in other cryptocurrencies are swapped for $EDGE before being bridged in to Edge Network, convertnig them to $XE.
 
 ### Liquidity Mining
 
