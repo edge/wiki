@@ -14,6 +14,7 @@ Elsewhere:
 * Bitcointalk: \[TBC\]
 * Medium: [edge.medium.com](https://edge.medium.com)
 * Facebook: [facebook.com/edgenetworktech](https://www.facebook.com/edgenetworktech)
+* BitClout: [bitclout.com/u/edgenetwork](https://bitclout.com/u/edgenetwork)
 
 Find us on:
 
