@@ -36,7 +36,17 @@ A total supply of 10 million $XE is locked in the network. This is mined and rel
 
 The difficulty in the network increases over time, reducing the emitted value every 12 months.
 
-The maximum yield in year one is set to 1 million $XE. This will be reduced in year two, further in year three and so on.
+The maximum yield in year one is set to 1 million $XE \(10%\). This will be reduced in year two, further in year three and so on.
+
+The following table shows expected emitted $XE for the next five years:
+
+| Year | Emitted $XE |
+| :--- | :--- |
+| 2021/22 | 1,000,000 |
+| 2022/23 | 900,000 |
+| 2023/24 | 810,000 |
+| 2024/25 | 729,000 |
+| 2025/26 | 656,100 |
 
 ## $XE Calculator
 
