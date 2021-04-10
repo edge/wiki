@@ -10,7 +10,8 @@ description: >-
 
 | Year | Week  | Summary | Link |
 | :--- | :--- | :--- | :--- |
-| 2021 | 29th March | Guiding Principles for Network Governance | ed.ge/updates/2021/03/29 |
+| 2021 | 05th April | $XE Development | ed.ge/updates/2021/04/05 |
+|  | 29th March | Guiding Principles for Network Governance | ed.ge/updates/2021/03/29 |
 |  | 22nd March | $XE Update, Wallets and Brand Updates | ed.ge/updates/2021/03/22 |
 |  | 15th March | The Edge Ledger, bridge and $XE | ed.ge/updates/2021/03/15 |
 |  | 08th March | Introducing $XE, Edge's Layer 2 Blockchain | ed.ge/updates/2021/03/08 |
