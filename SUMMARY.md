@@ -20,6 +20,7 @@
   * [Founding Team](getting-started/edge-tokenomics/founding-team.md)
 * [White Paper](https://paperlink)
 * [Roadmap](https://github.com/edge/roadmap)
+* [Core Team](getting-started/core-team.md)
 * [Core Team Updates](getting-started/core-team-updates/README.md)
   * [Weekly Updates](getting-started/core-team-updates/weekly-updates.md)
   * [Annual TL;DRs](getting-started/core-team-updates/annual-tl-drs.md)
