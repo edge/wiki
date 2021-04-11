@@ -45,5 +45,5 @@ Ravi brings strong conceptual and strategic thinking to the team, coupled with a
 
 ## Supporting & Advisory Teams
 
-Edge employs and 22 contribtors around the world, including engineers, mobile developers, designers and content creators. Edge's advisory team includes David Wilde \(formerly the CIO for the Office of the Deputy Prime Minister\), Robert Belgrave \(CEO at Wirehive and Pax8\) and Sean King \(formarly CEO of Seven\).
+Edge employs 22 individuals around the world, including engineers, mobile developers, designers and content creators. Edge's advisory team includes David Wilde \(formerly the CIO for the Office of the Deputy Prime Minister\), Robert Belgrave \(CEO at Wirehive and Pax8\) and Sean King \(formarly CEO of Seven\).
 
