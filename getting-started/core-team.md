@@ -1,11 +1,10 @@
----
-description: >-
-  Edge runs a majority flat structure, with a core team and advisory board
-  overseeing the platform and feeding in to the day to day maintenance and
-  development of the technology.
----
-
 # Core Team
+
+Edge runs a majority flat structure, with a core team and advisory board overseeing the platform and feeding in to the day-to-day maintenance and development of the technology.
+
+You can read about how Edge works here: [https://edge.network/en/culture](https://edge.network/en/culture)
+
+## Senior Team
 
 ### Joseph Denne
 
