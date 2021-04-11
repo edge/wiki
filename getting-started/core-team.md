@@ -43,3 +43,7 @@ Ravi is the user experience & design lead at Edge. With over 20 years working as
 
 Ravi brings strong conceptual and strategic thinking to the team, coupled with an emphasis on core graphic design principles and visualisation. Ravi's in-depth understanding of the production process and technical parameters of the digital landscape help to ensure that Edge remains a leader in user experience for decentralised technology.
 
+## Supporting & Advisory Teams
+
+Edge employs and 22 contribtors around the world, including engineers, mobile developers, designers and content creators. Edge's advisory team includes David Wilde \(formerly the CIO for the Office of the Deputy Prime Minister\), Robert Belgrave \(CEO at Wirehive and Pax8\) and Sean King \(formarly CEO of Seven\).
+
