@@ -21,5 +21,5 @@ Find us on:
 * Blockfolio Signal: [blockfolio.com/coin/DADI](https://blockfolio.com/coin/DADI) \[NOTE: TO BE UPDATED TO EDGE\]
 * Delta Direct: [delta.app/en/direct](https://delta.app/en/direct)
 * CoinGekko: [coingecko.com/en/coins/edge](https://www.coingecko.com/en/coins/edge)
-* CoinMarketCap: [coinmarketcap.com/currencies/edge/](https://coinmarketcap.com/currencies/edge/)
+* CoinMarketCap: [coinmarketcap.com/currencies/edge](https://coinmarketcap.com/currencies/edge)
 
