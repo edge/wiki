@@ -32,21 +32,19 @@ The Growth Fund is controlled through project governance.
 
 ## Node Rewards
 
-A total supply of 10 million $XE is locked in the network. This is mined and released as node rewards. This supply provides the yield for the network.
+$XE has a minable supply of 10 million coins, with a steady emissions curve tied to block time. Mined coins provide the yield for the network and are released as node rewards.
 
-The difficulty in the network increases over time, reducing the emitted value every 12 months.
-
-The maximum yield in year one is set to 1 million $XE \(10%\). This will be reduced in year two, further in year three and so on.
+The maximum yield in year one is 1 million $XE \(10%\). This will be reduced in year two, further in year three and so on.
 
 The following table shows expected emitted $XE for the next five years:
 
-| Year | Emitted $XE |
-| :--- | :--- |
-| 2021/22 | 1,000,000 |
-| 2022/23 | 900,000 |
-| 2023/24 | 810,000 |
-| 2024/25 | 729,000 |
-| 2025/26 | 656,100 |
+| Year | Emitted $XE | Supply Increase |
+| :--- | :--- | :--- |
+| 2021/22 | 1,000,000 | 2.00% |
+| 2022/23 | 900,000 | 1.50% |
+| 2023/24 | 810,000 | 1.56% |
+| 2024/25 | 729,000 | 1.38% |
+| 2025/26 | 656,100 | 1.23% |
 
 ## $XE Calculator
 
