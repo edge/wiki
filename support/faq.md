@@ -116,7 +116,7 @@ Edge Object Storage is currently in active R&D. A proof of concept exists and is
 
 ### Why Doesn’t Edge Have Feature X?
 
-Edge's vision and roadmaps are extensive, and resource is limited, meaning that the core team have to prioritise features. These decisions can be influenced through network governance.
+Edge's vision and roadmaps are extensive, while resource and time is limited. This means that the core team have to prioritise features and focus. These decisions can be influenced by the community through network governance.
 
 ## Community
 
