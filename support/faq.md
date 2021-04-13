@@ -96,6 +96,10 @@ You can convert $XE to $EDGE and vice versa using the Edge Network Bridge.
 
 $XE and $EDGE are of equal value. The 1:1 relationship is because the coin and the token perform different functions in the network, with $XE as a layer 2 solution designed to facilitate fast and free transactions wihtin the network. $XE is bridged out to Ethereum, a process that converts the $XE to $EDGE.
 
+### Why is the network coin named XE?
+
+The X is from the ISO standard for currencies that are not specific to a certain country. It has been used because Edge sees it's coin as the standard unit of account for edge computing. X-Edge, hence XE.
+
 ## Edge Products
 
 ### What's the relationship between Edge and Edit.com?
