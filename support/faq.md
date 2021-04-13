@@ -96,7 +96,7 @@ You can convert $XE to $EDGE and vice versa using the Edge Network Bridge.
 
 $XE and $EDGE are of equal value. The 1:1 relationship is because the coin and the token perform different functions in the network, with $XE as a layer 2 solution designed to facilitate fast and free transactions wihtin the network. $XE is bridged out to Ethereum, a process that converts the $XE to $EDGE.
 
-### Why is the network coin named XE?
+### Why Is the Network Coin Named XE?
 
 The X is from the ISO standard for currencies that are not specific to a certain country. It has been used because Edge sees it's coin as the standard unit of account for edge computing. X-Edge, hence XE.
 
@@ -113,6 +113,10 @@ Edge CDN can be accessed via the [Edge Network website](https://edge.network) or
 ### When Can I Get My Hands on Edge Object Storage?
 
 Edge Object Storage is currently in active R&D. A proof of concept exists and is currently being tested and evolved. A beta release is expected to be reelased for community testing at some point in 2021, with a first production release expected in 2022.
+
+### Why Doesn’t Edge Have Feature X?
+
+Edge's vision and roadmaps are extensive, and resource is limited, meaning that the core team have to prioritise features. These decisions can be influenced through network governance.
 
 ## Community
 
