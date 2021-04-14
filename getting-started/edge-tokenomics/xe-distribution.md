@@ -6,7 +6,7 @@
 
 A total of 50 million $XE will be minted and distributed. In addition to this, 10 million $XE are locked in the network to be mined and released as node rewards.
 
-Holders of the original $EDGE token who have been through the swap process to TNC in Edge Console will be able to claim a distribution of $XE. This is be proportional to their original holdings, factoring the reduction in supply.
+Holders of the original $EDGE token who have been through the swap process to TNC in Edge Console will be able to claim a distribution of $XE. This is proportional to their original holdings, factoring the reduction in supply.
 
 In addition, a small percentage of all holders funds will be held back to create the Growth Fund.
 
@@ -14,7 +14,7 @@ In addition, a small percentage of all holders funds will be held back to create
 
 ## Distribution Break Out
 
-The **Dev Fund** holds $XE assigned to support the day to day development of the network. The **Growth Fund** holds $XE assigned to support the marketing and growth in uptake of the Edge Network. The **Staking Contract** holds $XE locked in the network as governance and node stakes. The **Community** distribution are the $XE held by individual supporters and customers of the Edge Network.
+The **Dev Fund** holds $XE assigned to support the day-to-day development of the network. The **Growth Fund** holds $XE assigned to support the marketing and growth in uptake of the Edge Network. The **Staking Contract** holds $XE locked in the network as governance and node stakes. The **Community** distribution are the $XE held by individual supporters and customers of the Edge Network.
 
 {% hint style="info" %}
 **The figures below are projected initial distribution percentages for $XE**
