@@ -38,7 +38,7 @@ Edge's technology harnesses the spare capacity that exists in the devices all ar
 
 ### BGP Routing
 
-The Edge network utilizes BGP \(Border Gateway Protocol\) operating within Stargates to inform top level routing decisions in the network. BGP is the protocol that makes the Internet work. It does this by enabling data routing on the Internet by looking at all of the available paths that data could take from point to point, and picking the best route.
+The Edge network utilizes BGP \(Border Gateway Protocol\) operating within network masternodes to inform top level routing decisions in the network. BGP is the protocol that makes the Internet work. It does this by enabling data routing on the Internet by looking at all of the available paths that data could take from point to point, and picking the best route.
 
 ![](../.gitbook/assets/bgp.png)
 
