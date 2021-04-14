@@ -33,7 +33,7 @@ Intelligent traffic management ensures seamless handoff and removes DNS bottlene
 
 DDoS mitigation technology is built in to the core of the network, providing a shield for your applications from malicious attacks.
 
-### Guaranteed Uptime
+### Industry Leading Uptime
 
-Edge DNS comes with a 100% uptime guarantee.
+Edge DNS has maintained an uptime of 100% over two years.
 

@@ -34,3 +34,7 @@ Every fragment of every file is stored in multiple locations, building redundanc
 
 Because it’s decentralized and built using the spare capacity all around us, Edge storage is significantly cheaper to use than traditional cloud solutions.
 
+### Integrated
+
+Edge Object Storage is fulyl integrated within the Edge ecosystem, meaning that it can be used as the origin for Edge CDN, as a filestore for Edge Functions or as extended storage for implementations using the Edge Ledger.
+

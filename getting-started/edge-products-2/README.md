@@ -32,7 +32,7 @@ DNS is a critical part of the Internet and for all online businesses. Edge enabl
 
 ### File Storage and Sharing
 
-Edge Object Storage enables fully decentralised, high performance and secure file storage, backup and file sharing for individuals and businesses. Files stored in the Edge Network are encrypted with your own private keys, and are broken in to hundreds of pieces, providing an extremely secure data storage solution.
+Edge Object Storage enables fully decentralised, high performance and secure file storage, backup and file sharing for individuals and businesses. Files stored in the Edge Network can be encrypted with your own private keys, and are broken in to hundreds of pieces, providing an extremely secure data storage solution.
 
 ### Application Acceleration
 

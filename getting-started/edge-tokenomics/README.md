@@ -42,7 +42,7 @@ An $EDGE liquidity pool will be available on Uniswap, initally funding by the ne
 
 Uniswap apply a 0.30% fee for every trade that takes place on their platform and automatically send this to a liquidity reserve. Whenever a liquidity provider decides they want to exit the $EDGE pool, they will receive a portion of the total fees from the reserve relative to their staked amount in $EDGE the pool.
 
-In addition to this, a 0.30% fee on all $XE transactions moving through the network bridge. This amount is automatically deducted from the sent amount and is collected in am $XE vault wallet \(XXXIDXXX\). These funds are periodically bridged out of the network and redistributed among those providing liquidity for $EDGE on Uniswap.
+In addition to this, a 0.30% fee is applied to all $XE transactions moving through the network bridge. This amount is automatically deducted from the sent amount and is collected in an $XE vault wallet \(XXXIDXXX\). These funds are periodically bridged out of the network and redistributed as LP rewards to those providing liquidity for $EDGE on Uniswap.
 
 ## $XE
 
