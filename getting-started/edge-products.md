@@ -79,19 +79,20 @@ These links are designed to enable you to delve deeper in to the Edge network:
 
 Technology deep dives from the core team:
 
-* Finding a Stargate: [ed.ge/knowledge/finding-a-stargate](https://edge.network/en/knowledge/network/finding-a-stargate)
-* edge-cli: Connectivity check: [ed.ge/knowledge/edge-cli-connectivity-check](https://edge.network/en/knowledge/network/edge-cli-connectivity-check)
-* Gateway Bi-Directional Streaming: [ed.ge/knowledge/gateway-bi-directional-streaming](https://edge.network/en/knowledge/network/gateway-bi-directional-streaming)
-* Edge SSL: [ed.ge/knowledge/edge-ssl](https://edge.network/en/knowledge/network/edge-ssl)
-* An Introduction to Telemetry: [ed.ge/knowledge/an-introduction-to-telemetry](https://edge.network/en/knowledge/network/an-introduction-to-telemetry)
-* Finite State Machine: [ed.ge/knowledge/finite-state-machine](https://edge.network/en/knowledge/network/finite-state-machine)
-* Edge Storage Deep Dive: [ed.ge/knowledge/edge-storage-deep-dive](https://edge.network/en/knowledge/network/edge-storage-deep-dive)
-* Scaling the Edge: [ed.ge/knowledge/scaling-the-edge](https://edge.network/en/knowledge/network/scaling-the-edge)
-* Managing Stakes with Edge CLI: [ed.ge/knowledge/managing-stakes-with-edge-cli](https://edge.network/en/updates/announcements/managing-stakes-with-edge-cli)
+* Finding a Stargate: [ed.ge/knowledge/finding-a-stargate](https://ed.ge/knowledge/finding-a-stargate)
+* edge-cli: Connectivity check: [ed.ge/knowledge/edge-cli-connectivity-check](https://ed.ge/knowledge/edge-cli-connectivity-check)
+* Gateway Bi-Directional Streaming: [ed.ge/knowledge/gateway-bi-directional-streaming](https://ed.ge/knowledge/gateway-bi-directional-streaming)
+* Edge SSL: [ed.ge/knowledge/edge-ssl](https://ed.ge/knowledge/edge-ssl)
+* An Introduction to Telemetry: [ed.ge/knowledge/an-introduction-to-telemetry](https://ed.ge/knowledge/an-introduction-to-telemetry)
+* Finite State Machine: [ed.ge/knowledge/finite-state-machine](https://ed.ge/knowledge/finite-state-machine)
+* Edge Storage Deep Dive: [ed.ge/knowledge/edge-storage-deep-dive](https://ed.ge/knowledge/edge-storage-deep-dive)
+* Scaling the Edge: [ed.ge/knowledge/scaling-the-edge](https://ed.ge/knowledge/scaling-the-edge)
+* Managing Stakes with Edge CLI: [ed.ge/knowledge/managing-stakes-with-edge-cli](https://ed.ge/knowledge/managing-stakes-with-edge-cli)
 
 Top level concepts and vision:
 
-* A Fairer Internet: [ed.ge/knowledge/a-fairer-internet](https://edge.network/en/knowledge/network/a-fairer-internet/)
-* The Local, Global Network: [ed.ge/knowledge/the-local-global-network](https://edge.network/en/knowledge/network/the-local-global-network/)
-* The Network Under Your Nose: [ed.ge/knowledge/the-network-under-your-nose](https://edge.network/en/knowledge/network/the-network-under-your-nose)
+* A Fairer Internet: [ed.ge/knowledge/a-fairer-internet](https://ed.ge/knowledge/a-fairer-internet)
+* The Local, Global Network: [ed.ge/knowledge/the-local-global-network](https://ed.ge/knowledge/the-local-global-network)
+* The Network Under Your Nose: [ed.ge/knowledge/the-network-under-your-nose](https://ed.ge/knowledge/the-network-under-your-nose)
+* The Cloud Is Not Enough: [ed.ge/knowledge/the-cloud-is-not-enough](https://ed.ge/knowledge/the-cloud-is-not-enough)
 
