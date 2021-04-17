@@ -56,6 +56,10 @@ Gateways are Edge masternodes. They are responsible for connectivity in the netw
 
 Hosts are Edge nodes responsible for the provision of computational power and storage within the network.
 
+### Is Edge Proof of Work or Proof of Stake?
+
+Edge operates a hybrid model of proof of stake and proof of work. Proof of stake is used to help to secure the network, with a stake required to operate a node. Proof of work is used to distribute yield based on the jobs that nodes successfully complete in the network.
+
 ## Technology
 
 ### What Blockchain Does Edge Use?
