@@ -26,7 +26,7 @@ Things to look for when choosing a wallet are:
 
 $XE has its own network native client-side wallet. This is a JavaScript app that runs entirely in your local broswer. The web wallet provides the ability to generate and restore $XE wallets, view your transaction history, make transactions within the $XE network and bridge between $XE and $EDGE.
 
-\[SCREENSHOT\]
+![](../.gitbook/assets/1-transactions-01-map%20%281%29.jpg)
 
 ### Mobile Wallet
 
@@ -38,7 +38,7 @@ The Edge Mobile Wallet can also be used for the management of your $XE. It's ava
 
 You can also buy and sell $XE directly in the app using the network's exchange function.
 
-\[SCREENSHOT\]
+\[SCREENSHOT COMING SOON\]
 
 It is expected that future itterations of the mobile wallet will bundle in an Edge Network node, allowing staking directly within the wallet.
 
@@ -52,7 +52,7 @@ The Edge Desktop Wallet can also be used for the management of your $XE. It's av
 
 You can also buy and sell $XE directly in the app using the network's exchange function.
 
-\[SCREENSHOT\]
+\[SCREENSHOT COMING SOON\]
 
 It is expected that future itterations of the desktop wallet will bundle in an Edge Network node, allowing staking directly within the wallet.
 

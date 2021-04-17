@@ -46,7 +46,7 @@ In addition to this, a 0.30% fee is applied to all $XE transactions moving throu
 
 ## $XE
 
-$XE is a layer 2 solution designed for fast  transactions mapped to resource usage. It is bridged in to the Ethereum network on a 1:1 basis with the $EDGE token, meaning that for every 1 $XE bridged out of the Edge Network, you will recieve 1 $EDGE.
+$XE is a layer 2 solution designed for fast  transactions mapped to resource usage. It is bridged in to the Ethereum network on a 1:1 basis with the $EDGE token, meaning that for every 1 $XE bridged out of the Edge Network, you will receive 1 $EDGE.
 
 $XE is used for the purchasing of Edge services, for staking, network governance, and for node rewards.
 
