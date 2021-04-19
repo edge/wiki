@@ -10,5 +10,5 @@ There are other contributing factors that shape overall performance, therefore w
 
 These factors mean that establishing a reliable and sustained device grade is not possible on the basis of device specification.
 
-This is why the network uses a moving window average response time for completed jobs as the key driver for performance score and weighting.
+This is why the network uses a weighted moving average response time for completed jobs as the key driver for performance score and weighting.
 
