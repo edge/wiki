@@ -2,7 +2,7 @@
 
 As part of Edge's ongoing commitment to transparency and development in the open, the core team write weekly updates to the Edge community.
 
-There have been 105 of these so far.
+There have been 106 of these so far.
 
 {% page-ref page="weekly-updates.md" %}
 
