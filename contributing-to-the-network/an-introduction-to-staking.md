@@ -22,7 +22,7 @@ As the requirements for Nodes grows, the proof of stake required at each level i
 
 ## Stake amounts
 
-| Node Type | $XE Stake Required | Expected Av. Yield |
+| Node Type | $XE Stake Required | Expected Yield \(Av.\) |
 | :--- | :--- | :--- |
 | Stargate | 250,000 | 20% |
 | Gateway | 25,000 | 15% |
