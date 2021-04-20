@@ -2,7 +2,7 @@
 
 Edge has two full time community admins. They are flagged as **Community Managers** in Discord and as **Admins** in Telegram.
 
-Senior members of the community are occasionally promoted to the role of community lead. Commity leads are the step up to help other members of the community; help to maintain a posititve and welcoming environment; and keep themselves up to date on all things Edge.
+Senior members of the community are occasionally promoted to the role of community lead. Community leads are the step up to help other members of the community; help to maintain a posititve and welcoming environment; and keep themselves up to date on all things Edge.
 
 If you would like to assist the project as a community lead, please reach out directly to one of the team. You support in this area would be greatly appreciated.
 
