@@ -48,7 +48,7 @@ The following table shows expected emitted $XE for the next five years:
 
 ## $XE Calculator
 
-You can see a spreadsheet that can be used to calculate the $XE that you will be able claim here: [edge.link/sheets/xe-calculator](https://docs.google.com/spreadsheets/d/1fTHX7b4S37kqntT93BVQKTnTycA86tV4IlunMqKIHH4/edit?usp=sharing)
+You can see a spreadsheet that can be used to calculate the $XE that you will be able claim here: [ed.ge/xe/calculator](https://ed.ge/xe/calculator)
 
 To use this sheet:
 

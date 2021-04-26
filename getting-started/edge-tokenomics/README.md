@@ -6,13 +6,13 @@ description: >-
 
 # Edge Tokenomics
 
-$XE is a layer 2 solution designed for fast transactions mapped to resource usage. It is bridged in to the Ethereum network on a 1:1 basis with the $EDGE token.
+$XE is a layer 2 solution designed for fast transactions mapped to resource usage. It is bridged into the Ethereum network on a 1:1 basis with the $EDGE token.
 
 Transactions within the Edge Network are free for staking wallets. Non-staking wallets are charged a small fee to help to maintain the security of the chain. Bridging $XE in/out of the network to $EDGE in the Ethereum network carries a gas fee.
 
 For transactions out of Edge Network, this fee is taken in $XE. Individuals can choose their target gas fees and the bridge will automatically transmit their transaction to meet the target set. This acts to help to keep transaction fees as low as possible.
 
-For transactions in to the Edge Network, the gas fee is taken in $ETH.
+For transactions into the Edge Network, the gas fee is taken in $ETH.
 
 As a network native coin, $XE does not count towards the circulating supply of $EDGE. Therefore service usage, staking, governance and fees all act to reduce the circulating supply of $EDGE by locking value in the network itself.
 
