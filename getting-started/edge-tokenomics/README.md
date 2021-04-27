@@ -8,7 +8,7 @@ description: >-
 
 $XE is a layer 2 solution designed for fast transactions mapped to resource usage. It is bridged into the Ethereum network on a 1:1 basis with the $EDGE token.
 
-Transactions within the Edge Network are free for staking wallets. Non-staking wallets are charged a small fee to help to maintain the security of the chain. Bridging $XE in/out of the network to $EDGE in the Ethereum network carries a gas fee.
+Transactions within the Edge Network are free for staking wallets. Non-staking wallets are charged a small fee to help to maintain the security of the chain. Bridging $XE in/out of the network to $EDGE in the Ethereum network carries a variable gas fee.
 
 For transactions out of Edge Network, this fee is taken in $XE. Individuals can choose their target gas fees and the bridge will automatically transmit their transaction to meet the target set. This acts to help to keep transaction fees as low as possible.
 
@@ -62,7 +62,7 @@ Services purchased using $XE directly attract a service discount of 10%, designe
 
 Edge is a Proof of Stake network. Contributing a node to the network requires a POS in $XE. Stakes are locked in the network for a minimum period of time and for the duration of the node being online.
 
-Nodes that are found to be bad actors will have their stake penalised or removed. Stakes reclaimed by the network in this manner are burned \(sent to a zero address\).
+Nodes that are found to be bad actors will have their stake penalised or removed. Stakes reclaimed by the network in this manner are burned \(sent to a zero address  in the XE chain\).
 
 ### Network Governance
 
