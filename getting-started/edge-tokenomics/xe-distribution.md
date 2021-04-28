@@ -25,7 +25,7 @@ The **Dev Fund** holds $XE assigned to support the day-to-day development of the
 | Dev Fund | 15.64% |
 | Growth Fund | 10.25% |
 | Staking Contract | 31.54% |
-| Community | 34.57% |
+| Community Circulating | 34.57% |
 | Founding Team | 8% |
 
 The Growth Fund is controlled through project governance.
