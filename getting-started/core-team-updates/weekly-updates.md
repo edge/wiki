@@ -10,7 +10,8 @@ description: >-
 
 | Year | Week | Summary | Link |
 | :--- | :--- | :--- | :--- |
-| 2021 | 19th April | $XE Explorer and Network Value Attribution | [ed.ge/update/2021/04/19](https://ed.ge/update/2021/04/19) |
+| 2021 | 26th April | $XE Tokenomics and Distribution | [ed.ge/update/2021/04/26](https://ed.ge/update/2021/04/26) |
+|  | 19th April | $XE Explorer and Network Value Attribution | [ed.ge/update/2021/04/19](https://ed.ge/update/2021/04/19) |
 |  | 12th April | $XE Branding, Wallet and Development | [ed.ge/update/2021/04/12](https://ed.ge/update/2021/04/12) |
 |  | 05th April | $XE Development Update | [ed.ge/update/2021/04/05](https://ed.ge/update/2021/04/05) |
 |  | 29th March | Guiding Principles for Network Governance | [ed.ge/update/2021/03/29](https://ed.ge/update/2021/03/29) |
