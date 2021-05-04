@@ -8,79 +8,59 @@ There have been 108 of these so far.
 
 ## Latest Update
 
-![](../../.gitbook/assets/weeklyupdate190421-1619462242450.png)
+![](../../.gitbook/assets/weeklyupdate260421.png)
 
 Hi everyone 👋
 
-Chris and I have spent the week discussing the tokenomics for XE with a number of third parties in the crypto industry. These conversations have been designed to challenge the work that the team has done, giving us different perspectives and ultimately validating and strengthening the offering. We’ve spoken to other projects and to investors.
+It’s been a big week for updates, with tokenomics and plans for the distribution of $XE released.
 
-We had planned on sharing the community wiki this week, but are going to hold it back until next week. Chris and I will be sharing the tokenomics of $XE ahead of the release of the wiki next week. We’ll both also be available for a community AMA.
+Chris Mair wrote about the tokenomics of the network, breaking out the mechanics within each layer and explaining how they work both to aid network security, and to incentivise network growth.
 
-The team remains broadly on track for the end of April/early May release and distribution of $XE.
+You can read this here: [https://ed.ge/knowledge/tokenomics-overview](https://ed.ge/knowledge/tokenomics-overview)
 
-This week the team refactored the way in which the storage module in the ledger network clones itself. It’s used when preparing new blocks and we had observed a rare event causing service interruption as a result of database chunks changing.
+We also wrote about the distribution of $XE.
 
-They also pushed forward the explorer. Rather than releasing a separate explorer for the ledger alongside the existing network explorer, we will be providing an integrated experience that will replace the current explorer, allowing both blockchain & network interrogation.
+You can read this here: [https://ed.ge/knowledge/xe-distribution](https://ed.ge/knowledge/xe-distribution)
 
-As part of this, and to aid ongoing testing & debugging, the team completed work on a real time network telemetry server which gathers data from the blockchain nodes in Stargate. The explorer frontend connects into the server, which enables real time data to be pushed to clients \(for example latest blocks, status, and transaction pools\).
+Chris and I also held an AMA on Thursday evening, focused on the coming release of XE. It was a meaty session, with great contributions from the community.
 
-In time this will be extended to allow a live explorer screen, in the vein of ethstats \(along with the static exploration pages\).
+You can access a fullt transcript here: 
 
-Here’s a screenshot of the unstyled work in progress explorer:
+One of the things I love so much about this project is just how distributed the community is. There are members in 203 countries, with new members joining every day.
 
-![Image](https://cdn.edge.network/uploads/media/2021/04/26/explorer.png)
+Here’s a great visualisation of where we all are:
 
-The team have also progressed testing, focusing on at scale transactions and applying fixes where required.
+![](../../.gitbook/assets/communitywiki.png)
 
-A block transaction limit has been added to the miner and mempool. We’re currently testing with 100 transactions a block.
+The team made some changes to the Edge Logger to enhance the readability and depth of information available for debugging.
 
-Support for burning $XE has been successfully tested.
+An investigation into the performance of the update process when a configuration change is made has led to the roadmapping of a staggered propagation for updates. This will be coupled with a per-device performance grade freeze to avoid unnecessarily downgrading a devices performance during an update window.
 
-Testing is ongoing, specifically focused on pushing performance, testing high volumes from multiple sources, and pushing high volumes of transactions to multiple disparate connected nodes.
+And investigation into a rare issue with slow reconnections after a Gateway deployment continued, and is expected to conclude early next week.
 
-A minor issue with Host&lt;&gt;Gateway connections after a Gateway update early in the week was resolved and is currently under testing. A goroutine leak in Gateway was tracked down, patched and released. A bug caused by prematurely removing a channel that was still being written to was also resolved.
+Heavy load and security testing on the Edge Ledger continued, with a series of performance improvements brought to bear as a result of the data tracked.
 
-A bug with the order in which an update hook method was called was resolved and released for edge/atomicstore. This problem was occasionally causing a deadlock when the update hook tried to make changes to locked data.
+Some big improvements were made to ledger storage, vastly improving performance during the mining cycle. This was done after a bottleneck was identified during testing.
 
-Next week we move on to end to end user testing including the bridge and the client-side wallet.
+A transaction Generator service was built and deployed to feed transactions into the network. This is now being used on testnet to scale out testing.
 
-The mobile wallet for $XE for iOS and Android moved forward. It will have support for $ETH and $EDGE built in, alongside $XE.
+Arthur Mingard wrote an article on network security.
 
-I want to take a moment to elaborate on the yield system for network nodes. We’re moving to attribution on the basis of a score that is calculated as a moving window of completed jobs. Device activity is recorded in real time and is made available alongside $XE payouts.
+You can read this here: [https://ed.ge/knowledge/hidden-in-plain-sight](https://ed.ge/knowledge/hidden-in-plain-sight)
 
-The earnings process is designed to handle a cohort of Hosts per Gateway and per block of time. It also handles Gateway and Stargate cohorts. With jobs distributed on the basis of audience need, every node in the network is in effect in competition with its immediate peers to resolve jobs.
+And I wrote an article on TCO of network services.
 
-For example:
+You can read this here: [https://ed.ge/knowledge/the-network-that-works-for-you](https://ed.ge/knowledge/the-network-that-works-for-you)
 
-![Image](https://cdn.edge.network/uploads/media/2021/04/26/excample-1.png)
+The Edge Community Wiki will be released on the 04th of May.
 
-If we take network activity for an arbitrary period, we are able to rank each device against the others in its tier, providing a score for its relative work among the cohort.
+And finally, TNC released the interest for the month of staking to holders wallets. You should be able to see this in your wallets. It’s fully unlocked and usable right away.
 
-For example:
-
-![Image](https://cdn.edge.network/uploads/media/2021/04/26/example-2.png)
-
-These values are then used to determine the attribution of network yield within a given period. So if a host has a stake of 2,500 $XE and a yield of 10%, it would return 0.000011415525114 \* stake per hour if it resolved 100% of the jobs available.
-
-Summarised:
-
-`amount = stake * yield * share`
-
-Where:
-
-`stake = 2,500 yield = 0.000011415525114 // one hour at 10% per year (0.1 / 365 / 24) share = relative share from cohort, as seen above, say, 0.042`
-
-More information about this approach has been written up in the wiki and we’ll be publishing an article with a deeper dive soon.
-
-We kicked off an engagement with a major broadband provider \(who have millions of customers here in the UK\). They are using our technology in the form of Edit and Edge services. Expect to see more on this in the coming months.
-
-And finally, the second issue of the Edge Digest was sent out to subscribers.
-
-You can see it here: [https://ed.ge/digest/issue-2](https://ed.ge/digest/issue-2)
-
-For the very latest from Edge, join our Discord server: [https://ed.ge/discord](https://ed.ge/discord)
+Note that next week is a short week as we have the May bank holiday on Monday. With luck it will be sunny☀️
 
 And that’s it for this week.
+
+For the very latest from Edge, join our Discord server: [https://ed.ge/discord](https://ed.ge/discord)
 
 Enjoy your weekends.
 
