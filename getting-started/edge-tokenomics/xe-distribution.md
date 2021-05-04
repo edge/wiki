@@ -41,7 +41,7 @@ The following table shows expected emitted $XE for the next five years:
 | Year | Emitted $XE | Supply Increase |
 | :--- | :--- | :--- |
 | 2021/22 | 1,000,000 | 2.00% |
-| 2022/23 | 900,000 | 1.50% |
+| 2022/23 | 900,000 | 1.76% |
 | 2023/24 | 810,000 | 1.56% |
 | 2024/25 | 729,000 | 1.38% |
 | 2025/26 | 656,100 | 1.23% |
