@@ -11,14 +11,13 @@ Elsewhere:
 * Telegram: [@edgenetwork](https://t.me/edgenetwork)
 * Telegram Announcements: [@edgeann](https://t.me/edgeann)
 * Reddit: [/r/edgenetwork](https://reddit.com/r/edgenetwork)
-* Bitcointalk: \[TBC\]
 * Medium: [edge.medium.com](https://edge.medium.com)
 * Facebook: [facebook.com/edgenetworktech](https://www.facebook.com/edgenetworktech)
 * BitClout: [bitclout.com/u/edgenetwork](https://bitclout.com/u/edgenetwork)
 
 Find us on:
 
-* Blockfolio Signal: [blockfolio.com/coin/DADI](https://blockfolio.com/coin/DADI) \[NOTE: TO BE UPDATED TO EDGE\]
+* Blockfolio Signal: [blockfolio.com/coin/DADI](https://blockfolio.com/coin/DADI) \[Note: being updated to Edge\]
 * Delta Direct: [delta.app/en/direct](https://delta.app/en/direct)
 * CoinGekko: [coingecko.com/en/coins/edge](https://www.coingecko.com/en/coins/edge)
 * CoinMarketCap: [coinmarketcap.com/currencies/edge](https://coinmarketcap.com/currencies/edge)

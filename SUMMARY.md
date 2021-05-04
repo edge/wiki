@@ -18,7 +18,6 @@
   * [Growth Fund](getting-started/edge-tokenomics/growth-fund.md)
   * [Staking Contract](getting-started/edge-tokenomics/staking-contract.md)
   * [Founding Team](getting-started/edge-tokenomics/founding-team.md)
-* [White Paper](https://paperlink)
 * [Roadmap](https://github.com/edge/roadmap)
 * [Core Team](getting-started/core-team.md)
 * [Core Team Updates](getting-started/core-team-updates/README.md)

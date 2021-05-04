@@ -38,8 +38,6 @@ The Edge Mobile Wallet can also be used for the management of your $XE. It's ava
 
 You can also buy and sell $XE directly in the app using the network's exchange function.
 
-\[SCREENSHOT COMING SOON\]
-
 It is expected that future itterations of the mobile wallet will bundle in an Edge Network node, allowing staking directly within the wallet.
 
 ### Desktop Wallet
@@ -51,8 +49,6 @@ It is expected that future itterations of the mobile wallet will bundle in an Ed
 The Edge Desktop Wallet can also be used for the management of your $XE. It's available for Windows and OSX and can be used to bridge your tokens.
 
 You can also buy and sell $XE directly in the app using the network's exchange function.
-
-\[SCREENSHOT COMING SOON\]
 
 It is expected that future itterations of the desktop wallet will bundle in an Edge Network node, allowing staking directly within the wallet.
 
