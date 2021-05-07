@@ -26,7 +26,7 @@ Stargates are intended for high-connectivity environments: think data centers an
 
 ![](../.gitbook/assets/gateway.png)
 
-Gateways are the entry point to the network, acting as an aggregate point for Host node capacity. The manage job queues and deliver job requests to Hosts on the basis of a rolling Host score, preferencing the Host nodes most likely to quickly perform a certain task at any given moment in time.
+Gateways are the entry point to the network, acting as an aggregate point for Host node capacity. They manage job queues and deliver job requests to Hosts on the basis of a rolling Host score, preferencing the Host nodes most likely to quickly perform a certain task at any given moment in time.
 
 They are high-connectivity devices.
 
