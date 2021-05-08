@@ -95,4 +95,7 @@ Top level concepts and vision:
 * The Local, Global Network: [ed.ge/knowledge/the-local-global-network](https://ed.ge/knowledge/the-local-global-network)
 * The Network Under Your Nose: [ed.ge/knowledge/the-network-under-your-nose](https://ed.ge/knowledge/the-network-under-your-nose)
 * The Cloud Is Not Enough: [ed.ge/knowledge/the-cloud-is-not-enough](https://ed.ge/knowledge/the-cloud-is-not-enough)
+* Hidden in Plain Sight: [ed.ge/knowledge/hidden-in-plain-sight](https://ed.ge/knowledge/hidden-in-plain-sight)
+* The Network That Works for You: [ed.ge/knowledge/the-network-that-works-for-you](https://ed.ge/knowledge/the-network-that-works-for-you)
+* Cleaning Up the Cloud: [ed.ge/knowledge/cleaning-up-the-cloud](https://ed.ge/knowledge/cleaning-up-the-cloud)
 
