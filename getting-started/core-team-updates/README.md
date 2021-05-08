@@ -2,61 +2,65 @@
 
 As part of Edge's ongoing commitment to transparency and development in the open, the core team write weekly updates to the Edge community.
 
-There have been 108 of these so far.
+There have been 109 of these so far.
 
 {% page-ref page="weekly-updates.md" %}
 
 ## Latest Update
 
-![](../../.gitbook/assets/weeklyupdate260421.png)
+![](../../.gitbook/assets/weeklyupdate030521.png)
 
 Hi everyone 👋
 
-It’s been a big week for updates, with tokenomics and plans for the distribution of $XE released.
+Monday was a bank holiday here in the UK, so this week's update will be a little shorter than usual.
 
-Chris Mair wrote about the tokenomics of the network, breaking out the mechanics within each layer and explaining how they work both to aid network security, and to incentivise network growth.
+The Edge Community Wiki was released. Designed as the go-to resource for the Edge project, it covers a wide variety of topics, including the vision for the network, the project’s history, community governance, token distribution and node contributions.
 
-You can read this here: [https://ed.ge/knowledge/tokenomics-overview](https://ed.ge/knowledge/tokenomics-overview)
+You can see it here: [https://wiki.edge.network](https://wiki.edge.network)
 
-We also wrote about the distribution of $XE.
+It also includes a full break out of the core teams weekly updates, of which there have now been 109!
 
-You can read this here: [https://ed.ge/knowledge/xe-distribution](https://ed.ge/knowledge/xe-distribution)
+Here’s a link to the full archive: [https://wiki.edge.network/getting-started/core-team-updates/weekly-updates](https://wiki.edge.network/getting-started/core-team-updates/weekly-updates)
 
-Chris and I also held an AMA on Thursday evening, focused on the coming release of XE. It was a meaty session, with great contributions from the community.
+The source for the Wiki is available in the project Github here: [https://github.com/edge/wiki](https://github.com/edge/wiki)
 
-You can access a fullt transcript here: 
+Community contributions to the wiki are welcome and encouraged.
 
-One of the things I love so much about this project is just how distributed the community is. There are members in 203 countries, with new members joining every day.
+The $XE client side wallet is approaching completion and looking very polished. It will eventually house staking and governance too, moving these functions out of Console. This will also remove the requirement for the email/password based account concept, with everything running off of your private keys.
 
-Here’s a great visualisation of where we all are:
+Here’s another screenshot as a teaser ahead of release:
 
-![](../../.gitbook/assets/communitywiki.png)
+![](../../.gitbook/assets/xewallet.jpg)
 
-The team made some changes to the Edge Logger to enhance the readability and depth of information available for debugging.
+The iOS and Android mobile wallet remains in heavy development. The timelines for this are further out, and we’ll keep you up to date we go.
 
-An investigation into the performance of the update process when a configuration change is made has led to the roadmapping of a staggered propagation for updates. This will be coupled with a per-device performance grade freeze to avoid unnecessarily downgrading a devices performance during an update window.
+Testing on the network ledger continued. An invalid state issue was raised in relation to the P2P service. This has now been resolved.
 
-And investigation into a rare issue with slow reconnections after a Gateway deployment continued, and is expected to conclude early next week.
+Several updates for the API for the ledger were made, including the addition of batch transaction processing to support Earnings/Payouts and configurable batch transaction limits.
 
-Heavy load and security testing on the Edge Ledger continued, with a series of performance improvements brought to bear as a result of the data tracked.
+An issue with the API where large POST requests were being rejected was resolved.
 
-Some big improvements were made to ledger storage, vastly improving performance during the mining cycle. This was done after a bottleneck was identified during testing.
+A series of additional metrics were added, providing new data points for performance monitoring & debugging.
 
-A transaction Generator service was built and deployed to feed transactions into the network. This is now being used on testnet to scale out testing.
+And a ledger pruning feature was introduced, removing old wallet data and keeping only the relevant wallet data for a number of blocks.
 
-Arthur Mingard wrote an article on network security.
+A major refactor to the configuration process for dApps was deployed this week. The refactor included a fix to the way request cancellations are propagated within the network, and a refining to the method that syncs dApp subscription config status information between Host and Gateway.
 
-You can read this here: [https://ed.ge/knowledge/hidden-in-plain-sight](https://ed.ge/knowledge/hidden-in-plain-sight)
+Debug logging was greatly improved, creating far more transparency to the Host app deployment process and to the Gateway worker pool prioritisation engine, or LBQ \(Load Balanced Queue\) as it is more commonly known.
 
-And I wrote an article on TCO of network services.
+Chris and I started to flesh out plans for an investment programme for third party and community projects built using Edge technology. It’s a little early to go into any real detail yet, but if you have an idea that needs funding, start thinking about how you might pitch it. We’ll be sharing a lot of information on this front in the coming months.
 
-You can read this here: [https://ed.ge/knowledge/the-network-that-works-for-you](https://ed.ge/knowledge/the-network-that-works-for-you)
+Will wrote an article about the carbon impact of the cloud and the net benefit that Edge brings to the industry.
 
-The Edge Community Wiki will be released on the 04th of May.
+You can read that here: [https://ed.ge/knowledge/cleaning-up-the-cloud](https://ed.ge/knowledge/cleaning-up-the-cloud)
 
-And finally, TNC released the interest for the month of staking to holders wallets. You should be able to see this in your wallets. It’s fully unlocked and usable right away.
+And last but not least, issue 3 of the Edge Digest was sent out. If you’re not subscribed, you should be! You can do so here:
 
-Note that next week is a short week as we have the May bank holiday on Monday. With luck it will be sunny☀️
+[https://edge.press](https://edge.press)
+
+And you can read the latest issue here:
+
+[https://ed.ge/digest/issue-3](https://ed.ge/digest/issue-3)
 
 And that’s it for this week.
 
