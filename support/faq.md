@@ -76,6 +76,10 @@ $XE currently runs as a layer 2 solution, which enables fast and free transactio
 
 The Edge Network is a completely unique technology stack, originated by the core team and developed over many years. It is predominantly written in Golang.
 
+### Where Can I Find the Source Code for the Edge Network?
+
+Edge's source code is currently partially open source, with plans for going fully open source in motion. You can access projects code repository on Github at: [github.com/edge](https://github.com/edge)
+
 ## Cryptocurrencies
 
 ### I held the original $EDGE, how do I get hold of $XE?
