@@ -6,9 +6,11 @@ description: >-
 
 # Conversations on the Edge
 
-{% embed url="https://vimeo.com/manage/videos/549830372" %}
+## Episode One, 14th May 2021
 
+This week, our host talks to founders Joseph Denne and Chris Mair about fairness – whether the future of the web is in the hands of too few people and how Edge technology is designed to redress the balance.
 
+{% embed url="https://vimeo.com/549830372" %}
 
 
 
