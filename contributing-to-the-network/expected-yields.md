@@ -1,6 +1,6 @@
 # Expected Yields
 
-Device yields are benchmarked against proof of stake, with average yields expected to be in the region of 10% for Hosts, 15% for Gateways and 20% for Stargates.
+Device yields are benchmarked against proof of stake, with average yields over the long term expected to be in the region of 10% for Hosts, 15% for Gateways and 20% for Stargates. Yield is a balance of network scale and stake value. Therefore, in the early stages of network growth, node yield will be significantly higher.
 
 Yield is earned in $XE, with coins emitted by the network form a fixed supply of 10m. Increasing difficulty in the network over time reduces the emitted tokens every year.
 
