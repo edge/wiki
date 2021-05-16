@@ -50,11 +50,11 @@ We’ve been pushing hard in this space, and are considering releasing one or mo
 
 To help guide the future of this side of things, please take a moment to complete this anonymous survey:
 
-\*\*\*\*[**https://edge-network.typeform.com/to/tjFmCuYM**](https://edge-network.typeform.com/to/tjFmCuYM)\*\*\*\*
+[ed.ge/device-survey](https://ed.ge/device-survey)
 
 And that’s it for this week.
 
-For the very latest from Edge, join our Discord server: [https://ed.ge/discord](https://ed.ge/discord)
+For the very latest from Edge, join our Discord server: [ed.ge/discord](https://ed.ge/discord)
 
 Enjoy your weekends.
 

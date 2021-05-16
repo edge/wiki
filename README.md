@@ -10,3 +10,13 @@ If you'd like to contribute, please reach out to a community manager on the [Edg
 
 The source for the wiki can be found here: [github.com/edge/wiki](https://github.com/edge/wiki)
 
+{% hint style="success" %}
+The core team would like to understand a little more about your appetite for custom Edge devices.
+
+We’ve been pushing hard in this space, and are considering releasing one or more devices as ready-to-go nodes which could be purchased using $EDGE/$XE or other crypto currencies.
+
+To help guide the future of custom devices for the Edge Network, please take a moment to complete this anonymous survey:
+
+[ed.ge/device-survey](https://ed.ge/device-survey)
+{% endhint %}
+
