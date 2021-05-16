@@ -12,6 +12,8 @@ Elsewhere:
 * Telegram Announcements: [@edgeann](https://t.me/edgeann)
 * Reddit: [/r/edgenetwork](https://reddit.com/r/edgenetwork)
 * Medium: [edge.medium.com](https://edge.medium.com)
+* YouTube: [ed.ge/youtube](https://ed.ge/youtube)
+* Vimeo: [vimeo.com/edgenetwork](https://vimeo.com/edgenetwork)
 * Facebook: [facebook.com/edgenetworktech](https://www.facebook.com/edgenetworktech)
 * BitClout: [bitclout.com/u/edgenetwork](https://bitclout.com/u/edgenetwork)
 
