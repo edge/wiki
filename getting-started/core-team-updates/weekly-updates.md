@@ -10,7 +10,8 @@ description: >-
 
 | Year | Week | Summary | Link |
 | :--- | :--- | :--- | :--- |
-| 2021 | 03rd May | Community Wiki and Ledger Update | [ed.ge/update/2021/05/03](https://ed.ge/update/2021/05/03) |
+| 2021 | 10th May | Conversations on the Edge | [ed.ge/update/2021/05/10](https://ed.ge/update/2021/05/10) |
+|  | 03rd May | Community Wiki and Ledger Update | [ed.ge/update/2021/05/03](https://ed.ge/update/2021/05/03) |
 |  | 26th April | $XE Tokenomics and Distribution | [ed.ge/update/2021/04/26](https://ed.ge/update/2021/04/26) |
 |  | 19th April | $XE Explorer and Network Value Attribution | [ed.ge/update/2021/04/19](https://ed.ge/update/2021/04/19) |
 |  | 12th April | $XE Branding, Wallet and Development | [ed.ge/update/2021/04/12](https://ed.ge/update/2021/04/12) |
