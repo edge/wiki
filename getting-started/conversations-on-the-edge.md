@@ -12,5 +12,9 @@ This week, our host talks to founders Joseph Denne and Chris Mair about fairness
 
 {% embed url="https://vimeo.com/549830372" %}
 
+## Episode Two, 21st May 2021
 
+The second instalment in our new series of audio shorts discussing Edge Network and how it is poised to help change the Internet. This week, we examine how Edge reuses the hardware all around us to build the future cloud – a faster and greener digital infrastructure that scales with future demand.
+
+{% embed url="https://vimeo.com/555943531" %}
 
