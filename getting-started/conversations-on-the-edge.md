@@ -18,3 +18,11 @@ The second instalment in our new series of audio shorts discussing Edge Network 
 
 {% embed url="https://vimeo.com/555943531" %}
 
+## Episode Three, 28th May 2021
+
+Episode three in our new series of audio shorts deals with localisation. Our team discusses Edge as the local-global network – how nodes located in home and offices everywhere reduces the distance between storage and consumption and builds a greener internet.
+
+{% embed url="https://vimeo.com/556279404" %}
+
+
+
