@@ -1,7 +1,7 @@
 # Setting up a Host
 
 {% hint style="danger" %}
-**Host onboarding is temporailly suspended. It is expected to open again in May**
+**Host onboarding is temporailly suspended. It is expected to open again in June**
 {% endhint %}
 
 Onboarding is now open for Host nodes on the Edge network, with support for Linux based AMD64/ARM devices available.

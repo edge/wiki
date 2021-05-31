@@ -1,7 +1,7 @@
 # $XE Distribution
 
 {% hint style="danger" %}
-**$XE distributed hasn't started. It is expected to start in May 2021**
+**$XE distributed hasn't started. It is expected to start in June 2021**
 {% endhint %}
 
 A total of 50 million $XE will be minted and distributed. In addition to this, 10 million $XE are locked in the network to be mined and released as node rewards.

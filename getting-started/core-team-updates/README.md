@@ -14,7 +14,7 @@ Hi everyone 👋
 
 First up, timelines for $XE.
 
-**The** **$XE** **mainnet goes live on Monday**. The wallet will be made available for address generation and claiming distribution a week today. Distribution will run from the 31st May. The bridge will open and trading will start the week of the 14th of June \(possibly a week later - final security testing dependent\).
+**The** **$XE** **mainnet goes live on Monday**. The wallet will be made available for address generation and claiming distribution a week today. Distribution will run from early June. The bridge will open and trading will start the week of the 14th of June \(possibly a week later - final security testing dependent\).
 
 ![](../../.gitbook/assets/photo_2021-05-27-23.35.24.jpeg)
 
