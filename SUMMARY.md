@@ -24,7 +24,7 @@
   * [Weekly Updates](getting-started/core-team-updates/weekly-updates.md)
   * [Annual TL;DRs](getting-started/core-team-updates/annual-tl-drs.md)
   * [AMA Archive](getting-started/core-team-updates/ama-archive.md)
-* [Conversations on the Edge](getting-started/conversations-on-the-edge.md)
+  * [Podcast](getting-started/core-team-updates/conversations-on-the-edge.md)
 * [Community Links](getting-started/community-links.md)
 
 ## Getting and Storing Tokens

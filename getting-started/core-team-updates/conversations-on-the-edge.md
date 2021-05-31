@@ -1,10 +1,10 @@
 ---
 description: >-
-  Conversations on the Edge is a new series of audio shorts discussing Edge
+  "Conversations on the Edge" is a new series of audio shorts discussing Edge
   Network and how it is poised to help change the Internet.
 ---
 
-# Conversations on the Edge
+# Podcast
 
 ## Episode One, 14th May 2021
 
