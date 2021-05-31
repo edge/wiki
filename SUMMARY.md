@@ -46,6 +46,7 @@
 * [Expected Yields](contributing-to-the-network/expected-yields.md)
 * [Performance Weighting](contributing-to-the-network/performance-weighting.md)
 * [Setting up a Host](contributing-to-the-network/setting-up-a-host.md)
+* [Edge Devices](contributing-to-the-network/edge-devices.md)
 
 ## Supporting the Network
 
