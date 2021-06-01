@@ -4,7 +4,7 @@ The Founding Node was a limited edition device designed around the Raspberry Pi 
 
 The use of the Raspberry Pi demonstrated the power of the network softeware, adn the ease with which the platform could be grown through the use of the low and high powered devices all around us.
 
-Several hundred Founding Nodes were given away to early community supporters, and there are around 300 still in operation today.
+Hundreds of Founding Nodes were given away to early community supporters, with devices shipped to 96 countries worldwide. There are around 300 still in operation today.
 
 ![](../../.gitbook/assets/01.jpg)
 
