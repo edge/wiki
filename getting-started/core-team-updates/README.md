@@ -2,65 +2,51 @@
 
 As part of Edge's ongoing commitment to transparency and development in the open, the core team write weekly updates to the Edge community.
 
-There have been 111 of these so far.
+There have been 112 of these so far.
 
 {% page-ref page="weekly-updates.md" %}
 
 ## Latest Update
 
-![](../../.gitbook/assets/weeklyupdate170521.png)
+![](../../.gitbook/assets/weeklyupdate240521.png)
 
 Hi everyone 👋
 
-First up, timelines for $XE.
+First up, timelines for $XE. Adam was taken sick earlier this week, which has pushed back preparation for the release of the XE wallet, which was originally planned for today. As Adam is the Blockchain Lead in the core team, we collectively decided to press pause until he is back up to speed.
 
-**The** **$XE** **mainnet goes live on Monday**. The wallet will be made available for address generation and claiming distribution a week today. Distribution will run from early June. The bridge will open and trading will start the week of the 14th of June \(possibly a week later - final security testing dependent\).
+We think this pushes the opening of the wallet back by around a week, allowing for his recovery and some backfilling.
 
-![](../../.gitbook/assets/photo_2021-05-27-23.35.24.jpeg)
+The good news is that the wallet itself is complete and ready for use.
 
-We’ve been in high-load testing all week. The platform is looking very stable and our confidence in the dates above is high. We’ll let the community know right away if anything changes on this front.
+The team also made some final improvements to the ledger as part of the mainnet release, including improvements to P2P connection recovery, as well as a fix for an issue discovered during the operation of the index service.
 
-The team integrated a new logging module improving the resolution of platform logs.
+The API has received numerous improvements, brought about by integration with the wallet & index service.
 
-Security improvements were introduced to the P2P connection procedure, which solved some issues with disconnections and subsequent reconnections.
+The Index service received some fixes for issues identified during integration with the wallet early in the week.
 
-A P2P connection issue was found which in certain circumstances was leading to chain desynchronisation. This has been resolved. A keep-alive procedure was implemented as part of the P2P system alongside this work.
+This service will be open to public consumption, allowing you to browse blocks and transactions. Though the API endpoints will be limited at first, more will be introduced over time to help you inspect the chain.
 
-Memo content validation was added to transactions within the ledger.
+An XE address field was added to Console. This is for use in distribution. The team took the opportunity to improve the performance of Console in a few places as well.
 
-Work progressed on an indexing Oracle, which will sit on top of the blockchain and provide a searchable index of blocks & transactions. This will be utilised by the wallet as well as the blockchain explorer.
+And the CDN refactoring undertaken last week was pushed to mainnet and deployed early this week. Arthur and I installed hardware for a new Stargate, a second for London.
 
-The team also patched an issue with CDN whereby a 404 wasn’t being returned in the event of a missing fallback image. This work also unearthed an issue where a slow request to CDN was blocking all other requests at Host level until the timeout threshold was hit. As part of the resolution context was added to CDN requests enabling them to be cancelled by Host directly.
+![](../../.gitbook/assets/arthur.png)
 
-The CDN MIME type selector was refactored to improve lookup performance.
+We’re expecting to have 14 Stargate's live this year. The Stargates are being placed at the most connected hubs on Earth and will be located in Sao Paulo, LA, Miami, Ashburn, London, Amsterdam, Frankfurt, Prague, Vienna, Bucharest and Madrid.
 
-And additional logging was added to CDN to provide a deeper level of data relating to processing times.
+The overall architecture of services in the network will be changing over the coming months, with Edge Functions taking centre stage. Functions provides a discreet deployment and execution environment for single purpose code blocks. Aligned with Storage, they allow for Edge–native applications to be built and run entirely at the edge of the network.
 
-Gateway was updated to prevent a scenario whereby Host remains out of sync when a container crashes.
+To give you an indication of what’s possible with Edge Functions, CDN will itself move to the functions layer in time.
 
-And work started on a consolidated ‘sync’ key, which acts as an etag for configurations. This is the first step towards a single unified key for the operational state of Host.
+We signed an agreement in principle with a new transport partner, which will provide terabit interconnectivity for the Stargate layer in the network, bringing faster resolution times and increased performance to network services.
 
-The team ran a survey asking about dedicated Edge devices. This has returned some great results so far. There have been a little over 300 responses, With 75.5% of respondents indicating that they would be interested in purchasing a dedicated Edge device.
+It was a busy week on the new business front as well, with several new engagements kicked off. While 2020 was an incredibly difficult year for all of us, 2021 is looking much brighter, with businesses getting back up to speed and digital spend increasing.
 
-If you haven’t pitched in yet, now’s the time to do so:
+And finally, episode three of Conversations on the Edge has just been released:
 
-{% embed url="https://ed.ge/device-survey" %}
+{% embed url="https://vimeo.com/556279404" %}
 
-We also received some great suggestions through the open comments. These included finding dual applications for nodes \(i.e. embedding it in other items like a bedside clock or a lamp\), making them wall mountable and ensuring payment options that cover a broad array of crypto currencies.
-
-Thank you to those of you who took the time to participate. Any further ideas in this area please do feel free to share.
-
-Chris and I have attended a series of new business meetings and are continuing to push hard on this front. There’s a lot going on and there are many irons in the fire.
-
-A final reminder that the swap closes on the 27th of this month \(Thursday, 27th May 2021\). **If you don’t swap before this date, you won’t be able to claim TNC and will lose the ability to claim** **$XE**.
-
-Earnings for 2020 continue to be processed. If you’ve not had yours yet, sit tight. The network holds complete records and all earnings will be distributed.
-
-And finally, the episode two of Conversations on the Edge was just released:
-
-{% embed url="https://vimeo.com/555943531" %}
-
-And that’s it for this week.
+And that’s it for this week. It’s a long weekend here, so expect the core team to be back at the coalface on Tuesday.
 
 For the very latest from Edge, join our Discord server: [ed.ge/discord](https://ed.ge/discord)
 
