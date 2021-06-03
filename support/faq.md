@@ -85,12 +85,12 @@ Edge's source code is currently partially open source, with plans for going full
 ### I held the original $EDGE, how do I get hold of $XE?
 
 {% hint style="danger" %}
-**The swap period for $EDGE ends on Thursday, 27th May 2021**
+**The swap period for $EDGE closed on Thursday, 27th May 2021**
 {% endhint %}
 
-You should follow the swap process within Edge Console. You have until Thursday, 27th May 2021 to complete the swap. The swap closes after this period and you will not be able to swap further $EDGE.
+~~You should follow the swap process within Edge Console. You have until Thursday, 27th May 2021 to complete the swap. The swap closes after this period and you will not be able to swap further $EDGE.~~
 
-Note that unswapped $EDGE will still be able to be used for the payment of network services.
+Note that unswapped $EDGE can still be used for the payment of network services.
 
 ### What Is the Difference Between $XE and $EDGE?
 
