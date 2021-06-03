@@ -98,4 +98,5 @@ Top level concepts and vision:
 * Hidden in Plain Sight: [ed.ge/knowledge/hidden-in-plain-sight](https://ed.ge/knowledge/hidden-in-plain-sight)
 * The Network That Works for You: [ed.ge/knowledge/the-network-that-works-for-you](https://ed.ge/knowledge/the-network-that-works-for-you)
 * Cleaning Up the Cloud: [ed.ge/knowledge/cleaning-up-the-cloud](https://ed.ge/knowledge/cleaning-up-the-cloud)
+* The New Media Platform: [ed.ge/knowledge/the-new-media-platform](https://ed.ge/knowledge/the-new-media-platform)
 
