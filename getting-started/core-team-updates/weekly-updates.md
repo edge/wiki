@@ -10,7 +10,8 @@ description: >-
 
 | Year | Week | Summary | Link |
 | :--- | :--- | :--- | :--- |
-| 2021 | 17th May | $XE Mainnet | [ed.ge/update/2021/05/17](https://ed.ge/update/2021/05/17) |
+| 2021 | 24th May | Stargates, Edge Functions and CDN | [ed.ge/update/2021/05/24](https://ed.ge/update/2021/05/24) |
+|  | 17th May | $XE Mainnet | [ed.ge/update/2021/05/17](https://ed.ge/update/2021/05/17) |
 |  | 10th May | Conversations on the Edge | [ed.ge/update/2021/05/10](https://ed.ge/update/2021/05/10) |
 |  | 03rd May | Community Wiki and Ledger Update | [ed.ge/update/2021/05/03](https://ed.ge/update/2021/05/03) |
 |  | 26th April | $XE Tokenomics and Distribution | [ed.ge/update/2021/04/26](https://ed.ge/update/2021/04/26) |
