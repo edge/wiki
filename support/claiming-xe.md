@@ -10,7 +10,7 @@ $XE can be claimed by providing your $XE wallet address in Edge Console.
 **Active $EDGE stakes will be automatically swapped for $XE**
 {% endhint %}
 
-## How to claim
+## How to Claim $XE
 
 ### Step 1: Generate an $XE Address
 
