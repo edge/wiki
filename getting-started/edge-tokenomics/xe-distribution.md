@@ -32,7 +32,7 @@ The Growth Fund is controlled through project governance.
 
 ## Node Rewards
 
-$XE has a minable supply of 10 million coins, with a steady emissions curve tied to block time. Mined coins provide the yield for the network and are released as node rewards.
+$XE has a mineable supply of 10 million coins, with a steady emissions curve tied to block time. Mined coins provide the yield for the network and are released as node rewards.
 
 The maximum yield in year one is 1 million $XE \(10%\). This will be reduced in year two, further in year three and so on.
 
