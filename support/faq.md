@@ -92,6 +92,8 @@ Edge's source code is currently partially open source, with plans for going full
 
 Note that unswapped $EDGE can still be used for the payment of network services.
 
+
+
 ### What Is the Difference Between $XE and $EDGE?
 
 $XE is the internal coin of the Edge Network. It is used for attribution of value to nodes, for staking and for network governance. It provides for fast, free transactions.
@@ -107,6 +109,10 @@ $XE and $EDGE are of equal value. The 1:1 relationship is because the coin and t
 ### Why Is the Network Coin Named XE?
 
 The X is from the ISO standard for currencies that are not specific to a certain country. It has been used because Edge sees it's coin as the standard unit of account for edge computing. X-Edge, hence XE.
+
+### When Claiming $XE, Can I Use a Single Wallet for Multiple Console Accounts?
+
+Yes.
 
 ## Edge Products
 
