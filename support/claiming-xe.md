@@ -36,7 +36,7 @@ Congratulations! You now have an XE Wallet ready for use.
 
 ### Step 2: Provide the Address in Edge Console
 
-Make a nots of your XE Wallet address and head to Edge Console at: [console.edge.network](https://console.edge.network)
+Make a note of your XE Wallet address and head to Edge Console at: [console.edge.network](https://console.edge.network)
 
 ![](../.gitbook/assets/screenshot-2021-06-04-at-17.14.43.png)
 
