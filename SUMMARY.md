@@ -62,6 +62,12 @@
 
 * [Community Guidelines](support/community-guidelines.md)
 * [Claiming $XE](support/claiming-xe.md)
-* [FAQ](support/faq.md)
+* [FAQ](support/faq/README.md)
+  * [General](support/faq/general.md)
+  * [Technology](support/faq/technology.md)
+  * [Edge Nodes](support/faq/edge-nodes.md)
+  * [Edge Products](support/faq/edge-products.md)
+  * [Cryptocurrencies](support/faq/cryptocurrencies.md)
+  * [Community](support/faq/community.md)
 * [Other Issues](support/other-issues.md)
 
