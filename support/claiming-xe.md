@@ -26,10 +26,6 @@ Make sure you store a copy of your private key somewhere secure, like a password
 
 ![](../.gitbook/assets/screenshot-2021-06-04-at-17.09.57.png)
 
-Now unlock your wallet. Enter you password and select "Unlock":
-
-![](../.gitbook/assets/screenshot-2021-06-04-at-17.11.20.png)
-
 Congratulations! You now have an XE Wallet ready for use.
 
 ![](../.gitbook/assets/screenshot-2021-06-04-at-17.12.15.png)
@@ -47,6 +43,4 @@ Once you have signed in, Select "Claim XE" in the XE promo panel:
 Enter your XE Wallet address and select "Save XE Address". \(Note that once you have done this you will not be able to change the address\):
 
 ![](../.gitbook/assets/screenshot-2021-06-04-at-17.17.33.png)
-
-
 
