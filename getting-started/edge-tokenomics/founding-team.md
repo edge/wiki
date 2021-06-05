@@ -10,7 +10,7 @@ The three original founders of Edge hold the largest portion of this distributio
 | :--- | :--- | :--- |
 | Joseph Denne | 2.15% | xe\_2499BdDD9adcF40b9893b8E15900C2b45a7AEC84 |
 | Chris Mair | 2.15% | xe\_2E00CD9f11eBC915eAdb3b276df709D270CdB315 |
-| Will Lebens | 2.15% | TBC |
+| Will Lebens | 2.15% | xe\_da38d6D8012184ccBf6EC9dEca286B72c38ADE22 |
 | Others | 1.54% | xe\_ed9e4D24E1EC4e1745AC21c9Dff9519b67B72348 |
 
 The $XE wallet addresses used for vesting have been broken out and are published above inline with Edge's commitment to transparency.
