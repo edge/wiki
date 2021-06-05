@@ -48,6 +48,12 @@ The following table shows expected emitted $XE for the next five years:
 | 2024/25 | 729,000 | 1.38% |
 | 2025/26 | 656,100 | 1.23% |
 
+Node rewards are held in a network-controlled wallet:
+
+| $XE Wallet Address |
+| :--- |
+| xe\_ed9e1d0de3fdf363C4A71bC567e5d3aF6FCE2fe9 |
+
 ## $XE Calculator
 
 You can see a spreadsheet that can be used to calculate the $XE that you will be able claim here: [ed.ge/xe/calculator](https://ed.ge/xe/calculator)
