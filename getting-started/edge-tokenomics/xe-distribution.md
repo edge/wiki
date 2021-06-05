@@ -1,12 +1,14 @@
 # $XE Distribution
 
-{% hint style="danger" %}
-**$XE distributed hasn't started. It is expected to start in June 2021**
+{% hint style="success" %}
+**$XE distribution started on the 04th of June 2021 and will run for three months**
 {% endhint %}
 
-A total of 50 million $XE will be minted and distributed. In addition to this, 10 million $XE are locked in the network to be mined and released as node rewards.
+A total of 50 million $XE have been minted and are in the process of distribution. In addition to this, 10 million $XE are locked in the network to be mined and released as node rewards.
 
-Holders of the original $EDGE token who have been through the swap process to TNC in Edge Console will be able to claim a distribution of $XE. This is proportional to their original holdings, factoring the reduction in supply.
+Holders of the original $EDGE token who have been through the swap process to TNC in Edge Console can now claim a distribution of $XE. This is proportional to their original holdings, factoring the reduction in supply.
+
+{% page-ref page="../../support/claiming-xe.md" %}
 
 In addition, a small percentage of all holders funds will be held back to create the Growth Fund.
 
