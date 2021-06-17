@@ -2,51 +2,43 @@
 
 As part of Edge's ongoing commitment to transparency and development in the open, the core team write weekly updates to the Edge community.
 
-There have been 112 of these so far.
+There have been 114 of these so far.
 
 {% page-ref page="weekly-updates.md" %}
 
 ## Latest Update
 
-![](../../.gitbook/assets/weeklyupdate240521.png)
+![](../../.gitbook/assets/weeklyupdate070621.png)
 
 Hi everyone 👋
 
-First up, timelines for $XE. Adam was taken sick earlier this week, which has pushed back preparation for the release of the XE wallet, which was originally planned for today. As Adam is the Blockchain Lead in the core team, we collectively decided to press pause until he is back up to speed.
+$XE distribution is working well and progressing as planned. Requests are collated over a 24 hour period, consolidated and sent for processing. So you can expect to receive your $XE roughly a day after you submit your XE wallet to Console.
 
-We think this pushes the opening of the wallet back by around a week, allowing for his recovery and some backfilling.
+Those of you who either had stakes that were returned in TNC or who are still staking will also be distributed $XE. Note that this is being done to a separate schedule, and that we expect it to complete within the next four to six weeks.
 
-The good news is that the wallet itself is complete and ready for use.
+Also, as a reminder, distribution is only available to those who went through the swap of the original Edge. I mention this as there have been a few requests outside of this process.
 
-The team also made some final improvements to the ledger as part of the mainnet release, including improvements to P2P connection recovery, as well as a fix for an issue discovered during the operation of the index service.
+Version v1.0.6 of the XE Wallet was released. This contains a number of interface updates to further streamline the user experience.
 
-The API has received numerous improvements, brought about by integration with the wallet & index service.
+Final preparations are being made for the launch of the Network Bridge, with the project now moving into an as-live testing phase.
 
-The Index service received some fixes for issues identified during integration with the wallet early in the week.
+Work to support withdrawal transaction metadata was completed on the blockchain.
 
-This service will be open to public consumption, allowing you to browse blocks and transactions. Though the API endpoints will be limited at first, more will be introduced over time to help you inspect the chain.
+Improvements have also been made to the XE Index, which should be released next week, allowing transactions to be sorted by type \(sent, received\) as well as filter above a block height. The XE Wallet received an update during the week, fixing a number of small user interface issues.
 
-An XE address field was added to Console. This is for use in distribution. The team took the opportunity to improve the performance of Console in a few places as well.
+A new version of the Edge Atomic Store was released, which includes the ability to batch all storage operations and run a single callback. Stargate, Gateway and Host are now using the new batch store which has reduced the number of messages between the services by an order of magnitude. These changes will be released during the next major release cycle.
 
-And the CDN refactoring undertaken last week was pushed to mainnet and deployed early this week. Arthur and I installed hardware for a new Stargate, a second for London.
+Edge Compute moved further forward, with testing on an API for the control of individual instances \(start, stop, reboot. resize\). This is the control system that will eventually be mapped into the services dashboard to allow for on demand setup. Production use of the layer will be ramped up towards the end of the month, with key services moved in to the stack.
 
-![](../../.gitbook/assets/arthur.png)
+Chris and I have pitched three businesses this week.
 
-We’re expecting to have 14 Stargate's live this year. The Stargates are being placed at the most connected hubs on Earth and will be located in Sao Paulo, LA, Miami, Ashburn, London, Amsterdam, Frankfurt, Prague, Vienna, Bucharest and Madrid.
+And finally episode five of Conversations on the Edge has just been released:
 
-The overall architecture of services in the network will be changing over the coming months, with Edge Functions taking centre stage. Functions provides a discreet deployment and execution environment for single purpose code blocks. Aligned with Storage, they allow for Edge–native applications to be built and run entirely at the edge of the network.
+{% embed url="https://vimeo.com/564054748" %}
 
-To give you an indication of what’s possible with Edge Functions, CDN will itself move to the functions layer in time.
+And that’s it for this week.
 
-We signed an agreement in principle with a new transport partner, which will provide terabit interconnectivity for the Stargate layer in the network, bringing faster resolution times and increased performance to network services.
-
-It was a busy week on the new business front as well, with several new engagements kicked off. While 2020 was an incredibly difficult year for all of us, 2021 is looking much brighter, with businesses getting back up to speed and digital spend increasing.
-
-And finally, episode three of Conversations on the Edge has just been released:
-
-{% embed url="https://vimeo.com/556279404" %}
-
-And that’s it for this week. It’s a long weekend here, so expect the core team to be back at the coalface on Tuesday.
+This weekend, why not help spread the word? The more the existing community helps to promote and drive the project forward, the stronger we will become.
 
 For the very latest from Edge, join our Discord server: [ed.ge/discord](https://ed.ge/discord)
 
