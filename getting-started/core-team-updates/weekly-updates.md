@@ -10,7 +10,9 @@ description: >-
 
 | Year | Week | Summary | Link |
 | :--- | :--- | :--- | :--- |
-| 2021 | 24th May | Stargates, Edge Functions and CDN | [ed.ge/update/2021/05/24](https://ed.ge/update/2021/05/24) |
+| 2021 | 07th June | XE, Edge Compute and Atomic Store | [ed.ge/update/2021/06/07](https://ed.ge/update/2021/06/07) |
+|  | 31st May | $XE Wallet Release | [ed.ge/update/2021/05/31](https://ed.ge/update/2021/05/31) |
+|  | 24th May | Stargates, Edge Functions and CDN | [ed.ge/update/2021/05/24](https://ed.ge/update/2021/05/24) |
 |  | 17th May | $XE Mainnet | [ed.ge/update/2021/05/17](https://ed.ge/update/2021/05/17) |
 |  | 10th May | Conversations on the Edge | [ed.ge/update/2021/05/10](https://ed.ge/update/2021/05/10) |
 |  | 03rd May | Community Wiki and Ledger Update | [ed.ge/update/2021/05/03](https://ed.ge/update/2021/05/03) |
