@@ -36,3 +36,9 @@ Half of the Internet is hosted by just three companies. Is that fair? This week 
 
 {% embed url="https://vimeo.com/564054748" %}
 
+## Episode Six, 19th June 2021
+
+Is the cloud really just smog? This week in Conversations on the Edge, we examine digital infrastructure and carbon footprint – does the industry need to clean up its act? And does Edge Network offer the technology to do this? \(Spoiler alert: yes.\)
+
+{% embed url="https://vimeo.com/565031307" %}
+
