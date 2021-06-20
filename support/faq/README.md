@@ -14,11 +14,11 @@ description: >-
 
 {% page-ref page="technology.md" %}
 
-{% page-ref page="edge-nodes.md" %}
+{% page-ref page="nodes.md" %}
 
-{% page-ref page="edge-products.md" %}
+{% page-ref page="products.md" %}
 
-{% page-ref page="cryptocurrencies.md" %}
+{% page-ref page="tokens.md" %}
 
 {% page-ref page="community.md" %}
 

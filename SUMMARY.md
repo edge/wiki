@@ -65,9 +65,9 @@
 * [FAQ](support/faq/README.md)
   * [General](support/faq/general.md)
   * [Technology](support/faq/technology.md)
-  * [Edge Nodes](support/faq/edge-nodes.md)
-  * [Edge Products](support/faq/edge-products.md)
-  * [Cryptocurrencies](support/faq/cryptocurrencies.md)
+  * [Tokens](support/faq/tokens.md)
+  * [Nodes](support/faq/nodes.md)
+  * [Products](support/faq/products.md)
   * [Community](support/faq/community.md)
 * [Other Issues](support/other-issues.md)
 
