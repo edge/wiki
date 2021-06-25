@@ -2,43 +2,59 @@
 
 As part of Edge's ongoing commitment to transparency and development in the open, the core team write weekly updates to the Edge community.
 
-There have been 115 of these so far.
+There have been 116 of these so far.
 
 {% page-ref page="weekly-updates.md" %}
 
 ## Latest Update
 
-![](../../.gitbook/assets/weeklyupdate140621.png)
+![](../../.gitbook/assets/weeklyupdate210621.png)
 
-Hi everyone 👋
+Hi everyone 👋 Happy Friday 😀
 
-This week has been focused on ongoing testing of the network bridge, with as-live hot wallets for both Edge and XE used. Testing is now complete. The next stage will be moving to a live footing, just ahead of release.
+The first Edge Compute Units in production are proving performant and stable. They are aligned to the London Stargate within a secure and controlled environment. We’re seeing good performance gains vs. the previous VPS used for those production environments that have been migrated.
 
-The contract for the $EDGE token in the Ethereum network was published and verified. Token information and the supporting logo will now be ported from the old contract.
+You can see one in action here: [https://ecohustler.com](https://ecohustler.com/)
 
-Distribution of XE is ongoing, with the process continuing to run daily.
+We’re a way off from general availability. We will have an extended production period for testing, followed by a second Stargate-aligned rollout in another network area. Alongside this a control API is being developed which will allow for the provisioning and control of Edge Compute Units. And finally a front end interface will be provided, added into the services area of the Edge site.
 
-Compute testing within Edge environments continued. We are now running production traffic from the first full setup aligned with the London Stargate. This will be broadened out over the coming weeks, with setups currently with third parties in plan to be moved into Edge compute.
+With production data on hand we are also able to firm up pricing. This is being developed at the moment, and will be released in the coming weeks.
 
-Work is expected to begin on an API layer for the service soon. Once complete interfaces will be added into the services areas of the Edge Network site, which will allow for the launching and control of compute resources.
+Edge Compute Units are virtual private servers that can be used to run applications of any type. They are exclusively Linux based, and currently support CentOS. We are working on support for additional Linux varieties including Ubuntu and Debian.
 
-The team established a partnership with an agency in the Middle East, providing a foothold in the market for the provision of services. We’ve co-pitched already, and have a bunch of opportunities in motion.
+Storage of network data is now entirely within the network’s own storage mechanisms. This is also the data layer that will serve the Edge DB solution in the future.
 
-I completely forgot to mention in last week's update that Monocle - running on Edge CDN and Edit tech, across desktop and mobile - was used in the Apple Keynote at WWDC ‘21. Very cool.
+Config deployments have been sped up significantly, with batch atomicstore \(a Go storage system within the network\) released to test.network.
 
-![](../../.gitbook/assets/applemonocle.png)
+At the moment Stargates sequentially send app config updates to Gateways, and Gateways send these on to Hosts. There is no diff solution in place for this, meaning that whenever a minor change is made, every record is updated. As a result tens of updates are sent for every Host in the network. The update for atomicstore allows for a batch insert which runs on update, delete and insert, delivering a single batched payload. This reduces data transport by 89.9%, hugely reducing traffic and open connections in the network.
 
-Chris wrote an article: Future CDN, Today. You can read it here: [ed.ge/knowledge/future-cdn-today](https://ed.ge/knowledge/future-cdn-today)
+This is a major win.
 
-Episode six of Conversations on the Edge has just been released:
+$XE distribution continued. As a reminder, anyone that went through the swap process from $EDGE &gt; $TNC is eligible for a distribution of $XE. Follow the instructions here:
 
-{% embed url="https://vimeo.com/565031307" %}
+[https://wiki.edge.network/support/claiming-xe](https://wiki.edge.network/support/claiming-xe)
 
-And the sixth edition of Edge Digest was sent. Edge Digest is a fortnightly wrap up of all things Edge, delivered straight to your inbox. You can see the issue here: [ed.ge/digest/issue-6](https://ed.ge/digest/issue-6)
+Distribution takes a maximum of 24 hours and will remain open until the 04th of September 2021.
 
-If you’re not signed up, what are you waiting for! Sign up now at: [ed.ge/digest](https://ed.ge/digest)
+Testing of the network bridge continued. It’s working well.
 
-And that’s it for this week.
+Here’s a preview of the user experience:
+
+![](https://lh3.googleusercontent.com/Ofgrt1tOt8y5VsZCcOav-4UURbwMc3DoaAtZi3qo5Vt-ceLgm_rsGiNdinem3S1N-Ju3q6gndTHlRoov_CY13LR_5Jj9WBl_syvlUUPE0E-tSqJJzUiMlucroF3EyO1OFzngzYg)
+
+![](https://lh5.googleusercontent.com/ousXvPuhtNj_YjzVQGqKHVRWYrwBpimqNHPZwZuvljMaPbjV19DRLDinkXmucKjugKVr9pMe9B3-Klg7qeC2w1I46O2tzgqJZvHSC2tSVAqcxA3a8NwT27I5FKauEnj4qZFpkws)
+
+Timings for the opening bridge are in discussion, and are dependent on testing, amends and the alignment of marketing plans.
+
+Work on the integration of staking with the XE Wallet will begin next week. Once that is complete and staking is reenabled, focus will switch to the inclusion of community governance mechanisms within the wallet.
+
+Aeonwise on Discord brought up the potential of no-code data implementation on Edge. This is absolutely possible, with API designed for this purpose. There’s currently no interface for data design. We’re going to be discussing this as a core team soon, and will explore how and when this could be fitted into the roadmap.
+
+The latest episode of Conversations on the Edge has just been released. Listen up!
+
+{% embed url="https://vimeo.com/567558877" %}
+
+And that’s it for this week!
 
 This weekend, why not help spread the word? The more the existing community helps to promote and drive the project forward, the stronger we will become.
 
