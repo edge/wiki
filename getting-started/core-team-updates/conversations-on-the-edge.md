@@ -42,3 +42,9 @@ Is the cloud really just smog? This week in Conversations on the Edge, we examin
 
 {% embed url="https://vimeo.com/565031307" %}
 
+## Episode Seven, 25th June 2021
+
+Every time you so much as move on the Internet, someone profits from your action – and in almost half of all cases that will be Google, Amazon or Microsoft. This week's Conversations on the Edge looks at how Edge Network seeks to share revenue from digital services and why that will make the Internet a fairer place.
+
+{% embed url="https://vimeo.com/567558877" %}
+
