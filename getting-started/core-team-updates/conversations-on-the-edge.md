@@ -48,3 +48,11 @@ Every time you so much as move on the Internet, someone profits from your action
 
 {% embed url="https://vimeo.com/567558877" %}
 
+## Episode Eight, 02nd July 2021
+
+Edge offers enhanced network performance for optimal user experience – an ideal application for media brands. This week's Conversations on the Edge looks at how Edge Network helps digital media services differentiate, from providing lightning-fast page load to carbon-efficient technology.
+
+{% embed url="https://vimeo.com/571333583" %}
+
+
+
