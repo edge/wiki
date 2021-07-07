@@ -44,3 +44,7 @@ Distribution of claimed XE is run to a schedule once every 24 hours. If you make
 **The distribution process is open for three months, and will close on 04th September 2021**
 {% endhint %}
 
+### When Will the $XE&lt;&gt;$EDGE Bridge open?
+
+The XE Bridge is expect to open in the near future. There is no specific date locked in yet, with timigns dependent on the alignment of marketing and token support processes.
+
