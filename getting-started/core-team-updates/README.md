@@ -8,51 +8,47 @@ There have been 117 of these so far.
 
 ## Latest Update
 
-![](../../.gitbook/assets/weeklyupdate210621.png)
+![](../../.gitbook/assets/weeklyupdate280621.png)
 
 Hi everyone 👋 Happy Friday 😀
 
-The first Edge Compute Units in production are proving performant and stable. They are aligned to the London Stargate within a secure and controlled environment. We’re seeing good performance gains vs. the previous VPS used for those production environments that have been migrated.
+It’s July! It’s been a full-on week for the core team, with deliveries for a series of customers the primary focus.
 
-You can see one in action here: [https://ecohustler.com](https://ecohustler.com/)
+The process of introducing batch updates to all configuration stores that I discussed last week has been completed and deployed, with dramatic results in performance. This is down to a reduction in short-lived connections between Stargate and Gateway, as well as Gateway and Host.
 
-We’re a way off from general availability. We will have an extended production period for testing, followed by a second Stargate-aligned rollout in another network area. Alongside this a control API is being developed which will allow for the provisioning and control of Edge Compute Units. And finally a front end interface will be provided, added into the services area of the Edge site.
+There's also a CPU advantage here due to the nature of the update process and the overhead of running multiple updates to the CDN container, which is now done in a single push.
 
-With production data on hand we are also able to firm up pricing. This is being developed at the moment, and will be released in the coming weeks.
+Another major fix to the new healthcheck mechanism to remove an edge-case load balancer failure as a result of a blocking channel caused by rapid re-connections from a single device was made and deployed to test.network. If the fix is validated on test.network over the next 7 days, it will be deployed to mainnet.
 
-Edge Compute Units are virtual private servers that can be used to run applications of any type. They are exclusively Linux based, and currently support CentOS. We are working on support for additional Linux varieties including Ubuntu and Debian.
+Work has begun on the integration of staking into the XE blockchain. Stakes will be held on the blockchain and associated with the wallets that create them. These can then be assigned to devices through the web wallet, allowing the onboarding of new devices to the network.
 
-Storage of network data is now entirely within the network’s own storage mechanisms. This is also the data layer that will serve the Edge DB solution in the future.
+This means that staking will move away from Console, which in turn will remove the need for a named account. You will be able to generate a wallet, fund it, commit a stake and put a network node online entirely anonymously. Another big step on the road to full decentralisation.
 
-Config deployments have been sped up significantly, with batch atomicstore \(a Go storage system within the network\) released to test.network.
+We now have 16 Compute Units online of various sizes. We’ve been rolling through existing deployments and migrating them where possible to the set up.
 
-At the moment Stargates sequentially send app config updates to Gateways, and Gateways send these on to Hosts. There is no diff solution in place for this, meaning that whenever a minor change is made, every record is updated. As a result tens of updates are sent for every Host in the network. The update for atomicstore allows for a batch insert which runs on update, delete and insert, delivering a single batched payload. This reduces data transport by 89.9%, hugely reducing traffic and open connections in the network.
+The API for Edge Compute was moved forward, with create, destroy, start, stop, restart, reinstall and resize all added and shown to be working. The next steps for this will be the addition of ACL. From there we will be able to begin integration with the Edge site and our payment gateway.
 
-This is a major win.
+Timings for the opening bridge remain in discussion, dependent on further testing, amends and the alignment of marketing plans. The core team is meeting next week to discuss dates, and I’ll update on this front in next week's update.
 
-$XE distribution continued. As a reminder, anyone that went through the swap process from $EDGE &gt; $TNC is eligible for a distribution of $XE. Follow the instructions here:
+Issue 7 of Edge Digest was delivered to subscriber inboxes yesterday. You can access this online here: [https://ed.ge/digest/issue-7](https://ed.ge/digest/issue-7)
 
-[https://wiki.edge.network/support/claiming-xe](https://wiki.edge.network/support/claiming-xe)
+If you’re not signed up yet, come join our 120k+ subscribers: [https://edge.press](https://edge.press)
+
+Will, Arthur and I had a very interesting series of discussions with a leading security company who provide at-scale DDoS and other security testing tools for the financial industry. We are going to be moving into testing with them in the coming weeks, specifically looking at how Edge can support their platform requirements.
+
+$XE distribution continued. Anyone that went through the swap process from $EDGE &gt; $TNC is eligible for a distribution of $XE. Instructions can be found in the Wiki:
+
+{% page-ref page="../../support/claiming-xe.md" %}
 
 Distribution takes a maximum of 24 hours and will remain open until the 04th of September 2021.
 
-Testing of the network bridge continued. It’s working well.
+The latest episode of Conversations on the Edge will drop tomorrow. I’ll share it when it’s ready.
 
-Here’s a preview of the user experience:
-
-![](https://lh3.googleusercontent.com/Ofgrt1tOt8y5VsZCcOav-4UURbwMc3DoaAtZi3qo5Vt-ceLgm_rsGiNdinem3S1N-Ju3q6gndTHlRoov_CY13LR_5Jj9WBl_syvlUUPE0E-tSqJJzUiMlucroF3EyO1OFzngzYg)
-
-![](https://lh5.googleusercontent.com/ousXvPuhtNj_YjzVQGqKHVRWYrwBpimqNHPZwZuvljMaPbjV19DRLDinkXmucKjugKVr9pMe9B3-Klg7qeC2w1I46O2tzgqJZvHSC2tSVAqcxA3a8NwT27I5FKauEnj4qZFpkws)
-
-Timings for the opening bridge are in discussion, and are dependent on testing, amends and the alignment of marketing plans.
-
-Work on the integration of staking with the XE Wallet will begin next week. Once that is complete and staking is reenabled, focus will switch to the inclusion of community governance mechanisms within the wallet.
-
-Aeonwise on Discord brought up the potential of no-code data implementation on Edge. This is absolutely possible, with API designed for this purpose. There’s currently no interface for data design. We’re going to be discussing this as a core team soon, and will explore how and when this could be fitted into the roadmap.
+And finally, Cookalong have an event for Vodafone with David Flatman tomorrow afternoon. It’s raised thousands for the Downs Syndrome Association. More information here: [https://cookalong.tv/david-flatman/the-hawksmoor-feasting-box/03-07-2021/17:00](https://cookalong.tv/david-flatman/the-hawksmoor-feasting-box/03-07-2021/17:00)
 
 The latest episode of Conversations on the Edge has just been released. Listen up!
 
-{% embed url="https://vimeo.com/567558877" %}
+{% embed url="https://vimeo.com/571333583" %}
 
 And that’s it for this week!
 

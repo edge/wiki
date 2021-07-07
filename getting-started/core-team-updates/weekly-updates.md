@@ -10,7 +10,8 @@ description: >-
 
 | Year | Week | Summary | Link |
 | :--- | :--- | :--- | :--- |
-| 2021 | 21st June | Bridge, Compute and Atomicstore | [ed.ge/update/2021/06/21](https://ed.ge/update/2021/06/21) |
+| 2021 | 28th June | Stargate, Compute and Staking on Chain | [ed.ge/update/2021/06/28](https://ed.ge/update/2021/06/28) |
+|  | 21st June | Bridge, Compute and Atomicstore | [ed.ge/update/2021/06/21](https://ed.ge/update/2021/06/21) |
 |  | 14th June | $XE, Edge Compute and a New Partnership | [ed.ge/update/2021/06/14](https://ed.ge/update/2021/06/14) |
 |  | 07th June | $XE, Edge Compute and Atomic Store | [ed.ge/update/2021/06/07](https://ed.ge/update/2021/06/07) |
 |  | 31st May | $XE Wallet Release | [ed.ge/update/2021/05/31](https://ed.ge/update/2021/05/31) |
