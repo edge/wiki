@@ -54,5 +54,9 @@ Edge offers enhanced network performance for optimal user experience – an idea
 
 {% embed url="https://vimeo.com/571333583" %}
 
+## Episode Nine, 09th July 2021
 
+This week: Edge Network and security. Is your data any more secure in the traditional cloud because it is locked up miles away on massive servers in fortress factories? Spoiler alert: no. It just makes access to that data slower and more expensive.
+
+{% embed url="https://vimeo.com/573114759" %}
 

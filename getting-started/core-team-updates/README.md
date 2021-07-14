@@ -2,53 +2,71 @@
 
 As part of Edge's ongoing commitment to transparency and development in the open, the core team write weekly updates to the Edge community.
 
-There have been 117 of these so far.
+There have been 118 of these so far.
 
 {% page-ref page="weekly-updates.md" %}
 
 ## Latest Update
 
-![](../../.gitbook/assets/weeklyupdate280621.png)
+![](../../.gitbook/assets/weeklyupdate050721.png)
 
 Hi everyone 👋 Happy Friday 😀
 
-It’s July! It’s been a full-on week for the core team, with deliveries for a series of customers the primary focus.
+Time is just flying at the moment. There's so much happening it's hard to keep track. These updates are a great marker though. As ever, the team are usually about if you have any questions.
 
-The process of introducing batch updates to all configuration stores that I discussed last week has been completed and deployed, with dramatic results in performance. This is down to a reduction in short-lived connections between Stargate and Gateway, as well as Gateway and Host.
+We’ve moved closer to the release of the network bridge, with supporting marketing plans now in place and branding and links in key channels starting to drop into place. Testing is ongoing, with full live contract testing now scheduled for next week.
 
-There's also a CPU advantage here due to the nature of the update process and the overhead of running multiple updates to the CDN container, which is now done in a single push.
+We're working on it!
 
-Another major fix to the new healthcheck mechanism to remove an edge-case load balancer failure as a result of a blocking channel caused by rapid re-connections from a single device was made and deployed to test.network. If the fix is validated on test.network over the next 7 days, it will be deployed to mainnet.
+Network API has been updated to accept device IDs in both legacy and a new format in preparation for a phased migration to the new datastore for device activity – one of many performance improvements to reach production over the coming weeks.
 
-Work has begun on the integration of staking into the XE blockchain. Stakes will be held on the blockchain and associated with the wallets that create them. These can then be assigned to devices through the web wallet, allowing the onboarding of new devices to the network.
+An issue with the health check package has been resolved, putting an end to an intermittent bug with devices that connect and disconnect from the network at a rate that exceeds the health check timeout.
 
-This means that staking will move away from Console, which in turn will remove the need for a named account. You will be able to generate a wallet, fund it, commit a stake and put a network node online entirely anonymously. Another big step on the road to full decentralisation.
+Host is now using batch updates throughout, further reducing its memory usage when configurations are synced after update.
 
-We now have 16 Compute Units online of various sizes. We’ve been rolling through existing deployments and migrating them where possible to the set up.
+A new package for generating random image and text content has entered its first phase, with the anticipation of being production ready within the next few days. This will allow us to simulate higher traffic spikes without the need to pre-generate source files. The package will instead create a buffered queue of random files.
 
-The API for Edge Compute was moved forward, with create, destroy, start, stop, restart, reinstall and resize all added and shown to be working. The next steps for this will be the addition of ACL. From there we will be able to begin integration with the Edge site and our payment gateway.
+Another of Edge’s packages has been open sourced:
 
-Timings for the opening bridge remain in discussion, dependent on further testing, amends and the alignment of marketing plans. The core team is meeting next week to discuss dates, and I’ll update on this front in next week's update.
+[https://github.com/edge/goarch-helper-action](https://github.com/edge/goarch-helper-action)
 
-Issue 7 of Edge Digest was delivered to subscriber inboxes yesterday. You can access this online here: [https://ed.ge/digest/issue-7](https://ed.ge/digest/issue-7)
+I have Adam with me today to update you on staking. Hi Adam 👋
 
-If you’re not signed up yet, come join our 120k+ subscribers: [https://edge.press](https://edge.press)
+_Adam K Dean_
 
-Will, Arthur and I had a very interesting series of discussions with a leading security company who provide at-scale DDoS and other security testing tools for the financial industry. We are going to be moving into testing with them in the coming weeks, specifically looking at how Edge can support their platform requirements.
+Evening!
 
-$XE distribution continued. Anyone that went through the swap process from $EDGE &gt; $TNC is eligible for a distribution of $XE. Instructions can be found in the Wiki:
+From my side the team has been focused on the integration of staking directly into the XE blockchain. We’ve looked at a number of different approaches and have settled on the integration of the staking mechanism directly into the transaction layer.
 
-{% page-ref page="../../support/claiming-xe.md" %}
+Creating a stake will work by submitting a self-addressed transaction with additional staking metadata, which will then be picked up and validated in the same way as regular transactions, except when the ledger is updated, a stake will be added to the wallet and the wallet balance will have the amount deducted.
 
-Distribution takes a maximum of 24 hours and will remain open until the 04th of September 2021.
+Unlocking and releasing a stake will work in the same manner, submitting a self-addressed transaction with the relevant stake information and action in the transaction metadata. Unlocking a stake will change the status from active to a state of unlock pending, with a timestamp set for the unlock date. After this period, a further transaction can be sent requesting the release of those funds back to the wallet.
 
-The latest episode of Conversations on the Edge will drop tomorrow. I’ll share it when it’s ready.
+The creating, viewing, and management of stakes will be handled inside the XE Wallet, and will no longer occur in Console. This is the next step on the road to enabling truly anonymous staking & network contribution.
 
-And finally, Cookalong have an event for Vodafone with David Flatman tomorrow afternoon. It’s raised thousands for the Downs Syndrome Association. More information here: [https://cookalong.tv/david-flatman/the-hawksmoor-feasting-box/03-07-2021/17:00](https://cookalong.tv/david-flatman/the-hawksmoor-feasting-box/03-07-2021/17:00)
+_Joseph Denne_
 
-The latest episode of Conversations on the Edge has just been released. Listen up!
+Thank you Adam!
 
-{% embed url="https://vimeo.com/571333583" %}
+A roadmap update is underway, which will be released in the coming weeks. This will add a lot more flesh to the bone for expected delivery through the rest of the year.
+
+We now have 20 Edge Compute Units in production. Rollout is ongoing, with capacity expected to reach around 1,000 units over the rest of this month.
+
+The Cookalong event with David Flatman and Hawksmore for Vodafone went off last weekend without a hitch. The event was hosted on site within the Edge Compute layer of the network.
+
+You can see a replay here:
+
+[https://cookalong.tv/david-flatman/the-hawksmoor-feasting-box/03-07-2021/17:00](https://cookalong.tv/david-flatman/the-hawksmoor-feasting-box/03-07-2021/17:00)
+
+API development for Compute moved forward.
+
+Our work with the business network provider here in the UK moved ahead. We are expecting to have a new site for them – built on Edit and running in Edge – live in August.
+
+And finally the latest episode of Conversations on the Edge can be listened to here:
+
+{% embed url="https://vimeo.com/573114759" %}
+
+If you missed last weeks update, you can read it here: [https://ed.ge/update/2021/07/02](https://ed.ge/update/2021/07/02)
 
 And that’s it for this week!
 
@@ -56,7 +74,7 @@ This weekend, why not help spread the word? The more the existing community help
 
 For the very latest from Edge, join our Discord server: [ed.ge/discord](https://ed.ge/discord)
 
-Enjoy your weekends.
+Enjoy your weekends. \(And wish us well for Sunday ⚽️\)
 
 _Posted by: Joseph Denne_
 
