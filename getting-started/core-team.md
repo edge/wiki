@@ -26,13 +26,13 @@ Will was previously Managing Director for technology company Airlock, where he o
 
 ### Arthur Mingard
 
-Arthur is the CTO at Edge. He leads the development of the network stack. He is an expert in multi-agent technologies and has extensive experience working with decentralised architectures. He has also worked with creative technologies, including real-time physical data capture and analytics.
+Arthur is the Network Lead at Edge. He leads the development of the network stack, and is responsible for network services. He is an expert in multi-agent technologies and has extensive experience working with decentralised architectures. He has also worked with creative technologies, including real-time physical data capture and analytics.
 
 Arthur was previously the Technical Lead for Monocle, where he was responsible for the implementation of broadcast services including live playout radio, podcast distribution and video management platforms, delivering a distributed infrastructure with points of presence in every major market.
 
 ### Adam K Dean
 
-Adam is a principal network engineer at Edge. He leads the development of the network's blockchain. he has a background in full stack software development & systems administration, and a keen interest in distributed computing & automation. He has been involved with blockchain and containerisation technologies since 2013, and has participated in community projects including Docker, Deis, and Rancher.
+Adam is the Blockchain Lead at Edge and is responsible for XE. He has a background in full stack software development & systems administration, and a keen interest in distributed computing & automation. He has been involved with blockchain and containerisation technologies since 2013, and has participated in community projects including Docker, Deis, and Rancher.
 
 Adam was previously the engineering lead for a major online retailer, where he gained extensive experience across a range of relevant disciplines including virtualization, containerization and networking protocols.
 
