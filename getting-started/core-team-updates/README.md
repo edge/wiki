@@ -2,71 +2,43 @@
 
 As part of Edge's ongoing commitment to transparency and development in the open, the core team write weekly updates to the Edge community.
 
-There have been 118 of these so far.
+There have been 119 of these so far.
 
 {% page-ref page="weekly-updates.md" %}
 
 ## Latest Update
 
-![](../../.gitbook/assets/weeklyupdate050721.png)
+![](../../.gitbook/assets/weeklyupdate120721.png)
 
 Hi everyone 👋 Happy Friday 😀
 
-Time is just flying at the moment. There's so much happening it's hard to keep track. These updates are a great marker though. As ever, the team are usually about if you have any questions.
+The XE Mainnet remains stable. It has processed c.1,400 blocks this week, with an average blocktime of 1.1 minutes, roughly averaging 57 blocks per hour.
 
-We’ve moved closer to the release of the network bridge, with supporting marketing plans now in place and branding and links in key channels starting to drop into place. Testing is ongoing, with full live contract testing now scheduled for next week.
+![](../../.gitbook/assets/mainnnet.png)
 
-We're working on it!
+Design and UX for the XE Explorer is nearing completion. We expect to be able to share this with you next week. V1 will exist apart from the wallet. V2 will bring them together as a single app under the domain: [xe.network](https://xe.network)
 
-Network API has been updated to accept device IDs in both legacy and a new format in preparation for a phased migration to the new datastore for device activity – one of many performance improvements to reach production over the coming weeks.
+After the delivery of the explorer focus for UX will shift to completing v1 of the mobile wallet for iOS and Android. The wallet exists as an internal beta – a native build without a considered UX layer.
 
-An issue with the health check package has been resolved, putting an end to an intermittent bug with devices that connect and disconnect from the network at a rate that exceeds the health check timeout.
+Staking has now been integrated into the transaction layer, meaning that the creation, unlocking, and release of stakes will be conducted through every day transactions, just like transferring XE.
 
-Host is now using batch updates throughout, further reducing its memory usage when configurations are synced after update.
+Transactions have the ability to contain metadata, including the memo you see in the wallet, but also metadata for bridge transactions and soon staking and governance metadata too.
 
-A new package for generating random image and text content has entered its first phase, with the anticipation of being production ready within the next few days. This will allow us to simulate higher traffic spikes without the need to pre-generate source files. The package will instead create a buffered queue of random files.
+Stakes will be stored in the ledger, alongside the wallet’s balance and other associated metadata, which is constructed deterministically from the blocks contained in the chain. Every transaction within a block mutates the ledger from one state to another. Every block then contains a cryptographic digest, or hash, of the ledger after that block’s transactions have been applied. In a sense, the data for wallet balances and stakes are stored on the blockchain, but are reconstructed in their current state in the form of the ledger.
 
-Another of Edge’s packages has been open sourced:
+Voting for Network Governance will use this same model, sending transactions containing metadata. This is a brilliantly simple approach which brings core functionality on chain while reducing complexity, key to achieving robustness.
 
-[https://github.com/edge/goarch-helper-action](https://github.com/edge/goarch-helper-action)
+The next steps for staking are to implement the unlock and release of individual stakes, and then integrate this into the web wallet’s interface.
 
-I have Adam with me today to update you on staking. Hi Adam 👋
+The default unlock period will be 90 days. You will be able to pay to speed this up, with the fee going to the growth fund. The API for Edge Compute pushed forward.
 
-_Adam K Dean_
+A push to improve the health check package replaced a latency-causing bug with buffered channels becoming deadlocked with a more elegant Wait Group approach, where each successful renewal of a health check creates a timed block on the closing of the healthcheck, protected by goroutines rather than the previous channel blocking mechanism. This has been running well for 24 hours on test.network, meaning it’s ready to be deployed to mainnet early next week.
 
-Evening!
+The team also spent a block of the week planning a refreshed technical approach to the way that network services are roadmapped, which we’ve started road testing and will formalise later this month.
 
-From my side the team has been focused on the integration of staking directly into the XE blockchain. We’ve looked at a number of different approaches and have settled on the integration of the staking mechanism directly into the transaction layer.
+And finally for this week, the latest episode of Conversations on the Edge can be listened to here:
 
-Creating a stake will work by submitting a self-addressed transaction with additional staking metadata, which will then be picked up and validated in the same way as regular transactions, except when the ledger is updated, a stake will be added to the wallet and the wallet balance will have the amount deducted.
-
-Unlocking and releasing a stake will work in the same manner, submitting a self-addressed transaction with the relevant stake information and action in the transaction metadata. Unlocking a stake will change the status from active to a state of unlock pending, with a timestamp set for the unlock date. After this period, a further transaction can be sent requesting the release of those funds back to the wallet.
-
-The creating, viewing, and management of stakes will be handled inside the XE Wallet, and will no longer occur in Console. This is the next step on the road to enabling truly anonymous staking & network contribution.
-
-_Joseph Denne_
-
-Thank you Adam!
-
-A roadmap update is underway, which will be released in the coming weeks. This will add a lot more flesh to the bone for expected delivery through the rest of the year.
-
-We now have 20 Edge Compute Units in production. Rollout is ongoing, with capacity expected to reach around 1,000 units over the rest of this month.
-
-The Cookalong event with David Flatman and Hawksmore for Vodafone went off last weekend without a hitch. The event was hosted on site within the Edge Compute layer of the network.
-
-You can see a replay here:
-
-[https://cookalong.tv/david-flatman/the-hawksmoor-feasting-box/03-07-2021/17:00](https://cookalong.tv/david-flatman/the-hawksmoor-feasting-box/03-07-2021/17:00)
-
-API development for Compute moved forward.
-
-Our work with the business network provider here in the UK moved ahead. We are expecting to have a new site for them – built on Edit and running in Edge – live in August.
-
-And finally the latest episode of Conversations on the Edge can be listened to here:
-
-{% embed url="https://vimeo.com/573114759" %}
-
-If you missed last weeks update, you can read it here: [https://ed.ge/update/2021/07/02](https://ed.ge/update/2021/07/02)
+{% embed url="https://vimeo.com/575903604" %}
 
 And that’s it for this week!
 
@@ -74,7 +46,7 @@ This weekend, why not help spread the word? The more the existing community help
 
 For the very latest from Edge, join our Discord server: [ed.ge/discord](https://ed.ge/discord)
 
-Enjoy your weekends. \(And wish us well for Sunday ⚽️\)
+Enjoy your weekends.
 
 _Posted by: Joseph Denne_
 

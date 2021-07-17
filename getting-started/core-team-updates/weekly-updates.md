@@ -10,7 +10,8 @@ description: >-
 
 | Year | Week | Summary | Link |
 | :--- | :--- | :--- | :--- |
-| 2021 | 05th July | Network API, Staking and Roadmaps | [ed.ge/update/2021/07/05](https://ed.ge/update/2021/07/05) |
+| 2021 | 16th July | XE Explorer, Governance and Staking | [ed.ge/update/2021/07/16](https://ed.ge/update/2021/07/16) |
+|  | 05th July | Network API, Staking and Roadmaps | [ed.ge/update/2021/07/05](https://ed.ge/update/2021/07/05) |
 |  | 28th June | Stargate, Compute and Staking on Chain | [ed.ge/update/2021/06/28](https://ed.ge/update/2021/06/28) |
 |  | 21st June | Bridge, Compute and Atomicstore | [ed.ge/update/2021/06/21](https://ed.ge/update/2021/06/21) |
 |  | 14th June | $XE, Edge Compute and a New Partnership | [ed.ge/update/2021/06/14](https://ed.ge/update/2021/06/14) |

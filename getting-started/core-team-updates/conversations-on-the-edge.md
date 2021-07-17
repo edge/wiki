@@ -60,3 +60,9 @@ This week: Edge Network and security. Is your data any more secure in the tradit
 
 {% embed url="https://vimeo.com/573114759" %}
 
+## Episode Ten, 16th July 2021
+
+It's episode 10 of Conversations on the Edge and we focus on content delivery. Edge CDN is the real-world opportunity to move your digital business to the 'future cloud' for faster and greener apps and websites. It's not all about performance, either – Edge CDN is a feature-rich market leader in its own right.
+
+{% embed url="https://vimeo.com/575903604" %}
+
