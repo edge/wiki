@@ -6,13 +6,13 @@ The use of the Raspberry Pi demonstrated the power of the network softeware, adn
 
 Hundreds of Founding Nodes were given away to early community supporters, with devices shipped to 96 countries worldwide. There are around 300 still in operation today.
 
-![](../../.gitbook/assets/01.jpg)
+![](../../.gitbook/assets/01%20%282%29.jpg)
 
-![](../../.gitbook/assets/02.jpg)
+![](../../.gitbook/assets/02%20%282%29.jpg)
 
 ![](../../.gitbook/assets/03.jpg)
 
-![](../../.gitbook/assets/04%20%281%29.jpg)
+![](../../.gitbook/assets/04%20%282%29.jpg)
 
 ![](../../.gitbook/assets/05.jpg)
 
