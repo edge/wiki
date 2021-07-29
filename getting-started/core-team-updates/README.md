@@ -2,43 +2,55 @@
 
 As part of Edge's ongoing commitment to transparency and development in the open, the core team write weekly updates to the Edge community.
 
-There have been 119 of these so far.
+There have been 120 of these so far.
 
 {% page-ref page="weekly-updates.md" %}
 
 ## Latest Update
 
-![](../../.gitbook/assets/weeklyupdate120721.png)
+![](../../.gitbook/assets/weeklyupdate190721.png)
 
 Hi everyone 👋 Happy Friday 😀
 
-The XE Mainnet remains stable. It has processed c.1,400 blocks this week, with an average blocktime of 1.1 minutes, roughly averaging 57 blocks per hour.
+The designs for the XE Explorer are complete and are now being applied to the platform.
 
-![](../../.gitbook/assets/mainnnet.png)
+Here are some screenshots to wet the appetite:
 
-Design and UX for the XE Explorer is nearing completion. We expect to be able to share this with you next week. V1 will exist apart from the wallet. V2 will bring them together as a single app under the domain: [xe.network](https://xe.network)
+![](../../.gitbook/assets/1-summary.png)
 
-After the delivery of the explorer focus for UX will shift to completing v1 of the mobile wallet for iOS and Android. The wallet exists as an internal beta – a native build without a considered UX layer.
+![](../../.gitbook/assets/4-transaction.png)
 
-Staking has now been integrated into the transaction layer, meaning that the creation, unlocking, and release of stakes will be conducted through every day transactions, just like transferring XE.
+We are expecting to be releasing the explorer within the next 3-4 weeks.
 
-Transactions have the ability to contain metadata, including the memo you see in the wallet, but also metadata for bridge transactions and soon staking and governance metadata too.
+There was a major release to Stargate this week, bringing in upgraded dependencies for atomicstore, logger, utils, protobuf, prometheus, viper, x/net. The update also brings updates to API sync for  improved maintainability and a new 'Registry pattern' providing stronger typing and clearer code structure.
 
-Stakes will be stored in the ledger, alongside the wallet’s balance and other associated metadata, which is constructed deterministically from the blocks contained in the chain. Every transaction within a block mutates the ledger from one state to another. Every block then contains a cryptographic digest, or hash, of the ledger after that block’s transactions have been applied. In a sense, the data for wallet balances and stakes are stored on the blockchain, but are reconstructed in their current state in the form of the ledger.
+Config update batching which we’ve discussed in previous updates was also part of this release. This reduces backend traffic and brings increased performance to the core.
 
-Voting for Network Governance will use this same model, sending transactions containing metadata. This is a brilliantly simple approach which brings core functionality on chain while reducing complexity, key to achieving robustness.
+This also introduced streaming log files from Stargate, which show job scoring for connected network devices. This is pretty cool to see running live.
 
-The next steps for staking are to implement the unlock and release of individual stakes, and then integrate this into the web wallet’s interface.
+The new Load Balanced Queue now gives us more detailed insight into the real-time performance of each device.
 
-The default unlock period will be 90 days. You will be able to pay to speed this up, with the fee going to the growth fund. The API for Edge Compute pushed forward.
+This milestone allows us to move forward with prioritising the best performing devices in a fairer and more reactive way, by making sure priority is based both historic and current performance, and that an amber warning on a devices ability to resolve requests will see if demoted immediately rather than retaining a performance grade.
 
-A push to improve the health check package replaced a latency-causing bug with buffered channels becoming deadlocked with a more elegant Wait Group approach, where each successful renewal of a health check creates a timed block on the closing of the healthcheck, protected by goroutines rather than the previous channel blocking mechanism. This has been running well for 24 hours on test.network, meaning it’s ready to be deployed to mainnet early next week.
+We’ve successfully upgraded the load balancer and worker queue to handle disconnections more gracefully, and introduced a mechanism to all failing health checks and disconnected RPC’s \(Remote Procedure Calls\) to share the same disconnection process. This unified approach makes it far simpler to detect where the problem occurred and to resolve it quickly with a quicker reconnection.
 
-The team also spent a block of the week planning a refreshed technical approach to the way that network services are roadmapped, which we’ve started road testing and will formalise later this month.
+Adam is with me to provide an update on the XE blockchain:
 
-And finally for this week, the latest episode of Conversations on the Edge can be listened to here:
+Work on integrated blockchain staking continues, with functionality for unlocking and releasing stakes now implemented. A new layer of on-chain configuration is in the process of being integrated in order to support dynamic stake values. More on this at a later date.
 
-{% embed url="https://vimeo.com/575903604" %}
+We are currently working toward August for on-chain staking to open up.
+
+The blockchain remained stable over the last week. Eventually these statistics will be visible in real time in the explorer.
+
+![](../../.gitbook/assets/photo_2021-07-29-22.44.51.jpeg)
+
+XE distribution continues to process seamlessly. Distribution for staked devices that were swapped to TNC will be processed next week.
+
+Thank you Adam!
+
+The latest episode of Conversations on the Edge, featuring an interview with @adamkdean and me, can be listened to here:
+
+{% embed url="https://vimeo.com/578612523" %}
 
 And that’s it for this week!
 
