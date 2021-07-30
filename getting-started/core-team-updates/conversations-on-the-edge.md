@@ -6,6 +6,12 @@ description: >-
 
 # Podcast
 
+## Episode 12, 30th July 2021
+
+The Edge Network team returns for another edition of Conversations on the Edge – this time about the exponential rise in demand for digital services. Can traditional cloud infrastructure cope? How does Edge Network promise to change things for the better?
+
+{% embed url="https://vimeo.com/581257828" %}
+
 ## Episode 11, 23rd July 2021
 
 How does Edge Network keep safe the data entrusted to it by its clients? How does it compare to traditional cloud services? In this latest episode we talk to Edge founder Joseph Denne and the network’s Blockchain Lead, Adam K Dean about security.
