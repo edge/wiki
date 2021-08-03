@@ -32,6 +32,7 @@
 
 * [Exchanges](getting-and-storing-tokens/exchanges.md)
 * [Wallets](getting-and-storing-tokens/wallets.md)
+* [Explorer](getting-and-storing-tokens/explorer.md)
 
 ## Network Governance
 
