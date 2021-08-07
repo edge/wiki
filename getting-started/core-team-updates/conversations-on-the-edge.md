@@ -6,6 +6,12 @@ description: >-
 
 # Podcast
 
+## Episode 13, 06th August 2021
+
+Most of you probably know Edge Network is powered by blockchain technology, but did you know why? Or how? This explainer has all the answers – listen, and then wonder why you're not already a customer or contributor to the network.
+
+{% embed url="https://vimeo.com/583965754" %}
+
 ## Episode 12, 30th July 2021
 
 The Edge Network team returns for another edition of Conversations on the Edge – this time about the exponential rise in demand for digital services. Can traditional cloud infrastructure cope? How does Edge Network promise to change things for the better?
