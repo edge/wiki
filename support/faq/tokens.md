@@ -46,5 +46,7 @@ Distribution of claimed XE is run to a schedule once every 24 hours. If you make
 
 ### When Will the $XE&lt;&gt;$EDGE Bridge open?
 
-The XE Bridge is expect to open in the near future. There is no specific date locked in yet, with timings dependent on the alignment of marketing and token support processes.
+The XE Bridge is expected to open at the end of August 2021. More information can be found in the weekly core team updates.
+
+{% page-ref page="../../getting-started/core-team-updates/weekly-updates.md" %}
 
