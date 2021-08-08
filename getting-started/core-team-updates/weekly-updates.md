@@ -10,7 +10,8 @@ description: >-
 
 | Year | Week | Summary | Link |
 | :--- | :--- | :--- | :--- |
-| 2021 | 26th July | On–Chain Staking | [ed.ge/update/2021/07/26](https://ed.ge/update/2021/07/26) |
+| 2021 | 02nd July | Network Bridge Opening Date Announced | ed.ge/update/2021/08/02 |
+|  | 26th July | On–Chain Staking | [ed.ge/update/2021/07/26](https://ed.ge/update/2021/07/26) |
 |  | 19th July | The Design of the XE Explorer | [ed.ge/update/2021/07/19](https://ed.ge/update/2021/07/19) |
 |  | 12th July | XE Explorer, Governance and Staking | [ed.ge/update/2021/07/12](https://ed.ge/update/2021/07/12) |
 |  | 05th July | Network API, Staking and Roadmaps | [ed.ge/update/2021/07/05](https://ed.ge/update/2021/07/05) |
