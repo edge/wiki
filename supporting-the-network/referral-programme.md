@@ -31,7 +31,7 @@ Individuals who help to positively promote the network in social channels may be
 ## Referral Codes
 
 {% hint style="danger" %}
-**The referral programmes are not yet live. They will be launching in June 2021**
+**The referral programmes are not yet live. They will be launching towards the end of 2021**
 {% endhint %}
 
 Accessing the referral programme is simple: every Edge account has a referral code available. Simply share your referral code with the provided link in your account. Anyone that then uses the link is automatically attributed to your account.
