@@ -12,7 +12,7 @@ $XE can be claimed by providing your $XE wallet address in Edge Console.
 
 ## How to Claim $XE
 
-### Step 1: Generate an $XE Address
+### Step 1: Generate an $XE Wallet
 
 Head to [wallet.xe.network](https://wallet.xe.network) and select "Create wallet":
 
