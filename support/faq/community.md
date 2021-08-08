@@ -20,7 +20,7 @@ An archive of previous weeks is also available.
 
 ### Do the Core Team Hold AMAs?
 
-Yes. And there's an archive of them available in the Edge Community Wiki.
+Yes, from time to time. There is an archive of them available in the Edge Community Wiki.
 
 {% page-ref page="../../getting-started/core-team-updates/ama-archive.md" %}
 

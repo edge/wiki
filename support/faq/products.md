@@ -14,7 +14,7 @@ Edge Object Storage is currently in active R&D. A proof of concept exists and is
 
 ### When Can I Get My Hands on Edge Compute?
 
-Edge Compute is in active testing with early partners. Compute services are aligned to Stargates in the network, and will be made available on a Stargate–region basis. First production release is expected in late 2021.
+Edge Compute is in active testing with early partners. Compute services are aligned to Stargates in the network, and will be made available on a Stargate–region basis. First production release is expected in late 2021 and public release is expected in 2022.
 
 ### Why Doesn’t Edge Have Feature X?
 

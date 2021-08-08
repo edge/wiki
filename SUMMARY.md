@@ -62,6 +62,7 @@
 ## Support
 
 * [Community Guidelines](support/community-guidelines.md)
+* [Creating an $XE Wallet](support/creating-an-xe-wallet.md)
 * [Claiming $XE](support/claiming-xe.md)
 * [FAQ](support/faq/README.md)
   * [General](support/faq/general.md)
