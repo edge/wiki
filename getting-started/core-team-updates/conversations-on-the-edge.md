@@ -6,6 +6,12 @@ description: >-
 
 # Podcast
 
+## Episode 14, 13th August 2021
+
+Edge Network harnesses the power of people to change cloud services – and with it the world. We call it 'crowd infrastructure', and this episode of Conversations on the Edge explains how you can be a part of it.
+
+{% embed url="https://vimeo.com/586833154" %}
+
 ## Episode 13, 06th August 2021
 
 Most of you probably know Edge Network is powered by blockchain technology, but did you know why? Or how? This explainer has all the answers – listen, and then wonder why you're not already a customer or contributor to the network.
