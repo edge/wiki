@@ -22,13 +22,13 @@ Edge Network Technologies Limited is a not-for-profit company limited by guarant
 
 ## Mission & Vision
 
-### To uphold the founding principles of the Web by democratising computational power
+### To Uphold the Founding Principles of the Web
 
 The Internet was conceived as a global, democratic communication network - a mesh of computers where information and power were equally distributed. This principle is under attack from all sides. Companies like _Google_, _Amazon_ and _Microsoft_ are centralising control, while powerful lobbying groups are working to undermine net neutrality. We are facing a future where you are the customer – and the product – of a network controlled by only a handful of global corporations.
 
 We want to reverse this relationship – to give the ownership of the network to everyone that is connected to it, and to make them the beneficiaries of the revenue that comes from its use.
 
-### The Edge network as the standard for the decentralised web \(Web 3.0\)
+### The Edge Network as the Standard for the Decentralised Web \(Web 3.0\)
 
 A network of millions of nodes, directly addressable and usable by anyone. A governance system free from individual or multinational control, organised by a Decentralised Autonomous Organisation.
 
