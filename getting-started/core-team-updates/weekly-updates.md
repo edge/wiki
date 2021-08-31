@@ -10,7 +10,9 @@ description: >-
 
 | Year | Week | Summary | Link |
 | :--- | :--- | :--- | :--- |
-| 2021 | 09th August | XE Explorer and Founding Nodes | [ed.ge/update/2021/08/09](https://ed.ge/update/2021/08/09) |
+| 2021 | 23rd August | XE Explorer, Wallet and Network v2 | ed.ge/update/2021/08/23 |
+|  | 16th August | XE Explorer Launch | ed.ge/update/2021/08/16 |
+|  | 09th August | XE Explorer and Founding Nodes | [ed.ge/update/2021/08/09](https://ed.ge/update/2021/08/09) |
 |  | 02nd August | Network Bridge Opening Date Announced | [ed.ge/update/2021/08/02](https://ed.ge/update/2021/08/02) |
 |  | 26th July | On–Chain Staking | [ed.ge/update/2021/07/26](https://ed.ge/update/2021/07/26) |
 |  | 19th July | The Design of the XE Explorer | [ed.ge/update/2021/07/19](https://ed.ge/update/2021/07/19) |

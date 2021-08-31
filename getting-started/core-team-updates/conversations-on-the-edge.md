@@ -6,6 +6,12 @@ description: >-
 
 # Podcast
 
+## Episode 16, 27th August 2021
+
+This week, why switching digital services to Edge Network will make your business greener, faster and more cost-effective. It's a change you can make right now using CDN...
+
+{% embed url="https://vimeo.com/593433516" %}
+
 ## Episode 15, 20th August 2021
 
 In a changing world we need a more sustainable internet – and that begins with cloud infrastructure. This week, we examine how Edge Network is part of a new generation of technology for cleaner cloud services.
