@@ -6,6 +6,12 @@ description: >-
 
 # Podcast
 
+## Episode 17, 03rd August 2021
+
+The world needs more and more Internet and the technology of Edge Network is the only digital infrastructure solution. On this week’s episode, we explain why.
+
+{% embed url="https://vimeo.com/597379150" %}
+
 ## Episode 16, 27th August 2021
 
 This week, why switching digital services to Edge Network will make your business greener, faster and more cost-effective. It's a change you can make right now using CDN...

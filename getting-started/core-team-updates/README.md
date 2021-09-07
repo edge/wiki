@@ -2,55 +2,51 @@
 
 As part of Edge's ongoing commitment to transparency and development in the open, the core team write weekly updates to the Edge community.
 
-There have been 125 of these so far.
+There have been 126 of these so far.
 
 {% page-ref page="weekly-updates.md" %}
 
 ## Latest Update
 
-![](../../.gitbook/assets/weeklyupdate230821.png)
+![](../../.gitbook/assets/weeklyupdate300821.png)
 
 Good evening everyone 👋
 
-I’m providing the core team update again this week as Joseph is away.
-
-This is the final reminder ahead of the closing of the distribution period for $XE. It ends on the 4th of September.
+The $XE distribution claim window closes at the end of tomorrow. If you haven’t claimed yet, there’s still time, but you have to do so now.
 
 {% page-ref page="../../support/claiming-xe.md" %}
 
-Final bridge testing ahead of opening has been completed. We are also writing up a how to guide, which will be added to the Community Wiki.
+We delayed the opening of the bridge from the 1st to allow a little more time to align support for the listing of the new EDGE token on Uniswap.
 
-The opening of the bridge is looking likely to be on the 1st of September – mid next week.
+The bridge is 100% complete, as are the updates for the wallet and the explorer. In fact, support for bridge transactions in explorer is already live \(v1.1.2\), as is the functionality that powers this in the index \(v1.4.1\). All that is left is for us to open up the functionality, which we expect to be doing next week, and will confirm timings in the next day or two.
 
-We’re continuing to move our development channels away from Slack to Discord. This started a little over a week ago and has been going well. It’s making the team more present with the community and this is opening the potential for a positive feedback loop. Last week for example the colours of the new explorer were updated to provide a better contrast ratio on the back of community input. There were a whole bunch of other updates delivered to the new explorer too.
+We’re moving forward with delivery against our plans for v2 of the network core, which will be tightly integrated with the network blockchain. I spoke about this in detail last week, so if you missed it, scroll up.
 
-We have always planned to be developing in the open, and this supports that.
+What I didn’t mention last week is that we’re planning to open up test.network, so that you can get involved and help with testing. We’ll be making a publicly available web wallet, along with a faucet to claim test.network XE, and you’ll be able to use this to create test.network stakes and onboard devices onto test.network. It’ll also give you a chance to try out new features or changes before they go live on the mainnet. I’m super excited about this.
 
-Since the release of the blockchain explorer this time last week, 9,597 blocks have been processed, with a steady average blocktime of 64 seconds, or roughly 56 blocks per hour.
+This week the team have been working fervently on the new edge command line interface. This new CLI tool will allow you to manage your wallet from the command line, sending and receiving XE transactions, creating and managing stakes, and onboarding devices onto the network. And let me just tell you that it’s looking great!
 
-If you’ve not checked it out yet, you can see it here: [https://xe.network](https://xe.network/)
+As you may have noticed, we’ve been working in Discord for the majority of the last few weeks and it’s been going great. The team has been engaging with the community more and this has been fantastic: it’s allowed us to answer questions quicker, whether they’re technical in nature or requests for help, it’s let us share our \(at times questionable\) music taste with you in the radio channel, and altogether helped the team to feel part of the community too.
 
-Today we released version 1.2.0 of the web wallet \([https://wallet.xe.network](https://wallet.xe.network/)\), which introduces a whole bunch of improvements ahead of the Bridge opening next week. Transactions are now paginated, there have been numerous user interfaces fixes and tweaks for both mobile and desktop, and transactions now link directly through to the explorer.
+In time the dev channels that are currently private will be opened up, the intention being to much more tightly integrate the team with community governance. In addition to this, as some of you have noticed, last month we transitioned to a flatter hierarchy, consisting of a single core team. Arthur is now focusing on customer integrations, while I’m leading the core team in the development of the blockchain, v2 of the network core, and supporting web projects.
 
-Work on the mobile wallet app continued from the designs we showed you last week, with the screens now being designed in line with the look and feel of the web wallet and explorer.
+And we're still looking to grow the core team. The priority right now is for a full stack developer to join us. We're looking for someone experienced in the full web stack, from creating polished web interfaces through to the backing services that power them. We’re looking for someone who can hit the ground running, and we’ve got some fantastic projects in store.
 
-Next up I’d like to talk a little bit about the evolution of our roadmaps. There’s been a blockchain-like storage solution within the network for some time, which among other things was used to store device contribution & earnings data. The original plan for this was to evolve the dag-based solution, maintaining it centrally to the network.
+![](../../.gitbook/assets/jobopenings.png)
 
-When we assessed the future needs of the system though, it became clear that we need functionality beyond what that approach would have been able to achieve, particularly on-chain programmable events and the ability to make micro-transactions. In order to deliver the functionality required without interruption of currently live services, the XE Blockchain was developed adjacent to the core network.
+Now, I may be a little bit biased, but working at Edge is the best job I’ve ever had. _Sometimes it doesn’t really feel like a job._ We work asynchronously, at our own pace with collaboration and agreement being handled by asynchronous mechanisms. There’s no 9 to 5, we work when our creativity is strongest and find this helps us get more work done. There are minimal meetings, we work where we want, there’s no commute, and we get paid for giving a shit.
 
-Looking to the future we’re going to be working to develop a version 2 of the network core, architected around the blockchain. This will be an evolution of the existing core network, with a far greater level of integration with the blockchain.
+So if you or someone you know likes a challenge, is great at what they do, and likes the sound of the way we work, let me know or email your \(or have your friend email us their\) curriculum vitae/resume, along with any additional resources such as a GitHub profile to `careers@edge.network`.\[19:50\]We’ve previously published roadmaps. We’re refining these as we go and will share a version of these soon. So far this year we’ve developed and released our own layer 2 blockchain, web wallet, and explorer. Very soon the Bridge will be live too. After that on-chain staking, moving onto governance, meanwhile the opening up of the v2 testnet. We’ve got a great roadmap lined up for the next year and I can’t wait to share it with you soon.\[19:50\]  
+  
+In other news...
 
-For example, with on-chain staking, stakes can exist in one of four states: active but not assigned to a device, active and assigned to a device, inactive but locked for a period of time pending release of funds, and inactive and released, where the funds have been returned to the wallet. From this, we have all the information we need to determine whether a device is authorised to connect to the network and contribute spare capacity. Stargates, Gateways, and Hosts will make use of an authentication layer built on top of this information for real time device authentication tied directly to stakes.
+Work on the mobile wallet app design continues, and we look forward to this being integrated into the wallet app beta once complete.
 
-Stargates, Gateways, and Hosts will all make use of the asymmetric cryptography \(public/private keypairs\) that form wallets, with each device having its own unique keypair. The wallet address \(public key in XE format\) will become the device’s identifier, and will be assigned to a stake by the edge command line interface to begin with. In time, there will be other ways to manage your stakes: through the web & mobile wallets, and through the desktop wallet later too. All of this brings us closer to the anonymous space, allowing you to create an XE wallet, fund it, stake devices, and contribute to the network.
-
-It is important to note that there will be no interruption to live service delivery as we push ahead with deeper chain integration.
-
-And as a part of this we will be refreshing our roadmaps.
+The platform for the broadband provider we have been working with goes live next week. Once it’s bedded down we’ll share it with you.
 
 The latest episode of our little podcast, Conversations on the Edge, has just been released:
 
-{% embed url="https://vimeo.com/593433516" %}
+{% embed url="https://vimeo.com/597379150" %}
 
 And that’s it for now – have a great weekend, and see you next week.
 
