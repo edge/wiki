@@ -57,7 +57,9 @@
 * [Brand Docs](https://brand.edge.network)
 * [Referral Programme](supporting-the-network/referral-programme.md)
 * [Community Leads](supporting-the-network/community-leads.md)
-* [Careers](https://edge.network/en/careers)
+* [Careers](supporting-the-network/careers/README.md)
+  * [How We Work](https://edge.network/en/culture)
+  * [Open Positions](supporting-the-network/careers/open-positions.md)
 
 ## Support
 

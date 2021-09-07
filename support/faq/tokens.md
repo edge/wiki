@@ -23,30 +23,26 @@ The X is from the ISO standard for currencies that are not specific to a certain
 ### I held the original $EDGE, how do I get hold of $XE?
 
 {% hint style="danger" %}
-**The swap period for $EDGE closed on Thursday, 27th May 2021**
+**The swap period for $EDGE closed on Saturday, 04th September 2021**
 {% endhint %}
 
-~~You should follow the swap process within Edge Console. You have until Thursday, 27th May 2021 to complete the swap. The swap closes after this period and you will not be able to swap further $EDGE.~~
+~~You should follow the swap process within Edge Console. You have until Saturday, 04th September 2021 to complete the swap. The swap closes after this period and you will not be able to swap further $EDGE.~~
 
 {% hint style="success" %}
 **Unswapped $EDGE can still be used for the payment of network services**
 {% endhint %}
 
-### When Claiming $XE, Can I Use a Single Wallet for Multiple Console Accounts?
-
-Yes.
-
 ### I claimed XE, when will my coins arrive in my wallet?
 
-Distribution of claimed XE is run to a schedule once every 24 hours. If you make a valid claim, your distirbution will be recieved within the next 24 hours.
+Distribution of claimed XE was run to a schedule once every 24 hours. If you made a valid claim and you have not recieved your XE, please reach out to a community manager.
 
-{% hint style="info" %}
-**The distribution process is open for three months, and will close on 04th September 2021**
+{% hint style="danger" %}
+**The distribution process is now closed**
 {% endhint %}
 
 ### When Will the $XE&lt;&gt;$EDGE Bridge open?
 
-The XE Bridge is expected to open at the end of August 2021. More information can be found in the weekly core team updates.
+The XE Bridge will open in early September 2021. More information can be found in the weekly core team updates.
 
 {% page-ref page="../../getting-started/core-team-updates/weekly-updates.md" %}
 
