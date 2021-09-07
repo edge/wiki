@@ -2,13 +2,11 @@
 
 ## $EDGE
 
-{% hint style="danger" %}
-**$EDGE is not currently listed or traded**
+{% hint style="info" %}
+**$EDGE will be available on Uniswap on the 09th of September, 2021**
 {% endhint %}
 
 Trade $EDGE on Uniswap: \[LINK TBC\]
-
-Buy and sell $XE directly from the Edge Mobile Wallet.
 
 ### Useful links
 
