@@ -10,7 +10,9 @@ description: >-
 
 | Year | Date | Link |
 | :--- | :--- | :--- |
-| 2021 | 17th July | [ed.ge/digest/issue-8](https://ed.ge/digest/issue-8) |
+| 2021 | 02nd September | [ed.ge/digest/issue-10](https://ed.ge/digest/issue-10) |
+|  | 05th August | [ed.ge/digest/issue-9](https://ed.ge/digest/issue-9) |
+|  | 17th July | [ed.ge/digest/issue-8](https://ed.ge/digest/issue-8) |
 |  | 01st July | [ed.ge/digest/issue-7](https://ed.ge/digest/issue-7) |
 |  | 17th June | [ed.ge/digest/issue-6](https://ed.ge/digest/issue-6) |
 |  | 03rd June | [ed.ge/digest/issue-5](https://ed.ge/digest/issue-5) |
