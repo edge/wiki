@@ -20,3 +20,7 @@ The Edge Network is a completely unique technology stack, originated by the core
 
 Edge's source code is currently partially open source, with plans for going fully open source in motion. You can access projects code repository on Github at: [github.com/edge](https://github.com/edge)
 
+### What Is the Licence for the Project’s Source Code?
+
+{% file src="../../.gitbook/assets/licence.md" caption="Edge Project Licence" %}
+
