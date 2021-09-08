@@ -18,5 +18,5 @@ The core team is currently comprised of 22 people. Edge is an all-remote company
 
 ### Is There an Edge Explorer?
 
-Yes. You can access it here: [explorer.edge.network](https://explorer.edge.network)
+Yes. You can access it here: [xe.network](https://xe.network)
 
