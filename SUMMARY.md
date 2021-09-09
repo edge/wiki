@@ -65,6 +65,9 @@
 
 * [Community Guidelines](support/community-guidelines.md)
 * [Creating an $XE Wallet](support/creating-an-xe-wallet.md)
+* [Using the Network Bridge](support/using-the-network-bridge/README.md)
+  * [Depositing $EDGE](support/using-the-network-bridge/depositing-usdedge.md)
+  * [Withdrawing $XE](support/using-the-network-bridge/withdrawing-usdxe.md)
 * [Claiming $XE](support/claiming-xe.md)
 * [FAQ](support/faq/README.md)
   * [General](support/faq/general.md)
