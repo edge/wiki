@@ -2,8 +2,8 @@
 
 ## $EDGE
 
-{% hint style="info" %}
-**$EDGE will be available on Uniswap on the 09th of September, 2021**
+{% hint style="success" %}
+**$EDGE was listed on Uniswap on the 09th of September, 2021**
 {% endhint %}
 
 Any Ethereum or multicoin wallet that supports custom ERC-20 tokens can be used to send and receive your $EDGE tokens. Keep in mind that in order to move the token on the Ethereum network, you will need ETH in your wallet to pay for network transaction fees \(commonly known as "gas"\).
@@ -33,6 +33,10 @@ $XE has its own network native client-side wallet. This is a JavaScript app that
 You can access the XE web wallet at: [wallet.xe.network](https://wallet.xe.network)
 
 ![](../.gitbook/assets/screenshot-2021-06-04-at-17.12.15%20%281%29.png)
+
+{% page-ref page="../support/creating-an-xe-wallet.md" %}
+
+
 
 ### Mobile Wallet
 

@@ -46,7 +46,7 @@ Distribution of claimed XE was run to a schedule once every 24 hours. If you mad
 
 ### When Will the $XE&lt;&gt;$EDGE Bridge Open?
 
-The XE Bridge will open on Thursday September 09th, 2021 at 5pm UTC. More information can be found in the weekly core team updates.
+The XE Bridge is open! It opened on Thursday September 09th, 2021 at 5pm UTC. More information can be found in the weekly core team updates.
 
 {% page-ref page="../../getting-started/core-team-updates/weekly-updates.md" %}
 
