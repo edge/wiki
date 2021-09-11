@@ -6,6 +6,12 @@ description: >-
 
 # Podcast
 
+## Episode 18, 10th September 2021
+
+Edge Network uses your private devices to store its data – and that’s what makes it more secure than the traditional cloud. This week's Conversations on the Edge tells you why.
+
+{% embed url="https://vimeo.com/602043239" %}
+
 ## Episode 17, 03rd August 2021
 
 The world needs more and more Internet and the technology of Edge Network is the only digital infrastructure solution. On this week’s episode, we explain why.
