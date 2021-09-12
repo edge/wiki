@@ -12,7 +12,7 @@ Together these products allow you to create and run fully decentralised applicat
 **Static websites can be run in the network today, delivered through CDN**
 {% endhint %}
 
-An example of a static site hosted via Edge Content Delviery can be seen here: [thedecentralizedweb.com](https://thedecentralizedweb.com)
+An example of a static site hosted via Edge Content Delivery can be seen here: [thedecentralizedweb.com](https://thedecentralizedweb.com)
 
 Dynamic sites will be enabled with the addition of Edge Cache, Edge Functions and Edge DB.
 
