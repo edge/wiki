@@ -12,15 +12,9 @@ description: >-
 
 ## Philosophy
 
-> “We don't do 'hack' or 'innovation' days because everyday, engineers get to personally innovate.
+> "We don't do 'hack' or 'innovation' days because everyday, engineers get to personally innovate. We don't piggy-back off old technology or patch and hack our way to delivering something we aren't proud of. We research and experiment with bleeding edge technologies and collaborate to build out the perfect set of platform services. We peer review and share vital engineering knowledge, encouraging each other to step up and embrace the most challenging of technical tasks.
 >
-> "We don't piggy-back off old technology or patch and hack our way to delivering something we aren't proud of.
->
-> "We research and experiment with bleeding edge technologies and collaborate to build out the perfect set of platform services.
->
-> "We peer review and share vital engineering knowledge, encouraging each other to step up and embrace the most challenging of technical tasks.All of those things are awesome.”
-
-– Arthur Mingard, Edge Core Team
+> "All of those things are awesome." – **Arthur Mingard**, Edge Core Team
 
 ## Principles
 
