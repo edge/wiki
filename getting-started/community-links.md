@@ -6,6 +6,10 @@ Keep up with the latest developments and join the Edge community:
 * Discord: [discord.gg/edge-network](https://discord.gg/edge-network)
 * Latest: [edge.network/en/updates](https://edge.network/en/updates)
 
+Join the Edge mailing list:
+
+* [edge.press](https://edge.press)
+
 Elsewhere:
 
 * Telegram: [@edgenetwork](https://t.me/edgenetwork)
