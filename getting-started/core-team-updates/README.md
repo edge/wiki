@@ -60,7 +60,7 @@ Thank you Chris!
 
 We’re aware that a few members of the community seem to have missed the distribution window for XE. There was over a year of notice on the re-release of the Edge token, and a three month distribution window. However we are currently discussing how we could extend the window for a short period. We’ll update you on this front in the coming days.
 
-Now o nto Adam for an update on this week’s releases.
+Now on to Adam for an update on this week’s releases.
 
 _Adam:_
 
