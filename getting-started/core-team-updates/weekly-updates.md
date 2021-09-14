@@ -10,7 +10,8 @@ description: >-
 
 | Year | Week | Summary | Link |
 | :--- | :--- | :--- | :--- |
-| 2021 | 30th August | Network v2, CLI and Mobile Wallet | [ed.ge/update/2021/08/30](https://ed.ge/update/2021/08/30) |
+| 2021 | 06th September | $EDGE Token Launch and Bridge Opening | [ed.ge/update/2021/09/06](https://ed.ge/update/2021/09/06) |
+|  | 30th August | Network v2, CLI and Mobile Wallet | [ed.ge/update/2021/08/30](https://ed.ge/update/2021/08/30) |
 |  | 23rd August | XE Explorer, Wallet and Network v2 | [ed.ge/update/2021/08/23](https://ed.ge/update/2021/08/23) |
 |  | 16th August | XE Explorer Launch | [ed.ge/update/2021/08/16](https://ed.ge/update/2021/08/16) |
 |  | 09th August | XE Explorer and Founding Nodes | [ed.ge/update/2021/08/09](https://ed.ge/update/2021/08/09) |
