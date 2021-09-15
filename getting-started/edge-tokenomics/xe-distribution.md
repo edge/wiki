@@ -1,16 +1,16 @@
 # $XE Distribution
 
-{% hint style="success" %}
-**$XE distribution started on the 04th of June 2021 and ran for three months**
+{% hint style="warning" %}
+**$XE distribution started on the 04th of June and will close at the end of September 2021**
 {% endhint %}
 
-A total of 50 million $XE have been minted and distributed to holders of the original Edge token. In addition to this, 10 million $XE are locked in the network to be mined and released as node rewards.
+A total of 50 million $XE have been minted and are in the process of distribution. In addition to this, 10 million $XE are locked in the network to be mined and released as node rewards.
 
-Holders of the original $EDGE token who went through the swap process to TNC in Edge Console were able to claim a distribution of $XE. This was proportional to their original holdings, factoring the reduction in supply.
+Holders of the original $EDGE token who have been through the swap process to $TNC in Edge Console can now claim a distribution of $XE. This is proportional to their original holdings, factoring the reduction in supply.
 
 {% page-ref page="../../support/claiming-xe.md" %}
 
-In addition, a small percentage of all holders funds were held back to create the Growth Fund.
+In addition, a small percentage of all holders funds will be held back to create the Growth Fund.
 
 {% page-ref page="growth-fund.md" %}
 
