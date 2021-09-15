@@ -40,7 +40,7 @@ Make a note of your XE Wallet address and head to Edge Console at: [console.edge
 
 ![](../.gitbook/assets/screenshot-2021-06-04-at-17.14.43.png)
 
-Once you have signed in, Select "Claim XE" in the XE promo panel:
+Once you have signed in, head to your account page and select "XE Wallet" in the left hand menu:
 
 ![](../.gitbook/assets/screenshot-2021-06-04-at-17.15.48.png)
 
