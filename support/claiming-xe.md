@@ -1,10 +1,14 @@
 # Claiming $XE
 
-A distribution of $XE is available to everyone that went through the $EDGE>$TNC swap process in Edge Console.
+A distribution of $XE is available to everyone that went through the $EDGE&gt;$TNC swap process in Edge Console.
 
 The swap period for the $EDGE token closed on Thursday, 27th May 2021. Note that unswapped $EDGE can still be used for the payment of network services.
 
 $XE can be claimed by providing your $XE wallet address in Edge Console.
+
+{% hint style="warning" %}
+**The distribution window for $XE closes at the end of September 2021**
+{% endhint %}
 
 {% hint style="success" %}
 **Active $EDGE stakes will be automatically swapped for $XE**
@@ -43,3 +47,4 @@ Once you have signed in, Select "Claim XE" in the XE promo panel:
 Enter your XE Wallet address and select "Save XE Address". \(Note that once you have done this you will not be able to change the address\):
 
 ![](../.gitbook/assets/screenshot-2021-06-04-at-17.17.33.png)
+

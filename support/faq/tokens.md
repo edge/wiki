@@ -27,21 +27,25 @@ The X is from the ISO standard for currencies that are not specific to a certain
 ### I Held the Original $EDGE, How Do I Get Hold of $XE?
 
 {% hint style="danger" %}
-**The swap period for $EDGE closed on Saturday, 04th September 2021**
+**The swap period for $EDGE&gt;$TNC closed on Thursday, 27th May 2021**
 {% endhint %}
 
-~~You should follow the swap process within Edge Console. You have until Saturday, 04th September 2021 to complete the swap. The swap closes after this period and you will not be able to swap further $EDGE.~~
+~~You should follow the swap process within Edge Console. You have until Thursday, 27th May 2021 to complete the swap. The swap closes after this period and you will not be able to swap further $EDGE.~~
 
 {% hint style="success" %}
 **Unswapped $EDGE can still be used for the payment of network services**
 {% endhint %}
 
+### I Swapped $EDGE for $TNC, How Do I Get Hold of $XE?
+
+{% page-ref page="../claiming-xe.md" %}
+
 ### I Claimed XE, When Will My Coins Arrive in My Wallet?
 
-Distribution of claimed XE was run to a schedule once every 24 hours. If you made a valid claim and you have not recieved your XE, please reach out to a community manager.
+Distribution of claimed XE is run to a schedule once every 24 hours. If you make a valid claim, your distirbution will be recieved within the next 24 hours.
 
-{% hint style="danger" %}
-**The distribution process is now closed**
+{% hint style="warning" %}
+**The distribution process is open until the end of September 2021**
 {% endhint %}
 
 ### When Will the $XE&lt;&gt;$EDGE Bridge Open?
