@@ -6,6 +6,12 @@ description: >-
 
 # Podcast
 
+## Episode 19, 17th September 2021
+
+This week's Conversations on the Edge invites you to plant trees – but because you want to, not because you feel like you have to.
+
+{% embed url="https://vimeo.com/607620762" %}
+
 ## Episode 18, 10th September 2021
 
 Edge Network uses your private devices to store its data – and that’s what makes it more secure than the traditional cloud. This week's Conversations on the Edge tells you why.
