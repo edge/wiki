@@ -3,7 +3,7 @@
 The project roadmap for Edge provides a guide to the current and upcoming development focus for the platform. The roadmap is maintained at a high level and is deliberately low resolution. Indiviudal workstreams have their own development schedules and lists, which are maintained in Git.
 
 {% hint style="success" %}
-The roadmap is updated regularilly as priorities change and new requirements are confirmed
+The roadmap is updated regularly as priorities change and new requirements are confirmed
 {% endhint %}
 
 ## Technical Roadmap
@@ -50,7 +50,7 @@ The roadmap is updated regularilly as priorities change and new requirements are
 
 ## Rolling Priorities
 
-Alongside specific technical milestones there are high level project goals that the core team are workign towards. These include moving the proejct ot a full open source footing; moving to full decentrlaisation in all areas of the network stack; and depply embedding community governance throughout the projects organisational structures.
+Alongside specific technical milestones there are high level project goals that the core team are working towards. These include moving the proejct ot a full open source footing; moving to full decentrlaisation in all areas of the network stack; and depply embedding community governance throughout the projects organisational structures.
 
 The nature of these tasks is such that it isn't possible to schedule them as finite deliveries. Rather they are understood by the entire team as objectives, and are consistently being worked towards.
 
