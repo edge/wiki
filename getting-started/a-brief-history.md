@@ -17,7 +17,9 @@ In 2019 Edge was recognised as the “Best Edge Computing Platform” in the Fut
 
 In 2021 the blockchain in the network used for the tracking of network requests was extended to become a mechanism for value transfer. This introduced $XE, a coin used for value attribution within the network, operated as a layer 2 solution for Ethereum. $XE is used for the payment of services; for network staking; for the distribution of node yields; and for community governance. It is bridged to the $EDGE ERC-20 token within the Etheruem network.
 
-The rolling [roadmap](https://github.com/edge/roadmap) for Edge captures the near to mid term development priorities, focused on the core network layer as well as individual services on top of the network \(such as Object Storage, Edge Functions and Edge DB\).
+The project roadmaps for Edge capture the near to mid term development priorities, focused on the core network layer as well as individual services on top of the network \(such as Object Storage, Edge Functions and Edge DB\).
+
+{% page-ref page="project-roadmaps.md" %}
 
 Edge Network Technologies Limited is a not-for-profit company limited by guarantee. It is registered in the United Kingdom.
 
