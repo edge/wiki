@@ -16,7 +16,7 @@ Trade $EDGE on Uniswap: [ed.ge/uniswap](https://ed.ge/uniswap)
 
 To add liquidity to the Uniswap pool and earn a % of trading fees, head to: [ed.ge/liquidity](https://ed.ge/liquidity)
 
-### Useful links
+### Useful Links
 
 You can find $EDGE on the following platforms:
 
