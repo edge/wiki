@@ -8,7 +8,7 @@ description: >-
 
 ## Join the Core Team
 
-{% page-ref page="./" %}
+{% page-ref page="open-positions.md" %}
 
 ## Philosophy
 
@@ -47,8 +47,4 @@ Yes, be diligent, stick to deadlines and do great work. But where and how you do
 * Plenty of excuses to meet up with the rest of the team
 * Work on things you'll love
 * Get paid for giving a shit
-
-## Open Positions
-
-{% page-ref page="./" %}
 
