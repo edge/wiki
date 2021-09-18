@@ -18,23 +18,27 @@ description: >-
 
 ## Principles
 
-### Work Asynchronously.
+Parkinson's Law states that work expands to fill the time allotted for it. No matter the size of the task, it will often take precisely the amount of time you set aside to do it, because more time means more deliberation & procrastination.
+
+We hold this to be true and actively work to counteract it. The core team at Edge is deliberately small and fast moving, allowing a high level of flexibility, ensuring that the project retains the ability to pivot as stakeholder requirements evolve.
+
+### Work Asynchronously
 
 Individual team members more or less works at their own pace, with collaboration and agreement being handled by asynchronous mechanisms.
 
-### No 9 to 5.
+### No 9 to 5
 
 Get the job done on time \(and don't upset the client\) and you can work the hours you want.
 
-### Work at Your Own Pace.
+### Work at Your Own Pace
 
 We handle things like collaboration and sign off through the best tools for the job, all in support of asynchronous working.
 
-### Minimal Meetings.
+### Minimal Meetings
 
 Unless we really need to powwow in person, we keep in touch using cloud-based tools like Slack \(much more efficient, believe us\).
 
-### Work Where You Want.
+### Work Where You Want
 
 Yes, be diligent, stick to deadlines and do great work. But where and how you do it is up to you.
 
