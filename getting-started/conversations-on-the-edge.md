@@ -1,7 +1,7 @@
 ---
 description: >-
-  "Conversations on the Edge" is a series of audio shorts discussing Edge
-  Network and how it is poised to help change the Internet.
+  "Conversations on the Edge" is a series of audio shorts discussing the Edge
+  Network and how it is poised to change the Internet.
 ---
 
 # Podcast
