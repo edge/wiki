@@ -19,7 +19,7 @@ In addition, a small percentage of all holders funds will be held back to create
 The **Dev Fund** holds $XE assigned to support the day-to-day development of the network. The **Growth Fund** holds $XE assigned to support the marketing and growth in uptake of the Edge Network. The **Staking Contract** holds $XE locked in the network as governance and node stakes. The **Community** distribution are the $XE held by individual supporters and customers of the Edge Network.
 
 {% hint style="info" %}
-**The figures below are projected initial distribution percentages for $XE**
+**The figures below represent the initial distribution percentages for $XE**
 {% endhint %}
 
 | Distribution | Percentage Allocation |
@@ -52,7 +52,7 @@ Node rewards are held in a network-controlled wallet:
 
 | $XE Wallet Address |
 | :--- |
-| xe\_ed9e1d0de3fdf363C4A71bC567e5d3aF6FCE2fe9 |
+| [xe\_ed9e1d0de3fdf363C4A71bC567e5d3aF6FCE2fe9](https://xe.network/wallet/xe_ed9e1d0de3fdf363C4A71bC567e5d3aF6FCE2fe9) |
 
 ## $XE Calculator
 

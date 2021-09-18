@@ -8,7 +8,7 @@ The Staking Contract holds $XE that has been locked in the network for participa
 
 | $XE Wallet Address | Percentage Allocation |
 | :--- | :--- |
-| xe\_ed9e52B9d1426D546d239befbb4FDdabC9aFa006 | 31.54% |
+| [xe\_ed9e52B9d1426D546d239befbb4FDdabC9aFa006](https://xe.network/wallet/xe_ed9e52B9d1426D546d239befbb4FDdabC9aFa006) | 31.54% |
 
 Individual stakes are locked for a minimum period of 90 days.
 

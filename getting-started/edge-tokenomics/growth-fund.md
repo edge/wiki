@@ -4,7 +4,7 @@ The Growth Fund holds $XE assigned to support the marketing and growth in uptake
 
 | $XE Wallet Address | Percentage Allocation |
 | :--- | :--- |
-| xe\_ed9e3AcDA88AFFe508d72503845289ca43390032 | 10.03% |
+| [xe\_ed9e3AcDA88AFFe508d72503845289ca43390032](https://xe.network/wallet/xe_ed9e3AcDA88AFFe508d72503845289ca43390032) | 10.03% |
 
 The use of these funds is under the control of project governance, meaning that community members can raise proposals for its use, and vote on proposals raised.
 
