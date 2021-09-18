@@ -3,7 +3,7 @@
 The project roadmap for Edge provides a guide to the current and upcoming development focus for the platform. The roadmap is maintained at a high level and is deliberately low resolution. Indiviudal workstreams have their own development schedules and lists, which are maintained in Git.
 
 {% hint style="success" %}
-The roadmap is updated regularly as priorities change and new requirements are confirmed
+**The roadmap is updated regularly as priorities change and new requirements are confirmed**
 {% endhint %}
 
 ## Technical Roadmap
