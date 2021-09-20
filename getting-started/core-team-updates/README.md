@@ -8,7 +8,7 @@ There have been 128 of these so far.
 
 ## Latest Update
 
-![](../../.gitbook/assets/weeklyupdate300821.png)
+![](../../.gitbook/assets/weeklyupdate130921.png)
 
 Good evening everyone 👋
 
