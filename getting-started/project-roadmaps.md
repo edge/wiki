@@ -50,7 +50,7 @@ The project roadmap for Edge provides a guide to the current and upcoming develo
 
 ## Rolling Priorities
 
-Alongside specific technical milestones there are high level project goals that the core team are working towards. These include moving the project to a full open source footing; moving to full decentralisation in all areas of the network stack; preferencing anonymity and privacy; and deeply embedding community governance throughout the projects organisational structures.
+Alongside specific technical milestones there are high level project goals that the core team are working towards. These include moving the project to a full open source footing; moving to full decentralisation in all areas of the network stack; preferencing anonymity and privacy; and deeply embedding community governance throughout the project's organisational structures.
 
 The nature of these tasks is such that it isn't possible to schedule them as finite deliveries. Rather they are understood by the entire team as objectives, and are consistently being worked towards.
 
