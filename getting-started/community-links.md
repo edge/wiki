@@ -25,6 +25,6 @@ Find us on:
 
 * FTX Signal: [blockfolio.com/coin/DADI](https://blockfolio.com/coin/DADI) \[Note: being updated to Edge\]
 * Delta Direct: [delta.app/en/direct](https://delta.app/en/direct)
-*  CoinGecko: \[AWAITING PAGE INFO UPDATE\]
-* CoinMarketCap: \[AWAITING PAGE INFO UPDATE\]
+* $EDGE on CoinGecko: [ed.ge/coingecko](https://ed.ge/coingecko)
+* $EDGE on CoinMarketCap: [ed.ge/coinmarketcap](https://ed.ge/coinmarketcap)
 
