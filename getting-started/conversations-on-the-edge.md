@@ -6,6 +6,12 @@ description: >-
 
 # Podcast
 
+## Episode 20, 24th September 2021
+
+With $EDGE now released and value on the rise, it’s time to think about staking – and your chance to earn revenue for contributing to Edge Network. This week – on our 20th episode! – we tell you why.
+
+{% embed url="https://vimeo.com/613698035" %}
+
 ## Episode 19, 17th September 2021
 
 This week's Conversations on the Edge invites you to plant trees – but because you want to, not because you feel like you have to.
