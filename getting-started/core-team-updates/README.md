@@ -2,7 +2,7 @@
 
 As part of Edge's ongoing commitment to transparency and development in the open, the core team write weekly updates to the Edge community.
 
-There have been 128 of these so far.
+There have been 129 of these so far.
 
 {% page-ref page="weekly-updates.md" %}
 
@@ -14,75 +14,107 @@ Good evening everyone 👋
 
 For those of you that are new to the community, we post weekly core team updates to our main channels, including to the wiki. These are on a Friday, at some point in the evening, depending on how busy we've been.
 
-There have been 127 of these so far. You can see a full history here:
+There have been 128 of these so far. You can see a full history here:
 
 {% page-ref page="weekly-updates.md" %}
 
-On to this week’s update… \#128!
+On to this week’s update… \#129!
 
-I’d like to introduce Max, who has joined the core team with a focus on the tokenomics of the Network. Having him onboard provides a talented go-to resource for this side of the ecosystem. He has been involved in the project on an informal basis for some time now and is well versed in the platform. Max is deeply involved in the wider crypto community, bringing fantastic contacts and experience to the team.
+First up, marketing. I have Chris with me to provide a summary of what’s been going on and where our focus is.
 
-It’s his Birthday celebration today, so he can’t join us this evening, but he sent me this to share with you:
+_Chris:_
 
-> “I’m very happy with the launch of the token on Uniswap and how it has performed so far. It’s very early days of course, but to see liquidity building and knowing that $EDGE has held its own through the initial bridge opening and sell-side pressure is fantastic.
->
-> “The network bridge has generated a little over 150k $XE in fees so far \($51,929 at the time of writing\). These will be distributed between liquidity providers, the growth fund and the dev fund towards the end of the month.”
+Marketing for the project breaks into two halves – growing and strengthening the network itself, which is all about awareness, the token economy, taking and governance; and growing the use of Edge services such as CDN.
 
-We’ve also started working with @Cryptonator1337 \([https://twitter.com/cryptonator1337](https://twitter.com/cryptonator1337)\). He’s joined the team as a marketing consultant and will be working with Chris to help drive adoption.
+In the short term we’ve been working with [@Cryptonator1337](https://twitter.com/@Cryptonator1337) to develop a marketing plan focused on awareness. This looks at other projects in the space to identify opportunities for Edge; targets marketing spend; and identifies influencers that are likely to be aligned with the outlook of the project. We’re executing on this at the moment, which should be visible in our ongoing content, outreach and growth.
 
-Thank you to those of you who have been pitching in to help to promote Edge. We’ve been flat out with marketing efforts this side of the fence and have a lot of great things brewing.
+We expect numbers to start to pick up over the coming weeks as direct spend increases.
 
-By way of example of the scale of the effort at the moment, our marketing plan pushes out to December, and has over 120 touch points in it already.
+Longer term my focus is on partnerships and collaborations. Deeper integration within the crypto space through alignment with other communities and through providing Edge Services to other crypto projects that we recognise, admire and share values with.
 
-Some of these will be visible to you soon, some will take longer to develop. The experience and connections across the team is incredible. We’ve been involved in marketing at a high level for decades \(Chris was the Marketing Director at Diesel\), and can honestly say that this is the most exciting and dynamic team we’ve worked with. There are amazing things ahead.
+This is a really strong marketing angle for us and one that is bearing some serious fruit. I can tell you that it doesn’t happen overnight, but that things are moving at a pace.
 
-Now over to Adam for this week’s development update:
+I’m also looking at some of our more consumer focused product offerings. For example, Edit.com is a killer domain and brand, but it’s underutilised right now.
 
-_Adam:_
+Imagine a future where it’s retooled, developed in the open around a DAO structure to provide an anonymous site builder for the creation of blogs, content sites and eCommerce… all fully decentralised through Edge.
 
-Good evening everyone 👋
-
-Moments ago we released Explorer v1.3.0 which introduces the ability to view a wallet directly, including the wallet balance, some technical information like the nonce, and a list of all incoming and outgoing transactions. The update also contained a number of tweaks and fixes. Future updates are planned to bring a wallet listing page, as well as to integrate pending transactions into the individual wallet page, among other things.
-
-You can see the bridge hot wallet here:
-
-{% embed url="https://xe.network/wallet/xe\_A4788d8201Fb879e3b7523a0367401D2a985D42F" %}
-
-Earlier this week Wallet v1.5.4 was released, which fixed an issue with withdrawal fees being rejected by the blockchain for certain withdrawal amounts, which led to people having to be quite creative in their withdrawals. \(For those interested in the technical detail, this was due to non-integer division in the fee calculation in the Wallet, where all blockchain transaction values are integers and work on the basis of microXE or mxe, to which there are a million per XE!\)
-
-Since then withdrawals have been running smoothly, as has the Bridge which saw v1.3.3 released earlier in the week too. This fixed an issue with certain withdrawal fee transactions not processing properly. The v1.3.3 update also improved the efficiency at which withdrawal transactions were processed.
-
-Work has continued on adding the OTC Sell option to the Wallet, which involves adding multi-token support to the Bridge. This is a natural evolution as we move towards multi-chain support later down the line.
-
-Here’s a little preview of the Sell XE interface in the Wallet \(currently running on testnet\):
-
-![](../../.gitbook/assets/sell-preview.png)
-
-Now onto the Blockchain, which has seen a lot of activity since the Bridge opened. We monitor vital stats every second using Prometheus, and use Grafana to display these. The following shows the blockchain network over the last week. As you can see, everything remains nominal.
-
-![](../../.gitbook/assets/unknown.png)
-
-Behind the scenes, the team have been working away on the new Command Line Interface, adding support for staking and device registration. For those who may have missed previous updates, for v2 we’re moving to a wallet-based approach. Every device will have its own wallet \(which is essentially an asymmetric key pair\) and this will be used to authenticate with the network. This is just one of the many ways in which the blockchain is at the heart of the Edge network. If this all sounds a bit complex, don’t worry! The new `edge` CLI will handle all of this for you, which will allow you to easily stake and onboard devices all from the comfort of your own terminal.
+You can see the potential. And this is just the beginning.
 
 _Joseph:_
 
-Thank you Adam!
+Thank you Chris!
 
-Our roadmaps have been updated and moved to the Community Wiki. The big focus for the team over the coming months is the move to Mainnet V2, which represents a significant overhaul of the core network, building on our learnings from the last three years and focused on a far deeper integration of the Network Blockchain.
+I also have Max with me to chat about the token economy.
 
-You can access the project roadmaps here:
+_Max:_
+
+Good evening everyone!
+
+Since the relaunch of the token, we have seen great performance of the token.
+
+As was expected we have seen some sell pressure from existing holders, however that has come to an end. Which can be seen in the upswing today.
+
+There are around 191 holders of $EDGE in the Ethereum network. Not a huge number, but it’s growing and you have to remember that most of the value of the network is actually locked inside of the network in $XE, where there are a further 800+ active wallets.
+
+Nonetheless, a key focus for us in driving that holder number. We need to see active use of the token – new entrants holding it to participate in the network. This is where we’ll see most growth and upside potential for early supporters. I speak with the other members of the team regularilly to drive this point, ensuring that the objective is central to what we’re doing on the marketing front.
+
+I’m really bullish on Edge. Hard to overstate that fact. We’re so early. The technology and the scale of the markets in which were operating are really exciting. Thank you for helping to spread the word. The more that you talk about what we’re doing, the stronger the project will become.
+
+The network bridge has now generated over 200k $XE in fees. This is a great start that demonstrates real value creation through blockchain use. Now imagine a future where we’re providing bridges between multiple chains...
+
+Some more great news:
+
+$EDGE is now listed on Coin Market Cap and CoinGecko!
+
+{% embed url="https://ed.ge/coinmarketcap" %}
+
+{% embed url="https://ed.ge/coingecko" %}
+
+There are more listing sites to come.
+
+The Sell option within Wallet will be live in the next fortnight. This is a direct OTC option for smaller amounts of $XE, designed to make life easier for holders who don’t want to deal with Uniswap fees. It will also help the overall token economy by keeping smaller trades within the network.
+
+_Joseph:_
+
+Thank you Max!
+
+The extended claim window for $XE closes at the end of this month. It won’t be extended again, and Console is being mothballed. So if you haven’t put in your claim yet, do so now.
+
+The team delivered **Bridge v2.0.0**. The major version update \(from 1.3.4\) reflects that the codebase has been migrated to TypeScript.
+
+This provides significant improvements to maintainability and presents future refactoring opportunities also. Also included in this release:
+
+* Preparatory work for wallet sell functionality
+* Fee Tx is now stored alongside each withdrawal/deposit transaction to enable correlation
+* Patch to Uniswap sync to ensure correct ETH values in the frontend
+* Behavioural change for very small transactions incurring a handling fee: if the fee is larger than/equal to the actual amount sent, the transaction will fail, rather than taking the entire sum as a fee
+* Other maintenance incl. removing test code
+
+**Explorer v1.5.0** was also released to mainnet:
+
+{% embed url="https://xe.network" %}
+
+The release added the ability to view the Fee Tx for any transaction that incurs a fee - namely, a withdrawal/deposit through the Bridge. This makes it easier to correlate 'primary' transactions and their corresponding fees through the Explorer.
+
+Look for 'Fee Tx' in the transaction overview.
+
+_Note: withdrawals/deposits prior to the latest Bridge release \(v2.0.0\) may not display Fee Tx, but all future such transactions should_
+
+Adam wrote about the latest roadmap updates, bringing some additional detail to the individual deliverables. The schedule is pretty stacked for the coming months, so it’s definitely worth taking the time to familiarise yourself with what’s ahead:
+
+{% embed url="https://ed.ge/knowledge/roadmap-updates" %}
+
+You can access the project roadmapsright here in the Community Wiki:
 
 {% page-ref page="../project-roadmaps.md" %}
 
-These will be updated as we go and should be considered living documents.
-
-The broadband provider we’ve been working with here in the UK has gone live on our platform and are showing big performance increases \(30.37%+\). I can’t talk much about it yet, but I’m looking forward to being able to tell you more in the coming months.
-
-We have reopened the claim period for $XE until the end of September. This is on the back of being made aware of a number of community members that missed the original distribution window. The closing date for the extended period is the 30th of September. This is a hard deadline as Console will be taken offline at this point as we move to get on-chain staking live.
-
 The latest episode of our podcast, Conversations on the Edge, has just been released:
 
-{% embed url="https://vimeo.com/607620762" %}
+{% embed url="https://vimeo.com/613698035" %}
+
+If you’ve missed the podcast to date, you can catch up with all 20 episodes from season \#1 here:
+
+{% page-ref page="../conversations-on-the-edge.md" %}
 
 We're still on the hunt for new core team members, with positions available for accomplished full stack developers. You can read about how we work and find a job specification here:
 
@@ -94,5 +126,5 @@ For the very latest from Edge, join our Discord server: [ed.ge/discord](https://
 
 Enjoy your weekends.
 
-_Posted by: Joseph Denne & Adam K Dean_
+_Posted by: Joseph Denne, Chris Mair & Max Lyrical_
 
