@@ -6,6 +6,12 @@ description: >-
 
 # Podcast
 
+## Episode 10, 01st September 2021
+
+The Edge of reality: blockchain needs real projects to provide value beyond its tokens – and Edge, with its live products and customers, is proof of this. Listen to find out why.
+
+{% embed url="https://vimeo.com/620026255" %}
+
 ## Episode 20, 24th September 2021
 
 With $EDGE now released and value on the rise, it’s time to think about staking – and your chance to earn revenue for contributing to Edge Network. This week – on our 20th episode! – we tell you why.
