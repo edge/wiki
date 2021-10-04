@@ -10,7 +10,7 @@ description: >-
 
 | Year | Week | Summary | Link |
 | :--- | :--- | :--- | :--- |
-| 2021 | 27th September |  | [ed.ge/update/2021/09/27](https://ed.ge/update/2021/09/27) |
+| 2021 | 27th September | Wallet Exchange Functionality | [ed.ge/update/2021/09/27](https://ed.ge/update/2021/09/27) |
 |  | 20th September | Marketing and the Token Economy | [ed.ge/update/2021/09/20](https://ed.ge/update/2021/09/20) |
 |  | 13th September | Roadmaps, Wallet, Bridge & Explorer | [ed.ge/update/2021/09/13](https://ed.ge/update/2021/09/13) |
 |  | 06th September | $EDGE Token Launch and Bridge Opening | [ed.ge/update/2021/09/06](https://ed.ge/update/2021/09/06) |
