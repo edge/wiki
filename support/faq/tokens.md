@@ -16,7 +16,7 @@ $XE and $EDGE are of equal value. The 1:1 relationship is because the coin and t
 
 The X is from the ISO standard for currencies that are not specific to a certain country. It has been used because Edge sees it's coin as the standard unit of account for edge computing. X-Edge, hence XE.
 
-### Where Can I Get Hold of Network Token?
+### Where Can I Get Hold of the Network Token?
 
 {% page-ref page="../../getting-and-storing-tokens/exchanges.md" %}
 
@@ -57,4 +57,8 @@ The XE Bridge is open! It opened on Thursday September 09th, 2021 at 5pm UTC. Mo
 ### Why is my withdrawal taking so long?
 
 If the transaction speed fee you provided is lower than current gas costs, the bridge will wait until gas fees are low enough to process the transaction within the threshold you set. In this circumstance the time depends on the costs in the Ethereum network.
+
+### How are Gas Fees Paid in the Network Bridge?
+
+When you withdraw $XE through the Bridge, gas is paid in XE. When you deposit $EDGE to the Network, gas is paid in Eth via your Metamask wallet.
 
