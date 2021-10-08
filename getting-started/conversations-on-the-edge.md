@@ -6,7 +6,13 @@ description: >-
 
 # Podcast
 
-## Episode 10, 01st September 2021
+## Episode 22, 08th September 2021
+
+‘Tech for good’ isn’t only about code, it’s a code of practice. And it starts by being open about our mission – in this week's episode we talk about transparency and fairness, from weekly updates to the power of the crowd.
+
+{% embed url="https://vimeo.com/626734599" %}
+
+## Episode 21, 01st September 2021
 
 The Edge of reality: blockchain needs real projects to provide value beyond its tokens – and Edge, with its live products and customers, is proof of this. Listen to find out why.
 
