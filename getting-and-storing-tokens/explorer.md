@@ -12,3 +12,5 @@ The explorer can be used to explore blocks and transactions. Wallet explroation 
 
 In addition, the legacy device explorer for the Edge Network will be folded in to the blockchain explorer as device staking moves to the contract layer in XE. This will provide a visual view of the nodes powering the network, and will enable the exploration of devices, their contribution to the network and their earnings on the back of completed jobs.
 
+The explorer includes functionality to identify **named** and **trusted** wallets. These are wallets that are under the control of the network and the core team, and that are linked to from within the Community Wiki. Trusted wallets are identified with a green check mark within the explorer.
+
