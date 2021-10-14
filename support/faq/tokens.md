@@ -18,7 +18,9 @@ The X is from the ISO standard for currencies that are not specific to a certain
 
 ### Where Can I Get Hold of the Network Token?
 
-{% page-ref page="../../getting-and-storing-tokens/exchanges.md" %}
+{% content-ref url="../../getting-and-storing-tokens/exchanges.md" %}
+[exchanges.md](../../getting-and-storing-tokens/exchanges.md)
+{% endcontent-ref %}
 
 ### What Is the Contract Address for $EDGE?
 
@@ -27,7 +29,7 @@ The X is from the ISO standard for currencies that are not specific to a certain
 ### I Held the Original $EDGE, How Do I Get Hold of $XE?
 
 {% hint style="danger" %}
-**The swap period for $EDGE&gt;$TNC closed on Thursday, 27th May 2021**
+**The swap period for $EDGE>$TNC closed on Thursday, 27th May 2021**
 {% endhint %}
 
 ~~You should follow the swap process within Edge Console. You have until Thursday, 27th May 2021 to complete the swap. The swap closes after this period and you will not be able to swap further $EDGE.~~
@@ -38,7 +40,9 @@ The X is from the ISO standard for currencies that are not specific to a certain
 
 ### I Swapped $EDGE for $TNC, How Do I Get Hold of $XE?
 
-{% page-ref page="../claiming-xe.md" %}
+{% content-ref url="../claiming-xe.md" %}
+[claiming-xe.md](../claiming-xe.md)
+{% endcontent-ref %}
 
 ### I Claimed XE, When Will My Coins Arrive in My Wallet?
 
@@ -48,11 +52,13 @@ Distribution of claimed XE is run to a schedule once every 24 hours. If you make
 **The distribution process is open until the end of September 2021**
 {% endhint %}
 
-### When Will the $XE&lt;&gt;$EDGE Bridge Open?
+### When Will the $XE<>$EDGE Bridge Open?
 
 The XE Bridge is open! It opened on Thursday September 09th, 2021 at 5pm UTC. More information can be found in the weekly core team updates.
 
-{% page-ref page="../../getting-started/core-team-updates/weekly-updates.md" %}
+{% content-ref url="../../getting-started/core-team-updates/weekly-updates.md" %}
+[weekly-updates.md](../../getting-started/core-team-updates/weekly-updates.md)
+{% endcontent-ref %}
 
 ### Why is my withdrawal taking so long?
 
@@ -62,3 +68,6 @@ If the transaction speed fee you provided is lower than current gas costs, the b
 
 When you withdraw $XE through the Bridge, gas is paid in XE. When you deposit $EDGE to the Network, gas is paid in Eth via your Metamask wallet.
 
+### Why Is the Holder Number Shown in DEXTools So Low?
+
+$XE is a layer 2 blockchain that bridges between chains. This means that there are more holders of the coin $XE wihtin the network that there are holders of the token $EDGE outside of the network. The ratio is currently around 5x the number shown in DEXTools and other Ethereum explorers.
