@@ -10,69 +10,63 @@ There have been 131 of these so far.
 
 ## Latest Update
 
-![](../../.gitbook/assets/weeklyUpdate041021.png)
+![](../../.gitbook/assets/weeklyupdate270921.png)
 
 Good evening everyone 👋
 
-For those of you that are new to the community, we post weekly core team updates to our main channels, including to the wiki. These are on a Friday, at some point in the evening, depending on how busy we've been.
+It’s been another busy week, hence this update landing a little later than usual.
 
-There have been 129 of these so far. You can see a full history here:
+The team kicked off two exciting partnerships this week, both blockchain and both mutually beneficial. Details will be shared in due course.
 
-{% content-ref url="weekly-updates.md" %}
-[weekly-updates.md](weekly-updates.md)
-{% endcontent-ref %}
+I have Adam with me to provide you with a development update:
 
-On to this week’s update… #130!
+_Adam_:
 
-Nothing says we’ve been working hard like the weekly project update being at 22:59. I’m covering for Joseph this evening as he’s been called away. It’s been a packed week here and we have a big release to tell you about as well.
+Evening all!
 
-(Thanks for your patience everyone in waiting for this update!)
+Another late update, and this week we have another release for you.
 
-The move to Discord pushed further with most of the team now working here instead of in Slack. You can see this in the core team members, and it means that we’re generally more available. This is part of a wider move towards community governance and the ultimate goals of the project.
+We have just released **Index v1.7.3** and **Explorer v1.6.4**. This introduces a wallets index for the first time, allowing the browsing of active wallets in the XE Blockchain. The heavy lifting for this is in Index, which monitors blocks and queries the blockchain for balances. The hooks have also been put in place to allow us to add a balance field to transactions in the explorer in future.
 
-The extended distribution period for $XE closed yesterday. Console has now been mothballed, and the site updated with links to the explorer and the wallet. For those of you who haven’t been here for previous updates, the public roadmaps can be found here:
+Take a look: [https://xe.network/wallets](https://xe.network/wallets)
 
-{% content-ref url="../project-roadmaps.md" %}
-[project-roadmaps.md](../project-roadmaps.md)
-{% endcontent-ref %}
+This week saw **Bridge v2.2.0** released, which implemented Ethereum EIP-1559 transactions. So far we’ve seen a big improvement in transaction processing speed.
 
-Today marks the start of Q4 and wow, what a Q3 we had, releasing the explorer, opening the bridge, listing on Uniswap, and in-between those, dozens of smaller releases here and there and a lot of work on v2 behind the scenes. We have a lot planned for Q4, including on-chain staking, a new CLI, a public v2 testnet, v2 mainnet device onboarding, the mobile wallet apps, VPS public beta, and to kick off the quarter, the wallet sell feature, **which is now live!**
+The new Edge CLI has been in the works this week, with the first CLI transaction being sent on the testnet earlier today. The new version of the command line interface tool will allow full wallet management, along with onboarding and stake management, later this year.
 
-![](../../.gitbook/assets/1.png)
+While we’re talking about testnet, just a reminder that we’ll be making testnet public later this year. You’ll be able to create a wallet, get some XE from a faucet, and even onboard testnet devices, if you wish to. Super exciting.
 
-Accessible via the web wallet, you can now sell your XE directly for USDC. The process is similar to withdrawals, except instead of receiving EDGE you’ll receive USDC. The exchange rate will update in real time, and tracks the value of the EDGE token.
+The design for the mobile wallet app is looking great, and has started to be implemented into the beta. We’ll have a preview of the design for you next week, and let me tell you, it’s looking amazing.
 
-![](../../.gitbook/assets/2.png)
+This week we released one of our open source libraries, `@edge/log`. Logging, along with monitoring and alerting, are key to both development and operations, and this library, though small, is essential to achieving that. If you’re interested in learning more about how it works, take as look at the repository:
 
-Once you submit your transaction, it will go through to the bridge, which will process them on a first come, first serve basis. As with withdrawals, there is a minimum 10 confirmation wait before processing. Purchasing of XE by Edge is subject to availability and will fluctuate over time.
+{% embed url="https://github.com/edge/log" %}
 
-**Supporting this saw releases of blockchain (v1.3), index (v1.6), bridge (v2.3) and wallet (v1.6)!**
+_Joseph_:
 
-ork on the mobile wallet app progressed, with the latest version of the wireframes now being turned into a more polished design while the functionality of the app continues to be built. The mobile wallet app will be available for iOS and Android devices later this year.
+Thanks Adam!
 
-DefiGainer in the Telegram community posted a photo of an Edge ticker on a Lametric device. We loved this and spent a few hours making an official app for the device showing the ticker name, current CMC price and the movement over the last hour.
+As I hope is obvious, the core team is working flat out to push the project forward. We have fantastic tech and an extremely strong roadmap. Plus there is some magical development work happening around the roadmap – future stuff that I’m hopeful will make it into the core of the platform in the fullness of time.
 
-![](../../.gitbook/assets/3.png)
+Marketing is underway and as a result we’ve seen steady growth in our core community channels and have opened up a series of fantastic opportunities. The team will be sharing what they can as we go. There’s a lot on the horizon to excite you.
 
-If you have a Lametic, you can download the app from their app store:
+We firmly believe that Edge is only as strong as its community. The project set out to take control of web services away from centralised corporations, enabling everyone to participate in the value creation that flows from the Internet. To this end we really need you to get involved. Tweet about the project, mention it in your other communities and help us to spread the word.
 
-{% embed url="https://apps.lametric.com/apps/edge_network/12433" %}
+If you didn’t know, Edge has a bug bounty. We pay out for the identification of verified bugs. To date this year the bounty has rewarded $4,500, with the highest single reward being $1,000. If you find a bug or a security vulnerability, email bounty@edge.network with details as to how we can recreate it.
 
-We’ve also picked up a few of the devices to give away to the community! We’ll be sharing the mechanic for this in the next week or two.
+Episode 22 of our podcast, Conversations on the Edge, has just been released:
 
-The latest of our now weekly newsletters was sent today. If you’re not signed up, there’s no time like the present! You can do so here:
+{% embed url="https://vimeo.com/626734599" %}
 
-{% embed url="https://edge.press" %}
-
-The latest episode of our podcast, Conversations on the Edge, has just been released:
-
-{% embed url="https://vimeo.com/620026255" %}
-
-If you’ve missed the podcast to date, you can catch up with all 21 episodes from season #1 here:
+If you’ve missed the podcast to date, you can catch up with all of the episodes from season one right here in the Community Wiki:
 
 {% content-ref url="../conversations-on-the-edge.md" %}
 [conversations-on-the-edge.md](../conversations-on-the-edge.md)
 {% endcontent-ref %}
+
+The latest of our now weekly newsletters was sent today. If you’re not signed up, there’s no time like the present! You can do so here:
+
+{% embed url="https://edge.press" %}
 
 We're still on the hunt for new core team members, with positions available for accomplished full stack developers. You can read about how we work and find a job specification here:
 
@@ -80,10 +74,12 @@ We're still on the hunt for new core team members, with positions available for 
 [careers](../../supporting-the-network/careers/)
 {% endcontent-ref %}
 
-This weekend, why not help spread the word? The more the existing community helps to promote and drive the project forward, the stronger we will become.
+And if you missed last weeks update, you can read it on our site here:
+
+{% embed url="https://ed.ge/update/2021/09/27" %}
 
 For the very latest from Edge, join our Discord server: [ed.ge/discord](https://ed.ge/discord)
 
-Enjoy your weekends.
+And that’s it for now – have a great weekend.
 
-_Posted by: Adam K Dean_
+_Posted by: Joseph Denne & Adam K Dean_
