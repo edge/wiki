@@ -48,15 +48,15 @@ Monocle use Edge CDN for the management of images and audio across their estate,
 
 High resolution source images are scaled and intelligently cropped by Edge CDN, significantly reducing the weight of work for their editorial teams.
 
-> We’ve streamlined our production with Edge, saving time and ensuring an optimal experience for our end users. – **Joe Gwynn**, ****Head of Technology \| Monocle
+> We’ve streamlined our production with Edge, saving time and ensuring an optimal experience for our end users. – **Joe Gwynn**,** **Head of Technology | Monocle
 
-View property: [monocle.com](https://monocle.com/)
+View property: [monocle.com](https://monocle.com)
 
 ### Ecohustler
 
 Ecohustler is an environmental news outlet, activism network and shop. Making use of the the cleanest available technology is central to their mission. Edge is unique in its use of the spare capacity in the devices all around us, meaning reduced emissions through lower power consumption.
 
-> Edge helps us reach our audience energy efficiently, using spare capacity in existing devices rather than building dedicated data centres. – **Matt Mellen**, Founder \| Ecohustler
+> Edge helps us reach our audience energy efficiently, using spare capacity in existing devices rather than building dedicated data centres. – **Matt Mellen**, Founder | Ecohustler
 
 View property: [ecohustler.com](https://ecohustler.com)
 
@@ -64,7 +64,6 @@ View property: [ecohustler.com](https://ecohustler.com)
 
 The Professional Publishers Association represents publishers across the UK. They are partnered with Edge, recognising the workflow optimisation and cost savings that the technology brings to their sector.
 
-> Edge CDN optimises publisher workflow, making it easier and faster to deliver media to readers. – **Owen Meredith**, CEO \| PPA
+> Edge CDN optimises publisher workflow, making it easier and faster to deliver media to readers. – **Owen Meredith**, CEO | PPA
 
 View property: [ppa.co.uk](https://ppa.co.uk)
-

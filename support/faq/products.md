@@ -10,7 +10,7 @@ Edge CDN can be accessed via the [Edge Network website](https://edge.network) or
 
 ### When Can I Get My Hands on Edge Object Storage?
 
-Edge Object Storage is currently in active R&D. A proof of concept exists and is currently being tested and evolved. A beta release is expected to be reelased for community testing at some point in 2021, with a first production release expected in 2022.
+Edge Object Storage is currently in active R\&D. A proof of concept exists and is currently being tested and evolved. A beta release is expected to be reelased for community testing at some point in 2021, with a first production release expected in 2022.
 
 ### When Can I Get My Hands on Edge Compute?
 
@@ -20,3 +20,6 @@ Edge Compute is in active testing with early partners. Compute services are alig
 
 Edge's vision and roadmaps are extensive, while resource and time is limited. This means that the core team have to prioritise features and focus. These decisions can be influenced by the community through network governance.
 
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}

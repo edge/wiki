@@ -24,6 +24,10 @@ This applies to every node that you introduce.
 **Network growth reward programme is under the control of network governance**
 {% endhint %}
 
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
+
 ## Spreading the Word
 
 Individuals who help to positively promote the network in social channels may be rewarded from time to time with ad-hoc thank-you's from the core team.
@@ -37,4 +41,3 @@ Individuals who help to positively promote the network in social channels may be
 Accessing the referral programme is simple: every Edge account has a referral code available. Simply share your referral code with the provided link in your account. Anyone that then uses the link is automatically attributed to your account.
 
 Referral rewards are paid out monthly in $XE and will be visible within your Edge account.
-

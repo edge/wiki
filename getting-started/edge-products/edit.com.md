@@ -53,6 +53,5 @@ Thinking about print? Edit can store assets for any publication.
 Edit provides the optimal balance of performance and cost.
 
 {% hint style="info" %}
-**Find out more about Edit on** [**Edit.com**](https://edit.com)\*\*\*\*
+**Find out more about Edit on **[**Edit.com**](https://edit.com)****
 {% endhint %}
-

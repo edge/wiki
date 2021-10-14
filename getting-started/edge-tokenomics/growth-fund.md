@@ -2,9 +2,9 @@
 
 The Growth Fund holds $XE assigned to support the marketing and growth in uptake of the Edge Network.
 
-| $XE Wallet Address | Percentage Allocation |
-| :--- | :--- |
-| [xe\_ed9e3AcDA88AFFe508d72503845289ca43390032](https://xe.network/wallet/xe_ed9e3AcDA88AFFe508d72503845289ca43390032) | 10.03% |
+| $XE Wallet Address                                                                                                   | Percentage Allocation |
+| -------------------------------------------------------------------------------------------------------------------- | --------------------- |
+| [xe_ed9e3AcDA88AFFe508d72503845289ca43390032](https://xe.network/wallet/xe_ed9e3AcDA88AFFe508d72503845289ca43390032) | 10.03%                |
 
 The use of these funds is under the control of project governance, meaning that community members can raise proposals for its use, and vote on proposals raised.
 
@@ -16,3 +16,6 @@ The growth fund is initially funded through a dilution applied to all current $E
 **The Growth Fund is controlled through network governance**
 {% endhint %}
 
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}

@@ -8,7 +8,9 @@ description: >-
 
 ## Join the Core Team
 
-{% page-ref page="open-positions.md" %}
+{% content-ref url="open-positions.md" %}
+[open-positions.md](open-positions.md)
+{% endcontent-ref %}
 
 ## Philosophy
 
@@ -22,13 +24,17 @@ Parkinson's Law states that work expands to fill the time allotted for it. No ma
 
 We hold this to be true and actively work to counteract it. The core team at Edge is deliberately small and fast moving, allowing a high level of flexibility, ensuring that the project retains the ability to pivot as stakeholder requirements evolve.
 
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
+
 ### Work Asynchronously
 
 Individual team members more or less works at their own pace, with collaboration and agreement being handled by asynchronous mechanisms.
 
 ### No 9 to 5
 
-Get the job done on time \(and don't upset the client\) and you can work the hours you want.
+Get the job done on time (and don't upset the client) and you can work the hours you want.
 
 ### Work at Your Own Pace
 
@@ -36,7 +42,7 @@ We handle things like collaboration and sign off through the best tools for the 
 
 ### Minimal Meetings
 
-Unless we really need to powwow in person, we keep in touch using cloud-based tools like Slack \(much more efficient, believe us\).
+Unless we really need to powwow in person, we keep in touch using cloud-based tools like Slack (much more efficient, believe us).
 
 ### Work Where You Want
 
@@ -44,11 +50,10 @@ Yes, be diligent, stick to deadlines and do great work. But where and how you do
 
 ## Perks
 
-* A job that works around your life \(not the other way round\)
+* A job that works around your life (not the other way round)
 * Work with some of the most talented people in the world
 * No need to commute
 * No need to be tied to a desk
 * Plenty of excuses to meet up with the rest of the team
 * Work on things you'll love
 * Get paid for giving a shit
-

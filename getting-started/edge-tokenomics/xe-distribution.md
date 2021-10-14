@@ -8,11 +8,15 @@ A total of 50 million $XE have been minted and are in the process of distributio
 
 Holders of the original $EDGE token who have been through the swap process to $TNC in Edge Console can now claim a distribution of $XE. This is proportional to their original holdings, factoring the reduction in supply.
 
-{% page-ref page="../../support/claiming-xe.md" %}
+{% content-ref url="../../support/claiming-xe.md" %}
+[claiming-xe.md](../../support/claiming-xe.md)
+{% endcontent-ref %}
 
 In addition, a small percentage of all holders funds will be held back to create the Growth Fund.
 
-{% page-ref page="growth-fund.md" %}
+{% content-ref url="growth-fund.md" %}
+[growth-fund.md](growth-fund.md)
+{% endcontent-ref %}
 
 ## Distribution Break Out
 
@@ -22,37 +26,41 @@ The **Dev Fund** holds $XE assigned to support the day-to-day development of the
 **The figures below represent the initial distribution percentages for $XE**
 {% endhint %}
 
-| Distribution | Percentage Allocation |
-| :--- | :--- |
-| Dev Fund | 15.64% |
-| Growth Fund | 10.03% |
-| Staking Contract | 31.54% |
-| Community Circulating | 34.79% |
-| Founding Team | 8% |
+| Distribution          | Percentage Allocation |
+| --------------------- | --------------------- |
+| Dev Fund              | 15.64%                |
+| Growth Fund           | 10.03%                |
+| Staking Contract      | 31.54%                |
+| Community Circulating | 34.79%                |
+| Founding Team         | 8%                    |
 
 The Growth Fund is controlled through project governance.
+
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
 
 ## Node Rewards
 
 $XE has a mineable supply of 10 million coins, with a steady emissions curve tied to block time. Mined coins provide the yield for the network and are released as node rewards.
 
-The maximum yield in year one is 1 million $XE \(10%\). This will be reduced in year two, further in year three and so on.
+The maximum yield in year one is 1 million $XE (10%). This will be reduced in year two, further in year three and so on.
 
 The following table shows expected emitted $XE for the next five years:
 
-| Year | Emitted $XE | Supply Increase |
-| :--- | :--- | :--- |
-| 2021/22 | 1,000,000 | 2.00% |
-| 2022/23 | 900,000 | 1.76% |
-| 2023/24 | 810,000 | 1.56% |
-| 2024/25 | 729,000 | 1.38% |
-| 2025/26 | 656,100 | 1.23% |
+| Year    | Emitted $XE | Supply Increase |
+| ------- | ----------- | --------------- |
+| 2021/22 | 1,000,000   | 2.00%           |
+| 2022/23 | 900,000     | 1.76%           |
+| 2023/24 | 810,000     | 1.56%           |
+| 2024/25 | 729,000     | 1.38%           |
+| 2025/26 | 656,100     | 1.23%           |
 
 Node rewards are held in a network-controlled wallet:
 
-| $XE Wallet Address |
-| :--- |
-| [xe\_ed9e1d0de3fdf363C4A71bC567e5d3aF6FCE2fe9](https://xe.network/wallet/xe_ed9e1d0de3fdf363C4A71bC567e5d3aF6FCE2fe9) |
+| $XE Wallet Address                                                                                                   |
+| -------------------------------------------------------------------------------------------------------------------- |
+| [xe_ed9e1d0de3fdf363C4A71bC567e5d3aF6FCE2fe9](https://xe.network/wallet/xe_ed9e1d0de3fdf363C4A71bC567e5d3aF6FCE2fe9) |
 
 ## $XE Calculator
 
@@ -63,4 +71,3 @@ To use this sheet:
 1. Create a copy of the sheet
 2. Update cell B2 with the number of $EDGE tokens that you swapped through Edge Console
 3. Cell B10 will show the number of $XE available for you to claim
-
