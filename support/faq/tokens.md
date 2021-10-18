@@ -40,16 +40,8 @@ The X is from the ISO standard for currencies that are not specific to a certain
 
 ### I Swapped $EDGE for $TNC, How Do I Get Hold of $XE?
 
-{% content-ref url="../claiming-xe.md" %}
-[claiming-xe.md](../claiming-xe.md)
-{% endcontent-ref %}
-
-### I Claimed XE, When Will My Coins Arrive in My Wallet?
-
-Distribution of claimed XE is run to a schedule once every 24 hours. If you make a valid claim, your distirbution will be recieved within the next 24 hours.
-
-{% hint style="warning" %}
-**The distribution process is open until the end of September 2021**
+{% hint style="danger" %}
+**The claim period for $XE closed on Thursday, 30th September 2021**
 {% endhint %}
 
 ### When Will the $XE<>$EDGE Bridge Open?

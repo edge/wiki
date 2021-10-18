@@ -1,18 +1,14 @@
 # $XE Distribution
 
-{% hint style="warning" %}
-**$XE distribution started on the 04th of June and will close at the end of September 2021**
+{% hint style="danger" %}
+**$XE distribution closed at the end of September 2021**
 {% endhint %}
 
-A total of 50 million $XE have been minted and are in the process of distribution. In addition to this, 10 million $XE are locked in the network to be mined and released as node rewards.
+A total of 50 million $XE were minted and distributed. In addition to this, 10 million $XE are locked in the network to be mined and released as node rewards.
 
-Holders of the original $EDGE token who have been through the swap process to $TNC in Edge Console can now claim a distribution of $XE. This is proportional to their original holdings, factoring the reduction in supply.
+Holders of the original $EDGE token who had been through the swap process to $TNC were able to claim a distribuion of $XE. This was proportional to their original holdings, factoring the reduction in supply.
 
-{% content-ref url="../../support/claiming-xe.md" %}
-[claiming-xe.md](../../support/claiming-xe.md)
-{% endcontent-ref %}
-
-In addition, a small percentage of all holders funds will be held back to create the Growth Fund.
+In addition, a small percentage of all holders funds were held back to create the Growth Fund.
 
 {% content-ref url="growth-fund.md" %}
 [growth-fund.md](growth-fund.md)
@@ -62,12 +58,3 @@ Node rewards are held in a network-controlled wallet:
 | -------------------------------------------------------------------------------------------------------------------- |
 | [xe_ed9e1d0de3fdf363C4A71bC567e5d3aF6FCE2fe9](https://xe.network/wallet/xe_ed9e1d0de3fdf363C4A71bC567e5d3aF6FCE2fe9) |
 
-## $XE Calculator
-
-You can see a spreadsheet that can be used to calculate the $XE that you will be able claim here: [ed.ge/xe/calculator](https://ed.ge/xe/calculator)
-
-To use this sheet:
-
-1. Create a copy of the sheet
-2. Update cell B2 with the number of $EDGE tokens that you swapped through Edge Console
-3. Cell B10 will show the number of $XE available for you to claim
