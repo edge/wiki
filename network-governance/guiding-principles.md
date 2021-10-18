@@ -20,5 +20,4 @@ The core team must abide by these guiding principles in relation to project gove
 4. The operation of the network as a services layer for Web3
 5. Live or planned services on top of the network
 
-Further more, no movement in the $XE held wihtin the growth fund may be made without a proposal being raised and passed by the community.
-
+Further more, no movement in the $XE held within the growth fund may be made without a proposal being raised and passed by the community.
