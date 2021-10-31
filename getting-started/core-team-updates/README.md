@@ -2,7 +2,7 @@
 
 As part of Edge's ongoing commitment to transparency and development in the open, the core team write weekly updates to the Edge community.
 
-There have been 131 of these so far.
+There have been 135 of these so far.
 
 {% content-ref url="weekly-updates.md" %}
 [weekly-updates.md](weekly-updates.md)
@@ -10,61 +10,69 @@ There have been 131 of these so far.
 
 ## Latest Update
 
-![](../../.gitbook/assets/weeklyupdate270921.png)
+![](../../.gitbook/assets/weeklyUpdate251021.png)
 
 Good evening everyone 👋
 
-It’s been another busy week, hence this update landing a little later than usual.
-
-The team kicked off two exciting partnerships this week, both blockchain and both mutually beneficial. Details will be shared in due course.
-
-I have Adam with me to provide you with a development update:
+I’m here with Adam again this evening.
 
 _Adam_:
 
-Evening all!
-
-Another late update, and this week we have another release for you.
-
-We have just released **Index v1.7.3** and **Explorer v1.6.4**. This introduces a wallets index for the first time, allowing the browsing of active wallets in the XE Blockchain. The heavy lifting for this is in Index, which monitors blocks and queries the blockchain for balances. The hooks have also been put in place to allow us to add a balance field to transactions in the explorer in future.
-
-Take a look: [https://xe.network/wallets](https://xe.network/wallets)
-
-This week saw **Bridge v2.2.0** released, which implemented Ethereum EIP-1559 transactions. So far we’ve seen a big improvement in transaction processing speed.
-
-The new Edge CLI has been in the works this week, with the first CLI transaction being sent on the testnet earlier today. The new version of the command line interface tool will allow full wallet management, along with onboarding and stake management, later this year.
-
-While we’re talking about testnet, just a reminder that we’ll be making testnet public later this year. You’ll be able to create a wallet, get some XE from a faucet, and even onboard testnet devices, if you wish to. Super exciting.
-
-The design for the mobile wallet app is looking great, and has started to be implemented into the beta. We’ll have a preview of the design for you next week, and let me tell you, it’s looking amazing.
-
-This week we released one of our open source libraries, `@edge/log`. Logging, along with monitoring and alerting, are key to both development and operations, and this library, though small, is essential to achieving that. If you’re interested in learning more about how it works, take as look at the repository:
-
-{% embed url="https://github.com/edge/log" %}
+Good evening folks. It’s been a busy week here!
 
 _Joseph_:
 
-Thanks Adam!
+So, first up... we have just opened up the Edge (XE) Blockchain testnet to the public ![💥](https://discord.com/assets/d198f92b9911c7fdbb12baa694a819a2.svg)
 
-As I hope is obvious, the core team is working flat out to push the project forward. We have fantastic tech and an extremely strong roadmap. Plus there is some magical development work happening around the roadmap – future stuff that I’m hopeful will make it into the core of the platform in the fullness of time.
+_Adam_:
 
-Marketing is underway and as a result we’ve seen steady growth in our core community channels and have opened up a series of fantastic opportunities. The team will be sharing what they can as we go. There’s a lot on the horizon to excite you.
+The blockchain testnet mirrors the mainnet, with a fully functional web wallet ([https://wallet.test.network](https://wallet.test.network)), explorer ([https://test.network](https://test.network)), bridge (which is integrated with the Rinkeby Ethereum testnet), and index ([https://index.test.network](https://index.test.network)).
 
-We firmly believe that Edge is only as strong as its community. The project set out to take control of web services away from centralised corporations, enabling everyone to participate in the value creation that flows from the Internet. To this end we really need you to get involved. Tweet about the project, mention it in your other communities and help us to spread the word.
+The blockchain nodes are [https://xe1.test.network/](https://xe1.test.network), [https://xe2.test.network/](https://xe2.test.network), and [https://xe3.test.network/](https://xe3.test.network) and either of these can be used for submitting transactions to the blockchain.
 
-If you didn’t know, Edge has a bug bounty. We pay out for the identification of verified bugs. To date this year the bounty has rewarded $4,500, with the highest single reward being $1,000. If you find a bug or a security vulnerability, email bounty@edge.network with details as to how we can recreate it.
+We also released **Explorer v1.8.0** and **Wallet v1.8.0** in support of the public testnet.
 
-Episode 22 of our podcast, Conversations on the Edge, has just been released:
+The team is currently working on a faucet which will be accessible via the testnet explorer ([https://test.network/](https://test.network)) that will allow you to acquire some testnet $XE on demand. Whether you want to try out the web wallet, see how the staking works, or use the testnet to develop your own XE-based applications, the core team will be here to help and support you.
 
-{% embed url="https://vimeo.com/626734599" %}
+_Joseph_:
 
-If you’ve missed the podcast to date, you can catch up with all of the episodes from season one right here in the Community Wiki:
+The testnet also receives updates ahead of mainnet, so you may see new features from time-to-time before they’re released.
 
-{% content-ref url="../conversations-on-the-edge.md" %}
-[conversations-on-the-edge.md](../conversations-on-the-edge.md)
-{% endcontent-ref %}
+_Adam_:
 
-The latest of our now weekly newsletters was sent today. If you’re not signed up, there’s no time like the present! You can do so here:
+Work has progressed on the new CLI (command line interface), with staking now integrated. We’re looking to release this next week for testnet. The first version of the new CLI will support wallet operations along with stake management, with device onboarding functionality due to follow shortly after.
+
+_Joseph_:
+
+We’ll write more about that next week.
+
+Build of the front end interfaces for Edge VPS kicks off next week. The API layers are complete, and the beta programme has been performing well, with test and production usage showing great performance. The interfaces will be released as a beta in the first instance.
+
+The mobile wallet app continues towards public beta status, and we’re excited to be able to share that with you in the next few weeks.
+
+_Adam_:
+
+And plans for the desktop wallets (which will also include device management) are underway as we explore ways to make onboarding of devices easier.
+
+Work on v2 has also progressed well, with focus on internal connectivity and protocol.
+
+We’ll write more about how you can get involved with v2 once the public v2 testnet becomes available.
+
+_Joseph_:
+
+The latest episode of our podcast just dropped:
+
+{% embed url="https://vimeo.com/637949022" %}
+
+We’ve taken on board community feedback and are working to evolve the format. A bunch of exciting things to share on this in the coming months.
+
+Delivery as part of the partnerships I’ve mentioned in previous updates progressed apace. There’s a huge amount underway and some really exciting developments that we can’t wait to be able to tell you about.
+
+The latest issue of our now weekly newsletter was sent yesterday. You can see it online here:
+
+{% embed url="https://ed.ge/digest/issue-17" %}
+
+If you’re not signed up, do so now and join the 100,000+ individuals already subscribed:
 
 {% embed url="https://edge.press" %}
 
@@ -74,12 +82,18 @@ We're still on the hunt for new core team members, with positions available for 
 [careers](../../supporting-the-network/careers/)
 {% endcontent-ref %}
 
-And if you missed last weeks update, you can read it on our site here:
+And if you missed last weeks update, you can find it along with a full archive of our weekly updates here:
 
-{% embed url="https://ed.ge/update/2021/09/27" %}
+{% content-ref url="weekly-updates.md" %}
+[weekly-updates.md](weekly-updates.md)
+{% endcontent-ref %}
 
 For the very latest from Edge, join our Discord server: [ed.ge/discord](https://ed.ge/discord)
 
 And that’s it for now – have a great weekend.
+
+_Adam_:
+
+Thank you and good night ![😄](https://discord.com/assets/626aaed496ac12bbdb68a86b46871a1f.svg)
 
 _Posted by: Joseph Denne & Adam K Dean_
