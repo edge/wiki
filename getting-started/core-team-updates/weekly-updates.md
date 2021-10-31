@@ -10,7 +10,10 @@ description: >-
 
 | Year | Week           | Summary                                                                        | Link                                                       |
 | ---- | -------------- | ------------------------------------------------------------------------------ | ---------------------------------------------------------- |
-| 2021 | 04th October   | Wallet Index, Edge CLI & the XE Mobile App                                     | [ed.ge/update/2021/10/04](https://ed.ge/update/2021/10/04) |
+| 2021 | 25th October   | Public XE Testnet                                                              | [ed.ge/update/2021/10/25](https://ed.ge/update/2021/10/25) |
+|      | 18th October   | On-Chain Variables and Staking Now Live                                        | [ed.ge/update/2021/10/18](https://ed.ge/update/2021/10/18) |
+|      | 11th October   | Trusted Wallet Status, CLI and Mobile Apps                                     | [ed.ge/update/2021/10/11](https://ed.ge/update/2021/10/11) |
+|      | 04th October   | Wallet Index, Edge CLI & the XE Mobile App                                     | [ed.ge/update/2021/10/04](https://ed.ge/update/2021/10/04) |
 |      | 27th September | Wallet Exchange Functionality                                                  | [ed.ge/update/2021/09/27](https://ed.ge/update/2021/09/27) |
 |      | 20th September | Marketing and the Token Economy                                                | [ed.ge/update/2021/09/20](https://ed.ge/update/2021/09/20) |
 |      | 13th September | Roadmaps, Wallet, Bridge & Explorer                                            | [ed.ge/update/2021/09/13](https://ed.ge/update/2021/09/13) |

@@ -6,6 +6,18 @@ description: >-
 
 # Podcast
 
+## Episode 25, 29th October 2021
+
+Are you proud of your cloud? Does anyone in your business even think about the impact of your digital services on the environment? Here's how Edge Network can make your digital products look good.
+
+{% embed url="https://vimeo.com/640463037" %}
+
+## Episode 24, 22nd October 2021
+
+What is CDN? A deeper dive into just one of the applications offered by Edge Network – now in active use with over 70 digital brands.
+
+{% embed url="https://vimeo.com/637949022" %}
+
 ## Episode 23, 15th October 2021
 
 So you want to be a part of Edge Network. You want to to earn revenue for contributing spare capacity from your laptop or desktop machine as soon as possible. Here’s how to be ready…
