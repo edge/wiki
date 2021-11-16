@@ -22,13 +22,14 @@ The **Dev Fund** holds $XE assigned to support the day-to-day development of the
 **The figures below represent the initial distribution percentages for $XE**
 {% endhint %}
 
-| Distribution          | Percentage Allocation |
-| --------------------- | --------------------- |
-| Dev Fund              | 15.64%                |
-| Growth Fund           | 10.03%                |
-| Staking Contract      | 31.54%                |
-| Community Circulating | 34.79%                |
-| Founding Team         | 8%                    |
+| Distribution          | Description                                                                                                             | Percentage Allocation |
+| --------------------- | ----------------------------------------------------------------------------------------------------------------------- | --------------------- |
+| Dev Fund              | Tokens used for the ongoing development of the project.                                                                 | 13.03%                |
+| Growth Fund           | Tokens used for the ongoing promotion and growth of the Edge Network. Under community governance.                       | 8.36%                 |
+| Staking Contract      | Tokens locked in the network as stakes against contributed devices.                                                     | 26.28%                |
+| Community Circulating | Tokens held by members of the Edge community.                                                                           | 28.99%                |
+| Founding Team         | Core team token allocation. 5 year linear vesting schedule starting December 2021.                                      | 6.67%                 |
+| Staked Node Rewards   | Tokens locked in the network for slow release as node rewards. Released at a rate of 10% of remaining rewards per year. | 16.67%                |
 
 The Growth Fund is controlled through project governance.
 
@@ -54,7 +55,7 @@ The following table shows expected emitted $XE for the next five years:
 
 Node rewards are held in a network-controlled wallet:
 
-| $XE Wallet Address                                                                                                   |
-| -------------------------------------------------------------------------------------------------------------------- |
-| [xe_ed9e1d0de3fdf363C4A71bC567e5d3aF6FCE2fe9](https://xe.network/wallet/xe_ed9e1d0de3fdf363C4A71bC567e5d3aF6FCE2fe9) |
+| $XE Wallet Address                                                                                                     |
+| ---------------------------------------------------------------------------------------------------------------------- |
+| [xe\_ed9e1d0de3fdf363C4A71bC567e5d3aF6FCE2fe9](https://xe.network/wallet/xe\_ed9e1d0de3fdf363C4A71bC567e5d3aF6FCE2fe9) |
 
