@@ -1,6 +1,6 @@
 # Exchanges
 
-## $EDGE
+## $EDGE on Uniswap
 
 {% hint style="success" %}
 **$EDGE was listed on Uniswap on the 09th of September, 2021**
@@ -16,7 +16,15 @@ Trade $EDGE on Uniswap: [ed.ge/uniswap](https://ed.ge/uniswap)
 
 To add liquidity to the Uniswap pool and earn a % of trading fees, head to: [ed.ge/liquidity](https://ed.ge/liquidity)
 
-### Useful Links
+## $EDGE on MEXC
+
+{% hint style="success" %}
+**$EDGE was listed on MEXC on 17th November, 2021**
+{% endhint %}
+
+Trade $EDGE on MEXC: [ed.ge/mexc](https://ed.ge/mexc)
+
+## Useful Links
 
 You can find $EDGE on the following platforms:
 
@@ -25,4 +33,3 @@ You can find $EDGE on the following platforms:
 * $EDGE on MoonTools: [ed.ge/moontools](https://ed.ge/moontools)
 * $EDGE on CoinGecko: [ed.ge/coingecko](https://ed.ge/coingecko)
 * $EDGE on CoinMarketCap: [ed.ge/coinmarketcap](https://ed.ge/coinmarketcap)
-
