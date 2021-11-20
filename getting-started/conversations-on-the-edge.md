@@ -6,6 +6,24 @@ description: >-
 
 # Podcast
 
+## Episode 28, 19th November 2021
+
+We announced a new exchange this week – what does that mean for $EDGE and what is our strategy for building the token community? Listen to find out.
+
+{% embed url="https://vimeo.com/647863538" %}
+
+## Episode 27, 12th November 2021
+
+Weighing up whether to buy $EDGE tokens? Thinking about earning revenue by contributing to Edge Network? Want to find out how the roots of our project go all the way back to 2013? Then you want Edge Wiki. Here's an intro to the home of all Edge knowledge.
+
+{% embed url="https://vimeo.com/645362636" %}
+
+## Episode 26, 05th November 2021
+
+Running a project on blockchain? Want the chance to host your website or digital product on Edge Network for free? Listen up – we're about to launch a campaign to support crypto business.
+
+{% embed url="https://vimeo.com/642794329" %}
+
 ## Episode 25, 29th October 2021
 
 Are you proud of your cloud? Does anyone in your business even think about the impact of your digital services on the environment? Here's how Edge Network can make your digital products look good.
