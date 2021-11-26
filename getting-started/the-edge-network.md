@@ -34,7 +34,7 @@ Edge comprises hundreds of nodes contributed by individuals and businesses aroun
 
 Edge's technology harnesses the spare capacity that exists in the devices all around us. Take for example set top boxes, which are turned on 24/7, but only in use for an average of a few hours every day. In isolation a set top box doesn’t provide that much power, but when you knit the 35 million devices installed in homes in the UK it becomes an incredibly powerful resource.
 
-![](../.gitbook/assets/localglobal.png)
+![Check out the subpages at edge.network to find your next Scavenger Hunt clue](../.gitbook/assets/localglobal.png)
 
 ### BGP Routing
 
