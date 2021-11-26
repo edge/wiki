@@ -17,7 +17,7 @@ This reduces the volumes of data that must be moved, the consequent traffic, and
 ## The Edge Ledger
 
 {% hint style="info" %}
-**The Edge Blockchain is a original chain, designed and built entirely by the core team**
+**The Edge (XE) Blockchain is a original chain, designed and built entirely by the core team**
 {% endhint %}
 
 The blockchain at the heart of the network records device usage and value attribution. It uses an internal coin called $XE, a layer 2 solution that provides fast transfers within the network that are fee free for value attribution. $XE includes bridging functionality that allows the coin to be bridged in to other networks. In this way $XE can be converted to $EDGE on the Ethereum network.
@@ -38,7 +38,7 @@ Edge's technology harnesses the spare capacity that exists in the devices all ar
 
 ### BGP Routing
 
-The Edge network utilizes BGP \(Border Gateway Protocol\) operating within network masternodes to inform top level routing decisions in the network. BGP is the protocol that makes the Internet work. It does this by enabling data routing on the Internet by looking at all of the available paths that data could take from point to point, and picking the best route.
+The Edge network utilizes BGP (Border Gateway Protocol) operating within network masternodes to inform top level routing decisions in the network. BGP is the protocol that makes the Internet work. It does this by enabling data routing on the Internet by looking at all of the available paths that data could take from point to point, and picking the best route.
 
 ![](../.gitbook/assets/bgp.png)
 
@@ -60,7 +60,7 @@ Edge’s layered approach to security effectively defends against DDoS attacks, 
 
 ## Predicted Carbon Savings
 
-Data use and storage is growing exponentially, and with current statistics showing that only half of the world's population is connected to the Internet, it is estimated that by 2040, storing digital data is set to create 14 percent of the world's emissions. This amount is equivalent to the same proportion emitted by the USA today – 5,130 million metric tons of carbon – and has significant consequential impacts for climate change \(Climate Home News, 2017; Springer Link, 2020\).
+Data use and storage is growing exponentially, and with current statistics showing that only half of the world's population is connected to the Internet, it is estimated that by 2040, storing digital data is set to create 14 percent of the world's emissions. This amount is equivalent to the same proportion emitted by the USA today – 5,130 million metric tons of carbon – and has significant consequential impacts for climate change (Climate Home News, 2017; Springer Link, 2020).
 
 By enabling sharing capacity across existing devices, Edge significantly reduces the requirement for centralised data centres and servers, removing the stored energy cost of the production of these devices. It reduces power consumption for processing and for data transmission by connecting topologically close users and providers. Edge predicts a kWh/GB saving at 58.5% versus the cloud, factoring in device and data transmission.
 
@@ -99,4 +99,3 @@ Top level concepts and vision:
 * The Network That Works for You: [ed.ge/knowledge/the-network-that-works-for-you](https://ed.ge/knowledge/the-network-that-works-for-you)
 * Cleaning Up the Cloud: [ed.ge/knowledge/cleaning-up-the-cloud](https://ed.ge/knowledge/cleaning-up-the-cloud)
 * The New Media Platform: [ed.ge/knowledge/the-new-media-platform](https://ed.ge/knowledge/the-new-media-platform)
-
