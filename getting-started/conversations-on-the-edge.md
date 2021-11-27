@@ -6,6 +6,12 @@ description: >-
 
 # Podcast
 
+## Episode 29, 27th November 2021
+
+We've been busy. Record $EDGE token transactions, exchange announcements and a new launch for Haven Protocol on Edge Network. Time to check in with founder Joseph Denne on all this, plus plans for 2022.
+
+{% embed url="https://vimeo.com/650593868" %}
+
 ## Episode 28, 19th November 2021
 
 We announced a new exchange this week – what does that mean for $EDGE and what is our strategy for building the token community? Listen to find out.

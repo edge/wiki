@@ -10,7 +10,11 @@ description: >-
 
 | Year | Week           | Summary                                                                        | Link                                                       |
 | ---- | -------------- | ------------------------------------------------------------------------------ | ---------------------------------------------------------- |
-| 2021 | 25th October   | Public XE Testnet                                                              | [ed.ge/update/2021/10/25](https://ed.ge/update/2021/10/25) |
+| 2021 | 26th November  | Haven Protocol Partnership                                                     | [ed.ge/update/2021/11/26](https://ed.ge/update/2021/11/26) |
+|      | 15th November  | New Exchange Listing: MEXC                                                     | [ed.ge/update/2021/11/15](https://ed.ge/update/2021/11/15) |
+|      | 08th November  | Cross Device CLI and Network Staking                                           | [ed.ge/update/2021/11/08](https://ed.ge/update/2021/11/08) |
+|      | 01st November  | XE Testnet Faucet                                                              | [ed.ge/update/2021/11/01](https://ed.ge/update/2021/11/01) |
+|      | 25th October   | Public XE Testnet                                                              | [ed.ge/update/2021/10/25](https://ed.ge/update/2021/10/25) |
 |      | 18th October   | On-Chain Variables and Staking Now Live                                        | [ed.ge/update/2021/10/18](https://ed.ge/update/2021/10/18) |
 |      | 11th October   | Trusted Wallet Status, CLI and Mobile Apps                                     | [ed.ge/update/2021/10/11](https://ed.ge/update/2021/10/11) |
 |      | 04th October   | Wallet Index, Edge CLI & the XE Mobile App                                     | [ed.ge/update/2021/10/04](https://ed.ge/update/2021/10/04) |

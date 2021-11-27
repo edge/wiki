@@ -10,7 +10,12 @@ description: >-
 
 | Year | Date           | Link                                                   |
 | ---- | -------------- | ------------------------------------------------------ |
-| 2021 | 28th October   | [ed.ge/digest/issue-17](https://ed.ge/digest/issue-17) |
+| 2021 | 25th November  | [ed.ge/digest/issue-22](https://ed.ge/digest/issue-22) |
+|      | 21st November  | [ed.ge/digest/issue-21](https://ed.ge/digest/issue-21) |
+|      | 16th November  | [ed.ge/digest/issue-20](https://ed.ge/digest/issue-20) |
+|      | 12th November  | [ed.ge/digest/issue-19](https://ed.ge/digest/issue-19) |
+|      | 04th November  | [ed.ge/digest/issue-18](https://ed.ge/digest/issue-18) |
+|      | 28th October   | [ed.ge/digest/issue-17](https://ed.ge/digest/issue-17) |
 |      | 22nd October   | [ed.ge/digest/issue-16](https://ed.ge/digest/issue-16) |
 |      | 14th October   | [ed.ge/digest/issue-15](https://ed.ge/digest/issue-15) |
 |      | 08th October   | [ed.ge/digest/issue-14](https://ed.ge/digest/issue-14) |
