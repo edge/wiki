@@ -10,7 +10,8 @@ description: >-
 
 | Year | Week           | Summary                                                                        | Link                                                       |
 | ---- | -------------- | ------------------------------------------------------------------------------ | ---------------------------------------------------------- |
-| 2021 | 26th November  | Haven Protocol Partnership                                                     | [ed.ge/update/2021/11/26](https://ed.ge/update/2021/11/26) |
+| 2021 | 29th November  | Stakes Added to The XE Explorer                                                | [ed.ge/update/2021/11/29](https://ed.ge/update/2021/11/29) |
+|      | 22nd November  | Haven Protocol Partnership                                                     | [ed.ge/update/2021/11/22](https://ed.ge/update/2021/11/22) |
 |      | 15th November  | New Exchange Listing: MEXC                                                     | [ed.ge/update/2021/11/15](https://ed.ge/update/2021/11/15) |
 |      | 08th November  | Cross Device CLI and Network Staking                                           | [ed.ge/update/2021/11/08](https://ed.ge/update/2021/11/08) |
 |      | 01st November  | XE Testnet Faucet                                                              | [ed.ge/update/2021/11/01](https://ed.ge/update/2021/11/01) |

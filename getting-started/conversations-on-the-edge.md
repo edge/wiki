@@ -6,6 +6,12 @@ description: >-
 
 # Podcast
 
+## Episode 30, 03rd December 2021
+
+More digital brands are choosing to host projects on Edge Network as each week passes. This week, we run through the headline network customers and talk about why they are pioneers.
+
+{% embed url="https://vimeo.com/652974178" %}
+
 ## Episode 29, 27th November 2021
 
 We've been busy. Record $EDGE token transactions, exchange announcements and a new launch for Haven Protocol on Edge Network. Time to check in with founder Joseph Denne on all this, plus plans for 2022.
