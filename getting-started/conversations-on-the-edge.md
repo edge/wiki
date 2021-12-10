@@ -6,6 +6,12 @@ description: >-
 
 # Podcast
 
+## Episode 31, 10th December 2021
+
+Interest in Edge Network has never been higher, so this week’s Conversations on the Edge is one for the noobs – and a reminder for the rest of the community as to why we’re Faster, Greener and More Secure.
+
+{% embed url="https://vimeo.com/655437420" %}
+
 ## Episode 30, 03rd December 2021
 
 More digital brands are choosing to host projects on Edge Network as each week passes. This week, we run through the headline network customers and talk about why they are pioneers.
