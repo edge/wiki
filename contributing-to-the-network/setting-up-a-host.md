@@ -2,9 +2,9 @@
 
 Onboarding is now open for Host nodes on the Edge network, with support for:
 
-- Linux based AMD64/ARM devices
-- MacOS AMD64/ARM devices
-- Windows AMD64/ARM devices
+- Linux based x64/arm64 devices
+- MacOS x64/arm64 devices
+- Windows x64/arm64 devices
 
 ## Minimum Specifications
 
@@ -33,13 +33,13 @@ Browse [Edge Network Files](https://files.edge.network/cli/) to find the right b
 
 Note that there are separate builds for mainnet and testnet so make sure you download the right one for your purposes.
 
-For example, to download the mainnet CLI on an Ubuntu AMD64 host:
+For example, to download the mainnet CLI on an Ubuntu x64 host:
 
 ```bash
 $ curl -s https://files.edge.network/cli/mainnet/linux/x64/latest/edge -o /usr/bin/local/edge && chmod +x /usr/bin/local/edge
 ```
 
-In the same path as the file you downloaded, you can find a checksum file which you can compare against to ensure your download was not corrupted. If you downloaded the latest Linux AMD64 build (as above), you would find its checksum [here](https://files.edge.network/cli/mainnet/linux/x64/latest/checksum).
+In the same path as the file you downloaded, you can find a checksum file which you can compare against to ensure your download was not corrupted. If you downloaded the latest Linux x64 build (as above), you would find its checksum [here](https://files.edge.network/cli/mainnet/linux/x64/latest/checksum).
 
 ```bash
 # this should be the same as the server checksum
