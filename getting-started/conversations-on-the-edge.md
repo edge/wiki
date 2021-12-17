@@ -6,6 +6,12 @@ description: >-
 
 # Podcast
 
+## Episode 32, 17th December 2021
+
+Using Dropbox or Google Drive to store and share files? Upgrade to a faster and greener Web3 alternative by – you guessed it – Edge Network. Here's te lowdown on why you need to join the waitlist.
+
+{% embed url="https://vimeo.com/657959448" %}
+
 ## Episode 31, 10th December 2021
 
 Interest in Edge Network has never been higher, so this week’s Conversations on the Edge is one for the noobs – and a reminder for the rest of the community as to why we’re Faster, Greener and More Secure.
