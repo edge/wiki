@@ -8,7 +8,7 @@ Onboarding is now open for Host nodes on the Edge network, with support for:
 
 ## Minimum Specifications
 
-Our base recommendation is a device with the equivalent capacity of a Raspberry Pi 4 Model B, with a 64GB SD.
+To see the minimum required device specifications, please take a look at [Network Nodes](https://wiki.edge.network/contributing-to-the-network/network-nodes).
 
 {% hint style="info" %}
 **Devices with higher performance/capacity will return a higher yield**
