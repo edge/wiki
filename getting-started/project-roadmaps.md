@@ -8,45 +8,45 @@ The project roadmap for Edge provides a guide to the current and upcoming develo
 
 ## Technical Roadmap
 
-| Year | Target | Milestone                                                                                                  | Delivery       |
-| ---- | ------ | ---------------------------------------------------------------------------------------------------------- | -------------- |
-| 2021 | Q2     | [Blockchain Mainnet](https://edge.network/en/updates/announcements/weekly-update-wc-17th-may-2021/)        | 17th May       |
-|      |        | [Web Wallet](https://edge.network/en/updates/announcements/weekly-update-wc-31st-may-2021/)                | 31st May       |
-|      | Q3     | [Blockchain Explorer](https://edge.network/en/updates/announcements/weekly-update-wc-16th-august-2021/)    | 16th August    |
-|      |        | [Bridge Open](https://edge.network/en/updates/announcements/edge-token-launch/)                            | 09th September |
-|      |        | [Uniswap Listing](https://edge.network/en/updates/announcements/edge-token-launch/)                        | 09th September |
-|      |        | Explorer Wallet View                                                                                       | 17th September |
-|      |        | Console Mothballed                                                                                         | 30th September |
-|      | Q4     | [Wallet Sell Feature](https://edge.network/en/updates/announcements/weekly-update-wc-27th-september-2021/) | 01st October   |
-|      |        | [Explorer Wallet Index](https://edge.network/en/updates/announcements/weekly-update-wc-04th-october-2021/) | 08th October   |
-|      |        | Explorer Token Stats                                                                                       |                |
-|      |        | 2021 Payouts Processed                                                                                     |                |
-|      |        | On-Chain Staking                                                                                           |                |
-|      |        | Command Line Interface for Staking                                                                         |                |
-|      |        | Public Testnet for Network V2                                                                              |                |
-|      |        | Stargate V2                                                                                                |                |
-|      |        | Gateway V2                                                                                                 |                |
-|      |        | Host V2                                                                                                    |                |
-|      |        | Mainnet Device Onboarding & Migration                                                                      |                |
-|      |        | VPS Public Beta                                                                                            |                |
-|      |        | XE iOS and Android Wallet                                                                                  |                |
-| 2022 | Q1+    | Community Governance                                                                                       |                |
-|      |        | Daily Earnings                                                                                             |                |
-|      |        | PAYG Payments in Crypto                                                                                    |                |
-|      |        | New Customer Facing Website                                                                                |                |
-|      |        | Migration of CDN Customers to Edge Network V2                                                              |                |
-|      |        | Migration of DNS Customers to Edge Network V2                                                              |                |
-|      |        | VPS Mainnet Launch                                                                                         |                |
-|      |        | Integrate Node Explorer with XE Explorer                                                                   |                |
-|      |        | PAYG Payments in FIAT                                                                                      |                |
-|      |        | Storage Beta                                                                                               |                |
-|      |        | Storage Mainnet Launch                                                                                     |                |
-|      |        | Higher Frequncy Node Payouts                                                                               |                |
-|      |        | Desktop Host Version                                                                                       |                |
-|      |        | Streaming Video Support in CDN                                                                             |                |
-|      |        | Edge Functions Public Beta                                                                                 |                |
-|      |        | Edge DB Public Beta                                                                                        |                |
-|      |        | Edge Shield Public Beta                                                                                    |                |
+| Year | Target | Milestone                                                                                                  | Status                   |
+| ---- | ------ | ---------------------------------------------------------------------------------------------------------- | ------------------------ |
+| 2021 | Q2     | [Blockchain Mainnet](https://edge.network/en/updates/announcements/weekly-update-wc-17th-may-2021/)        | Delivered 17th May       |
+|      |        | [Web Wallet](https://edge.network/en/updates/announcements/weekly-update-wc-31st-may-2021/)                | Delivered 31st May       |
+|      | Q3     | [Blockchain Explorer](https://edge.network/en/updates/announcements/weekly-update-wc-16th-august-2021/)    | Delivered 16th August    |
+|      |        | [Bridge Open](https://edge.network/en/updates/announcements/edge-token-launch/)                            | Delivered 9th September  |
+|      |        | [Uniswap Listing](https://edge.network/en/updates/announcements/edge-token-launch/)                        | Delivered 9th September  |
+|      |        | Explorer Wallet View                                                                                       | Delivered 17th September |
+|      |        | Console Mothballed                                                                                         | Delivered 30th September |
+|      | Q4     | [Wallet Sell Feature](https://edge.network/en/updates/announcements/weekly-update-wc-27th-september-2021/) | Delivered 1st October    |
+|      |        | [Explorer Wallet Index](https://edge.network/en/updates/announcements/weekly-update-wc-04th-october-2021/) | Delivered 8th October    |
+|      |        | 2021 Payouts Processed                                                                                     | Ongoing                  |
+|      |        | On-Chain Staking                                                                                           | Delivered                |
+|      |        | Command Line Interface for Staking                                                                         | Delivered                |
+|      |        | Public Testnet for Network V2                                                                              | Delivered                |
+|      |        | Stargate V2                                                                                                | Delivered                |
+|      |        | Gateway V2                                                                                                 | Delivered                |
+|      |        | Host V2                                                                                                    | Delivered                |
+|      |        | Mainnet Device Onboarding & Migration                                                                      | Delivered                |
+| 2022 | Q1+    | XE iOS and Android Wallet                                                                                  |                          |
+|      |        | VPS Public Beta                                                                                            |                          |
+|      |        | Community Governance                                                                                       |                          |
+|      |        | Daily Earnings                                                                                             |                          |
+|      |        | PAYG Payments in Crypto                                                                                    |                          |
+|      |        | New Customer Facing Website                                                                                |                          |
+|      |        | Migration of CDN Customers to Edge Network V2                                                              |                          |
+|      |        | Migration of DNS Customers to Edge Network V2                                                              |                          |
+|      |        | VPS Mainnet Launch                                                                                         |                          |
+|      |        | Integrate Node Explorer with XE Explorer                                                                   |                          |
+|      |        | PAYG Payments in FIAT                                                                                      |                          |
+|      |        | Storage Beta                                                                                               |                          |
+|      |        | Explorer Token Stats                                                                                       |                          |
+|      |        | Storage Mainnet Launch                                                                                     |                          |
+|      |        | Higher Frequncy Node Payouts                                                                               |                          |
+|      |        | Desktop Host Version                                                                                       |                          |
+|      |        | Streaming Video Support in CDN                                                                             |                          |
+|      |        | Edge Functions Public Beta                                                                                 |                          |
+|      |        | Edge DB Public Beta                                                                                        |                          |
+|      |        | Edge Shield Public Beta                                                                                    |                          |
 
 ## Rolling Priorities
 
