@@ -10,7 +10,11 @@ description: >-
 
 | Year | Week           | Summary                                                                        | Link                                                       |
 | ---- | -------------- | ------------------------------------------------------------------------------ | ---------------------------------------------------------- |
-| 2021 | 29th November  | Stakes Added to The XE Explorer                                                | [ed.ge/update/2021/11/29](https://ed.ge/update/2021/11/29) |
+| 2022 | 03rd January   | Stargate, Index, CLI and Staking Updates                                       | [ed.ge/update/2022/01/03](https://ed.ge/update/2022/01/03) |
+| 2021 | 20th December  | Merry Christmas!                                                               | [ed.ge/update/2021/12/20](https://ed.ge/update/2021/12/20) |
+|      | 13th December  | Device Onboarding Now Live                                                     | [ed.ge/update/2021/12/13](https://ed.ge/update/2021/12/13) |
+|      | 06th December  | CLI, Explorer, Wallet and Index releases                                       | [ed.ge/update/2021/12/06](https://ed.ge/update/2021/12/06) |
+|      | 29th November  | Stakes Added to The XE Explorer                                                | [ed.ge/update/2021/11/29](https://ed.ge/update/2021/11/29) |
 |      | 22nd November  | Haven Protocol Partnership                                                     | [ed.ge/update/2021/11/22](https://ed.ge/update/2021/11/22) |
 |      | 15th November  | New Exchange Listing: MEXC                                                     | [ed.ge/update/2021/11/15](https://ed.ge/update/2021/11/15) |
 |      | 08th November  | Cross Device CLI and Network Staking                                           | [ed.ge/update/2021/11/08](https://ed.ge/update/2021/11/08) |

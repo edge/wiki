@@ -6,6 +6,12 @@ description: >-
 
 # Podcast
 
+## Episode 33, 24th December 2021
+
+Edge is the infrastructure of Web3 – but what is Web3 and why does it matter? And how does Edge Network fit into its decentralised future?
+
+{% embed url="https://vimeo.com/660004720" %}
+
 ## Episode 32, 17th December 2021
 
 Using Dropbox or Google Drive to store and share files? Upgrade to a faster and greener Web3 alternative by – you guessed it – Edge Network. Here's te lowdown on why you need to join the waitlist.

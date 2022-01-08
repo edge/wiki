@@ -2,7 +2,7 @@
 
 As part of Edge's ongoing commitment to transparency and development in the open, the core team write weekly updates to the Edge community.
 
-There have been 140 of these so far.
+There have been 144 of these so far.
 
 {% content-ref url="weekly-updates.md" %}
 [weekly-updates.md](weekly-updates.md)
@@ -10,72 +10,70 @@ There have been 140 of these so far.
 
 ## Latest Update
 
-![](../../.gitbook/assets/weeklyUpdate291121.png)
+![](../../.gitbook/assets/weeklyUpdate03012022.png)
 
-Good evening everyone 👋
+Hi everyone, and Happy New year!
 
-Friday! How has your week been?
+The team have been back full time this week and have got 2022 off to a cracking start.
 
-This week saw a whole bunch of deployments to both testnet and mainnet.
+We’ve spent a block of time prioritising the roadmap for 2022; have had 10+ customer meetings; several sessions with two new partners; delivered a series of updates to testnet and to mainnet; and have moved forward with a brand and site refresh.
 
-First up, **Faucet v1.0.7** deployed which introduced a slight change to the format of transaction memos. The faucet has been running well since it was introduced to test.network, and has even played a key role in the Edge scavenger hunt.
+**CLI v1.5.2** was released to mainnet. This version fixes an issue Windows users may have encountered (thanks to japoilski for the community fix) as well as a small issue with debug mode crashing.
 
-The team also released **Wallet v1.8.2**, which fixed a small issue with deposit fees sometimes displaying incorrectly. This update also removed some debugging information that got left in the deposit panel by accident. (Oops!)
+**Index v1.11.0** was deployed. This update introduces a token value endpoint, which is used by the new Edge Price bot (which you can see in Discord) 🤖. We’re planning to expand on this to provide historical data too. More on that next week.
 
-Next up came **Blockchain v1.5.0**, which introduced blockchain protocol functionality. This allows for changes to the blockchain & cryptographic ledger protocol without breaking historical blocks or transactions. This functionality was then used to introduce a change to the ledger under the protocol version 1, so that new and modified stakes are indexed by their IDs too (previously it was just their hashes).
+**Stargate v2.1.0-64** was deployed to mainnet introducing some additional session endpoints (used by the new Network Status bot here in Discord). This was also a great opportunity to test the update process which worked perfectly, with all devices reconnecting to the gateway quickly and smoothly.
 
-**Index v1.9.0** was also deployed, making use of the updates to the blockchain and bringing with it stake indexing. Stakes, and their transaction history, are now explorable through the index API.
+**Stargate v2.1.1-70** was deployed to mainnet with fixes for session concurrency issues along with a security patch.
 
-The Index API is free to use, and powers the explorer. If you’re interested in using it, do reach out to us.
+**Stargate v2.1.2-79** was deployed to mainnet introducing session metrics collection for monitoring. 📊
 
-Following the Index update, **Explorer v1.10.0** was then deployed (which also included the testnet only Explorer v1.9.0 faucet update). This update brought with it additional statistics to the overview page, as well as new stake pages (both for listing stakes and viewing individual stakes). Take a look!
+**Stargate v2.1.3-85** and **Gateway v2.0.1-47** were deployed to mainnet. These two updates fix an issue with sessions where a node reconnecting while still connected causes both to be disconnected. While only one device should be used per device wallet, this protects against anyone trying to use one device wallet (ergo, one stake) for multiple devices. Only one session can be active per stake at any one time.
 
-![](<../../.gitbook/assets/Screenshot 2021-12-03 at 10.36.15.png>)
+Finally, **Stargate v2.1.4-91**, **Gateway v2.0.2-51**, and **Host v2.0.1-38** were deployed to mainnet which introduced recording of network node versions in metrics to help us monitor and optimise network updates. These updates also included some refinement of messaging processing in all three nodes.
 
-**CLI v1.2.0** is now available on test.network, which has stake and onboarding functionality. Onboarding on testnet isn't fully functional at the moment but feel free to update your edgetest binaries and have a poke around.
+This last set of releases also saw us introduce the first Host update to mainnet, and here you can see how the update progressed: quick and smooth, with the majority of host nodes updating within a minute.
 
-As a reminder, you can get the testnet CLI binary from https://files.edge.network/cli/testnet/ or simply run `edgetest update` if you already have it.
+![](https://cdn.edge.network/uploads/media/2022/01/08/1.png)
 
-**CLI v1.0.4** is available on mainnet which already allows staking (we’ve already had one Host stake created) so you can use that to generate stakes now, and in the near future you’ll be able to onboard devices to the new Edge network (v2) using these stakes.
+(The others returned within a few more minutes.)
 
-If you want to try the CLI out first on testnet, onboarding for devices will be live by the end of next week there, so check out the latest version of the testnet CLI. If you need help using it, feel free to ask in one of our channels.
+![](https://cdn.edge.network/uploads/media/2022/01/08/2.png)
 
-For those of you who have legacy stakes, the transfer of these will get underway next week, just in time for device onboarding opening up. Please keep an eye out for an email asking you to confirm the XE wallet address that you want to be used for staking.
+We’ve also given the Discord server a bit of a facelift to make the channels more friendly. A new channel named `💾│releases` has been created for release information like those above so that the main announcements channel isn't clogged up with releases (which happen highly regularly).
 
-Mainnet device onboarding will follow on from this.
+The team also released a couple of bots to Discord: `@Edge Price` & `@Edge Network Status`
 
-We spoke to a sports technology startup about the use of XE for their blockchain project. And we spoke to a car group about the potential for launching an asset backed token on the network. Both early conversations about interesting and compelling projects that would make great use of Edge technology.
+We have 78 stakes in network v2, and the update process for their associated nodes has been working extremely well.
 
-The anonymous account and authentication methods for Edge Servers neared completion. API integration for the Edge Server Management layer into the account interfaces is ongoing and progressing well.
+This means that there is now 465,000 XE staked in the network, with more on the way. We expect to see this number in the millions very soon.
 
-The latest episode of Conversations on the Edge, the Edge Network Podcast, just dropped:
+We've also started running through the stake migration requests, and many of you will be receiving emails asking you to confirm your request in the coming days.
 
-{% embed url="https://vimeo.com/652974178" %}
+Please ensure that you make your request with your Console account email to make it easier for us to process. Also for Founding Node requests, please include your original staking transaction or your device name if you can find it.
 
-Another crypto project launched on Edge :muscle:
+Don’t forget to check your inbox and spam messages for emails from us to confirm your request. If anything is unclear, you can always ask in Discord or drop one of our community admins a DM.
 
-{% embed url="https://cryptolex-nft.io" %}
+We’re slightly delayed in the processing of the remaining payouts for 2021, which we had planned to complete last week. They’ll now be completed next week.
 
-If you want to bring your project to the Edge Network, hit us up. We’re offering free decentralised hosting to crypto projects.
+The latest issue of our weekly newsletter dropped yesterday. You can read it here:
 
-And the latest issue of our now weekly newsletter was just sent. If you’re not signed up, do so now!
+{% embed url="https://ed.ge/digest/issue-26" %}
+
+And if you’re not signed up, sign up now:
 
 {% embed url="https://edge.press" %}
 
-You check out the latest digest here:
+For the latest from the core team join our Discord. It gets all the good stuff, including automatic build notices and announcements. Here’s the invite:
 
-{% embed url="https://ed.ge/digest/issue-23" %}
+{% embed url="https://discord.gg/edge-network" %}
 
-We’ve had some great applications for the open positions on the core team. If youve not heard back from us yet, hang tight. And if you want to help to drive the project forward, why not send in an application. We’re all remote and looking or full and part time contributors. More information can be found here:
+If you missed the last update of 2021, you can read it on site now:
 
-{% content-ref url="../../supporting-the-network/careers/" %}
-[careers](../../supporting-the-network/careers/)
-{% endcontent-ref %}
+{% embed url="https://ed.ge/update/2021/12/20" %}
 
-Finally, if you missed last weeks update, scroll up :point\_up\_2: ...or you can read it on our site here:
+And finally, look out for my 2021 TL;DR. It’s taken me longer than I hoped to get this one out because it was such a packed year. It should drop over the next couple of days.
 
-{% embed url="https://ed.ge/update/2021/11/22" %}
-
-And that’s it for this week. Have a great weekend.
+And that’s it for the first update of 2022! Enjoy your weekends 😎
 
 _Posted by: Joseph Denne_
