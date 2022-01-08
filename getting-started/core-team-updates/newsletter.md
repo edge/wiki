@@ -10,6 +10,7 @@ description: >-
 
 | Year | Date           | Link                                                   |
 | ---- | -------------- | ------------------------------------------------------ |
+| 2022 | 06th January   | [ed.ge/digest/issue-23](https://ed.ge/digest/issue-23) |
 | 2021 | 25th November  | [ed.ge/digest/issue-22](https://ed.ge/digest/issue-22) |
 |      | 21st November  | [ed.ge/digest/issue-21](https://ed.ge/digest/issue-21) |
 |      | 16th November  | [ed.ge/digest/issue-20](https://ed.ge/digest/issue-20) |
