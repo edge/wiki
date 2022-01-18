@@ -1,14 +1,14 @@
 ---
 description: >-
   "Conversations on the Edge" is a series of audio shorts discussing the Edge
-  Network and how it is poised to change the Internet.
+  Network and how it's poised to change the Internet.
 ---
 
 # Podcast
 
 ## Episode 30, 03rd December 2021
 
-More digital brands are choosing to host projects on Edge Network as each week passes. This week, we run through the headline network customers and talk about why they are pioneers.
+More digital brands are choosing to host projects on Edge Network as each week passes. This week, we run through the headline network customers and talk about why they're pioneers.
 
 {% embed url="https://vimeo.com/652974178" %}
 
@@ -20,7 +20,7 @@ We've been busy. Record $EDGE token transactions, exchange announcements and a n
 
 ## Episode 28, 19th November 2021
 
-We announced a new exchange this week – what does that mean for $EDGE and what is our strategy for building the token community? Listen to find out.
+We announced a new exchange this week. What does that mean for $EDGE and what's our strategy for building the token community? Listen to find out.
 
 {% embed url="https://vimeo.com/647863538" %}
 
@@ -50,13 +50,13 @@ What is CDN? A deeper dive into just one of the applications offered by Edge Net
 
 ## Episode 23, 15th October 2021
 
-So you want to be a part of Edge Network. You want to to earn revenue for contributing spare capacity from your laptop or desktop machine as soon as possible. Here’s how to be ready…
+Want to be a part of Edge Network? Want to to earn revenue for contributing spare capacity from your laptop or desktop ASAP? Here’s how…
 
 {% embed url="https://vimeo.com/636112042" %}
 
 ## Episode 22, 08th October 2021
 
-‘Tech for good’ isn’t only about code, it’s a code of practice. And it starts by being open about our mission – in this week's episode we talk about transparency and fairness, from weekly updates to the power of the crowd.
+‘Tech for good’ isn’t only about code. It’s a code of practice. And it starts by being open about our mission. In this week's episode we talk about transparency and fairness, from weekly updates to the power of the crowd.
 
 {% embed url="https://vimeo.com/626734599" %}
 
@@ -98,13 +98,13 @@ This week, why switching digital services to Edge Network will make your busines
 
 ## Episode 15, 20th August 2021
 
-In a changing world we need a more sustainable internet – and that begins with cloud infrastructure. This week, we examine how Edge Network is part of a new generation of technology for cleaner cloud services.
+In a changing world, we need a more sustainable internet – and that begins with cloud infrastructure. This week, we examine how Edge Network is part of a new generation of technology for cleaner cloud services.
 
 {% embed url="https://vimeo.com/589238194" %}
 
 ## Episode 14, 13th August 2021
 
-Edge Network harnesses the power of people to change cloud services – and with it the world. We call it 'crowd infrastructure', and this episode of Conversations on the Edge explains how you can be a part of it.
+Edge Network harnesses the power of people to change cloud services – and with it, the world. We call it 'crowd infrastructure', and this episode of Conversations on the Edge explains how you can be a part of it.
 
 {% embed url="https://vimeo.com/586833154" %}
 
@@ -158,13 +158,13 @@ Is the cloud really just smog? This week in Conversations on the Edge, we examin
 
 ## Episode Five, 11th June 2021
 
-Half of the Internet is hosted by just three companies. Is that fair? This week in Conversations on the Edge, we look at the network that powers our new digital society – and how it should be in the hands of the many, not the few.
+Half of the Internet is hosted by just three companies. Is that fair? This week in Conversations on the Edge, we look at the network that powers our new digital society, and how it should be in the hands of the many, not the few.
 
 {% embed url="https://vimeo.com/564054748" %}
 
 ## Episode Four, 04th June 2021
 
-We’re on the cusp of unprecedented demand for data storage and traditional infrastructure just won’t cut it. In our fourth episode of Conversations on the Edge, we discuss the future of the Internet – and why we need a new cloud.
+We’re on the cusp of unprecedented demand for data storage. Traditional infrastructure just won’t cut it. In our fourth episode of Conversations on the Edge, we discuss the future of the Internet – and why we need a new cloud.
 
 {% embed url="https://vimeo.com/559097028" %}
 
