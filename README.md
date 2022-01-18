@@ -1,6 +1,6 @@
 # Welcome to the Edge Community Wiki
 
-The Edge Community Wiki is the go-to resource for all things Edge. Here, you can learn about the technologies behind the platform, find out how to contribute to the network, and how to participate in project governance. There's also a whole range of support and network FAQs.
+The Edge Community Wiki is the go-to resource for all things Edge. Here, you can read more about the technologies behind the platform, find out how to contribute to the network, and learn how to participate in project governance. There's also a whole range of support and network FAQs.
 
 {% hint style="info" %}
 **This is a living document that's regularly updated. Last update: 18th January 2022**
