@@ -1,6 +1,6 @@
 # Edge Products
 
-There are two products live in the network mainnet today, DNS and CDN. Many more products are in development, including Edge Storage, App Cache, Edge Functions and Edge DB.
+There are two products live in the network mainnet today, DNS and CDN. We're developing many more products too, including Edge Storage, App Cache, Edge Functions and Edge DB.
 
 Together these products allow you to create and run fully decentralised applications and websites.
 
@@ -9,34 +9,34 @@ Together these products allow you to create and run fully decentralised applicat
 ### Hosting
 
 {% hint style="info" %}
-**Static websites can be run in the network today, delivered through CDN**
+**You can run static websites in the network today, delivered through CDN**
 {% endhint %}
 
 An example of a static site hosted via Edge Content Delivery can be seen here: [thedecentralizedweb.com](https://thedecentralizedweb.com)
 
 Dynamic sites will be enabled with the addition of Edge Cache, Edge Functions and Edge DB.
 
-Hosting on the Edge ensures a lightening fast experience for your end users, increasing conversion and retention.
+Hosting on the Edge ensures a lightning fast experience for your end users, increasing conversion and retention.
 
 ### Content Delivery
 
 The performance of applications and websites can be improved through the use of CDN, which distributes images, media and assets as close to the end audience as possible.
 
-Edge CDN includes a full media pipeline, enabling you to transform, optimise and intelligently cache your  media library using simple and robust URL parameters.
+Edge CDN includes a full media pipeline, enabling you to transform, optimise and intelligently cache your media library using simple and robust URL parameters.
 
-Edge CDN can be used a drop in replacement for existing CDNs, and can be added to websites and apps without a CDN in place quickly and easily.
+You can use Edge CDN as a drop-in replacement for existing CDNs, and can be added to websites and apps without a CDN in place quickly and easily.
 
 ### Domain Routing
 
-DNS is a critical part of the Internet and for all online businesses. Edge enables the management of DNS routes, providing an authoritative DNS service that offers instant updates, hyper-local routing, high redundancy, and advanced security with built-in DDoS mitigation.
+DNS is a critical part of the Internet and for all online businesses. Edge lets you manage DNS routes, providing a DNS service that offers instant updates, hyper-local routing, high redundancy, and advanced security with built-in DDoS mitigation.
 
 ### File Storage and Sharing
 
-Edge Object Storage enables fully decentralised, high performance and secure file storage, backup and file sharing for individuals and businesses. Files stored in the Edge Network can be encrypted with your own private keys, and are broken in to hundreds of pieces, providing an extremely secure data storage solution.
+Edge Object Storage enables decentralised, high performance and secure file storage, backup and file sharing for individuals and businesses. Files stored in the Edge Network can be encrypted with your own private keys, and are broken in to hundreds of pieces, providing an extremely secure data storage solution.
 
 ### Application Acceleration
 
-Caching API endpoints at the edge of the network accelerates your products responsiveness, improving user experience, helping to drive deeper engagement and higher conversion.
+Caching API endpoints at the edge of the network accelerates your products' responsiveness, improving user experience, helping to drive deeper engagement and higher conversion.
 
 ## Customer Success
 
@@ -56,7 +56,7 @@ View property: [monocle.com](https://monocle.com)
 
 Ecohustler is an environmental news outlet, activism network and shop. Making use of the the cleanest available technology is central to their mission. Edge is unique in its use of the spare capacity in the devices all around us, meaning reduced emissions through lower power consumption.
 
-> Edge helps us reach our audience energy efficiently, using spare capacity in existing devices rather than building dedicated data centres. – **Matt Mellen**, Founder | Ecohustler
+> Edge helps us reach our audience energy efficiently, using spare capacity in existing devices rather than dedicated data centres. – **Matt Mellen**, Founder | Ecohustler
 
 View property: [ecohustler.com](https://ecohustler.com)
 
