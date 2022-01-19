@@ -28,7 +28,7 @@ Edge object storage supports multi-threaded and concurrent downloads. And its us
 
 ### Reliable
 
-Every fragment of every file is stored in multiple locations, building "redundancy" into the heart of the solution. In addition, reed-Solomon erasure coding enables file rebuilding in the unlikely event of data loss.
+Every fragment of every file is stored in multiple locations, building "redundancy" into the heart of the solution. In addition, Reed-Solomon erasure coding enables file rebuilding in the unlikely event of data loss.
 
 ### Cost Efficient
 
