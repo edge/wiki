@@ -78,4 +78,4 @@ Fees tied to the raising of proposals in the governance mechanism are put into t
 
 ### Buy Back and Make
 
-A buy-back and make programme assigns network revenue to the dev fund and to the growth fund. A percent of the gas fees from the network bridge are put into the growth fund as well.
+A buy back and make programme assigns network revenue to the dev fund and to the growth fund. A percent of the gas fees from the network bridge are put into the growth fund as well.
