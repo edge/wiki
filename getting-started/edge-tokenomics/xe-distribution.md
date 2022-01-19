@@ -8,7 +8,7 @@ A total of 50 million $XE were minted and distributed. In addition to this, 10 m
 
 Holders of the original $EDGE token who had been through the swap process to $TNC were able to claim a distribuion of $XE. This was proportional to their original holdings, factoring the reduction in supply.
 
-In addition, a small percentage of all holders funds were held back to create the Growth Fund.
+In addition, a small percentage of all holders' funds were held back to create the Growth Fund.
 
 {% content-ref url="growth-fund.md" %}
 [growth-fund.md](growth-fund.md)
