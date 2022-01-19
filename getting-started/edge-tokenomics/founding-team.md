@@ -1,6 +1,6 @@
 # Founding Team
 
-The founding team allocation at crowdsale in 2018 was 20%. This was vested over five years. Three years of vested tokens have been released, in February 2018, February 2019 and February 2020.
+2018's crowdsale allocated 20% to the founding team. This was vested over five years. Three years of vested tokens have been released, in February 2018, February 2019 and February 2020.
 
 The remaining allocation – 8% – has been swapped to $XE and a new vesting schedule has been put in place. This schedule runs over five years, releasing at 20% per year, meaning that a maximum of 1.6% of supply will be made available to the founding team per year.
 
