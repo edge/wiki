@@ -10,7 +10,7 @@ description: >-
 **Edge Storage is currently in development**
 {% endhint %}
 
-The Edge Network encrypts and splits files into hundreds of pieces. These files are then distributed across nodes in the network. This approach ensures your data is secure. Encryption keys are under your control, and no complete file is stored on a single device.
+The Edge Network encrypts and splits files into hundreds of pieces. These files are then distributed across nodes in the network, which ensures your data is always secure. Encryption keys are under your control, and no complete file is stored on a single device.
 
 The availability of files and transfer performance in and out of the network is managed through replication and proximity to the point of use. This makes Edge the ideal solution for backup, file transfer and app level data storage.
 
