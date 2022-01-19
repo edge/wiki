@@ -1,7 +1,7 @@
 ---
 description: >-
-  Edge Object Storage provides highly redundant, fast, secure and affordable
-  storage for all types of data.
+  Edge Object Storage provides fast, secure and affordable
+  storage for all types of data. 
 ---
 
 # Object Storage
@@ -28,11 +28,11 @@ Edge object storage supports multi-threaded and concurrent downloads. And its us
 
 ### Reliable
 
-Every fragment of every file is stored in multiple locations, building "redundancy" into the heart of the solution. In addition, Reed-Solomon erasure coding enables file rebuilding in the unlikely event of data loss.
+Every fragment of every file is stored in multiple locations, building "redundancy" into the heart of the solution. Redundancy ensures that you can always retrieve your information quickly, even if one or more locations are unavailable. In addition, Reed-Solomon erasure coding enables file rebuilding in the unlikely event of data loss.
 
 ### Cost Efficient
 
-Because it’s decentralized and built using the spare capacity all around us, Edge storage is significantly cheaper to use than traditional cloud solutions.
+Because it’s decentralised and built using the spare capacity all around us, Edge storage is significantly cheaper to use than traditional cloud solutions.
 
 ### Integrated
 
