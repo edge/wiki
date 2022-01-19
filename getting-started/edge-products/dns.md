@@ -7,7 +7,7 @@ description: >-
 
 # DNS
 
-Powered by a worldwide anycast network built in to the core of Edge platform and operational in 20+ countries, Edge DNS operates at lightning speeds ensuring incredibly fast resolution times and low latency for your apps.
+Edge DNS is powered by a worldwide anycast network built in to the core of Edge platform, operational in 20+ countries. It operates at lightning speeds to ensure super fast resolution times and low latency for your apps.
 
 ![](../../.gitbook/assets/dns.png)
 
@@ -23,7 +23,7 @@ Traditional DNS update times: 24 hours. Edge DNS update times: 60 seconds.
 
 ### Redundancy and Optimization
 
-DNS queries are serviced by every master node in the network, meaning that there is no single point of failure and a near infinite number of routes available.
+Every master node in the network services a DNS query, meaning that there's no single point of failure and a near infinite number of routes available.
 
 ### Built in Failover
 
@@ -31,7 +31,7 @@ Intelligent traffic management ensures seamless handoff and removes DNS bottlene
 
 ### Platform-Wide DDoS Protection
 
-DDoS mitigation technology is built in to the core of the network, providing a shield for your applications from malicious attacks.
+DDoS mitigation technology is built in to the core of the network, shielding your applications from malicious attacks.
 
 ### Industry Leading Uptime
 
