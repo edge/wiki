@@ -12,5 +12,5 @@ The Staking Contract holds $XE that has been locked in the network for participa
 
 Individual stakes are locked for a minimum period of 90 days.
 
-Individuals who want to withdraw ahead of the lock period will be able to do so for a fee \(amount TBC\). The fee amount will be put into the growth fund.
+If you want to withdraw ahead of the lock period, you'll be able to do so for a fee \(amount TBC\). The fee amount will be put into the growth fund.
 
