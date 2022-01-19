@@ -1,5 +1,5 @@
 ---
-description: Edit provides flexible content management for businesses big and small.
+description: Edit provides flexible content management for all kinds of businesses.
 ---
 
 # Edit.com
@@ -10,7 +10,7 @@ description: Edit provides flexible content management for businesses big and sm
 
 ![](../../.gitbook/assets/editinterface.png)
 
-Edit integrates with almost anything, giving you one clean interface to run everything from content management to customer emails. And it works on any device from mobile app to smart TV.
+Edit integrates with almost anything, from mobile app to smart TV. Plus, you can run everything from one clean interface — from content management to customer emails. 
 
 Best of all, everything made with Edit is decentralised by default.
 
@@ -30,7 +30,7 @@ Edit brings new flexibility and efficiency to online shopping and subscriptions.
 
 ### Beautiful Designs
 
-Edit allows creative freedom for front-end templates and mobile applications.
+Edit gives you creative freedom for front-end templates and mobile applications.
 
 ### Multi-Tenancy
 
