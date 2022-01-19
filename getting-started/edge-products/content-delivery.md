@@ -1,6 +1,6 @@
 ---
 description: >-
-  Edge Content Delivery is the world’s first CDN running exclusively on the
+  Edge Content Delivery is the world’s first CDN that runs exclusively on the
   edge. It's kinder to the environment and better for business.
 ---
 
@@ -8,7 +8,7 @@ description: >-
 
 {% embed url="https://vimeo.com/528575049" caption="" %}
 
-Edge’s architecture creates a hyper-local peering system that routes traffic from nodes that are as close to the end consumer as possible – going as far as delivering within the local network loop.
+Edge’s architecture creates a hyper-local peering system that routes traffic from nodes that are as close to the end consumer as possible.
 
 This reduces the distance and volume of data being moved, which massively increases the performance of services.
 
@@ -22,11 +22,11 @@ Edge CDN has hundreds of nodes in over 80 countries, getting your content closer
 
 ### **Integrated Image Transformation**
 
-Edge Content Delivery includes a media pipeline that allows for just in time image manipulation: Blur, filter, flip, format, resize, rotate, saturate, sharpen and crop. This offsets the weight of media management to your delivery solution.
+Edge Content Delivery includes a media pipeline that allows for just-in-time image manipulation: Blur, filter, flip, format, resize, rotate, saturate, sharpen and crop. This offsets the weight of media management to your delivery solution.
 
 ### **Real Time Optimisation**
 
-Real time compression and resizing of assets at the point of request saves an average of 60% in filesize, speeding up delivery, reducing your overall costs and increasing conversion.
+Real time compression and resizing of assets at the point of request saves an average of 60% in filesize, speeding up delivery, reducing your overall costs, and increasing conversion.
 
 ### **End to End TLS**
 
