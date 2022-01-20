@@ -10,9 +10,9 @@ There are three key node types in the network:
 
 ![](../.gitbook/assets/stargate.png)
 
-Stargates are the masternodes in the Edge Network. They run the $XE blockchain and provide the domain name system that makes Gateway/Host resources addressable. They are responsible for the secure running of the network. They monitor resources and control device yields.
+Stargates are the masternodes in the Edge Network. They run the $XE blockchain and provide the domain name system that makes Gateway/Host resources addressable. They're responsible for the secure running of the network. They also monitor resources and control device yields.
 
-Stargates are intended for high-connectivity environments: think data centers and high bandwidth office environments, and are designed to be single, powerful machines rather than a cluster of smaller, less powerful machines.
+Stargates are intended for high-connectivity environments: think data centers and high bandwidth office environments. They're designed to be single, powerful machines rather than a cluster of smaller, less powerful machines.
 
 #### **Minimum specification**
 
@@ -26,7 +26,7 @@ Stargates are intended for high-connectivity environments: think data centers an
 
 ![](../.gitbook/assets/gateway.png)
 
-Gateways are the entry point to the network, acting as an aggregate point for Host node capacity. They manage job queues and deliver job requests to Hosts on the basis of a rolling Host score, preferencing the Host nodes most likely to quickly perform a certain task at any given moment in time.
+Gateways are the entry point to the network, acting as an aggregate point for Host capacity. They manage job queues and deliver job requests to Hosts on the basis of a rolling Host score. That is, they prefer Host nodes that are more likely to quickly perform a certain task at any given moment in time.
 
 They are high-connectivity devices.
 
@@ -58,11 +58,11 @@ Hosts provide the processing and storage capacity in the network. Designed for m
 
 ## Network Backbone
 
-The core team at Edge manage a series of nodes in order to ensure and front run capacity requirements in the network. The backbone is housed with data centre partners all over the world and includes Stargates, Gateways and Hosts.
+Edge's core team manage a series of nodes in order to ensure and front run the network's capacity requirements. The backbone is housed with data centre partners all over the world and includes Stargates, Gateways and Hosts.
 
 ### Backbone Rentals
 
-Nodes in the network backbone are made available for staking to members of the community. This gives access to ndoes without the requirement for providing hardware and conenctivity yourself.
+Nodes in the network backbone are available for staking to members of the community. This gives you access to nodes without the need for your own hardware and connectivity.
 
 Stake levels are the same as if you were running a node yourself, but the nodes yield is split between the staker and the dev fund, with 75% going to the stake provider and 25% going towards future network development.
 
