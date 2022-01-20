@@ -1,10 +1,10 @@
 # Setting up a Host
 
 {% hint style="danger" %}
-**Host onboarding is temporailly suspended. It is expected to open again in the coming months**
+**Host onboarding is temporarily suspended. It's expected to open again in the coming months**
 {% endhint %}
 
-Onboarding is now open for Host nodes on the Edge network, with support for Linux based AMD64/ARM devices available.
+Onboarding is now open for Host nodes on the Edge network, with support for Linux based AMD64/ARM devices.
 
 You can access our Apt repository here: [archive.edge.network](https://archive.edge.network/)
 
@@ -20,7 +20,7 @@ Our base recommendation is a device with the equivalent capacity of a Raspberry 
 
 ## Installation Process
 
-The process has been designed to be as straight forward as possible.
+The process has been designed to be as straightforward as possible.
 
 The process is as follows:
 
@@ -56,7 +56,7 @@ $ sudo apt update
 $ sudo apt install edge-cli
 ```
 
-Once done you will need to add you device your account at console.edge.network, which is done at the command line through Cli, as shown in the following steps.
+Once done, you'll need to add you device your account at console.edge.network, which is done at the command line through Cli, as shown in the following steps.
 
 #### Attach Your Device to Your Account
 
