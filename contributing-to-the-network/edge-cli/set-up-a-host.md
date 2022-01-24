@@ -1,63 +1,39 @@
-# Setting up a Host
+# Set up a Host
 
-Onboarding is now open for Host nodes on the Edge network, with support for:
+The process of onboarding a Host is designed to be as straightforward as possible.
 
-* Linux based x64/arm64 devices
-* MacOS x64/arm64 devices
-* Windows x64/arm64 devices
+## Prerequisites
 
-## Minimum Specifications
-
-To see the minimum required device specifications, please take a look at [Network Nodes](https://wiki.edge.network/contributing-to-the-network/network-nodes).
+1. Ensure your device meets the minimum specification (see [Network Nodes](https://wiki.edge.network/contributing-to-the-network/network-nodes))
+2. [Install Edge CLI](install.md)
+3. [Install Docker](https://docs.docker.com/get-docker/) (v18.06+ required)
 
 {% hint style="info" %}
-**Devices with higher performance/capacity will return a higher yield**
+**Devices with higher performance/capacity will return a higher yield.**
 {% endhint %}
 
-## Installation Process
+## Process
 
-The process of onboarding a host has been designed to be as straightforward as possible.
+Once the prerequisites are satisfied, the process to set up a host is as follows:
 
-The process is as follows:
-
-1. Install Docker (vs. 18.06+)
-2. Install Edge CLI (`edge`)
-3. Create/restore a wallet
-4. Create a stake
-5. Assign the device
-6. Start node
-
-### Install Edge CLI
-
-Browse [Edge Network Files](https://files.edge.network/cli/) to find the right build of CLI for your system, and download it to an executable path.
-
-Note that there are separate builds for mainnet and testnet so make sure you download the right one for your purposes.
-
-For example, to download the mainnet CLI on an Ubuntu x64 host:
-
-```bash
-curl -s https://files.edge.network/cli/mainnet/linux/x64/latest/edge -o /usr/local/bin/edge && chmod +x /usr/local/bin/edge
-```
-
-In the same path as the file you downloaded, you can find a checksum file which you can compare against to ensure your download was not corrupted. If you downloaded the latest Linux x64 build (as above), you would find its checksum [here](https://files.edge.network/cli/mainnet/linux/x64/latest/checksum).
-
-```bash
-sha256 $(which edge)
-```
-
-You only need to manually download Edge CLI once. Afterwards, you can use `edge update` to automatically update the CLI, including checksum validation.
+1. Create/restore a wallet
+2. Create a stake
+3. Assign the device to the stake
+4. Start the node
 
 {% hint style="info" %}
-**When you download an Edge CLI binary, it's recommended to keep the original filename i.e.** `edge` **for mainnet and** `edgetest` **for testnet to help distinguish them on your own system.**
+The instructions below refer to the `edge` mainnet CLI. If you are using the `edgetest` testnet CLI, simply substitute `edgetest` as appropriate.
 {% endhint %}
 
-### Create/Restore Wallet
+### Create/restore a Wallet
 
-Now you have Edge CLI installed, you need to set up an XE wallet for it to use. If you already have an existing wallet then you can restore that using your private key, alternatively, you can create a new wallet.
+An XE wallet is required to participate in the network. This will hold your staked funds and earnings. An XE wallet consists of an XE address (which looks like `xe_abcd...`) and a private key.
+
+Edge CLI allows you to use an existing wallet, or can create one for you if you need one.
 
 #### Create a wallet
 
-If you do not already have an XE wallet, CLI can create one for you. Run this command for an interactive setup:
+Run the following command for interactive setup:
 
 ```bash
 edge wallet create
@@ -67,13 +43,13 @@ You will be asked to set a passphrase. This will be used to encrypt your new wal
 
 #### Restore a wallet
 
-If you already have an XE wallet and have the private key in hand, run this command to restore it for CLI to use:
+If you have an XE wallet already, for instance from the [web wallet](https://wallet.xe.network), you can restore it with your private key using the following command:
 
 ```bash
 edge wallet restore
 ```
 
-You will be asked to provide your private key and a passphrase. The private key will be used to restore your wallet, and the passphrase will encrypt it.
+You will be asked to provide your private key and a passphrase. The private key will be used to restore your wallet data, and the passphrase will encrypt it.
 
 ### Create Stake
 
@@ -85,6 +61,8 @@ On the [Testnet (XE) Explorer](https://test.network) you can use the XE Automate
 
 On Mainnet, you will need to deposit EDGE to receive XE. This can be done via the [Web Wallet](https://wallet.xe.network).
 
+<!--More info TBC - how to swap/purchase EDGE etc.-->
+
 #### Creating a stake
 
 Now that you have funds, you can choose which type of stake to create. A stake allows network nodes to authenticate with the network, and can be one of the following three types:
@@ -93,7 +71,7 @@ Now that you have funds, you can choose which type of stake to create. A stake a
 * Gateway (`gateway`)
 * Stargate (`stargate`)
 
-{% hint style="info" %}
+{% hint style="warning" %}
 **Only Host onboarding is currently available to the community. More information about onboarding Gateway/Stargate nodes will be provided in future.**
 {% endhint %}
 
@@ -133,11 +111,7 @@ This will download and start the node software, which should then run in the bac
 
 ### Further Usage
 
-Edge CLI offers a variety of functions for managing your wallet, stakes, transactions, and the device itself. To display information about CLI commands and options, add `-h` or `--help` to any command, for example:
-
-```bash
-edge tx ls -h
-```
+Edge CLI offers a variety of functions for managing your wallet, stakes, transactions, and the device itself. Have a look at the [Commands Overview](overview.md) for more information.
 
 ### Help
 
