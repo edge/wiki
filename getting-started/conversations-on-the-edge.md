@@ -6,6 +6,18 @@ description: >-
 
 # Podcast
 
+## Episode 35, 21st January 2022
+
+The world according to Edge: what global reach means to us and why we’re able to offer market-leading cloud services wherever you live.
+
+{% embed url="https://vimeo.com/668772079" %}
+
+## Episode 34, 13th January 2022
+
+The last 12 months were big for crypto and HUGE for Edge. This week, we review the year that was 2021 and look forward to 2022.
+
+{% embed url="https://vimeo.com/665796571" %}
+
 ## Episode 33, 24th December 2021
 
 Edge is the infrastructure of Web3 – but what is Web3 and why does it matter? And how does Edge Network fit into its decentralised future?
