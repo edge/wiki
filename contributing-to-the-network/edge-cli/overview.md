@@ -390,8 +390,7 @@ Device commands enable you to manage your device's participation in the Edge net
 Before using device commands, ensure the prerequisites are met:
 
 1. Ensure your device meets the minimum specification (see [Network Nodes](https://wiki.edge.network/contributing-to-the-network/network-nodes))
-2. [Install Edge CLI](install.md)
-3. [Install Docker](https://docs.docker.com/get-docker/) (v18.06+ required)
+2. [Install Docker](https://docs.docker.com/get-docker/) (v18.06+ required)
 
 Device commands will not work if Docker is not running on your device.
 
