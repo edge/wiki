@@ -6,7 +6,7 @@
 **$EDGE was listed on Uniswap on the 09th of September, 2021**
 {% endhint %}
 
-Any Ethereum or multicoin wallet that supports custom ERC-20 tokens can be used to send and receive your $EDGE tokens. Keep in mind that in order to move the token on the Ethereum network, you will need ETH in your wallet to pay for network transaction fees \(commonly known as "gas"\).
+You can use any Ethereum or multicoin wallet that supports custom ERC-20 tokens to send and receive $EDGE tokens. Keep in mind that in order to move the token on the Ethereum network, you'll need ETH in your wallet to pay for network transaction fees \(commonly known as "gas"\).
 
 We recommend using [MetaMask](https://metamask.io/), but this is by no means your only option.
 
@@ -14,7 +14,7 @@ Things to look for when choosing a wallet are:
 
 1. Native support for your tokens and/or the ability to add Custom Tokens
 2. The ability to interact with contracts \(dApps\) on the Ethereum network
-3. Hardware wallet support \(if desired\)
+3. Hardware wallet support \(if you want\)
 
 ## $XE
 
@@ -28,7 +28,7 @@ Things to look for when choosing a wallet are:
 **The XE web wallet is available now**
 {% endhint %}
 
-$XE has its own network native client-side wallet. This is a JavaScript app that runs entirely in your local browser. The web wallet provides the ability to generate and restore $XE wallets, view your transaction history, make transactions within the $XE network and bridge between $XE and $EDGE.
+$XE has its own network-native client-side wallet. This is a JavaScript app that runs entirely in your local browser. The web wallet provides the ability to generate and restore $XE wallets, view your transaction history, make transactions within the $XE network and bridge between $XE and $EDGE.
 
 You can access the XE web wallet at: [wallet.xe.network](https://wallet.xe.network)
 
@@ -44,11 +44,11 @@ You can access the XE web wallet at: [wallet.xe.network](https://wallet.xe.netwo
 **The mobile wallet is currently in development. It will be released in the coming months**
 {% endhint %}
 
-The Edge Mobile Wallet can also be used for the management of your $XE. It's available for iOS and Android and can be used to bridge your tokens. The wallet includes support for $EDGE and $ETH, facilitating the bridging to and from $XE directly in app.
+You can also use the Edge Mobile Wallet to manage your $XE. It's available for iOS and Android and can be used to bridge your tokens. The wallet includes support for $EDGE and $ETH, facilitating the bridging to and from $XE directly in app.
 
 You can also buy and sell $XE directly in the app using the network's exchange function.
 
-It is expected that future itterations of the mobile wallet will bundle in an Edge Network node, allowing staking directly within the wallet.
+We expect that future iterations of the mobile wallet will bundle in an Edge Network node, allowing staking directly within the wallet.
 
 ### Desktop Wallet
 
@@ -60,5 +60,5 @@ The Edge Desktop Wallet can also be used for the management of your $XE. It's av
 
 You can also buy and sell $XE directly in the app using the network's exchange function.
 
-It is expected that future itterations of the desktop wallet will bundle in an Edge Network node, allowing staking directly within the wallet.
+We expect that future iterations of the desktop wallet will bundle in an Edge Network node, allowing staking directly within the wallet.
 
