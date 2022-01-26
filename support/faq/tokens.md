@@ -57,7 +57,7 @@ The XE Bridge is open! It opened on Thursday September 09th, 2021 at 5pm UTC. Mo
 
 ### Why is my withdrawal taking so long?
 
-If the transaction speed fee you provided is lower than current gas costs, the bridge will wait until gas fees are low enough to process the transaction within the threshold you set. In this circumstance the time depends on the costs in the Ethereum network.
+If the transaction speed fee you provided is lower than current gas costs, the bridge will wait until gas fees are low enough to process the transaction within the threshold you set. In this case, the time depends on the costs in the Ethereum network.
 
 ### How are Gas Fees Paid in the Network Bridge?
 
