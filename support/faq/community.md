@@ -10,21 +10,21 @@ Yes. Edge's primary community is Discord. You can join the Edge server here: [di
 
 ### How Often Does the Core Team Update the Community?
 
-Weekly. The latest udpate is always available in the Community Wiki.
+Weekly. You'll always find the latest udpate in the Community Wiki.
 
 {% page-ref page="../../getting-started/core-team-updates/" %}
 
-An archive of previous weeks is also available.
+There's an archive of previous weeks too.
 
 {% page-ref page="../../getting-started/core-team-updates/weekly-updates.md" %}
 
 ### Do the Core Team Hold AMAs?
 
-Yes, from time to time. There is an archive of them available in the Edge Community Wiki.
+Yes, from time to time. There's an archive of previous AMAs available in the Edge Community Wiki.
 
 {% page-ref page="../../getting-started/core-team-updates/ama-archive.md" %}
 
 ### Where Can I Read More About the Network?
 
-On the Edge Website: [edge.network](https://edge.network)
+Over on the Edge Website: [edge.network](https://edge.network)
 
