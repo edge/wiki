@@ -1,7 +1,6 @@
 ---
 description: >-
-  The Edge Community team compile frequency asked questions and answers. These
-  are published and updated here.
+  The Edge Community team address frequently asked questions and answers. They publish and update them here.
 ---
 
 # FAQ
