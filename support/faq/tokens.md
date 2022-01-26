@@ -1,20 +1,23 @@
 # Tokens
 
-### What Is the Difference Between $XE and $EDGE?
+### What's the Difference Between $XE and $EDGE?
 
-$XE is the internal coin of the Edge Network. It is used for attribution of value to nodes, for staking and for network governance. It provides for fast, free transactions.
+$XE is the Edge Network's internal coin. You can use it to attribute value to nodes, for staking and for network governance. It enables fast, free transactions.
 
-$EDGE is a utility token on the Ethereum network. It is available for trading and exchange.
+$EDGE is a utility token on the Ethereum network. It's available to trade and exchange.
 
 You can convert $XE to $EDGE and vice versa using the Edge Network Bridge.
 
 ### What Is the Relationship Between $XE and $EDGE?
 
-$XE and $EDGE are of equal value. The 1:1 relationship is because the coin and the token perform different functions in the network, with $XE as a layer 2 solution designed to facilitate fast and free transactions wihtin the network. $XE is bridged out to Ethereum, a process that converts the $XE to $EDGE.
+$XE and $EDGE are of equal value; a 1:1 relationship. This is necessary because the coin and the token perform different functions in the network, namely: 
 
-### Why Is the Network Coin Named XE?
+- $XE as a layer 2 solution designed to facilitate fast and free transactions wihtin the network 
+- $XE is bridged out to Ethereum, a process that converts the $XE to $EDGE
 
-The X is from the ISO standard for currencies that are not specific to a certain country. It has been used because Edge sees it's coin as the standard unit of account for edge computing. X-Edge, hence XE.
+### Why Is the Network Coin Called XE?
+
+The X comes from the ISO standard for currencies that are not specific to a certain country. We use it because Edge sees its coin as the standard unit of account for edge computing. X-Edge, hence XE.
 
 ### Where Can I Get Hold of the Network Token?
 
@@ -58,8 +61,8 @@ If the transaction speed fee you provided is lower than current gas costs, the b
 
 ### How are Gas Fees Paid in the Network Bridge?
 
-When you withdraw $XE through the Bridge, gas is paid in XE. When you deposit $EDGE to the Network, gas is paid in Eth via your Metamask wallet.
+When you withdraw $XE through the Bridge, you pay gas in XE. When you deposit $EDGE to the Network, you pay gas in Eth via your Metamask wallet.
 
 ### Why Is the Holder Number Shown in DEXTools So Low?
 
-$XE is a layer 2 blockchain that bridges between chains. This means that there are more holders of the coin $XE wihtin the network that there are holders of the token $EDGE outside of the network. The ratio is currently around 5x the number shown in DEXTools and other Ethereum explorers.
+$XE is a layer 2 blockchain that bridges between chains. This means that there are more $XE holders in the network than there are $EDGE holders outside of the network. The ratio is currently around 5x the number shown in DEXTools and other Ethereum explorers.
