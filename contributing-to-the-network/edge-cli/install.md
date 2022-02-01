@@ -53,4 +53,4 @@ If for whatever reason you are unable to self-update Edge CLI, or you need to ch
 
 ## Next Steps
 
-Now that Edge CLI is installed on your device, you can contribute to the network by [setting up a Host](set-up-a-host.md). For more information about CLI usage, have a look at the [Commands Overview](overview.md)
+Now that Edge CLI is installed on your device, you can contribute to the network by [setting up a Host](set-up-a-host.md). For more information about CLI usage, have a look at the [Commands Overview](overview.md).
