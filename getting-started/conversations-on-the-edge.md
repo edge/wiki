@@ -6,6 +6,12 @@ description: >-
 
 # Podcast
 
+## Episode 36, 28th January 2022
+
+Time to get involved: the shape of the Edge Network community and how you can have a say in the future of our project. It begins with active new roles in Discord – the start of our road to DAO. Listen to find out more.
+
+{% embed url="https://vimeo.com/671307433" %}
+
 ## Episode 35, 21st January 2022
 
 The world according to Edge: what global reach means to us and why we’re able to offer market-leading cloud services wherever you live.

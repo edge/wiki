@@ -47,9 +47,9 @@
 * [Network Nodes](contributing-to-the-network/network-nodes.md)
 * [Expected Yields](contributing-to-the-network/expected-yields.md)
 * [Performance Weighting](contributing-to-the-network/performance-weighting.md)
-* [Edge CLI](contributing-to-the-network/README.md)
-  * [Install Edge CLI](contributing-to-the-network/install.md)
-  * [Set up a Host](contributing-to-the-network/set-up-a-host.md)
+* [Edge CLI](contributing-to-the-network/edge-cli/README.md)
+  * [Install Edge CLI](contributing-to-the-network/edge-cli/install-edge-cli.md)
+  * [Set up a Host](contributing-to-the-network/edge-cli/set-up-a-host.md)
 * [Setting up a Host](contributing-to-the-network/setting-up-a-host.md)
 * [Edge Devices](contributing-to-the-network/edge-devices/README.md)
   * [Founding Node](contributing-to-the-network/edge-devices/founding-node.md)
@@ -80,4 +80,3 @@
   * [Products](support/faq/products.md)
   * [Community](support/faq/community.md)
 * [Other Issues](support/other-issues.md)
-
