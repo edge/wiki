@@ -1,7 +1,7 @@
 ---
 description: >-
   Creating an $XE wallet is easy, fast and free. Follow the steps below to get
-  setup on the Edge blockchain.
+  set up on the Edge blockchain.
 ---
 
 # Creating an $XE Wallet
@@ -24,7 +24,7 @@ Make sure you store a copy of your private key somewhere secure, like a password
 
 ![](../.gitbook/assets/screenshot-2021-06-04-at-17.09.57.png)
 
-Congratulations! You now have an XE Wallet ready for use.
+Congratulations! You now have an XE Wallet!
 
 ![](../.gitbook/assets/screenshot-2021-06-04-at-17.12.15.png)
 
