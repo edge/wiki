@@ -10,7 +10,7 @@ description: >-
 
 Sign in to your XE Web Wallet at: [https://wallet.xe.network](https://wallet.xe.network/)
 
-Instructions on how to use the XE Web Wallet can be found here:
+You can find instructions on how to use the XE Web Wallet here:
 
 {% page-ref page="../creating-an-xe-wallet.md" %}
 
