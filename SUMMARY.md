@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to the Edge Community Wiki](README.md)
+* [Edge Community Wiki](README.md)
 
 ## Getting Started
 
