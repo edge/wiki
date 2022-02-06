@@ -19,12 +19,10 @@ Elsewhere:
 * YouTube: [ed.ge/youtube](https://ed.ge/youtube)
 * Vimeo: [vimeo.com/edgenetwork](https://vimeo.com/edgenetwork)
 * Facebook: [facebook.com/edgenetworktech](https://www.facebook.com/edgenetworktech)
-* BitClout: [bitclout.com/u/edgenetwork](https://bitclout.com/u/edgenetwork)
 
 Find us on:
 
-* FTX Signal: [blockfolio.com/coin/DADI](https://blockfolio.com/coin/DADI) \[Note: being updated to Edge\]
+* FTX Signal: [blockfolio.com/coin/DADI](https://blockfolio.com/coin/DADI) \[Note: being updated to Edge]
 * Delta Direct: [delta.app/en/direct](https://delta.app/en/direct)
 * $EDGE on CoinGecko: [ed.ge/coingecko](https://ed.ge/coingecko)
 * $EDGE on CoinMarketCap: [ed.ge/coinmarketcap](https://ed.ge/coinmarketcap)
-

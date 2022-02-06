@@ -10,7 +10,11 @@ description: >-
 
 | Year | Date           | Link                                                   |
 | ---- | -------------- | ------------------------------------------------------ |
-| 2022 | 06th January   | [ed.ge/digest/issue-26](https://ed.ge/digest/issue-26) |
+| 2022 | 06th February  | [ed.ge/digest/issue-30](https://ed.ge/digest/issue-30) |
+|      | 28th January   | [ed.ge/digest/issue-29](https://ed.ge/digest/issue-29) |
+|      | 25th January   | [ed.ge/digest/issue-28](https://ed.ge/digest/issue-28) |
+|      | 13th January   | [ed.ge/digest/issue-27](https://ed.ge/digest/issue-27) |
+|      | 06th January   | [ed.ge/digest/issue-26](https://ed.ge/digest/issue-26) |
 | 2021 | 17th December  | [ed.ge/digest/issue-25](https://ed.ge/digest/issue-25) |
 |      | 11th December  | [ed.ge/digest/issue-24](https://ed.ge/digest/issue-24) |
 |      | 03rd December  | [ed.ge/digest/issue-23](https://ed.ge/digest/issue-23) |
