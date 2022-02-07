@@ -1,7 +1,7 @@
 ---
 description: >-
   To attract the best people we have to be flexible – and trust our people to
-  work however suits them.We think it makes Edge a pretty special place to work.
+  work however suits them. We think that makes Edge a pretty special place to work.
 ---
 
 # Careers
@@ -14,7 +14,7 @@ description: >-
 
 ## Philosophy
 
-> "We don't do 'hack' or 'innovation' days because everyday, engineers get to personally innovate. We don't piggy-back off old technology or patch and hack our way to delivering something we aren't proud of. We research and experiment with bleeding edge technologies and collaborate to build out the perfect set of platform services. We peer review and share vital engineering knowledge, encouraging each other to step up and embrace the most challenging of technical tasks.
+> "We don't do 'hack' or 'innovation' days because engineers get to innovate every day. We don't piggy-back off old technology or patch and hack our way to delivering something we aren't proud of. We research and experiment with bleeding edge technologies and collaborate to build out the perfect set of platform services. We peer review and share vital engineering knowledge, encouraging each other to step up and embrace the most challenging of technical tasks.
 >
 > "All of those things are awesome." – **Arthur Mingard**, Edge Core Team
 
@@ -30,7 +30,7 @@ We hold this to be true and actively work to counteract it. The core team at Edg
 
 ### Work Asynchronously
 
-Individual team members more or less works at their own pace, with collaboration and agreement being handled by asynchronous mechanisms.
+Individual team members more or less work at their own pace, with collaboration and agreement being handled by asynchronous mechanisms.
 
 ### No 9 to 5
 
