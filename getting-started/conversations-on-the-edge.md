@@ -4,7 +4,13 @@ description: >-
   Network and how it is poised to change the Internet.
 ---
 
-# Podcast
+# 🎙 Podcast
+
+## Episode 37, 04th February 2022
+
+Why we open source: this week we talk about the tech strategy and philosophy for Edge Network and how all roads lead to DAO.
+
+{% embed url="https://vimeo.com/673743390" %}
 
 ## Episode 36, 28th January 2022
 
