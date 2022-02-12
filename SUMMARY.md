@@ -4,7 +4,8 @@
 
 ## Getting Started
 
-* [Edge Website](https://edge.network)
+* [💻 Edge Website](https://edge.network)
+* [🌏 Explorer](https://edge.network)
 * [A Brief History](getting-started/a-brief-history.md)
 * [The Edge Network](getting-started/the-edge-network.md)
 * [Edge Products](getting-started/edge-products/README.md)
