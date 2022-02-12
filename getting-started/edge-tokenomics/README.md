@@ -4,7 +4,7 @@ description: >-
   internal to the network, and $EDGE, which is on the public Ethereum network.
 ---
 
-# Edge Tokenomics
+# 💰 Edge Tokenomics
 
 $XE is a layer 2 solution designed for fast transactions mapped to resource usage. It is bridged into the Ethereum network on a 1:1 basis with the $EDGE token.
 

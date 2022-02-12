@@ -1,4 +1,4 @@
-# Edge Products
+# 🎯 Edge Products
 
 There are two products live in the network mainnet today, DNS and CDN. Many more products are in development, including Edge Storage, App Cache, Edge Functions and Edge DB.
 

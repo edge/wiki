@@ -1,4 +1,4 @@
-# Core Team Updates
+# 📰 Core Team Updates
 
 As part of Edge's ongoing commitment to transparency and development in the open, the core team write weekly updates to the Edge community.
 

@@ -1,4 +1,4 @@
-# Core Team
+# 👷 Core Team
 
 Edge is in the process of migrating to a full Decentralized Autonomous Organization (DAO) – a team of individuals organised around a set of guidelines and processes and dedicated to driving the Edge Network forward. The DAO is a majority flat structure, comprising the core development team, advisory board and community members. The DAO has control over Edge Network Technologies Limited, the not for profit organisation that handles relationships with other legal entities, such as RIPE.
 

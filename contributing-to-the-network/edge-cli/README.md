@@ -1,4 +1,4 @@
-# Edge CLI Commands Overview
+# Edge CLI
 
 {% hint style="info" %}
 **This document is written for Edge CLI v1.5.3 and may not be up to date or necessarily complete. The output shown in examples may also change over time. The most accurate and up-to-date documentation is available as helptext within Edge CLI itself. Access helptext by adding** `--help` **to any command, for example** `edge --help` **or** `edge tx ls --help`
@@ -8,12 +8,12 @@
 **All usage examples here refer to the** `edge` **binary for continuity, but some examples actually use testnet data. Do not take information displayed in examples from this page as authoritative - it is for illustrative purposes only.**
 {% endhint %}
 
-* [Global options](#global-options)
-* [Wallet](#wallet)
-* [Transaction](#transaction)
-* [Stake](#stake)
-* [Device](#device)
-* [About Edge](#about-edge)
+* [Global options](./#global-options)
+* [Wallet](./#wallet)
+* [Transaction](./#transaction)
+* [Stake](./#stake)
+* [Device](./#device)
+* [About Edge](./#about-edge)
 
 ## Global options
 
@@ -46,11 +46,11 @@ f151dfbb9bb924c13a55d11ebaef4a49c061e849300ce101c5c0850fe9516499
 The `--debug` option enables detailed output for complete visibility of CLI's behaviour. It also enables greater detail of any errors that may occur. This may be useful if you are having problems with CLI and you (or Edge support) need more information about what is happening.
 
 {% hint style="warning" %}
-**The debug option effects _very_ noisy, sometimes abstruse output and its use is discouraged when not absolutely necessary.**
+**The debug option effects **_**very**_** noisy, sometimes abstruse output and its use is discouraged when not absolutely necessary.**
 {% endhint %}
 
 {% hint style="info" %}
-**The debug option may be useful for understanding if you intend to contribute to [the CLI codebase](https://github.com/edge/cli).**
+**The debug option may be useful for understanding if you intend to contribute to** [**the CLI codebase**](https://github.com/edge/cli)**.**
 {% endhint %}
 
 ### Other options
@@ -274,7 +274,7 @@ edge stake create <type>
 This command creates a stake which, once processed by the XE blockchain, allows you to run a device of the specified `<type>`.
 
 {% hint style="info" %}
-**The types available are Host `host`, Gateway `gateway`, and Stargate `stargate`. At this time, only Host stakes are available to contributors. Access to create Gateway and Stargate stakes will be updated in future.
+\*\*The types available are Host `host`, Gateway `gateway`, and Stargate `stargate`. At this time, only Host stakes are available to contributors. Access to create Gateway and Stargate stakes will be updated in future.
 {% endhint %}
 
 Your stake will be created via a blockchain transaction, signed using your private key. You will need to enter the passphrase for your XE wallet to decrypt your private key for this purpose.

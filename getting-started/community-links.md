@@ -1,4 +1,4 @@
-# Community Links
+# 🏘 Community Links
 
 Keep up with the latest developments and join the Edge community:
 

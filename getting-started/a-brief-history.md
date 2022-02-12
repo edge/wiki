@@ -5,7 +5,7 @@ description: >-
   capacity all around us.
 ---
 
-# A Brief History
+# 🕰 A Brief History
 
 Edge was founded in 2013 as a decentralised alternative to the cloud. Originally called DADI, which stood for "Decentralised Architecture for a Democratic Internet", the company was renamed Edge in July 2019, taking the name of the network at the heart of the project to better reflect the evolution of the technology and its mission.
 
@@ -17,9 +17,11 @@ In 2019 Edge was recognised as the “Best Edge Computing Platform” in the Fut
 
 In 2021 the blockchain in the network used for the tracking of network requests was extended to become a mechanism for value transfer. This introduced $XE, a coin used for value attribution within the network, operated as a layer 2 solution for Ethereum. $XE is used for the payment of services; for network staking; for the distribution of node yields; and for community governance. It is bridged to the $EDGE ERC-20 token within the Etheruem network.
 
-The project roadmaps for Edge capture the near to mid term development priorities, focused on the core network layer as well as individual services on top of the network \(such as Object Storage, Edge Functions and Edge DB\).
+The project roadmaps for Edge capture the near to mid term development priorities, focused on the core network layer as well as individual services on top of the network (such as Object Storage, Edge Functions and Edge DB).
 
-{% page-ref page="project-roadmaps.md" %}
+{% content-ref url="project-roadmaps.md" %}
+[project-roadmaps.md](project-roadmaps.md)
+{% endcontent-ref %}
 
 Edge Network Technologies Limited is a not-for-profit company limited by guarantee. It is registered in the United Kingdom.
 
@@ -31,7 +33,6 @@ The Internet was conceived as a global, democratic communication network - a mes
 
 We want to reverse this relationship – to give the ownership of the network to everyone that is connected to it, and to make them the beneficiaries of the revenue that comes from its use.
 
-### The Edge Network as the Standard for the Decentralised Web \(Web 3.0\)
+### The Edge Network as the Standard for the Decentralised Web (Web 3.0)
 
 A network of millions of nodes, directly addressable and usable by anyone. A governance system free from individual or multinational control, organised by a Decentralised Autonomous Organisation.
-

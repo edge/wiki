@@ -4,7 +4,7 @@ description: >-
   all around us. It's the cloud, decentralised.
 ---
 
-# The Edge Network
+# 🌐 The Edge Network
 
 ## What is Edge Networking?
 
