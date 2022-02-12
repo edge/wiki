@@ -19,7 +19,7 @@ The project roadmap for Edge provides a guide to the current and upcoming develo
 |      |        | Console Mothballed                                                                                         | Delivered 30th September |
 |      | Q4     | [Wallet Sell Feature](https://edge.network/en/updates/announcements/weekly-update-wc-27th-september-2021/) | Delivered 1st October    |
 |      |        | [Explorer Wallet Index](https://edge.network/en/updates/announcements/weekly-update-wc-04th-october-2021/) | Delivered 8th October    |
-|      |        | 2021 Payouts Processed                                                                                     | Ongoing                  |
+|      |        | 2021 Payouts Processed                                                                                     | Delivered                |
 |      |        | On-Chain Staking                                                                                           | Delivered                |
 |      |        | Command Line Interface for Staking                                                                         | Delivered                |
 |      |        | Public Testnet for Network V2                                                                              | Delivered                |
@@ -27,14 +27,14 @@ The project roadmap for Edge provides a guide to the current and upcoming develo
 |      |        | Gateway V2                                                                                                 | Delivered                |
 |      |        | Host V2                                                                                                    | Delivered                |
 |      |        | Mainnet Device Onboarding & Migration                                                                      | Delivered                |
-| 2022 | Q1+    | XE iOS and Android Wallet                                                                                  |                          |
-|      |        | VPS Public Beta                                                                                            |                          |
+| 2022 | Q1+    | XE iOS and Android Wallet                                                                                  | Ongoing                  |
+|      |        | VPS Public Beta                                                                                            | Ongoing                  |
 |      |        | Community Governance                                                                                       |                          |
 |      |        | Daily Earnings                                                                                             |                          |
 |      |        | PAYG Payments in Crypto                                                                                    |                          |
-|      |        | New Customer Facing Website                                                                                |                          |
-|      |        | Migration of CDN Customers to Edge Network V2                                                              |                          |
-|      |        | Migration of DNS Customers to Edge Network V2                                                              |                          |
+|      |        | New Customer Facing Website                                                                                | Ongoing                  |
+|      |        | Migration of CDN Customers to Edge Network V2                                                              | Ongoing                  |
+|      |        | Migration of DNS Customers to Edge Network V2                                                              | Ongoing                  |
 |      |        | VPS Mainnet Launch                                                                                         |                          |
 |      |        | Integrate Node Explorer with XE Explorer                                                                   |                          |
 |      |        | PAYG Payments in FIAT                                                                                      |                          |
@@ -43,7 +43,7 @@ The project roadmap for Edge provides a guide to the current and upcoming develo
 |      |        | Storage Mainnet Launch                                                                                     |                          |
 |      |        | Higher Frequncy Node Payouts                                                                               |                          |
 |      |        | Desktop Host Version                                                                                       |                          |
-|      |        | Streaming Video Support in CDN                                                                             |                          |
+|      |        | Streaming Video Support in CDN                                                                             | Ongoing                  |
 |      |        | Edge Functions Public Beta                                                                                 |                          |
 |      |        | Edge DB Public Beta                                                                                        |                          |
 |      |        | Edge Shield Public Beta                                                                                    |                          |
