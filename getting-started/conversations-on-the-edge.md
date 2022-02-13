@@ -6,12 +6,6 @@ description: >-
 
 # 🎙 Podcast
 
-## Episode 38, 11th February 2022
-
-Introducing the Edge Network marketing consultation – we’re about to change gear when it comes to outreach and we want your input. Listen, then head to Discord to discuss.
-
-{% embed url="https://vimeo.com/676863195" %}
-
 ## Episode 37, 04th February 2022
 
 Why we open source: this week we talk about the tech strategy and philosophy for Edge Network and how all roads lead to DAO.
