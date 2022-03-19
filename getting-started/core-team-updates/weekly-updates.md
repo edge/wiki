@@ -10,7 +10,16 @@ description: >-
 
 | Year | Week           | Summary                                                                        | Link                                                       |
 | ---- | -------------- | ------------------------------------------------------------------------------ | ---------------------------------------------------------- |
-| 2022 | 03rd January   | Stargate, Index, CLI and Staking Updates                                       | [ed.ge/update/2022/01/03](https://ed.ge/update/2022/01/03) |
+| 2022 | 07th March     | Mainnet Deployments, iOS Wallet and More                                       | [ed.ge/update/2022/03/07](https://ed.ge/update/2022/03/07) |
+|      | 28th February  | Automated Network Earnings Live                                                | [ed.ge/update/2022/02/28](https://ed.ge/update/2022/02/28) |
+|      | 21st February  | Mobile Wallet, CDN v2 And Much More…                                           | [ed.ge/update/2022/02/21](https://ed.ge/update/2022/02/21) |
+|      | 14th February  | Blockchain, Index and Wallet Updates                                           | [ed.ge/update/2022/02/14](https://ed.ge/update/2022/02/14) |
+|      | 07th February  | Network Growth and In-Wallet Staking                                           | [ed.ge/update/2022/02/07](https://ed.ge/update/2022/02/07) |
+|      | 31st January   | Explorer, Bridge and Network Earnings                                          | [ed.ge/update/2022/01/31](https://ed.ge/update/2022/01/31) |
+|      | 24th January   | XE Mobile Wallet and Blockchain v1.5.1                                         | [ed.ge/update/2022/01/24](https://ed.ge/update/2022/01/24) |
+|      | 17th January   | XE Wallet Open-Sourced and Much More...                                        | [ed.ge/update/2022/01/17](https://ed.ge/update/2022/01/17) |
+|      | 10th January   | Stargate, Gateway and Host Updates                                             | [ed.ge/update/2022/01/10](https://ed.ge/update/2022/01/10) |
+|      | 03rd January   | Stargate, Index, CLI and Staking Updates                                       | [ed.ge/update/2022/01/03](https://ed.ge/update/2022/01/03) |
 | 2021 | 20th December  | Merry Christmas!                                                               | [ed.ge/update/2021/12/20](https://ed.ge/update/2021/12/20) |
 |      | 13th December  | Device Onboarding Now Live                                                     | [ed.ge/update/2021/12/13](https://ed.ge/update/2021/12/13) |
 |      | 06th December  | CLI, Explorer, Wallet and Index releases                                       | [ed.ge/update/2021/12/06](https://ed.ge/update/2021/12/06) |
