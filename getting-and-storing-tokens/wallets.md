@@ -18,10 +18,6 @@ Things to look for when choosing a wallet are:
 
 ## $XE
 
-{% hint style="success" %}
-**$XE has been minted and distributed ahead of the unlocking of the network bridge**
-{% endhint %}
-
 ### Web Wallet
 
 {% hint style="success" %}
@@ -43,14 +39,14 @@ You can access the XE web wallet at: [wallet.xe.network](https://wallet.xe.netwo
 ### Mobile Wallet
 
 {% hint style="info" %}
-**The mobile wallet is currently in closed beta testing. A public beta will be released in the coming weeks**
+**The XE mobile wallet is available now**
 {% endhint %}
 
-The XE Mobile Wallet can also be used for the management of your $XE. It's available for iOS and Android and can be used to bridge your tokens. The wallet includes support for $EDGE and $ETH, facilitating the bridging to and from $XE directly in app.
+XE has it's own mobile wallet. It's available for iOS and includes support for $EDGE and $ETH, facilitating the bridging to and from $XE directly in app.
 
-You can also buy and sell $XE directly in the app using the network's exchange function.
+Future versions of the app will allow you to buy and sell $XE directly in the app using the network's exchange function. You will also be able to stake XE and Eth, and in time enable your device directly as a network node.
 
-It is expected that future itterations of the mobile wallet will bundle in an Edge Network node, allowing staking directly within the wallet.
+You can access the XE mobile wallet at: [ed.ge/app](https://ed.ge/app)
 
 ![](../.gitbook/assets/wallet.png)
 
