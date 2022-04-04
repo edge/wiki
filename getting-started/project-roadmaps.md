@@ -27,11 +27,11 @@ The project roadmap for Edge provides a guide to the current and upcoming develo
 |      |        | Gateway V2                                                                                                 | Delivered                |
 |      |        | Host V2                                                                                                    | Delivered                |
 |      |        | Mainnet Device Onboarding & Migration                                                                      | Delivered                |
-| 2022 | Q1+    | XE iOS and Android Wallet                                                                                  | Ongoing                  |
+| 2022 | Q1+    | XE iOS Wallet                                                                                              | Delivered                |
 |      |        | VPS Public Beta                                                                                            | Ongoing                  |
-|      |        | Community Governance                                                                                       |                          |
-|      |        | Daily Earnings                                                                                             |                          |
-|      |        | PAYG Payments in Crypto                                                                                    |                          |
+|      |        | Community Governance                                                                                       | Ongoing                  |
+|      |        | Daily Earnings                                                                                             | Delivered                |
+|      |        | PAYG Payments in Crypto                                                                                    | Ongoing                  |
 |      |        | New Customer Facing Website                                                                                | Ongoing                  |
 |      |        | Migration of CDN Customers to Edge Network V2                                                              | Ongoing                  |
 |      |        | Migration of DNS Customers to Edge Network V2                                                              | Ongoing                  |
