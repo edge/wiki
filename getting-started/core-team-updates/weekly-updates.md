@@ -10,7 +10,9 @@ description: >-
 
 | Year | Week           | Summary                                                                        | Link                                                       |
 | ---- | -------------- | ------------------------------------------------------------------------------ | ---------------------------------------------------------- |
-| 2022 | 07th March     | Mainnet Deployments, iOS Wallet and More                                       | [ed.ge/update/2022/03/07](https://ed.ge/update/2022/03/07) |
+| 2022 | 21st March     | Node Updates, Mobile Wallet and More                                           | [ed.ge/update/2022/03/21](https://ed.ge/update/2022/03/21) |
+|      | 14th March     | XE iOS Wallet Open Beta                                                        | [ed.ge/update/2022/03/14](https://ed.ge/update/2022/03/14) |
+|      | 07th March     | Mainnet Deployments, iOS Wallet and More                                       | [ed.ge/update/2022/03/07](https://ed.ge/update/2022/03/07) |
 |      | 28th February  | Automated Network Earnings Live                                                | [ed.ge/update/2022/02/28](https://ed.ge/update/2022/02/28) |
 |      | 21st February  | Mobile Wallet, CDN v2 And Much More…                                           | [ed.ge/update/2022/02/21](https://ed.ge/update/2022/02/21) |
 |      | 14th February  | Blockchain, Index and Wallet Updates                                           | [ed.ge/update/2022/02/14](https://ed.ge/update/2022/02/14) |
