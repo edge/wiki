@@ -24,6 +24,12 @@ To add liquidity to the Uniswap pool and earn a % of trading fees, head to: [ed.
 
 Trade $EDGE on MEXC: [ed.ge/mexc](https://ed.ge/mexc)
 
+## Token Lists
+
+$EDGE can be found on CoinGecko's token list. This can be used for loading the token in to decentralised exchanges without having to copy & paste the contract address yourself.
+
+You can find CoinGecko's token list here: [ed.ge/token-list](https://ed.ge/token-list)
+
 ## Useful Links
 
 You can find $EDGE on the following platforms:
@@ -33,3 +39,4 @@ You can find $EDGE on the following platforms:
 * $EDGE on MoonTools: [ed.ge/moontools](https://ed.ge/moontools)
 * $EDGE on CoinGecko: [ed.ge/coingecko](https://ed.ge/coingecko)
 * $EDGE on CoinMarketCap: [ed.ge/coinmarketcap](https://ed.ge/coinmarketcap)
+* $EDGE on KyberSwap: [ed.ge/kyberswap](https://ed.ge/kyberswap)
