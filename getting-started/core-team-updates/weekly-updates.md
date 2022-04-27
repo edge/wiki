@@ -10,7 +10,11 @@ description: >-
 
 | Year | Week           | Summary                                                                        | Link                                                       |
 | ---- | -------------- | ------------------------------------------------------------------------------ | ---------------------------------------------------------- |
-| 2022 | 21st March     | Node Updates, Mobile Wallet and More                                           | [ed.ge/update/2022/03/21](https://ed.ge/update/2022/03/21) |
+| 2022 | 18th April     | Node Data                                                                      | [ed.ge/update/2022/04/18](https://ed.ge/update/2022/04/18) |
+|      | 11th April     | Node Data Aggregation and Visualisation                                        | [ed.ge/update/2022/04/11](https://ed.ge/update/2022/04/11) |
+|      | 04th April     | Introducing Mudas Capital                                                      | [ed.ge/update/2022/04/04](https://ed.ge/update/2022/04/04) |
+|      | 28th March     | Host Earnings                                                                  | [ed.ge/update/2022/03/28](https://ed.ge/update/2022/03/28) |
+|      | 21st March     | Node Updates, Mobile Wallet and More                                           | [ed.ge/update/2022/03/21](https://ed.ge/update/2022/03/21) |
 |      | 14th March     | XE iOS Wallet Open Beta                                                        | [ed.ge/update/2022/03/14](https://ed.ge/update/2022/03/14) |
 |      | 07th March     | Mainnet Deployments, iOS Wallet and More                                       | [ed.ge/update/2022/03/07](https://ed.ge/update/2022/03/07) |
 |      | 28th February  | Automated Network Earnings Live                                                | [ed.ge/update/2022/02/28](https://ed.ge/update/2022/02/28) |

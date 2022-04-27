@@ -1,10 +1,16 @@
 ---
 description: >-
-  "Conversations on the Edge" is a series of audio shorts discussing the Edge
+  "Conversations on the Edge" was a series of audio shorts discussing the Edge
   Network and how it is poised to change the Internet.
 ---
 
 # 🎙 Podcast
+
+## Episode 38, 11th February 2022
+
+Introducing the Edge Network marketing consultation – we’re about to change gear when it comes to outreach and we want your input. Listen, then head to Discord to discuss.
+
+{% embed url="https://vimeo.com/676863195" %}
 
 ## Episode 37, 04th February 2022
 
