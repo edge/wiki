@@ -7,7 +7,7 @@ description: >-
 
 # DNS
 
-Powered by a worldwide anycast network built in to the core of Edge platform and operational in 20+ countries, Edge DNS operates at lightning speeds ensuring incredibly fast resolution times and low latency for your apps.
+Powered by a worldwide anycast network built in to the core of Edge platform and operational in 26+ countries, Edge DNS operates at lightning speeds ensuring incredibly fast resolution times and low latency for your apps.
 
 ![](../../.gitbook/assets/dns.png)
 
@@ -36,4 +36,3 @@ DDoS mitigation technology is built in to the core of the network, providing a s
 ### Industry Leading Uptime
 
 Edge DNS has maintained an uptime of 100% over two years.
-

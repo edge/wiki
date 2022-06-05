@@ -12,7 +12,6 @@
   * [Content Delivery](getting-started/edge-products/content-delivery.md)
   * [DNS](getting-started/edge-products/dns.md)
   * [Object Storage](getting-started/edge-products/object-storage.md)
-  * [Edit.com](getting-started/edge-products/edit.com.md)
 * [💰 Edge Tokenomics](getting-started/edge-tokenomics/README.md)
   * [$XE Distribution](getting-started/edge-tokenomics/xe-distribution.md)
   * [Dev Fund](getting-started/edge-tokenomics/dev-fund.md)

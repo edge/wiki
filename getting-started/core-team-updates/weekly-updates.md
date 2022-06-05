@@ -10,7 +10,12 @@ description: >-
 
 | Year | Week           | Summary                                                                        | Link                                                       |
 | ---- | -------------- | ------------------------------------------------------------------------------ | ---------------------------------------------------------- |
-| 2022 | 18th April     | Node Data                                                                      | [ed.ge/update/2022/04/18](https://ed.ge/update/2022/04/18) |
+| 2022 | 30th May       | Account System, Payouts and DNS                                                | [ed.ge/update/2022/05/30](https://ed.ge/update/2022/05/30) |
+|      | 23rd May       | Edge Servers, Accounts and Marketing                                           | [ed.ge/update/2022/05/23](https://ed.ge/update/2022/05/23) |
+|      | 16th May       | Edge servers                                                                   | [ed.ge/update/2022/05/16](https://ed.ge/update/2022/05/16) |
+|      | 02nd May       | Customer Portal and an Update on Mudas                                         | [ed.ge/update/2022/05/02](https://ed.ge/update/2022/05/02) |
+|      | 25th April     | Explorer, Wallet and Performance Monitoring                                    | [ed.ge/update/2022/04/25](https://ed.ge/update/2022/04/25) |
+|      | 18th April     | Node Data                                                                      | [ed.ge/update/2022/04/18](https://ed.ge/update/2022/04/18) |
 |      | 11th April     | Node Data Aggregation and Visualisation                                        | [ed.ge/update/2022/04/11](https://ed.ge/update/2022/04/11) |
 |      | 04th April     | Introducing Mudas Capital                                                      | [ed.ge/update/2022/04/04](https://ed.ge/update/2022/04/04) |
 |      | 28th March     | Host Earnings                                                                  | [ed.ge/update/2022/03/28](https://ed.ge/update/2022/03/28) |
