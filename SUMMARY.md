@@ -11,6 +11,7 @@
 * [🎯 Edge Products](getting-started/edge-products/README.md)
   * [Content Delivery](getting-started/edge-products/content-delivery.md)
   * [DNS](getting-started/edge-products/dns.md)
+  * [Edge Servers](getting-started/edge-products/edge-servers.md)
   * [Object Storage](getting-started/edge-products/object-storage.md)
 * [💰 Edge Tokenomics](getting-started/edge-tokenomics/README.md)
   * [$XE Distribution](getting-started/edge-tokenomics/xe-distribution.md)
