@@ -2,7 +2,7 @@
 
 As part of Edge's ongoing commitment to transparency and development in the open, the core team write weekly updates to the Edge community.
 
-There have been 168 of these so far.
+There have been 169 of these so far.
 
 {% content-ref url="weekly-updates.md" %}
 [weekly-updates.md](weekly-updates.md)
@@ -10,46 +10,32 @@ There have been 168 of these so far.
 
 ## Latest Update
 
-![](../../.gitbook/assets/weeklyUpdate159.png)
+![](../../.gitbook/assets/169Site.png)
 
-Happy Friday everyone ![😀](https://discord.com/assets/7c010dc6da25c012643ea22c1f002bb4.svg)
+Good evening everyone ![👋](https://discord.com/assets/df7ba0f4020ca70048a0226d1dfa73f6.svg)
 
-It was another short week here as Monday was a bank holiday. Nevertheless we have made some great progress.
+This week Stargate saw an update, with **v2.10.6-230** being deployed to mainnet. This update introduced improvements to the area of Stargate that monitors connected nodes for changes in their stakes (such as them being reassigned or unstaked). This process is now more efficient and more robust. Build 230 also improved the way in which Gateway sessions are handled, allowing a grace period for Gateways to reconnect before treating them as offline, which allows for easier recovery on network blips.
 
-Seven - 7! - releases this week:
+The team have also been heads-down, busy at work, putting the finishing touches on the account system. There are a lot of moving parts, but things are looking good. The user interface is getting a final review and polish, while the behind-the-scenes services are being prepared for mainnet. We’re working towards this being available next week (exciting!) so keep an eye on the 📢 announcements channel in Discord ![👀](https://discord.com/assets/4c5a77a89716352686f590a6f014770c.svg)
 
-First up, **Earnings Oracle v0.7.1** was released – a key update that improves scalability in anticipation of network growth. It also adds metrics collection over time, so we are able to determine how much work was performed by which devices during exactly which time periods.
+The network remains stable. The number of online nodes has been a little bit lower towards the latter half of this week, when we switched off the original London Gateway node. It seems some devices haven’t switched over to their local Gateway yet so if you notice your earnings are lower than usual, try restarting your nodes. This can help with DNS issues your nodes may be experiencing.
 
-**Index v1.22.2** adds a new API for hourly and daily statistics for each node on the network, plus an API to access raw earnings snapshot data.
+![](../../.gitbook/assets/update1.png)
 
-**Explorer v1.19.1** uses the new statistics API on Index to visualise performance on the node overview.
+(That one drop was the Stargate deployment, v2.10.6-230)
 
-This means that you can view any node's availability and work done - hourly over 24 hours, or daily over 7 or 30 days.
+Everything is performing well. Host RTT latency is on average, across all Hosts and Gateways, 178 ms. This means 178 ms on average from Stargate -> Gateway -> Host and back, so 4 hops, average of 44 ms per hop. This will improve with time as we add more and more Gateway nodes.
 
-![](<../../.gitbook/assets/1 (1).png>)
+![](../../.gitbook/assets/update2.png)
 
-As noted in conversation in Discord, you'll note a low level of jobs in the network at the moment. This is because most network traffic is currently in network v1. We're transitioning to v2 over a period of time to allow for performance testing as we go.
+CDN performs well, with uncached images being processed in under a second on average. Downloading origin images takes on average 300 ms, processing takes on average 150 ms, and other overheads (transport, packing, unpacking etc) takes on average 150 ms, giving uncached CDN requests an average duration of 600 ms. This isn’t bad at all, considering some of the origin assets are high resolution images, 10-20 MB or greater in size.
 
-**Wallet v1.16.0** adds a 'receive' button which displays your wallet address and a QR code, which can be scanned to facilitate receiving funds.
+Of course, most assets the network serves are cached, and are delivered directly by Gateways. The average this week for cached hits was 90%, though this fluctuates. That means 9 out of 10 requests were handled by Gateways, with 1 out of 10 requiring processing by a Host.
 
-![](<../../.gitbook/assets/2 (1).png>)
+![](../../.gitbook/assets/update3.png)
 
-Very smart.
-
-**Bridge v2.7.2** provides minor improvements to logging.
-
-**Stargate v2.9.1-187** provides minor improvements to logging.
-
-**Gateway v2.9.0-136** improves the accuracy of data measurements by requiring origin servers to provide Content-Length for processable assets. It also provides minor improvements to logging.
-
-In other news our partnership with Mudas (mudas.com) focused on the provision of a referral programme ahead of their genesis period. This is being built on Edge and should be released in the next few weeks.
-
-And another site moved to the Edge network (Edge servers beta; CDN; and DNS). We'll share this one in the next week or two.
-
-Mad props to community member _The Elk_, who now has 22 Hosts online ![👊](https://discord.com/assets/4601b0cf78b83ff531ea80756d6cc9c2.svg)
-
-![](../../.gitbook/assets/3.jpeg)
+Finally, a couple of weeks ago we proposed to create a community advocate role. If you haven’t read about that, check out last week's update. If you’d like to discuss the idea, please take a look at the proposal thread 001-community-advocates in Discord.
 
 And that’s it for this week ![👊](https://discord.com/assets/4601b0cf78b83ff531ea80756d6cc9c2.svg) Enjoy your weekends.
 
-_Posted by: Σxult_
+_Posted by: Adam K Dean_
