@@ -1,6 +1,6 @@
 ---
 description: >-
-  "Edge Digest" is a fortnightly round up of real-world progress on Edge's
+  "Edge Digest" is an irregular round up of real-world progress on Edge's
   reinvention of the Internet.
 ---
 
@@ -10,7 +10,9 @@ description: >-
 
 | Year | Date           | Link                                                   |
 | ---- | -------------- | ------------------------------------------------------ |
-| 2022 | 06th February  | [ed.ge/digest/issue-30](https://ed.ge/digest/issue-30) |
+| 2022 | 18th February  | [ed.ge/digest/issue-32](https://ed.ge/digest/issue-32) |
+|      | 13th February  | [ed.ge/digest/issue-31](https://ed.ge/digest/issue-31) |
+|      | 06th February  | [ed.ge/digest/issue-30](https://ed.ge/digest/issue-30) |
 |      | 28th January   | [ed.ge/digest/issue-29](https://ed.ge/digest/issue-29) |
 |      | 25th January   | [ed.ge/digest/issue-28](https://ed.ge/digest/issue-28) |
 |      | 13th January   | [ed.ge/digest/issue-27](https://ed.ge/digest/issue-27) |

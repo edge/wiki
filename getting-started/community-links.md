@@ -26,3 +26,15 @@ Find us on:
 * Delta Direct: [delta.app/en/direct](https://delta.app/en/direct)
 * $EDGE on CoinGecko: [ed.ge/coingecko](https://ed.ge/coingecko)
 * $EDGE on CoinMarketCap: [ed.ge/coinmarketcap](https://ed.ge/coinmarketcap)
+
+## Official Domain Names
+
+There are a number of official project domain names and it is important to check that you are using one of these when interacting with the project.
+
+They are:
+
+* edge.network
+* test.network
+* xe.network
+* ed.ge
+* edge.press

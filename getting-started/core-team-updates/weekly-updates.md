@@ -10,7 +10,11 @@ description: >-
 
 | Year | Week           | Summary                                                                        | Link                                                       |
 | ---- | -------------- | ------------------------------------------------------------------------------ | ---------------------------------------------------------- |
-| 2022 | 30th May       | Account System, Payouts and DNS                                                | [ed.ge/update/2022/05/30](https://ed.ge/update/2022/05/30) |
+| 2022 | 27th June      | Edge Accounts, Caching and Stargate                                            | [ed.ge/update/2022/06/27](https://ed.ge/update/2022/06/27) |
+|      | 20th June      | Gateway, Mudas and a Competition                                               | [ed.ge/update/2022/06/20](https://ed.ge/update/2022/06/20) |
+|      | 13th June      | A Huge Increase in Staked Supply                                               | [ed.ge/update/2022/06/13](https://ed.ge/update/2022/06/13) |
+|      | 06th June      | Edge DNS Performance                                                           | [ed.ge/update/2022/06/06](https://ed.ge/update/2022/06/06) |
+|      | 30th May       | Account System, Payouts and DNS                                                | [ed.ge/update/2022/05/30](https://ed.ge/update/2022/05/30) |
 |      | 23rd May       | Edge Servers, Accounts and Marketing                                           | [ed.ge/update/2022/05/23](https://ed.ge/update/2022/05/23) |
 |      | 16th May       | Edge servers                                                                   | [ed.ge/update/2022/05/16](https://ed.ge/update/2022/05/16) |
 |      | 02nd May       | Customer Portal and an Update on Mudas                                         | [ed.ge/update/2022/05/02](https://ed.ge/update/2022/05/02) |
