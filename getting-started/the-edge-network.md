@@ -24,6 +24,10 @@ The blockchain at the heart of the network records device usage and value attrib
 
 ![](../.gitbook/assets/xechain.png)
 
+The genesis transaction for the XE Blockchain is imprinted with the project's mission: **The Internet Belongs to Everyone**
+
+{% embed url="https://xe.network/wallet/xe_0000000000000000000000000000000000000000" %}
+
 ## Network Architecture
 
 The network's novel architecture has multiple node types that enable the connectivity of devices in multifarious network settings.
