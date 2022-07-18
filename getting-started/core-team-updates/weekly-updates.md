@@ -10,7 +10,9 @@ description: >-
 
 | Year | Week           | Summary                                                                        | Link                                                       |
 | ---- | -------------- | ------------------------------------------------------------------------------ | ---------------------------------------------------------- |
-| 2022 | 27th June      | Edge Accounts, Caching and Stargate                                            | [ed.ge/update/2022/06/27](https://ed.ge/update/2022/06/27) |
+| 2022 | 11th July      | Edge Accounts and Fiat Payments                                                | [ed.ge/update/2022/07/11](https://ed.ge/update/2022/07/11) |
+|      | 04th July      | Edge Accounts, Explorer, Index and Wallet                                      | [ed.ge/update/2022/07/04](https://ed.ge/update/2022/07/04) |
+|      | 27th June      | Edge Accounts, Caching and Stargate                                            | [ed.ge/update/2022/06/27](https://ed.ge/update/2022/06/27) |
 |      | 20th June      | Gateway, Mudas and a Competition                                               | [ed.ge/update/2022/06/20](https://ed.ge/update/2022/06/20) |
 |      | 13th June      | A Huge Increase in Staked Supply                                               | [ed.ge/update/2022/06/13](https://ed.ge/update/2022/06/13) |
 |      | 06th June      | Edge DNS Performance                                                           | [ed.ge/update/2022/06/06](https://ed.ge/update/2022/06/06) |
