@@ -35,3 +35,7 @@ Edge Servers featured on-demand backups and the ability to clone a server to mor
 ### Load Balance with Edge DNS
 
 Make use of Edge DNS to balance incoming traffic between your Edge Servers. Advanced geo routing functionality enables local applicaton running, placing your Edge Servers where your audience reside.
+
+## Launch an Edge Server Now
+
+{% embed url="https://account.edge.network" %}
