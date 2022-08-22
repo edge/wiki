@@ -39,3 +39,5 @@ Make use of Edge DNS to balance incoming traffic between your Edge Servers. Adva
 ## Launch an Edge Server Now
 
 {% embed url="https://account.edge.network" %}
+
+{% embed url="https://vimeo.com/741879203" %}
