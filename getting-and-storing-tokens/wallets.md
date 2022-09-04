@@ -38,7 +38,7 @@ You can access the XE web wallet at: [wallet.xe.network](https://wallet.xe.netwo
 
 ### Mobile Wallet
 
-{% hint style="info" %}
+{% hint style="success" %}
 **The XE mobile wallet is available now**
 {% endhint %}
 
@@ -53,7 +53,7 @@ You can access the XE mobile wallet at: [ed.ge/app](https://ed.ge/app)
 ### Desktop Wallet
 
 {% hint style="info" %}
-**The desktop wallet is currently in development. It will be released in the coming months**
+**The desktop wallet is currently in development. There is no firm date for release**
 {% endhint %}
 
 The XE Desktop Wallet can also be used for the management of your $XE. It's available for Windows and OSX and can be used to bridge your tokens.

@@ -34,10 +34,12 @@ Individuals who help to positively promote the network in social channels may be
 
 ## Referral Codes
 
-{% hint style="danger" %}
-**The referral programmes are not yet live. They will be launching towards the end of 2021**
+{% hint style="success" %}
+**The referral programme is now live**
 {% endhint %}
 
-Accessing the referral programme is simple: every Edge account has a referral code available. Simply share your referral code with the provided link in your account. Anyone that then uses the link is automatically attributed to your account.
+Accessing the referral programme is simple: every Edge account has a referral code available within the account section. Simply share your referral code with the provided link - starting ed.ge - from your account dashboard. Anyone that then uses the link is automatically attributed to your account, and you will earn rewards as a percentage of their usage.
+
+<figure><img src="../.gitbook/assets/Screenshot 2022-09-04 at 09.47.46.png" alt=""><figcaption></figcaption></figure>
 
 Referral rewards are paid out monthly in $XE and will be visible within your Edge account.

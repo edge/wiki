@@ -38,3 +38,30 @@ They are:
 * xe.network
 * ed.ge
 * edge.press
+
+## Short Links
+
+Edge maintains a short link service using the domain ed.ge, providing quick access links to key project content:
+
+* Main website [https://ed.ge](https://ed.ge/)
+* Account portal [https://ed.ge/account](https://ed.ge/account)
+* Edge wiki [https://ed.ge/wiki](https://ed.ge/wiki)
+* XE web wallet [https://ed.ge/wallet](https://ed.ge/wallet)
+* XE iOS wallet [https://ed.ge/app](https://ed.ge/app)
+* Staking info[https://ed.ge/staking](https://ed.ge/staking)
+* Exchange info [https://ed.ge/exchanges](https://ed.ge/exchanges)
+* Project updates [https://ed.ge/updates](https://ed.ge/updates)
+* Discord community [https://ed.ge/community](https://ed.ge/community) & [https://ed.ge/discord](https://ed.ge/discord)
+* Official Twitter [https://ed.ge/twitter](https://ed.ge/twitter)
+* Official GitHub [https://ed.ge/github](https://ed.ge/github)
+* Onboarding info [https://ed.ge/onboarding](https://ed.ge/onboarding)
+* Roadmap [https://ed.ge/roadmap](https://ed.ge/roadmap)
+* FAQs [https://ed.ge/faq](https://ed.ge/faq)
+* History of Edge [https://ed.ge/history](https://ed.ge/history)
+* Edge/XE tokenomics [https://ed.ge/xe](https://ed.ge/xe)
+* Edge/XE tokenomics [https://ed.ge/tokenomics](https://ed.ge/tokenomics)
+* Governance info [https://ed.ge/governance](https://ed.ge/governance)
+* Command Line Interface (CLI) [https://ed.ge/cli](https://ed.ge/cli)
+* Mainnet explorer [https://ed.ge/explorer](https://ed.ge/explorer)
+* Testnet explorer [https://ed.ge/testnet](https://ed.ge/testnet)
+* Bridge info [https://ed.ge/bridge](https://ed.ge/bridge)

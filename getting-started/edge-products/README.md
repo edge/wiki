@@ -1,6 +1,6 @@
 # 🎯 Edge Products
 
-There are three products live in the network mainnet today, DNS, CDN and Edge Servers. More products are in development, including Edge Storage, Edge Functions and Edge DB.
+There are three products live in the network mainnet today, Edge Servers, Edge DNS and Edge CDN. More products are in development, including Edge Storage, Edge Functions and Edge DB.
 
 Together these products allow you to create and run fully decentralised applications and websites.
 
@@ -12,7 +12,9 @@ Together these products allow you to create and run fully decentralised applicat
 **Static websites can be run in the network today, delivered through CDN**
 {% endhint %}
 
-An example of a static site hosted via Edge Content Delivery can be seen here: [thedecentralizedweb.com](https://thedecentralizedweb.com)
+An example of a static site hosted via Edge Content Delivery can be seen here:
+
+{% embed url="https://thedecentralizedweb.com" %}
 
 Dynamic sites will be enabled with the addition of Edge Cache, Edge Functions and Edge DB.
 

@@ -10,7 +10,13 @@ description: >-
 
 | Year | Week           | Summary                                                                        | Link                                                       |
 | ---- | -------------- | ------------------------------------------------------------------------------ | ---------------------------------------------------------- |
-| 2022 | 11th July      | Edge Accounts and Fiat Payments                                                | [ed.ge/update/2022/07/11](https://ed.ge/update/2022/07/11) |
+| 2022 | 22nd August    | Edge DNS, Stargate and Gateway                                                 | [ed.ge/update/2022/08/22](https://ed.ge/update/2022/08/22) |
+|      | 15th August    | Edge Accounts Now Live                                                         | [ed.ge/update/2022/08/15](https://ed.ge/update/2022/08/15) |
+|      | 08th August    | Hypervisors, CDN and Latency                                                   | [ed.ge/update/2022/08/08](https://ed.ge/update/2022/08/08) |
+|      | 01st August    | Stargate, Gateway & CLI Updates                                                | [ed.ge/update/2022/08/01](https://ed.ge/update/2022/08/01) |
+|      | 25th July      | FIAT Payments                                                                  | [ed.ge/update/2022/07/25](https://ed.ge/update/2022/07/25) |
+|      | 18th July      | The Tokenomics of the Account System                                           | [ed.ge/update/2022/07/18](https://ed.ge/update/2022/07/18) |
+|      | 11th July      | Edge Accounts and Fiat Payments                                                | [ed.ge/update/2022/07/11](https://ed.ge/update/2022/07/11) |
 |      | 04th July      | Edge Accounts, Explorer, Index and Wallet                                      | [ed.ge/update/2022/07/04](https://ed.ge/update/2022/07/04) |
 |      | 27th June      | Edge Accounts, Caching and Stargate                                            | [ed.ge/update/2022/06/27](https://ed.ge/update/2022/06/27) |
 |      | 20th June      | Gateway, Mudas and a Competition                                               | [ed.ge/update/2022/06/20](https://ed.ge/update/2022/06/20) |

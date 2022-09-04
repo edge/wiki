@@ -1,7 +1,8 @@
 ---
 description: >-
-  The core team hold AMAs fairly regularly, taking questions from the entire
-  community in the Edge Discord.
+  The core team hold AMAs on an ad-hoc basis. As the project has moved towards
+  community governance, communication on Discord has become free-flowing,
+  largely negating the need for AMAs.
 ---
 
 # AMA Archive

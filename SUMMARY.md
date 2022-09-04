@@ -5,7 +5,7 @@
 ## Getting Started
 
 * [💻 Edge Website](https://edge.network)
-* [🌍 Explorer](https://xe.network)
+* [🌍 Network Explorer](https://xe.network)
 * [🕰 A Brief History](getting-started/a-brief-history.md)
 * [🌐 The Edge Network](getting-started/the-edge-network.md)
 * [🎯 Edge Products](getting-started/edge-products/README.md)
@@ -43,7 +43,6 @@
 
 ## Contributing to the Network
 
-* [Network Explorer](https://explorer.edge.network)
 * [An Introduction to Staking](contributing-to-the-network/an-introduction-to-staking.md)
 * [Network Nodes](contributing-to-the-network/network-nodes.md)
 * [Expected Yields](contributing-to-the-network/expected-yields.md)

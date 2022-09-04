@@ -24,10 +24,6 @@ Parkinson's Law states that work expands to fill the time allotted for it. No ma
 
 We hold this to be true and actively work to counteract it. The core team at Edge is deliberately small and fast moving, allowing a high level of flexibility, ensuring that the project retains the ability to pivot as stakeholder requirements evolve.
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
 ### Work Asynchronously
 
 Individual team members more or less works at their own pace, with collaboration and agreement being handled by asynchronous mechanisms.

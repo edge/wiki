@@ -16,7 +16,7 @@ $XE currently runs as a layer 2 solution, which enables fast and free transactio
 
 ### What Technology Is the Edge Network Built On?
 
-The Edge Network is a completely unique technology stack, originated by the core team and developed over many years. It is predominantly written in TypeScript and Golang.
+The Edge Network is a completely unique technology stack, originated by the core team and developed over many years. It is predominantly written in TypeScript.
 
 ### Where Can I Find the Source Code for the Edge Network?
 
