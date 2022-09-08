@@ -36,3 +36,7 @@ DDoS mitigation technology is built in to the core of the network, providing a s
 ### Industry Leading Uptime
 
 Edge DNS has maintained an uptime of 100% over two years.
+
+## Deploy a Domain to Edge DNS Now
+
+{% embed url="https://account.edge.network" %}
