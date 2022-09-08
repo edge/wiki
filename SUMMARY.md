@@ -29,6 +29,11 @@
 * [🏘 Community Links](getting-started/community-links.md)
 * [🎙 Podcast](getting-started/conversations-on-the-edge.md)
 
+## Product Documentation
+
+* [Edge Servers](product-documentation/edge-servers.md)
+* [DNS](product-documentation/dns.md)
+
 ## Getting and Storing Tokens
 
 * [Exchanges](getting-and-storing-tokens/exchanges.md)
