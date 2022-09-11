@@ -31,6 +31,7 @@
 
 ## Product Documentation
 
+* [Account System](product-documentation/account-system.md)
 * [Edge Servers](product-documentation/edge-servers.md)
 * [DNS](product-documentation/dns.md)
 

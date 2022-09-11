@@ -28,16 +28,16 @@ The project roadmap for Edge provides a guide to the current and upcoming develo
 |      |        | Host V2                                                                                                    | Delivered                |
 |      |        | Mainnet Device Onboarding & Migration                                                                      | Delivered                |
 | 2022 | Q1+    | XE iOS Wallet                                                                                              | Delivered                |
-|      |        | VPS Public Beta                                                                                            | Ongoing                  |
+|      |        | VPS Public Beta                                                                                            | Delivered                |
 |      |        | Community Governance                                                                                       | Ongoing                  |
 |      |        | Daily Earnings                                                                                             | Delivered                |
 |      |        | PAYG Payments in Crypto                                                                                    | Ongoing                  |
 |      |        | New Customer Facing Website                                                                                | Ongoing                  |
 |      |        | Migration of CDN Customers to Edge Network V2                                                              | Ongoing                  |
-|      |        | Migration of DNS Customers to Edge Network V2                                                              | Ongoing                  |
-|      |        | VPS Mainnet Launch                                                                                         |                          |
-|      |        | Integrate Node Explorer with XE Explorer                                                                   |                          |
-|      |        | PAYG Payments in FIAT                                                                                      |                          |
+|      |        | Migration of DNS Customers to Edge Network V2                                                              | Delivered                |
+|      |        | VPS Mainnet Launch                                                                                         | Delivered                |
+|      |        | Integrate Node Explorer with XE Explorer                                                                   | Delivered                |
+|      |        | PAYG Payments in FIAT                                                                                      | Delivered                |
 |      |        | Storage Beta                                                                                               |                          |
 |      |        | Explorer Token Stats                                                                                       |                          |
 |      |        | Storage Mainnet Launch                                                                                     |                          |
@@ -46,7 +46,7 @@ The project roadmap for Edge provides a guide to the current and upcoming develo
 |      |        | Streaming Video Support in CDN                                                                             | Ongoing                  |
 |      |        | Edge Functions Public Beta                                                                                 |                          |
 |      |        | Edge DB Public Beta                                                                                        |                          |
-|      |        | Edge Shield Public Beta                                                                                    |                          |
+|      |        | Edge Shield Public Beta                                                                                    | Ongoing                  |
 
 ## Rolling Priorities
 

@@ -64,7 +64,7 @@ Transactions within the Edge Network are free for staking wallets. Non-staking w
 
 ### Service Purchase
 
-Services purchased using $XE directly attract a service discount of 10%, designed to reward the holding and use of $XE.
+Services purchased using $XE directly attract a service discount of 2.5%, designed to reward the holding and use of $XE.
 
 ### Node Staking
 
@@ -80,4 +80,10 @@ Fees tied to the raising of proposals in the governance mechanism are put into t
 
 ### Buy Back and Make
 
-A buy back and make programme assigns network revenue to the dev fund and to the growth fund. In addition to this, a percent of the gas fees from the network bridge are put into the growth fund.
+A buy back and make programme assigns network revenue recieved in fiat and other cryptocurrencies to the dev fund and to the growth fund. In addition to this, a percent of the gas fees from the network bridge are put into the growth fund.
+
+### Burn
+
+XE purchased via the account system using fiat or other cryptocurrencies is burned. The coins are sent to the zero address of the network: xe\_0000000000000000000000000000000000000000
+
+{% embed url="https://xe.network/wallet/xe_0000000000000000000000000000000000000000" %}
