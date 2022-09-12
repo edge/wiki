@@ -35,6 +35,6 @@ The Internet was conceived as a global, democratic communication network - a mes
 
 We want to reverse this relationship – to give the ownership of the network to everyone that is connected to it, and to make them the beneficiaries of the revenue that comes from its use.
 
-### The Edge Network as the Standard for the Decentralised Web (Web 3.0)
+### The Edge Network as the Standard for the Decentralised Web
 
 A network of millions of nodes, directly addressable and usable by anyone. A governance system free from individual or multinational control, organised by a Decentralised Autonomous Organisation.

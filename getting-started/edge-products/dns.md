@@ -11,7 +11,7 @@ coverY: 0
 
 Powered by a worldwide anycast network built in to the core of Edge platform and operational in 26+ countries, Edge DNS operates at lightning speeds ensuring incredibly fast resolution times and low latency for your apps.
 
-<figure><img src="../../.gitbook/assets/edgeDNSMap.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/dnsMap.png" alt=""><figcaption></figcaption></figure>
 
 ## Features
 
