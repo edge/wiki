@@ -2,11 +2,17 @@
 description: >-
   Edge Content Delivery is the world’s first CDN running exclusively on the
   edge. It's kinder to the environment and better for business.
+cover: ../../.gitbook/assets/cdncover.png
+coverY: 0
 ---
 
 # Content Delivery
 
-{% embed url="https://vimeo.com/528575049" caption="" %}
+{% hint style="info" %}
+**Launching October '22**
+{% endhint %}
+
+{% embed url="https://vimeo.com/528575049" %}
 
 Edge’s architecture creates a hyper-local peering system that routes traffic from nodes that are as close to the end consumer as possible – going as far as delivering within the local network loop.
 
@@ -52,13 +58,13 @@ Checking the headers from an image call returns the cache state for the asset in
 
 #### Image
 
-[https://img.monocle.com/book-of-italy-chooser5-6058b1e-6059ca40f12b2.jpg?g=center&q=50&dpr=2](https://img.monocle.com/book-of-italy-chooser5-6058b1e-6059ca40f12b2.jpg?g=center&q=50&dpr=2)
+[https://img.monocle.com/book-of-italy-chooser5-6058b1e-6059ca40f12b2.jpg?g=center\&q=50\&dpr=2](https://img.monocle.com/book-of-italy-chooser5-6058b1e-6059ca40f12b2.jpg?g=center\&q=50\&dpr=2)
 
 ![](../../.gitbook/assets/book-of-italy-chooser5-6058b1e-6059ca40f12b2.jpeg)
 
 #### Headers Returned
 
-```text
+```
 HTTP/1.0 200 OK =>
 Access-Control-Allow-Origin => *
 Cache-Control => public, max-age=86400
@@ -76,4 +82,3 @@ X-Cache => HIT
 X-Cache-Origin => request
 X-Cache-Type => mem
 ```
-

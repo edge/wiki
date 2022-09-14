@@ -2,6 +2,8 @@
 description: >-
   Edge Object Storage provides highly redundant, fast, secure and affordable
   storage for all types of data.
+cover: ../../.gitbook/assets/storageCover.png
+coverY: 0
 ---
 
 # Object Storage
@@ -37,4 +39,3 @@ Because it’s decentralized and built using the spare capacity all around us, E
 ### Integrated
 
 Edge Object Storage is fulyl integrated within the Edge ecosystem, meaning that it can be used as the origin for Edge CDN, as a filestore for Edge Functions or as extended storage for implementations using the Edge Ledger.
-
