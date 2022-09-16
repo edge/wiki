@@ -8,9 +8,15 @@ Edge CDN can be accessed via the [Edge Network website](https://edge.network) or
 
 Edge Object Storage is currently in active R\&D. A proof of concept exists and is currently being tested and evolved. A beta release is expected to be reelased for community testing at some point in 2021, with a first production release expected in 2022.
 
-### When Can I Get My Hands on Edge Servers?
+### Where Can I Sign Up for Edge Servers?
 
 Edge Servers are available now and can be accessed via the account system.
+
+{% embed url="https://account.edge.network" %}
+
+### Where Can I Sign Up for Edge DNS?
+
+Edge DNS is available now and can be accessed via the account system.
 
 {% embed url="https://account.edge.network" %}
 
