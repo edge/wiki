@@ -10,4 +10,4 @@ You can read about how Edge works here: [https://edge.network/en/culture](https:
 
 ## Supporting & Advisory Teams
 
-Edge employs 18 individuals around the world, including engineers, mobile developers, designers and content creators. Edge's advisory team includes David Wilde (formerly the CIO for the Office of the Deputy Prime Minister of the United Kingdom), Robert Belgrave (CEO at Wirehive and Pax8) and Sean King (formarly CEO of Seven).
+Edge employs 18 individuals around the world, including engineers, mobile developers, designers and content creators. Edge's advisory team includes David Wilde (formerly the CIO for the Office of the Deputy Prime Minister of the United Kingdom), Robert Belgrave (CEO at Wirehive and Pax8) and Sean King (formerly CEO of Seven).
