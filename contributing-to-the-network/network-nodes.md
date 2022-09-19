@@ -62,7 +62,7 @@ The core team at Edge manage a series of nodes in order to ensure and front run 
 
 ### Backbone Rentals
 
-Nodes in the network backbone are made available for staking to members of the community. This gives access to ndoes without the requirement for providing hardware and conenctivity yourself.
+Nodes in the network backbone are made available for staking to members of the community. This gives access to nodes without the requirement for providing hardware and connectivity yourself.
 
 Stake levels are the same as if you were running a node yourself, but the nodes yield is split between the staker and the dev fund, with 75% going to the stake provider and 25% going towards future network development.
 
