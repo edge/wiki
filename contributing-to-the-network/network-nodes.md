@@ -24,6 +24,8 @@ Hosts provide the processing and storage capacity in the network. Designed for m
 **Minimum device specification requirements are subject to change**
 {% endhint %}
 
+{% embed url="https://wiki.edge.network/contributing-to-the-network/setting-up-a-host" %}
+
 ### Gateway
 
 ![](../.gitbook/assets/gateway.png)
