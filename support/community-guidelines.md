@@ -13,6 +13,6 @@ They are:
 7. **No Inappropriate Names** - Community members with nicknames that are inappropriate or that otherwise break these rules will be asked to change them. Repeatedly breaking this rule will result in a ban.
 
 {% hint style="warning" %}
-**Failing to adhear to the community guidelines will result in a mute, channel disablement or ban. This is at the complete discretion of Edge's community managers**
+**Failing to adhere to the community guidelines will result in a mute, channel disablement or ban. This is at the complete discretion of Edge's community managers**
 {% endhint %}
 
