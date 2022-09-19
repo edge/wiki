@@ -22,11 +22,11 @@ To create a new account, click 'Create new account'.
 
 The account system uses a single cryptographic key for access. Make sure that you make a note of your key or store it in a password manager such as [1Password](https://1password.com).
 
-You can optionally enable two fator authentication and/or and a recovery email address at this stage. This can also be done later in the settings section of your account.
+You can optionally enable two factor authentication and/or a recovery email address at this stage. This can also be done later in the settings section of your account.
 
 <figure><img src="../.gitbook/assets/accountGenerationScreen (1).png" alt=""><figcaption></figcaption></figure>
 
-To go stright to your account click 'Go directly to my account'. You are now signed in.
+To go straight to your account click 'Go directly to my account'. You are now signed in.
 
 <figure><img src="../.gitbook/assets/accountScreen.png" alt=""><figcaption></figcaption></figure>
 
@@ -46,7 +46,7 @@ You can disable 2FA at any time by entering your verification code.
 
 ### Recovery Email
 
-You can add a recovery email to your account to help you gain access in the event that you loose your account number. To do this, simple enter the email address that you want to use in the 'Recovery Email' field of the settings section of your account.
+You can add a recovery email to your account to help you gain access in the event that you lose your account number. To do this, simple enter the email address that you want to use in the 'Recovery Email' field of the settings section of your account.
 
 ## Signing in to Your Account
 
@@ -58,7 +58,7 @@ Documentation coming soon.
 
 ## Referral Code
 
-Your referral code and link can be found in both the Billing and Settings sections of your account. It is a short URL starts with the domain ed.ge which is followed by your unique code. Use of this code when referring people to Edge will pay you 10% of their spend on network products for the lifetime of their use of the network.
+Your referral code and link can be found in both the Billing and Settings sections of your account. It is a short URL starting with the domain ed.ge which is followed by your unique code. Use of this code when referring people to Edge will pay you 10% of their spend on network products for the lifetime of their use of the network.
 
 <figure><img src="../.gitbook/assets/referralLink.png" alt=""><figcaption></figcaption></figure>
 
