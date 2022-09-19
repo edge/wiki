@@ -26,7 +26,7 @@ You can optionally enable two fator authentication and/or and a recovery email a
 
 <figure><img src="../.gitbook/assets/accountGenerationScreen (1).png" alt=""><figcaption></figcaption></figure>
 
-To go stright to your account click 'Go directly to my account'. You are now signed in.
+To go straight to your account click 'Go directly to my account'. You are now signed in.
 
 <figure><img src="../.gitbook/assets/accountScreen.png" alt=""><figcaption></figcaption></figure>
 
