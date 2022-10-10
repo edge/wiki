@@ -8,8 +8,6 @@ Stakes also form an important part of the tokenomics of the platform, locking va
 
 {% hint style="success" %} Staking software is available on desktop (Windows, Linux, MacOS): http://ed.ge/staking **** {% endhint %}
 
-{% hint style="success" %} You can also stake on your mobile Apple device: https://ed.ge/app **** {% endhint %}
-
 To add a node to the network you have to provide a stake in $XE via your account in the [Edge Console](https://console.edge.network).
 
 ## Proof of Stake
