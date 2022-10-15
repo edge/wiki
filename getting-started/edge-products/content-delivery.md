@@ -8,8 +8,8 @@ coverY: 0
 
 # Content Delivery
 
-{% hint style="info" %}
-**Launching October '22**
+{% hint style="success" %}
+**Available now**
 {% endhint %}
 
 {% embed url="https://vimeo.com/528575049" %}
@@ -42,9 +42,7 @@ Take workload off your origin by serving SSL certificates directly at the edge, 
 
 Edge CDN saves 20%+ on average vs. traditional CDNs as a result of better media compression and the use of edge devices instead of centralised data centres.
 
-## Sign Up & Documentation
-
-You can launch a new instance of Edge CDN here: [cdn.new](https://cdn.new)
+## Documentation
 
 Documentation can be found here: [edge.network/en/content-delivery/documentation](https://edge.network/en/content-delivery/documentation/)
 
@@ -82,3 +80,7 @@ X-Cache => HIT
 X-Cache-Origin => request
 X-Cache-Type => mem
 ```
+
+## Launch Edge CDN Now
+
+{% embed url="https://account.edge.network" %}
