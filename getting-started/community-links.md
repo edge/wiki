@@ -13,7 +13,6 @@ Join the Edge mailing list:
 Elsewhere:
 
 * Telegram: [@edgenetwork](https://t.me/edgenetwork)
-* Telegram Announcements: [@edgeann](https://t.me/edgeann)
 * Reddit: [/r/edgenetwork](https://reddit.com/r/edgenetwork)
 * Medium: [edge.medium.com](https://edge.medium.com)
 * YouTube: [ed.ge/youtube](https://ed.ge/youtube)
