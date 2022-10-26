@@ -18,13 +18,13 @@ The account landing page gives you the option to sign in or to create a new acco
 
 To create a new account, click 'Create new account'.
 
-<figure><img src="../.gitbook/assets/accountGenerationScreen.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/accountGenerationScreen (1).png" alt=""><figcaption></figcaption></figure>
 
 The account system uses a single cryptographic key for access. Make sure that you make a note of your key or store it in a password manager such as [1Password](https://1password.com).
 
 You can optionally enable two factor authentication and/or a recovery email address at this stage. This can also be done later in the settings section of your account.
 
-<figure><img src="../.gitbook/assets/accountGenerationScreen (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/accountGenerationScreen.png" alt=""><figcaption></figcaption></figure>
 
 To go straight to your account click 'Go directly to my account'. You are now signed in.
 

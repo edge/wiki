@@ -28,7 +28,7 @@ $XE has its own network native client-side wallet. This is a JavaScript app that
 
 You can access the XE web wallet at: [wallet.xe.network](https://wallet.xe.network)
 
-![](<../.gitbook/assets/screenshot-2021-06-04-at-17.12.15 (1).png>)
+![](../.gitbook/assets/screenshot-2021-06-04-at-17.12.15.png)
 
 {% content-ref url="../support/creating-an-xe-wallet.md" %}
 [creating-an-xe-wallet.md](../support/creating-an-xe-wallet.md)

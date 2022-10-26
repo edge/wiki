@@ -26,5 +26,4 @@ Make sure you store a copy of your private key somewhere secure, like a password
 
 Congratulations! You now have an XE Wallet ready for use.
 
-![](../.gitbook/assets/screenshot-2021-06-04-at-17.12.15.png)
-
+![](<../.gitbook/assets/screenshot-2021-06-04-at-17.12.15 (1).png>)

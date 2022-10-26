@@ -8,6 +8,7 @@
 * [🌍 Network Explorer](https://xe.network)
 * [🕰 A Brief History](getting-started/a-brief-history.md)
 * [🌐 The Edge Network](getting-started/the-edge-network.md)
+* [🌳 The Green Cloud](getting-started/the-green-cloud.md)
 * [🎯 Edge Products](getting-started/edge-products/README.md)
   * [Edge Servers](getting-started/edge-products/edge-servers.md)
   * [Content Delivery](getting-started/edge-products/content-delivery.md)
