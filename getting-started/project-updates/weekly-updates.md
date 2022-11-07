@@ -10,7 +10,17 @@ description: >-
 
 | Year | Week           | Summary                                                                        | Link                                                       |
 | ---- | -------------- | ------------------------------------------------------------------------------ | ---------------------------------------------------------- |
-| 2022 | 22nd August    | Edge DNS, Stargate and Gateway                                                 | [ed.ge/update/2022/08/22](https://ed.ge/update/2022/08/22) |
+| 2022 | 31st october   | Customer Support Now Live                                                      | [ed.ge/update/2022/10/31](https://ed.ge/update/2022/10/31) |
+|      | 24th October   | Account, Explorer & Host Updates                                               | [ed.ge/update/2022/10/24](https://ed.ge/update/2022/10/24) |
+|      | 17th October   | A Slew of Network Updates                                                      | [ed.ge/update/2022/10/17](https://ed.ge/update/2022/10/17) |
+|      | 10th October   | Edge Content Delivery is Now Live                                              | [ed.ge/update/2022/10/10](https://ed.ge/update/2022/10/10) |
+|      | 03rd October   | CDN, launching soon!                                                           | [ed.ge/update/2022/10/03](https://ed.ge/update/2022/10/03) |
+|      | 26th September | Edge CDN, Mudas and Much More...                                               | [ed.ge/update/2022/09/26](https://ed.ge/update/2022/09/26) |
+|      | 19th September | Content Delivery usage metrics                                                 | [ed.ge/update/2022/09/19](https://ed.ge/update/2022/09/19) |
+|      | 12th September | Edge DNS, Edge Servers & Edge Content Delivery                                 | [ed.ge/update/2022/09/12](https://ed.ge/update/2022/09/12) |
+|      | 05th September | Edge DNS is Now Live!                                                          | [ed.ge/update/2022/09/05](https://ed.ge/update/2022/09/05) |
+|      | 29th August    | Edge DNS Integration                                                           | [ed.ge/update/2022/08/29](https://ed.ge/update/2022/08/29) |
+|      | 22nd August    | Edge DNS, Stargate and Gateway                                                 | [ed.ge/update/2022/08/22](https://ed.ge/update/2022/08/22) |
 |      | 15th August    | Edge Accounts Now Live                                                         | [ed.ge/update/2022/08/15](https://ed.ge/update/2022/08/15) |
 |      | 08th August    | Hypervisors, CDN and Latency                                                   | [ed.ge/update/2022/08/08](https://ed.ge/update/2022/08/08) |
 |      | 01st August    | Stargate, Gateway & CLI Updates                                                | [ed.ge/update/2022/08/01](https://ed.ge/update/2022/08/01) |

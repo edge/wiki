@@ -48,8 +48,8 @@ The X is from the ISO standard for currencies that are not specific to a certain
 
 The XE Bridge is open! It opened on Thursday September 09th, 2021 at 5pm UTC. More information can be found in the weekly core team updates.
 
-{% content-ref url="../../getting-started/core-team-updates/weekly-updates.md" %}
-[weekly-updates.md](../../getting-started/core-team-updates/weekly-updates.md)
+{% content-ref url="../../getting-started/project-updates/weekly-updates.md" %}
+[weekly-updates.md](../../getting-started/project-updates/weekly-updates.md)
 {% endcontent-ref %}
 
 ### Why is my withdrawal taking so long?

@@ -4,7 +4,7 @@ description: >-
   Network and how it is poised to change the Internet.
 ---
 
-# 🎙 Podcast
+# Podcast
 
 ## Episode 38, 11th February 2022
 

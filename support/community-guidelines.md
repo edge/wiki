@@ -1,6 +1,6 @@
 # Community Guidelines
 
-Edge is commited to providing a supportive and friendly community. To this end there are a few community guidelines that we ask everyone to follow.
+Edge is committed to providing a supportive and friendly community. To this end there are a few community guidelines that we ask everyone to follow.
 
 They are:
 
@@ -15,4 +15,3 @@ They are:
 {% hint style="warning" %}
 **Failing to adhere to the community guidelines will result in a mute, channel disablement or ban. This is at the complete discretion of Edge's community managers**
 {% endhint %}
-

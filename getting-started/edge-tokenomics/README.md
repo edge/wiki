@@ -84,6 +84,6 @@ A buy back and make programme assigns network revenue recieved in fiat and other
 
 ### Burn
 
-XE purchased via the account system using fiat or other cryptocurrencies is burned. The coins are sent to the zero address of the network: xe\_0000000000000000000000000000000000000000
+A significant proportion of the $XE used for the purchase of Edge services is burned. The coins are sent to the zero address of the network: xe\_0000000000000000000000000000000000000000
 
 {% embed url="https://xe.network/wallet/xe_0000000000000000000000000000000000000000" %}

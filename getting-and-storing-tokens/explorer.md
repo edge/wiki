@@ -1,7 +1,7 @@
 # Explorer
 
 {% hint style="success" %}
-**You can access the explorer at:** [**xe.network**](https://xe.network)\*\*\*\*
+**You can access the explorer at:** [**xe.network**](https://xe.network)
 {% endhint %}
 
 As its own blockchain, $XE has its own explorer. This is powered by an API at the heart of the blockchain that securely exposes endpoints for blocks, transactions and wallets.

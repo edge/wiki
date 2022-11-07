@@ -21,19 +21,19 @@
   * [Founding Team](getting-started/edge-tokenomics/founding-team.md)
   * [Staking Contract](getting-started/edge-tokenomics/staking-contract.md)
 * [📍 Project Roadmaps](getting-started/project-roadmaps.md)
-* [👷 Core Team](getting-started/core-team.md)
-* [📰 Core Team Updates](getting-started/core-team-updates/README.md)
-  * [Weekly Updates](getting-started/core-team-updates/weekly-updates.md)
-  * [Annual TL;DRs](getting-started/core-team-updates/annual-tl-drs.md)
-  * [AMA Archive](getting-started/core-team-updates/ama-archive.md)
-  * [Newsletter](getting-started/core-team-updates/newsletter.md)
+* [📰 Project Updates](getting-started/project-updates/README.md)
+  * [Weekly Updates](getting-started/project-updates/weekly-updates.md)
+  * [Annual TL;DRs](getting-started/project-updates/annual-tl-drs.md)
+  * [AMA Archive](getting-started/project-updates/ama-archive.md)
+  * [Newsletter](getting-started/project-updates/newsletter.md)
+  * [Podcast](getting-started/project-updates/conversations-on-the-edge.md)
 * [🏘 Community Links](getting-started/community-links.md)
-* [🎙 Podcast](getting-started/conversations-on-the-edge.md)
 
 ## Product Documentation
 
 * [Account System](product-documentation/account-system.md)
 * [Edge Servers](product-documentation/edge-servers.md)
+* [Content Delivery](product-documentation/content-delivery.md)
 * [DNS](product-documentation/dns.md)
 
 ## Getting and Storing Tokens
@@ -44,9 +44,10 @@
 
 ## Network Governance
 
-* [An Introduction to Governance](network-governance/an-introduction-to-governance.md)
+* [An Introduction to Governance](network-governance/introduction.md)
 * [Guiding Principles](network-governance/guiding-principles.md)
 * [Voting Rights](network-governance/voting-rights.md)
+* [The Edge DAO](network-governance/edge-dao.md)
 
 ## Contributing to the Network
 
@@ -73,6 +74,7 @@
 
 ## Support
 
+* [Commercial Support](support/commercial-support.md)
 * [Community Guidelines](support/community-guidelines.md)
 * [Creating an $XE Wallet](support/creating-an-xe-wallet.md)
 * [Using the Network Bridge](support/using-the-network-bridge/README.md)
