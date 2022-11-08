@@ -6,11 +6,18 @@ description: >-
 
 # Newsletter
 
+## Sign up
+
+You can sign up to the Edge Newsletter here:
+
+{% embed url="https://edge.press" %}
+
 ## Archive
 
 | Year | Date           | Link                                                   |
 | ---- | -------------- | ------------------------------------------------------ |
-| 2022 | 18th February  | [ed.ge/digest/issue-32](https://ed.ge/digest/issue-32) |
+| 2022 | 19th October   | [ed.ge/digest/issue-33](https://ed.ge/digest/issue-33) |
+|      | 18th February  | [ed.ge/digest/issue-32](https://ed.ge/digest/issue-32) |
 |      | 13th February  | [ed.ge/digest/issue-31](https://ed.ge/digest/issue-31) |
 |      | 06th February  | [ed.ge/digest/issue-30](https://ed.ge/digest/issue-30) |
 |      | 28th January   | [ed.ge/digest/issue-29](https://ed.ge/digest/issue-29) |
