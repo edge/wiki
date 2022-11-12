@@ -80,7 +80,6 @@
 * [Using the Network Bridge](support/using-the-network-bridge/README.md)
   * [Depositing $EDGE](support/using-the-network-bridge/depositing-usdedge.md)
   * [Withdrawing $XE](support/using-the-network-bridge/withdrawing-usdxe.md)
-* [Claiming $XE](support/claiming-xe.md)
 * [FAQ](support/faq/README.md)
   * [General](support/faq/general.md)
   * [Technology](support/faq/technology.md)

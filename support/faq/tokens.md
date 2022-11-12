@@ -26,24 +26,6 @@ The X is from the ISO standard for currencies that are not specific to a certain
 
 0x4ec1b60b96193a64acae44778e51f7bff2007831
 
-### I Held the Original $EDGE, How Do I Get Hold of $XE?
-
-{% hint style="danger" %}
-**The swap period for $EDGE>$TNC closed on Thursday, 27th May 2021**
-{% endhint %}
-
-~~You should follow the swap process within Edge Console. You have until Thursday, 27th May 2021 to complete the swap. The swap closes after this period and you will not be able to swap further $EDGE.~~
-
-{% hint style="success" %}
-**Unswapped $EDGE can still be used for the payment of network services**
-{% endhint %}
-
-### I Swapped $EDGE for $TNC, How Do I Get Hold of $XE?
-
-{% hint style="danger" %}
-**The claim period for $XE closed on Thursday, 30th September 2021**
-{% endhint %}
-
 ### When Will the $XE<>$EDGE Bridge Open?
 
 The XE Bridge is open! It opened on Thursday September 09th, 2021 at 5pm UTC. More information can be found in the weekly core team updates.

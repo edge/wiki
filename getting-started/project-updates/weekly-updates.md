@@ -10,7 +10,8 @@ description: >-
 
 | Year | Week           | Summary                                                                        | Link                                                       |
 | ---- | -------------- | ------------------------------------------------------------------------------ | ---------------------------------------------------------- |
-| 2022 | 31st october   | Customer Support Now Live                                                      | [ed.ge/update/2022/10/31](https://ed.ge/update/2022/10/31) |
+| 2022 | 07th November  | Project Governance                                                             | [ed.ge/update/2022/11/07](https://ed.ge/update/2022/11/07) |
+|      | 31st october   | Customer Support Now Live                                                      | [ed.ge/update/2022/10/31](https://ed.ge/update/2022/10/31) |
 |      | 24th October   | Account, Explorer & Host Updates                                               | [ed.ge/update/2022/10/24](https://ed.ge/update/2022/10/24) |
 |      | 17th October   | A Slew of Network Updates                                                      | [ed.ge/update/2022/10/17](https://ed.ge/update/2022/10/17) |
 |      | 10th October   | Edge Content Delivery is Now Live                                              | [ed.ge/update/2022/10/10](https://ed.ge/update/2022/10/10) |
