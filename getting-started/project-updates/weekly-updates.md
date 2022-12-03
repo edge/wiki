@@ -10,7 +10,10 @@ description: >-
 
 | Year | Week           | Summary                                                                        | Link                                                       |
 | ---- | -------------- | ------------------------------------------------------------------------------ | ---------------------------------------------------------- |
-| 2022 | 07th November  | Project Governance                                                             | [ed.ge/update/2022/11/07](https://ed.ge/update/2022/11/07) |
+| 2022 | 28th November  | Governance Participation                                                       | [ed.ge/update/2022/11/28](https://ed.ge/update/2022/11/28) |
+|      | 21st November  | Governance Update                                                              | [ed.ge/update/2022/11/21](https://ed.ge/update/2022/11/21) |
+|      | 14th November  | $XE Cold Storage                                                               | [ed.ge/update/2022/11/14](https://ed.ge/update/2022/11/14) |
+|      | 07th November  | Project Governance                                                             | [ed.ge/update/2022/11/07](https://ed.ge/update/2022/11/07) |
 |      | 31st october   | Customer Support Now Live                                                      | [ed.ge/update/2022/10/31](https://ed.ge/update/2022/10/31) |
 |      | 24th October   | Account, Explorer & Host Updates                                               | [ed.ge/update/2022/10/24](https://ed.ge/update/2022/10/24) |
 |      | 17th October   | A Slew of Network Updates                                                      | [ed.ge/update/2022/10/17](https://ed.ge/update/2022/10/17) |
