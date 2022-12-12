@@ -10,7 +10,8 @@ description: >-
 
 | Year | Week           | Summary                                                                        | Link                                                       |
 | ---- | -------------- | ------------------------------------------------------------------------------ | ---------------------------------------------------------- |
-| 2022 | 28th November  | Governance Participation                                                       | [ed.ge/update/2022/11/28](https://ed.ge/update/2022/11/28) |
+| 2022 | 05th December  | Governance Update and Future Roadmaps                                          | [ed.ge/update/2022/12/05](https://ed.ge/update/2022/12/05) |
+|      | 28th November  | Governance Participation                                                       | [ed.ge/update/2022/11/28](https://ed.ge/update/2022/11/28) |
 |      | 21st November  | Governance Update                                                              | [ed.ge/update/2022/11/21](https://ed.ge/update/2022/11/21) |
 |      | 14th November  | $XE Cold Storage                                                               | [ed.ge/update/2022/11/14](https://ed.ge/update/2022/11/14) |
 |      | 07th November  | Project Governance                                                             | [ed.ge/update/2022/11/07](https://ed.ge/update/2022/11/07) |
