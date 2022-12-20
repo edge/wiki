@@ -1,18 +1,20 @@
 # An Introduction to Governance
 
-The governance functions of the Edge Network are open for anyone with an active governance stake.
-
-{% hint style="danger" %}
-**Governance is not yet live. It is expected to launch before the end of 2022**
+{% hint style="success" %}
+**Governance is now live**
 {% endhint %}
 
-Governance stakes are locked for a 12 month period. Governance stake holders have the ability to both create and vote upon proposals. Proposal creation carries a cost in $XE. These measure are designed to keep the quality of the proposals high.
+The governance functions of the Edge Network are open for anyone with an active governance stake.
+
+Governance stakes are locked for a 12 month period. Governance stakeholders have the ability to both create and vote upon proposals, as well as comment on existing proposals. Every action in governance carries a small cost in $XE. These measures are designed to keep the quality of the submissions high.
 
 Proposals will require certain majorities in order to be passed. DAO members have a collective right to veto or to propose amendments to proposals.
 
 {% hint style="info" %}
 **Governance is advisory, with members of the DAO holding the right to veto**
 {% endhint %}
+
+{% embed url="https://governance.edge.network" %}
 
 ## Governance Thresholds
 
