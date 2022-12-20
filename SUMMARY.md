@@ -6,6 +6,7 @@
 
 * [💻 Edge Website](https://edge.network)
 * [🌍 Network Explorer](https://xe.network)
+* [🗳 Project Governance](https://governance.edge.network)
 * [🕰 A Brief History](getting-started/a-brief-history.md)
 * [🌐 The Edge Network](getting-started/the-edge-network.md)
 * [🌳 The Green Cloud](getting-started/the-green-cloud.md)
