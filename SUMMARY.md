@@ -43,12 +43,12 @@
 * [Wallets](getting-and-storing-tokens/wallets.md)
 * [Explorer](getting-and-storing-tokens/explorer.md)
 
-## Network Governance
+## Project Governance
 
-* [An Introduction to Governance](network-governance/introduction.md)
-* [Guiding Principles](network-governance/guiding-principles.md)
-* [Voting Rights](network-governance/voting-rights.md)
-* [The Edge DAO](network-governance/edge-dao.md)
+* [An Introduction to Governance](project-governance/introduction.md)
+* [Guiding Principles](project-governance/guiding-principles.md)
+* [Voting Rights](project-governance/voting-rights.md)
+* [The Edge DAO](project-governance/edge-dao.md)
 
 ## Contributing to the Network
 
