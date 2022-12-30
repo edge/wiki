@@ -16,7 +16,8 @@ You can sign up to the Edge Newsletter here:
 
 | Year | Date           | Link                                                   |
 | ---- | -------------- | ------------------------------------------------------ |
-| 2022 | 19th October   | [ed.ge/digest/issue-33](https://ed.ge/digest/issue-33) |
+| 2022 | 08th November  | [ed.ge/digest/issue-34](https://ed.ge/digest/issue-34) |
+|      | 19th October   | [ed.ge/digest/issue-33](https://ed.ge/digest/issue-33) |
 |      | 18th February  | [ed.ge/digest/issue-32](https://ed.ge/digest/issue-32) |
 |      | 13th February  | [ed.ge/digest/issue-31](https://ed.ge/digest/issue-31) |
 |      | 06th February  | [ed.ge/digest/issue-30](https://ed.ge/digest/issue-30) |

@@ -1,11 +1,14 @@
 ---
 description: >-
-  The core team hold AMAs on an ad-hoc basis. As the project has moved towards
-  community governance, communication on Discord has become free-flowing,
-  largely negating the need for AMAs.
+  As the project has moved towards community governance, communication on
+  Discord has become free-flowing, largely negating the need for AMAs.
 ---
 
 # AMA Archive
+
+{% hint style="info" %}
+Head to Discord to chat to the core team
+{% endhint %}
 
 ## Archive
 
