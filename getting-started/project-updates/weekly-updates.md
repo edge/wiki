@@ -10,7 +10,11 @@ description: >-
 
 | Year | Week           | Summary                                                                        | Link                                                       |
 | ---- | -------------- | ------------------------------------------------------------------------------ | ---------------------------------------------------------- |
-| 2022 | 19th December  | It's Christmas!                                                                | [ed.ge/update/2022/12/19](https://ed.ge/update/2022/12/19) |
+| 2023 | 16th January   | Multiple Stargate Support                                                      | [ed.ge/update/2023/01/16](https://ed.ge/update/2023/01/16) |
+|      | 09th January   | Instigating an XE Burn                                                         | [ed.ge/update/2023/01/09](https://ed.ge/update/2023/01/09) |
+|      | 02nd January   | Future Vision                                                                  | [ed.ge/update/2023/01/02](https://ed.ge/update/2023/01/02) |
+| 2022 | 26th December  | 2022 TL;DR                                                                     | [ed.ge/update/2022/12/26](https://ed.ge/update/2022/12/26) |
+|      | 19th December  | It's Christmas!                                                                | [ed.ge/update/2022/12/19](https://ed.ge/update/2022/12/19) |
 |      | 12th December  | Governance Launches                                                            | [ed.ge/update/2022/12/12](https://ed.ge/update/2022/12/12) |
 |      | 05th December  | Governance Update and Future Roadmaps                                          | [ed.ge/update/2022/12/05](https://ed.ge/update/2022/12/05) |
 |      | 28th November  | Governance Participation                                                       | [ed.ge/update/2022/11/28](https://ed.ge/update/2022/11/28) |
