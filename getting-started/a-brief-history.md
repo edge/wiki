@@ -15,7 +15,7 @@ Edge's testnet - running on the domain test.network - was launched in January 20
 
 In 2019 Edge was recognised as the “Best Edge Computing Platform” in the Future Digital Awards.
 
-In 2021 the blockchain in the network used for the tracking of network requests was extended to become a mechanism for value transfer. This introduced $XE, a coin used for value attribution within the network, operated as a layer 2 solution for Ethereum. $XE is used for the payment of services; for network staking; for the distribution of node yields; and for community governance. It is bridged to the $EDGE ERC-20 token within the Etheruem network.
+In 2021 the blockchain in the network used for the tracking of network requests was extended to become a mechanism for value transfer. This introduced $XE, a coin used for value attribution within the network. the XE Blockchain is a layer 1 solution that bridges in to other networks. $XE is used for the payment of services; for network staking; for the distribution of node yields; and for community governance. It is currently bridged to the $EDGE ERC-20 token within the Etheruem network.
 
 In 2022 the first fully anonymous computing platform was launched. Edge's account system using a private key for security, giving direct access to Edge Servers, Edge DNS and Edge CDN.
 

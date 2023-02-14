@@ -20,7 +20,7 @@ This reduces the volumes of data that must be moved, the consequent traffic, and
 **The Edge (XE) Blockchain is a original chain, designed and built entirely by the core team**
 {% endhint %}
 
-The blockchain at the heart of the network records device usage and value attribution. It uses an internal coin called $XE, a layer 2 solution that provides fast transfers within the network that are fee free for value attribution. $XE includes bridging functionality that allows the coin to be bridged in to other networks. In this way $XE can be converted to $EDGE on the Ethereum network.
+The blockchain at the heart of the network records device usage and value attribution. It uses an internal coin called $XE, run on the XE Blockchain, which is a layer 1 solution that provides fast transfers within the network that are fee free for value attribution. $XE includes bridging functionality that allows the coin to be bridged in to other networks. In this way $XE can be converted to $EDGE on the Ethereum network.
 
 ![](../.gitbook/assets/xechain.png)
 

@@ -6,7 +6,7 @@ description: >-
 
 # 💰 Edge Tokenomics
 
-$XE is a layer 2 solution designed for fast transactions mapped to resource usage. It is bridged into the Ethereum network on a 1:1 basis with the $EDGE token.
+$XE is the coin of the XE Blockchain, a layer 1 solution designed for fast transactions mapped to resource usage. It is bridged into the Ethereum network on a 1:1 basis with the $EDGE token.
 
 Transactions within the Edge Network are free for staking wallets. Non-staking wallets are charged a small fee to help to maintain the security of the chain. Bridging $XE in/out of the network to $EDGE in the Ethereum network carries a variable gas fee.
 
@@ -54,7 +54,7 @@ In addition to this, a 0.75% fee is applied to all $XE transactions moving throu
 
 ## $XE
 
-$XE is a layer 2 solution designed for fast  transactions mapped to resource usage. It is bridged into the Ethereum network on a 1:1 basis with the $EDGE token, meaning that for every 1 $XE bridged out of the Edge Network, you will receive 1 $EDGE.
+$XE is the coin of the XE Blockchain, a layer 1 solution designed for fast  transactions mapped to resource usage. It is bridged into the Ethereum network on a 1:1 basis with the $EDGE token, meaning that for every 1 $XE bridged out of the Edge Network, you will receive 1 $EDGE.
 
 $XE is used for the purchasing of Edge services, for staking, network governance, and for node rewards.
 
