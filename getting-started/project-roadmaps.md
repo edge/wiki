@@ -23,6 +23,7 @@ The project roadmap for Edge provides a guide to the current and upcoming develo
 |      |        | Edge Shield Public Beta                                                                                    |                          |
 |      |        | Edge Storage Beta                                                                                          |                          |
 |      |        | PAYG Payments in Crypto                                                                                    |                          |
+|      |        | XE Transaction Fees                                                                                        |                          |
 |      |        | Migration of CDN Customers to Edge Network V2                                                              | Ongoing                  |
 |      |        | Explorer Token Stats                                                                                       | Ongoing                  |
 |      | Q2     | Edge Shield Alpha                                                                                          | Ongoing                  |
