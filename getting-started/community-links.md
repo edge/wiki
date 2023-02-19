@@ -8,7 +8,7 @@ Keep up with the latest developments and join the Edge community:
 
 Join the Edge mailing list:
 
-* [edge.press](https://edge.press)
+* ~~edge.press~~
 
 Elsewhere:
 

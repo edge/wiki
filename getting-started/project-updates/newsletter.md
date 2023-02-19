@@ -8,11 +8,13 @@ description: >-
 
 ## Sign up
 
-You can sign up to the Edge Newsletter here:
-
-{% embed url="https://edge.press" %}
+{% hint style="danger" %}
+Revue from Twitter has been discontinued. We are looking for a replacement
+{% endhint %}
 
 ## Archive
+
+Note that since Revue has been discontinued that the links below will not work. We are looking for a replacement solution and expect to have the newsletter back online soon.
 
 | Year | Date           | Link                                                   |
 | ---- | -------------- | ------------------------------------------------------ |

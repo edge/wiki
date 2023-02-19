@@ -7,7 +7,7 @@ description: >-
 # AMA Archive
 
 {% hint style="info" %}
-Head to Discord to chat to the core team
+[Head to Discord](https://ed.ge/discord) to chat to the core team
 {% endhint %}
 
 ## Archive

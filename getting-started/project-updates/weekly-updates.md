@@ -10,7 +10,11 @@ description: >-
 
 | Year | Week           | Summary                                                                        | Link                                                       |
 | ---- | -------------- | ------------------------------------------------------------------------------ | ---------------------------------------------------------- |
-| 2023 | 16th January   | Multiple Stargate Support                                                      | [ed.ge/update/2023/01/16](https://ed.ge/update/2023/01/16) |
+| 2023 | 13th February  | 2023 Roadmaps                                                                  | [ed.ge/update/2023/02/13](https://ed.ge/update/2023/02/13) |
+|      | 06th February  | The Size of the First Burn                                                     | [ed.ge/update/2023/02/06](https://ed.ge/update/2023/02/06) |
+|      | 30th January   | The 200th weekly update!                                                       | [ed.ge/update/2023/01/30](https://ed.ge/update/2023/01/30) |
+|      | 23rd January   | Multi-Stargate, Explorer Update and More                                       | [ed.ge/update/2023/01/23](https://ed.ge/update/2023/01/23) |
+|      | 16th January   | Multiple Stargate Support                                                      | [ed.ge/update/2023/01/16](https://ed.ge/update/2023/01/16) |
 |      | 09th January   | Instigating an XE Burn                                                         | [ed.ge/update/2023/01/09](https://ed.ge/update/2023/01/09) |
 |      | 02nd January   | Future Vision                                                                  | [ed.ge/update/2023/01/02](https://ed.ge/update/2023/01/02) |
 | 2022 | 26th December  | 2022 TL;DR                                                                     | [ed.ge/update/2022/12/26](https://ed.ge/update/2022/12/26) |
