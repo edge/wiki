@@ -17,6 +17,8 @@ The `Proposal detail` is markdown formatted. Headings within this section should
 
 Proposals must be at least 500 words. This threshold is set to ensure that a minimum level of clarity is provided. This threshold is enforced, and you won't be able to advance to preview your proposal until the minimum requirement is met.
 
+_Note: proposals are submitted to the XE Blockchain and are permanent. Once submitted they cannot be changed_
+
 ### Proposal Detail
 
 The structure of the proposal detail should match the following structure:
