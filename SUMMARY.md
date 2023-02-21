@@ -49,6 +49,7 @@
 * [Guiding Principles](project-governance/guiding-principles.md)
 * [Voting Rights](project-governance/voting-rights.md)
 * [The Edge DAO](project-governance/edge-dao.md)
+* [Proposal Guidelines](project-governance/proposal-guidelines.md)
 
 ## Contributing to the Network
 
