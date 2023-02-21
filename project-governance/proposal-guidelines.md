@@ -15,7 +15,7 @@ The `Title` maps to an H1 tag in HTML.
 
 The `Proposal detail` is markdown formatted. Headings within this section should be H2, H3 etc. (i.e. not H1, as this is used for the title.) A markdown code reference can be seen below.
 
-Proposals must be at least 500 words. This threashold is set to ensure that a minimum level of clarity is provided. This threshold is enforces, and you won't be able to advance to preview your proposal until it is hit.
+Proposals must be at least 500 words. This threshold is set to ensure that a minimum level of clarity is provided. This threshold is enforced, and you won't be able to advance to preview your proposal until the minimum requirement is met.
 
 ### Proposal Detail
 
