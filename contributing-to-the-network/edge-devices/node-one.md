@@ -6,17 +6,16 @@ The design approach to Node One rested on embracing the limitations and restrict
 
 Node One wasn't put in to full production. It was held back to pending the completion of several core components in the network, neccessary to get the most out of its power footprint.
 
-![](../../.gitbook/assets/01%20%281%29.jpg)
+![](../../.gitbook/assets/01.jpg)
 
-![](../../.gitbook/assets/03%20%282%29.jpg)
+![](<../../.gitbook/assets/03 (2).jpg>)
 
-![](../../.gitbook/assets/02%20%281%29.jpg)
+![](../../.gitbook/assets/02.jpg)
 
 ![](../../.gitbook/assets/04.jpg)
 
-![](../../.gitbook/assets/05%20%281%29.jpg)
+![](<../../.gitbook/assets/05 (1).jpg>)
 
 ![](../../.gitbook/assets/06.jpg)
 
 ![](../../.gitbook/assets/07.jpg)
-

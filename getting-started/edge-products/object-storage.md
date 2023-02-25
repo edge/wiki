@@ -16,7 +16,7 @@ Files in the Edge Network are encrypted and split into hundreds of pieces, and a
 
 The availability of files and transfer performance in and out of the network is managed through replication and proximity to the point of use, making Edge the ideal solution for backup, file transfer and app level data storage.
 
-![](../../.gitbook/assets/edgestorage.png)
+![](../../.gitbook/assets/edgeStorage.png)
 
 ## Features
 

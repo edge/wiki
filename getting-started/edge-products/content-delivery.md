@@ -2,7 +2,7 @@
 description: >-
   Edge Content Delivery is the world’s first CDN running exclusively on the
   edge. It's kinder to the environment and better for business.
-cover: ../../.gitbook/assets/cdncover.png
+cover: ../../.gitbook/assets/cdncover (1).png
 coverY: 0
 ---
 
@@ -18,7 +18,7 @@ Edge’s architecture creates a hyper-local peering system that routes traffic f
 
 This reduces the distance and volume of data being moved, which massively increases the performance of services.
 
-![](../../.gitbook/assets/hyperlocal.png)
+![](../../.gitbook/assets/hyperLocal.png)
 
 ## Features
 
