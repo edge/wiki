@@ -9,14 +9,14 @@ Together these products allow you to create and run fully decentralised applicat
 ### Hosting
 
 {% hint style="info" %}
-**Static websites can be run in the network today, delivered through CDN**
+**Static websites can be run through CDN**
 {% endhint %}
 
 An example of a static site hosted via Edge Content Delivery can be seen here:
 
 {% embed url="https://thedecentralizedweb.com" %}
 
-Dynamic sites will be enabled with the addition of Edge Cache, Edge Functions and Edge DB.
+Dynamic sites can be delivered using Edge Servers, which as VPSs are capable of running practically any application.
 
 Hosting on the Edge ensures a lightening fast experience for your end users, increasing conversion and retention.
 
