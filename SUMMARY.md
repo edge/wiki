@@ -33,9 +33,7 @@
 ## Product Documentation
 
 * [Account System](product-documentation/account-system.md)
-* [Edge Servers](product-documentation/edge-servers.md)
-* [Content Delivery](product-documentation/content-delivery.md)
-* [DNS](product-documentation/dns.md)
+* [📖 Product Docs](https://docs.edge.network)
 
 ## Getting and Storing Tokens
 
