@@ -2,7 +2,7 @@
 
 As part of Edge's ongoing commitment to transparency and development in the open, the core team write weekly updates to the Edge community.
 
-There have been 202 of these so far.
+There have been 203 of these so far.
 
 {% content-ref url="weekly-updates.md" %}
 [weekly-updates.md](weekly-updates.md)
@@ -10,9 +10,9 @@ There have been 202 of these so far.
 
 ## Latest Update
 
-<figure><img src="../../.gitbook/assets/202Site.png" alt=""><figcaption></figcaption></figure>
-
 Good evening everyone ![👋](https://discord.com/assets/df7ba0f4020ca70048a0226d1dfa73f6.svg)
+
+<figure><img src="../../.gitbook/assets/203Site.png" alt=""><figcaption></figcaption></figure>
 
 This week the team released some updates to the Governance portal. There were some bug fixes introduced in version 1.0.5 focused on text alignment issues, and in version 1.0.8 (there were a few test versions in-between) we added proposal guidelines to the draft proposal pages. This version also saw some further tweaks to proposal formatting.
 
