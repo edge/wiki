@@ -14,50 +14,36 @@ There have been 202 of these so far.
 
 Good evening everyone ![👋](https://discord.com/assets/df7ba0f4020ca70048a0226d1dfa73f6.svg)
 
-This week we want to talk about the future, and more specifically, our roadmap to it.
+This week the team released some updates to the Governance portal. There were some bug fixes introduced in version 1.0.5 focused on text alignment issues, and in version 1.0.8 (there were a few test versions in-between) we added proposal guidelines to the draft proposal pages. This version also saw some further tweaks to proposal formatting.
 
-But before we do so, let’s take a quick look at the last couple of years...
+And on that note, today is a very special day, for today we had the very first community proposal submitted to the governance system. A big thank you to @Pod & @Max for their contribution, and for the fantastic idea of an automatic lottery for active hosts!
 
-In 2021 we made significant progress towards our goals, delivering a number of milestones, features and improvements. These included the migration of devices to the Mainnet, the introduction of Host V2, Gateway V2 and Stargate V2, as well as the launch of a Public Testnet for Network V2.
+<figure><img src="../../.gitbook/assets/image2222.png" alt=""><figcaption></figcaption></figure>
 
-We also introduced on-chain staking, a command-line interface for staking, and processed payouts for the year. Other important updates included the opening of the Bridge and a Uniswap listing, the delivery of the XE blockchain explorer, and improvements to the explorer wallet view. The Console was mothballed, and the project launched a new Web Wallet.
+You can read more about the proposal here:
 
-In 2022 we continued to push forward, delivering even more milestones. The team delivered community open governance, and published the first governance proposal ratifying the system. We integrated the Node Explorer with XE Explorer, along with a whole list of other improvements.
+{% embed url="https://governance.edge.network/proposal/7f518bdffcf0b6cdfea093448739e69a9d06b819caa433edbccbdeee256adfbb" %}
 
-Additionally, Edge Server and Edge DNS became generally available, along with the XE-based account system, with PAYG payments in FIAT and XE. We migrated DNS customers to Edge Network V2 and began migrating CDN and Server customers over to the new system.
+...and discuss it either in the governance portal itself or in the governance discussion thread here:
 
-The team also delivered Stargate/Gateway (v2) usage metrics (as part of the billing & earnings systems), automatic daily earnings, the Edge Server public beta, an XE iOS wallet, basic video streaming support in CDN, and Edge CDN (v2) general availability. Many other smaller updates were delivered across the year as well. For a full round up see the 2022 TLDR post here: [https://edge.network/en/updates/network/2022-tldr](https://edge.network/en/updates/network/2022-tldr)
+{% embed url="https://discord.com/channels/371989135172567051/1078718512710811778" %}
 
-At the close of 2022 we completed our first five year strategic roadmap. We’ve talked about this before, so if you missed it you can scroll up or check out the updates section on the website. We’ve also talked about the next five year strategic roadmap: the opening up of XE & Edge to community projects, the integration with XE into third party products, and an expansion of the core services in both refinement and functionality. We’re excited for the years ahead, and today we’ve released an update to the roadmap covering 2023.
+The proposal will be open for 21 days as usual and the core team look forward with excitement to the community’s participation in this very important and meaningful initiative.
 
-You can find it here:
+Behind the scenes, we’ve also been working on preparing the blockchain for the introduction of transaction fees. We’ve modelled a few potential ways in which this can work, but have generally settled on a very similar (though simpler) model to Ethereum. We’ll be submitting a proposal to the Governance system to ratify this approach soon.
 
-{% content-ref url="../project-roadmaps.md" %}
-[project-roadmaps.md](../project-roadmaps.md)
-{% endcontent-ref %}
+This change is likely to come in a few phases: to begin with we’ll introduce the functionality for transaction fees to the blockchain and release this to mainnet; next we’ll upgrade all the tooling around the blockchain (the wallets, explorer, apis, libraries etc) to support transaction fees; and then finally with some notice, we’ll begin to enforce transaction fees on the network.
 
-The technical roadmap is a fluid document, meaning that it changes over time as priorities change. Looking at it now you can see what we hope to achieve over the next year or so. We’ve already delivered on multi-user account access, a feature that had been requested by a number of customers. Multi-Stargate support for network operations is under way, and we expect that to be completed by the end of this quarter. We’ve also been working on an improvement to the connectivity model between Stargates and Gateways (and naturally Hosts too.) While this sits in the background, it’s a refinement that will bring a greater level of stability and reliability to the network, and will work hand in glove with the Multi-Stargate support.
+There are some questions around transaction fees vs fee-free transactions, but we’re leaning towards always enforcing transaction fees and these being burned by default. When this comes to node earnings payouts, we’ve always been of the opinion that we should support microtransactions — and we think we still can, by the mineable supply taking into account the transaction fees.
 
-Moving forward, we also have a number of other features and products in the works, and one that we’re looking forward to talking more about soon is the Fungible and Non-Fungible Token support that will be coming to XE. Non-Fungible Tokens, or NFTs, will allow XE holders to mint, transfer, and use unique non-fungible tokens. Fungible Token support will allow XE holders to mint new tokens and transfer them from XE wallet to XE wallet.
+We think the model will work great, and will add to the monthly XE burns ![🔥](https://discord.com/assets/67069a13e006345ce28ecc581f2ed162.svg) by introducing daily XE burns by the very nature of how the earnings are paid out. We’re excited to write about this and get your opinions when the proposal hits the governance system.
 
-As we mentioned last week, we’re working in support of a startup in the security space that is going to be making use of these new sub-XE tokens, along with a number of other Edge services. It’s early days but it’s exciting!
+The team have also been continuing their support of the security startup in integrating Edge & XE into their product offerings. We’re incredibly excited about this project and can’t wait to share more with you, when the time is right. ![🔐](https://discord.com/assets/cad68a908e01b9ccce5e26e22793391f.svg)
 
-The technical roadmap also looks forward to a number of other features & services, from internal alphas for Storage, Shield, and more, to public betas and general availability. We have some R\&D tasks around recently discussed AI & GPU models for the network, and of course, the new customer facing website, which we hope to unveil soon.
+In other news, the network continues to operate nominally, as does the blockchain. The amount of XE earned has now passed the 2,000,000 XE mark ![📈](https://discord.com/assets/3bfe17056153e8a390c99fe243e0a649.svg)and next week we’ll be conducting the first big XE burn. So far there has been 6,385 XE burnt ![🔥](https://discord.com/assets/67069a13e006345ce28ecc581f2ed162.svg), but expect this to increase into the hundreds of thousands very soon. We’re excited for this!
 
-It’s important to note that these tasks are prioritised, but that this prioritisation can (and sometimes does) change according to the needs of the project. We think the vision laid out for 2023 here prioritises the resources in the right place at the right time. As this is a technical roadmap, deliverables such as marketing & sales approaches have been omitted, and will be progressed separately.
-
-Now it’s time for you to have your say on the roadmap. The latest governance proposal has now been published, so please take some time to read over the proposed roadmap & prioritisation, and cast your vote:
-
-{% embed url="https://governance.edge.network/proposal/3224ddbdeabf358a87c31c693c0b9431177bf7b720927173fe7e3cfe83cf4cf8" %}
-
-You can comment on the proposal either in the portal itself or in the following discussion:
-
-{% embed url="https://discord.com/channels/371989135172567051/1076279822709428314" %}
-
-Now, we know a few of you have been asking about CMC & CG, with regard to verification and caps. We’re working on getting these pages updated and reflecting the true state of the project, and will keep everyone updated on our progress. We have open channels to both services.
-
-Thank you to everyone who has been active in the 💡│suggestions ons and 🏗│buidl l channels in Discord. It’s great to see, and we look forward to reading your messages, hearing your feedback and suggestions, and all the support you provide.
+Testing of Multi-Stargate continues apace, and data will be reviewed next week when members of the team return from their well deserved adventures. It’s a big task with lots of moving parts and so we’re taking our time to test and prepare so that the network can be upgraded with minimal (or hopefully zero) downtime. We’ll keep you posted on this front.
 
 And that's all for this week. Enjoy your weekend ![🍻](https://discord.com/assets/5e2ea03aa4963cda5e91d395c2587e6b.svg)
 
-_Posted by: Joseph Denne_
+_Posted by: Adam K Dean_

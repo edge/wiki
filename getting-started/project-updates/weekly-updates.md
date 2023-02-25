@@ -10,7 +10,8 @@ description: >-
 
 | Year | Week           | Summary                                                                        | Link                                                       |
 | ---- | -------------- | ------------------------------------------------------------------------------ | ---------------------------------------------------------- |
-| 2023 | 13th February  | 2023 Roadmaps                                                                  | [ed.ge/update/2023/02/13](https://ed.ge/update/2023/02/13) |
+| 2023 | 20th February  | A First Community Goverenance Proposal                                         | [ed.ge/update/2023/02/20](https://ed.ge/update/2023/02/20) |
+|      | 13th February  | 2023 Roadmaps                                                                  | [ed.ge/update/2023/02/13](https://ed.ge/update/2023/02/13) |
 |      | 06th February  | The Size of the First Burn                                                     | [ed.ge/update/2023/02/06](https://ed.ge/update/2023/02/06) |
 |      | 30th January   | The 200th weekly update!                                                       | [ed.ge/update/2023/01/30](https://ed.ge/update/2023/01/30) |
 |      | 23rd January   | Multi-Stargate, Explorer Update and More                                       | [ed.ge/update/2023/01/23](https://ed.ge/update/2023/01/23) |
