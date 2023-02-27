@@ -15,6 +15,7 @@
   * [Content Delivery](getting-started/edge-products/content-delivery.md)
   * [DNS](getting-started/edge-products/dns.md)
   * [Object Storage](getting-started/edge-products/object-storage.md)
+  * [📖 Product Docs](https://docs.edge.network)
 * [💰 Edge Tokenomics](getting-started/edge-tokenomics/README.md)
   * [$XE Distribution](getting-started/edge-tokenomics/xe-distribution.md)
   * [Dev Fund](getting-started/edge-tokenomics/dev-fund.md)
@@ -29,11 +30,6 @@
   * [Newsletter](getting-started/project-updates/newsletter.md)
   * [Podcast](getting-started/project-updates/conversations-on-the-edge.md)
 * [🏘 Community Links](getting-started/community-links.md)
-
-## Product Documentation
-
-* [Account System](product-documentation/account-system.md)
-* [📖 Product Docs](https://docs.edge.network)
 
 ## Getting and Storing Tokens
 
@@ -67,6 +63,7 @@
 
 * [Brand Docs](https://brand.edge.network)
 * [Referral Programme](supporting-the-network/referral-programme.md)
+* [Write for Edge](https://docs.edge.network/getting-started/write-for-edge)
 * [Community Leads](supporting-the-network/community-leads.md)
 * [Careers](supporting-the-network/careers/README.md)
   * [How We Work](https://edge.network/en/culture)

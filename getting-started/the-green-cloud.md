@@ -1,6 +1,6 @@
 ---
 description: >-
-  Data centers consume roughly 3% of all globally generated power, accounting
+  Data centres consume roughly 3% of all globally generated power, accounting
   for more greenhouse gas emissions than the airline industry.
 ---
 
