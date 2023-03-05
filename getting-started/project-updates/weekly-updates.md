@@ -10,7 +10,8 @@ description: >-
 
 | Year | Week           | Summary                                                                        | Link                                                       |
 | ---- | -------------- | ------------------------------------------------------------------------------ | ---------------------------------------------------------- |
-| 2023 | 20th February  | A First Community Goverenance Proposal                                         | [ed.ge/update/2023/02/20](https://ed.ge/update/2023/02/20) |
+| 2023 | 27th February  | The First Network Revenue Burn                                                 | [ed.ge/update/2023/02/27](https://ed.ge/update/2023/02/27) |
+|      | 20th February  | A First Community Goverenance Proposal                                         | [ed.ge/update/2023/02/20](https://ed.ge/update/2023/02/20) |
 |      | 13th February  | 2023 Roadmaps                                                                  | [ed.ge/update/2023/02/13](https://ed.ge/update/2023/02/13) |
 |      | 06th February  | The Size of the First Burn                                                     | [ed.ge/update/2023/02/06](https://ed.ge/update/2023/02/06) |
 |      | 30th January   | The 200th weekly update!                                                       | [ed.ge/update/2023/01/30](https://ed.ge/update/2023/01/30) |

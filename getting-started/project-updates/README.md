@@ -2,7 +2,7 @@
 
 As part of Edge's ongoing commitment to transparency and development in the open, the core team write weekly updates to the Edge community.
 
-There have been 203 of these so far.
+There have been 204 of these so far.
 
 {% content-ref url="weekly-updates.md" %}
 [weekly-updates.md](weekly-updates.md)
@@ -12,37 +12,47 @@ There have been 203 of these so far.
 
 Good evening everyone ![👋](https://discord.com/assets/df7ba0f4020ca70048a0226d1dfa73f6.svg)
 
-<figure><img src="../../.gitbook/assets/203Site.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/204Site.png" alt=""><figcaption></figcaption></figure>
 
-This week the team released some updates to the Governance portal. There were some bug fixes introduced in version 1.0.5 focused on text alignment issues, and in version 1.0.8 (there were a few test versions in-between) we added proposal guidelines to the draft proposal pages. This version also saw some further tweaks to proposal formatting.
+In February, the proposal for implementing a scheduled burn of XE passed with 32 votes and 100% support. In it, we proposed to burn 75% of revenue, and this week we conducted the first of these scheduled burns: `Revenue Burn February 2023` saw 277,305.152629 XE sent to the zero address, burning it immediately. That’s 0.5% of the current supply! ![🔥](https://discord.com/assets/67069a13e006345ce28ecc581f2ed162.svg)
 
-And on that note, today is a very special day, for today we had the very first community proposal submitted to the governance system. A big thank you to @Pod & @Max for their contribution, and for the fantastic idea of an automatic lottery for active hosts!
+You can see the transaction here: [https://xe.network/transaction/7a497f1e8daac8f0c1a383fa703546180965d0fd706a61dc413e3e59b471e61b](https://xe.network/transaction/7a497f1e8daac8f0c1a383fa703546180965d0fd706a61dc413e3e59b471e61b)
 
-<figure><img src="../../.gitbook/assets/image2222.png" alt=""><figcaption></figcaption></figure>
+You can see the proposal here: [https://governance.edge.network/proposal/cd0cd6f364370119133c830ac4d435b28df41ab96cb12d6a1997cc2e12d68b81](https://governance.edge.network/proposal/cd0cd6f364370119133c830ac4d435b28df41ab96cb12d6a1997cc2e12d68b81)
 
-You can read more about the proposal here:
+Other active proposals on the governance portal include:
 
-{% embed url="https://governance.edge.network/proposal/7f518bdffcf0b6cdfea093448739e69a9d06b819caa433edbccbdeee256adfbb" %}
+The 2023 roadmap prioritisation proposal, which currently has 35 votes with 97.1% in favour, found here: [https://governance.edge.network/proposal/3224ddbdeabf358a87c31c693c0b9431177bf7b720927173fe7e3cfe83cf4cf8](https://governance.edge.network/proposal/3224ddbdeabf358a87c31c693c0b9431177bf7b720927173fe7e3cfe83cf4cf8)
 
-...and discuss it either in the governance portal itself or in the governance discussion thread here:
+And of course, our very own community proposal for the implementation of an automatic lottery for active hosts, which has 33 votes and sits at 100% in favour, found here: [https://governance.edge.network/proposal/7f518bdffcf0b6cdfea093448739e69a9d06b819caa433edbccbdeee256adfbb](https://governance.edge.network/proposal/7f518bdffcf0b6cdfea093448739e69a9d06b819caa433edbccbdeee256adfbb)
 
-{% embed url="https://discord.com/channels/371989135172567051/1078718512710811778" %}
+If you haven’t had a chance to read or vote upon these yet, please do.
 
-The proposal will be open for 21 days as usual and the core team look forward with excitement to the community’s participation in this very important and meaningful initiative.
+Now, some news from an operations perspective. On Saturday, we identified an issue with the XE blockchain. During routine operations, some of the nodes attempted to resynchronise with one another, but encountered issues replaying blocks. During development of the governance stakes, a simple check was put in place to ensure governance stakes could be created. When replaying the chain with previous stakes, this code was triggered on historical data, and stopped the nodes from being able to resynchronise.
 
-Behind the scenes, we’ve also been working on preparing the blockchain for the introduction of transaction fees. We’ve modelled a few potential ways in which this can work, but have generally settled on a very similar (though simpler) model to Ethereum. We’ll be submitting a proposal to the Governance system to ratify this approach soon.
+The other nodes continued to work as usual, and on (a very early) Saturday morning, we looked into what was causing some of the nodes to be sitting there, refusing to synchronise. One of these nodes was the node that the index uses to access the chain and so it appeared that blocks and transactions had ceased in the Explorer. Fortunately, this was not the case.
 
-This change is likely to come in a few phases: to begin with we’ll introduce the functionality for transaction fees to the blockchain and release this to mainnet; next we’ll upgrade all the tooling around the blockchain (the wallets, explorer, apis, libraries etc) to support transaction fees; and then finally with some notice, we’ll begin to enforce transaction fees on the network.
+We identified and fixed the issue in the algorithm (where the transactions of a block are replayed, and verified) and pushed out an update. We then resynchronised the nodes that had previously been reluctant to take part, and everything came back to normal. The blockchain nodes will resynchronise their local chains if they detect any abnormalities or data loss, and thus are fully self-healing. In this event, it was simply a mistake in the algorithm caused by the excitement of delivering Governance.
 
-There are some questions around transaction fees vs fee-free transactions, but we’re leaning towards always enforcing transaction fees and these being burned by default. When this comes to node earnings payouts, we’ve always been of the opinion that we should support microtransactions — and we think we still can, by the mineable supply taking into account the transaction fees.
+Going forward, we now have in place a policy of running a full blockchain sync on algorithm and protocol changes, to ensure that (unintentional) breaking changes such as this no longer occur.
 
-We think the model will work great, and will add to the monthly XE burns ![🔥](https://discord.com/assets/67069a13e006345ce28ecc581f2ed162.svg) by introducing daily XE burns by the very nature of how the earnings are paid out. We’re excited to write about this and get your opinions when the proposal hits the governance system.
+It’s worth noting that this is the first time that our trusty XE nodes have had an issue, and it was entirely understandable when the issue was spotted. Other than this, the mighty nodes continue to run, self-heal, self-manage adverse network conditions, and otherwise behave perfectly well.
 
-The team have also been continuing their support of the security startup in integrating Edge & XE into their product offerings. We’re incredibly excited about this project and can’t wait to share more with you, when the time is right. ![🔐](https://discord.com/assets/cad68a908e01b9ccce5e26e22793391f.svg)
+In other news, there have been quite a few releases this week:
 
-In other news, the network continues to operate nominally, as does the blockchain. The amount of XE earned has now passed the 2,000,000 XE mark ![📈](https://discord.com/assets/3bfe17056153e8a390c99fe243e0a649.svg)and next week we’ll be conducting the first big XE burn. So far there has been 6,385 XE burnt ![🔥](https://discord.com/assets/67069a13e006345ce28ecc581f2ed162.svg), but expect this to increase into the hundreds of thousands very soon. We’re excited for this!
+**Governance API v1.0.1** and **Governance API v1.0.2** were deployed to mainnet. These updates fixed a few bugs related to handling pending transactions. Thanks to @d736nsd1164 for his help in identifying this issue and working with us to deliver a fix.
 
-Testing of Multi-Stargate continues apace, and data will be reviewed next week when members of the team return from their well deserved adventures. It’s a big task with lots of moving parts and so we’re taking our time to test and prepare so that the network can be upgraded with minimal (or hopefully zero) downtime. We’ll keep you posted on this front.
+**Account API v1.11.0** was deployed to mainnet, adding some minor administrative capabilities around account management.
+
+**Account v1.14.6** was deployed to mainnet too, this time adding a Documentation link to the side menu, while fixing a minor menu-related bug. More on that later.
+
+**Index v2.4.4** was deployed to mainnet. This minor update fixed a bug when sorting wallets by number of active stakes.
+
+Finally, **Monitor v1.0.1** was deployed to mainnet. Monitor is one of the services we employ to have visibility of network performance. This update extended the tool with a web interface and the ability to manage multiple targets easily.
+
+We’ve also been pushing forward with multi-Stargate. This is quite a large piece of work with many moving parts. The next step will be to scale up the testnet to over 200+ devices as we test session management changes (to support distributed authoritative nodes). We’ll keep you updated!
+
+The team have also been continuing their support of the security startup in integrating Edge & XE into their product offerings. We will continue to provide support to them and updates to you.
 
 And that's all for this week. Enjoy your weekend ![🍻](https://discord.com/assets/5e2ea03aa4963cda5e91d395c2587e6b.svg)
 
