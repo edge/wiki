@@ -4,15 +4,7 @@
 **$XE distribution closed at the end of September 2021**
 {% endhint %}
 
-A total of 50 million $XE were minted and distributed. In addition to this, 10 million $XE are locked in the network to be mined and released as node rewards.
-
-Holders of the original $EDGE token who had been through the swap process to $TNC were able to claim a distribuion of $XE. This was proportional to their original holdings, factoring the reduction in supply.
-
-In addition, a small percentage of all holders funds were held back to create the Growth Fund.
-
-{% content-ref url="growth-fund.md" %}
-[growth-fund.md](growth-fund.md)
-{% endcontent-ref %}
+A total of 50 million $XE were minted and distributed. In addition to this, 10 million $XE were locked in the network to be mined and released as node rewards.
 
 ## Distribution Break Out
 

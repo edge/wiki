@@ -44,6 +44,7 @@
 * [Voting Rights](project-governance/voting-rights.md)
 * [The Edge DAO](project-governance/edge-dao.md)
 * [Proposal Guidelines](project-governance/proposal-guidelines.md)
+* [Proposal Archive](project-governance/proposal-archive.md)
 
 ## Contributing to the Network
 

@@ -16,13 +16,7 @@ Trade $EDGE on Uniswap: [ed.ge/uniswap](https://ed.ge/uniswap)
 
 To add liquidity to the Uniswap pool and earn a % of trading fees, head to: [ed.ge/liquidity](https://ed.ge/liquidity)
 
-## $EDGE on MEXC
 
-{% hint style="success" %}
-**$EDGE was listed on MEXC on 17th November, 2021**
-{% endhint %}
-
-Trade $EDGE on MEXC: [ed.ge/mexc](https://ed.ge/mexc)
 
 ## Token Lists
 
