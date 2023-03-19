@@ -42,15 +42,11 @@ Purchases made in fiat (Visa/MasterCard) or in other cryptocurrencies are swappe
 
 ### Liquidity Mining
 
-An $EDGE liquidity pool will be available on Uniswap, initially funded by the network treasury.
+An $EDGE liquidity pool is available on Uniswap. This is part funded by the network treasury, part by individual contributors.
 
 Uniswap applies a 0.30% fee for every trade that takes place on their platform and automatically sends this to a liquidity reserve. Whenever a liquidity provider decides they want to exit the $EDGE pool, they will receive a portion of the total fees from the reserve relative to their staked amount in $EDGE the pool.
 
-In addition to this, a 0.75% fee is applied to all $XE transactions moving through the network bridge. This amount is automatically deducted from the sent amount and is collected in an $XE vault wallet ([xe\_4845075Ad790DD979Ab3f7834Ff507244e7a5449](https://xe.network/wallet/xe\_4845075Ad790DD979Ab3f7834Ff507244e7a5449)). These funds are periodically bridged out of the network and redistributed as LP rewards to those providing liquidity for $EDGE on Uniswap.
-
-{% hint style="info" %}
-**The ability to provide liquidity for the $XE bridge itself is under consideration**
-{% endhint %}
+In addition to this, a 0.75% fee is applied to all $XE transactions moving through the network bridge. This amount is automatically deducted from the sent amount and is collected in an $XE vault wallet ([xe\_4845075Ad790DD979Ab3f7834Ff507244e7a5449](https://xe.network/wallet/xe\_4845075Ad790DD979Ab3f7834Ff507244e7a5449)).
 
 ## $XE
 
@@ -60,11 +56,15 @@ $XE is used for the purchasing of Edge services, for staking, network governance
 
 ### Transactions
 
-Transactions within the Edge Network are free for staking wallets. Non-staking wallets are charged a small fee to help to maintain the security of the chain (mitigating against flood attacks). These fees are assigned equally to the dev fund and to the growth fund.
+Transactions within the Edge Network are free.
+
+There is an active governance proposal to introduce a small fee to help to maintain the security of the chain (mitigating against flood attacks). These fees would be burned. You can access and vote on the proposal here:
+
+{% embed url="https://governance.edge.network/proposal/cee266bdbcd9b9c7371e40638f7db4a8cd939110cc668a3b808645c3d27bba11" %}
 
 ### Service Purchase
 
-Services purchased using $XE directly attract a service discount of 2.5%, designed to reward the holding and use of $XE.
+Services can be purchased directly in $XE.
 
 ### Node Staking
 
@@ -80,10 +80,10 @@ Fees tied to the raising of proposals in the governance mechanism are put into t
 
 ### Buy Back and Make
 
-A buy back and make programme assigns network revenue recieved in fiat and other cryptocurrencies to the dev fund and to the growth fund. In addition to this, a percent of the gas fees from the network bridge are put into the growth fund.
+A buy back and make programme assigns network revenue recieved in fiat and other cryptocurrencies to the dev fund and to the growth fund.
 
 ### Burn
 
-A significant proportion of the $XE used for the purchase of Edge services is burned. The coins are sent to the zero address of the network: xe\_0000000000000000000000000000000000000000
+75% of network revenues is burned. The coins are sent to the zero address of the network at the end of every month: `xe_0000000000000000000000000000000000000000`
 
 {% embed url="https://xe.network/wallet/xe_0000000000000000000000000000000000000000" %}
