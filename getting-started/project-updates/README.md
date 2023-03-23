@@ -14,50 +14,73 @@ There have been 206 of these so far.
 
 ## Latest Update
 
+<figure><img src="../../.gitbook/assets/206Site.png" alt=""><figcaption></figcaption></figure>
+
 Good evening everyone ![👋](https://discord.com/assets/df7ba0f4020ca70048a0226d1dfa73f6.svg)
 
-<figure><img src="../../.gitbook/assets/204Site.png" alt=""><figcaption></figcaption></figure>
+The 2023 roadmap prioritisation proposal closed last week with 37 votes cast and 97.3% in favour. Thanks to everyone who voted and took part in the discussions.
 
-In February, the proposal for implementing a scheduled burn of XE passed with 32 votes and 100% support. In it, we proposed to burn 75% of revenue, and this week we conducted the first of these scheduled burns: `Revenue Burn February 2023` saw 277,305.152629 XE sent to the zero address, burning it immediately. That’s 0.5% of the current supply! ![🔥](https://discord.com/assets/67069a13e006345ce28ecc581f2ed162.svg)
+You can find it here:
 
-You can see the transaction here: [https://xe.network/transaction/7a497f1e8daac8f0c1a383fa703546180965d0fd706a61dc413e3e59b471e61b](https://xe.network/transaction/7a497f1e8daac8f0c1a383fa703546180965d0fd706a61dc413e3e59b471e61b)
+{% embed url="https://governance.edge.network/proposal/3224ddbdeabf358a87c31c693c0b9431177bf7b720927173fe7e3cfe83cf4cf8" %}
 
-You can see the proposal here: [https://governance.edge.network/proposal/cd0cd6f364370119133c830ac4d435b28df41ab96cb12d6a1997cc2e12d68b81](https://governance.edge.network/proposal/cd0cd6f364370119133c830ac4d435b28df41ab96cb12d6a1997cc2e12d68b81)
+Today the first community proposal, to implement an automatic lottery system for active Hosts, closed with 34 votes cast, all in favour. Thanks to everyone who took part and to Pod & Max for submitting it.
 
-Other active proposals on the governance portal include:
+You can find it here:
 
-The 2023 roadmap prioritisation proposal, which currently has 35 votes with 97.1% in favour, found here: [https://governance.edge.network/proposal/3224ddbdeabf358a87c31c693c0b9431177bf7b720927173fe7e3cfe83cf4cf8](https://governance.edge.network/proposal/3224ddbdeabf358a87c31c693c0b9431177bf7b720927173fe7e3cfe83cf4cf8)
+{% embed url="https://governance.edge.network/proposal/7f518bdffcf0b6cdfea093448739e69a9d06b819caa433edbccbdeee256adfbb" %}
 
-And of course, our very own community proposal for the implementation of an automatic lottery for active hosts, which has 33 votes and sits at 100% in favour, found here: [https://governance.edge.network/proposal/7f518bdffcf0b6cdfea093448739e69a9d06b819caa433edbccbdeee256adfbb](https://governance.edge.network/proposal/7f518bdffcf0b6cdfea093448739e69a9d06b819caa433edbccbdeee256adfbb)
+The core team have also just published another proposal: **Implement a small fee for transactions within the XE Blockchain**.
 
-If you haven’t had a chance to read or vote upon these yet, please do.
+The proposal seeks agreement for the implementation of a small transaction fee into the XE Blockchain, designed to help mitigate the potential for high frequency transactional attacks, further securing the network, and increasing the ![🔥](https://discord.com/assets/67069a13e006345ce28ecc581f2ed162.svg) at the same time.
 
-Now, some news from an operations perspective. On Saturday, we identified an issue with the XE blockchain. During routine operations, some of the nodes attempted to resynchronise with one another, but encountered issues replaying blocks. During development of the governance stakes, a simple check was put in place to ensure governance stakes could be created. When replaying the chain with previous stakes, this code was triggered on historical data, and stopped the nodes from being able to resynchronise.
+You can find it here:
 
-The other nodes continued to work as usual, and on (a very early) Saturday morning, we looked into what was causing some of the nodes to be sitting there, refusing to synchronise. One of these nodes was the node that the index uses to access the chain and so it appeared that blocks and transactions had ceased in the Explorer. Fortunately, this was not the case.
+{% embed url="https://governance.edge.network/proposal/cee266bdbcd9b9c7371e40638f7db4a8cd939110cc668a3b808645c3d27bba11" %}
 
-We identified and fixed the issue in the algorithm (where the transactions of a block are replayed, and verified) and pushed out an update. We then resynchronised the nodes that had previously been reluctant to take part, and everything came back to normal. The blockchain nodes will resynchronise their local chains if they detect any abnormalities or data loss, and thus are fully self-healing. In this event, it was simply a mistake in the algorithm caused by the excitement of delivering Governance.
+And discuss it here:
 
-Going forward, we now have in place a policy of running a full blockchain sync on algorithm and protocol changes, to ensure that (unintentional) breaking changes such as this no longer occur.
+{% embed url="https://discord.com/channels/371989135172567051/1086431445620371468" %}
 
-It’s worth noting that this is the first time that our trusty XE nodes have had an issue, and it was entirely understandable when the issue was spotted. Other than this, the mighty nodes continue to run, self-heal, self-manage adverse network conditions, and otherwise behave perfectly well.
+This week the team has continued work on multi-Stargate support. This will be broken down into two release stages: first there will be an update to the connection mechanism between Hosts, Gateways, and Stargates, and then following this, there will be a migration over to a new cluster of Stargates. We’ll keep you updated as we continue to press ahead towards this.
 
-In other news, there have been quite a few releases this week:
+There have been a number of mainnet releases this week:
 
-**Governance API v1.0.1** and **Governance API v1.0.2** were deployed to mainnet. These updates fixed a few bugs related to handling pending transactions. Thanks to @d736nsd1164 for his help in identifying this issue and working with us to deliver a fix.
+**Explorer v1.23.3** was deployed to mainnet. This patched a minor UI bug with the XE Burned amounts on the Overview page when accessed from mobile devices.
 
-**Account API v1.11.0** was deployed to mainnet, adding some minor administrative capabilities around account management.
+**Index v2.4.7** was deployed to mainnet. This patch fixed a minor issue with the display of revenue burn transactions. Revenue burns will now show up as “Revenue Burn” rather than “Misc” in the burns view.
 
-**Account v1.14.6** was deployed to mainnet too, this time adding a Documentation link to the side menu, while fixing a minor menu-related bug. More on that later.
+**Explorer v1.24.1** was deployed to mainnet. This added a simple proxy endpoint for the Index API. All requests going to `https://xe.network/api` will be proxied through to the index API. For example, `https://xe.network/api/blocks` will return the results from `https://index.xe.network/blocks`. This makes it easier to access blockchain data.
 
-**Index v2.4.4** was deployed to mainnet. This minor update fixed a bug when sorting wallets by number of active stakes.
+In addition we have added endpoints for token supply information, including circulating supply ([https://xe.network/api/supply/circulating](https://xe.network/api/supply/circulating)), maximum supply ([https://xe.network/api/supply/maximum](https://xe.network/api/supply/maximum)), total supply ([https://xe.network/api/supply/total](https://xe.network/api/supply/total)), burned supply ([https://xe.network/api/supply/burned](https://xe.network/api/supply/burned)) and staked supply ([https://xe.network/api/supply/staked](https://xe.network/api/supply/staked)).
 
-Finally, **Monitor v1.0.1** was deployed to mainnet. Monitor is one of the services we employ to have visibility of network performance. This update extended the tool with a web interface and the ability to manage multiple targets easily.
+These endpoints include monitored address references and a brief summary of the purpose of the figure.
 
-We’ve also been pushing forward with multi-Stargate. This is quite a large piece of work with many moving parts. The next step will be to scale up the testnet to over 200+ devices as we test session management changes (to support distributed authoritative nodes). We’ll keep you updated!
+**Index v2.5.0**, **v2.5.1**, and **v2.5.2** were deployed to mainnet too. This series of updates introduced some new supply endpoints to the API. These endpoints allow you to see the total, max, circulating, burned, and staked supplies of XE. These will be used in upcoming changes to the explorer and will also be used by CoinMarketCap & CoinGecko as we work to improve our listings on those sites.
 
-The team have also been continuing their support of the security startup in integrating Edge & XE into their product offerings. We will continue to provide support to them and updates to you.
+**Account v1.14.7** was deployed to mainnet, fixing a minor UI bug in Firefox.
+
+In other news, Chris held a marketing focused live chat on telegram. This will be repeated in the coming weeks, and will probably happen on Twitter Spaces to allow for the session to be recorded. Watch this space.
+
+Some of you may have noticed transactions for `Write For Edge`. For those of you who missed it, we’ve launched a docs site for Edge Products.
+
+This can be found at [https://docs.edge.network/](https://docs.edge.network/) (short link: [ed.ge/docs](https://ed.ge/docs)).
+
+We’ll be creating (with your help) a series of guides relating to the use of Edge products and services. From setting up linux boxes, to configuring CDN, to operating microservices on top of Edge servers using docker.
+
+If you're a technical writer or have good knowledge about Linux systems and/or open-source software, you can get paid to write tutorials. You can find out more about the programme here:
+
+{% embed url="https://ed.ge/write-for-edge" %}
+
+We’ve already had a number of tutorials contributed, which you can find here: [https://docs.edge.network/edge-servers/tutorials](https://docs.edge.network/edge-servers/tutorials)
+
+This week saw the addition of two new tutorials for Edge Servers:
+
+1. MongoDB [https://docs.edge.network/edge-servers/tutorials/ubuntu/how-to-install-mongodb-on-ubuntu-22.04](https://docs.edge.network/edge-servers/tutorials/ubuntu/how-to-install-mongodb-on-ubuntu-22.04)
+2. Docker [https://docs.edge.network/edge-servers/tutorials/ubuntu/installation-and-basic-usage-of-docker-on-ubuntu-22.04](https://docs.edge.network/edge-servers/tutorials/ubuntu/installation-and-basic-usage-of-docker-on-ubuntu-22.04)
+
+As ever, we continue to support a number of projects that are building on top of Edge, from providing infrastructure via Edge Servers, DNS & CDN, to working directly with teams to integrate XE. When we can share more, we will, so always remember to tune in for the weekly updates ![🍿](https://discord.com/assets/0973f9db9b3cd198463d3d8bdea44264.svg)
 
 And that's all for this week. Enjoy your weekend ![🍻](https://discord.com/assets/5e2ea03aa4963cda5e91d395c2587e6b.svg)
 
-_Posted by: Adam K Dean_
+_Posted by: Joseph Denne_

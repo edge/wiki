@@ -30,7 +30,6 @@ You can find $EDGE on the following platforms:
 
 * $EDGE on Etherscan: [ed.ge/etherscan](https://ed.ge/etherscan)
 * $EDGE on DEXTools: [ed.ge/dextools](https://ed.ge/dextools)
-* $EDGE on MoonTools: [ed.ge/moontools](https://ed.ge/moontools)
-* $EDGE on CoinGecko: [ed.ge/coingecko](https://ed.ge/coingecko)
 * $EDGE on CoinMarketCap: [ed.ge/coinmarketcap](https://ed.ge/coinmarketcap)
+* $EDGE on CoinGecko: [ed.ge/coingecko](https://ed.ge/coingecko)
 * $EDGE on KyberSwap: [ed.ge/kyberswap](https://ed.ge/kyberswap)
