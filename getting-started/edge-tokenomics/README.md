@@ -1,14 +1,14 @@
 ---
 description: >-
   There are two methods of value exchange in the Edge Network, $XE, which is
-  internal to the network, and $EDGE, which is on the public Ethereum network.
+  internal to the network, and $EDGE, which is on the Ethereum mainnet.
 ---
 
 # 💰 Edge Tokenomics
 
 $XE is the coin of the XE Blockchain, a layer 1 solution designed for fast transactions mapped to resource usage. It is bridged into the Ethereum network on a 1:1 basis with the $EDGE token.
 
-Transactions within the Edge Network are free for staking wallets. Non-staking wallets are charged a small fee to help to maintain the security of the chain. Bridging $XE in/out of the network to $EDGE in the Ethereum network carries a variable gas fee.
+Transactions within the Edge Network are free. Bridging $XE in/out of the network to $EDGE in the Ethereum network carries a variable gas fee.
 
 For transactions out of Edge Network, this fee is taken in $XE. Individuals can choose their target gas fees and the bridge will automatically transmit their transaction to meet the target set. This acts to help to keep transaction fees as low as possible.
 
@@ -87,3 +87,21 @@ A buy back and make programme assigns network revenue recieved in fiat and other
 75% of network revenues is burned. The coins are sent to the zero address of the network at the end of every month: `xe_0000000000000000000000000000000000000000`
 
 {% embed url="https://xe.network/wallet/xe_0000000000000000000000000000000000000000" %}
+
+## Monitoring Project Tokenomics
+
+The network explorer exposes all on-chain activity and can be used for the monitoring of network transactions.
+
+{% embed url="https://xe.network" %}
+
+In addition to this, the explorer exposes a series of endpoints covering key tokenomic figures such as circulating supply. These can been seen below:
+
+| Endpoint           | URL                                                                            |
+| ------------------ | ------------------------------------------------------------------------------ |
+| Maximum Supply     | [xe.network/api/supply/maximum](https://xe.network/api/supply/maximum)         |
+| Total Supply       | [xe.network/api/supply/total](https://xe.network/api/supply/total)             |
+| Circulating Supply | [xe.network/api/supply/circulating](https://xe.network/api/supply/circulating) |
+| Staked Supply      | [xe.network/api/supply/staked](https://xe.network/api/supply/staked)           |
+| Burned Supply      | [xe.network/api/supply/burned](https://xe.network/api/supply/burned)           |
+
+To see a raw numerical response for each endpoint, add `?raw=true` to the end of the URLs above. For example: [https://xe.network/api/supply/maximum?raw=true](https://xe.network/api/supply/maximum?raw=true)
