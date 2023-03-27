@@ -8,7 +8,7 @@
 
 Any Ethereum or multicoin wallet that supports custom ERC-20 tokens can be used to send and receive your $EDGE tokens. Keep in mind that in order to move the token on the Ethereum network, you will need ETH in your wallet to pay for network transaction fees (commonly known as "gas").
 
-We recommend using [MetaMask](https://metamask.io/), but this is by no means your only option.
+We recommend using [MetaMask](https://metamask.io/), [enkrypt](https://www.enkrypt.com) or the [XE Mobile Wallet](https://apps.apple.com/gb/app/xe/id1563680145), but these are by no means your only option.
 
 Things to look for when choosing a wallet are:
 
