@@ -6,7 +6,7 @@
 
 As its own blockchain, $XE has its own explorer. This is powered by an API at the heart of the blockchain that securely exposes endpoints for blocks, transactions and wallets.
 
-![](../.gitbook/assets/Summary.png)
+![](<../.gitbook/assets/Screenshot 2023-03-27 at 10.22.46.png>)
 
 The explorer can be used to explore blocks and transactions. Wallet exploration and a deeper level of analytics will be added soon.
 
