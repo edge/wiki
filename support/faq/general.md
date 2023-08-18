@@ -14,7 +14,7 @@ The Edge Network was originally concieved by Joseph Denne, Chris Mair and Will L
 
 ### How Many People Are in the Edge Team?
 
-The core team is currently comprised of 18 people. Edge is an all-remote company, and has been since inception. You can read about how we work here:
+The core team is currently comprised of 12 people. Edge is an all-remote company, and has been since inception. You can read about how we work here:
 
 {% embed url="https://edge.network/en/culture" %}
 

@@ -42,6 +42,6 @@ If the transaction speed fee you provided is lower than current gas costs, the b
 
 When you withdraw $XE through the Bridge, gas is paid in XE. When you deposit $EDGE to the Network, gas is paid in Eth via your Metamask wallet.
 
-### Why Is the Holder Number Shown in DEXTools So Low?
+### Why Is the Holder Number Shown in DEXTools Relatively Low?
 
 $XE is a layer 2 blockchain that bridges between chains. This means that there are more holders of the coin $XE within the network that there are holders of the token $EDGE outside of the network. The ratio is currently around 5x the number shown in DEXTools and other Ethereum explorers.
