@@ -8,33 +8,33 @@ The project roadmap for Edge provides a guide to the current and upcoming develo
 
 ## Technical Roadmap
 
-| Year | Milestone                                                                                                  | Status                      |
-| ---- | ---------------------------------------------------------------------------------------------------------- | --------------------------- |
-| 2024 | Edge DB Beta                                                                                               | Planned                     |
-|      | Edge Functions Beta                                                                                        | Planned                     |
-|      | Edge Load Balancers Beta                                                                                   | Planned                     |
-|      | Edge Blockchain-as-a-Service Beta                                                                          | Planned                     |
-|      | Edge Shield Beta                                                                                           | Planned                     |
-|      | Edge Storage General Availability                                                                          | Planned                     |
-|      | PAYG Payments in Crypto                                                                                    | Planned                     |
-|      | XE Transaction Fees                                                                                        | Planned                     |
-|      | Wallet Design Refresh                                                                                      | Planned                     |
-|      | Explorer Design Refresh                                                                                    | Planned                     |
-|      | Advanced Streaming Video Support in CDN                                                                    | Planned                     |
-|      | Desktop Host Version                                                                                       | Planned                     |
-|      | Edge DB Alpha                                                                                              | Planned                     |
-|      | Edge Functions Alpha                                                                                       | Planned                     |
-|      | Edge Load Balancers Alpha                                                                                  | Planned                     |
-|      | Edge Blockchain-as-a-Service Alpha                                                                         | Planned                     |
-|      | Edge Server Region Expansion                                                                               | Planned                     |
-| 2023 | Edge Storage Beta                                                                                          | Planned                     |
-|      | Gateway/Host Queue Model (v2)                                                                              | Planned                     |
-|      | Edge Server Scheduled Backups                                                                              | Planned                     |
-|      | Edge Shield Alpha                                                                                          | Planned                     |
-|      | XE Non-Fungible Token Support                                                                              | Planned                     |
-|      | XE Fungible Token Support                                                                                  | Planned                     |
-|      | Edge GPU Rental R&D                                                                                        | Planned                     |
-|      | Host AI Model R&D                                                                                          | Planned                     |
+| Year | Milestone                                                                                                  | Status                     |
+| ---- | ---------------------------------------------------------------------------------------------------------- | -------------------------- |
+| 2024 | Edge DB Beta                                                                                               | Planned                    |
+|      | Edge Functions Beta                                                                                        | Planned                    |
+|      | Edge Load Balancers Beta                                                                                   | Planned                    |
+|      | Edge Blockchain-as-a-Service Beta                                                                          | Planned                    |
+|      | Edge Shield Beta                                                                                           | Planned                    |
+|      | Edge Storage General Availability                                                                          | Planned                    |
+|      | PAYG Payments in Crypto                                                                                    | Planned                    |
+|      | XE Transaction Fees                                                                                        | Planned                    |
+|      | Wallet Design Refresh                                                                                      | Planned                    |
+|      | Explorer Design Refresh                                                                                    | Planned                    |
+|      | Advanced Streaming Video Support in CDN                                                                    | Planned                    |
+|      | Desktop Host Version                                                                                       | Planned                    |
+|      | Edge DB Alpha                                                                                              | Planned                    |
+|      | Edge Functions Alpha                                                                                       | Planned                    |
+|      | Edge Load Balancers Alpha                                                                                  | Planned                    |
+|      | Edge Blockchain-as-a-Service Alpha                                                                         | Planned                    |
+|      | Edge Server Region Expansion                                                                               | Planned                    |
+| 2023 | Edge Storage Beta                                                                                          | Planned                    |
+|      | Gateway/Host Queue Model (v2)                                                                              | Planned                    |
+|      | Edge Server Scheduled Backups                                                                              | Planned                    |
+|      | Edge Shield Alpha                                                                                          | Planned                    |
+|      | XE Non-Fungible Token Support                                                                              | Planned                    |
+|      | XE Fungible Token Support                                                                                  | Planned                    |
+|      | Edge GPU Rental R\&D                                                                                       | Planned                    |
+|      | Host AI Model R\&D                                                                                         | Planned                    |
 |      | Edge Storage Interface                                                                                     | ⏳ In Progress              |
 |      | Edge Storage APIs                                                                                          | ⏳ In Progress              |
 |      | Migration of CDN Customers to Edge Network V2                                                              | ⏳ In Progress              |
@@ -86,7 +86,8 @@ The project roadmap for Edge provides a guide to the current and upcoming develo
 |      | [Blockchain Explorer](https://edge.network/en/updates/announcements/weekly-update-wc-16th-august-2021/)    | ✅ Delivered 16th August    |
 |      | [Web Wallet](https://edge.network/en/updates/announcements/weekly-update-wc-31st-may-2021/)                | ✅ Delivered 31st May       |
 |      | [Blockchain Mainnet](https://edge.network/en/updates/announcements/weekly-update-wc-17th-may-2021/)        | ✅ Delivered 17th May       |
-## Rolling Priorities
+
+### Rolling Priorities
 
 Alongside specific technical milestones there are high level project goals that the core team are working towards. These include moving the project to a full open source footing; moving to full decentralisation in all areas of the network stack; preferencing anonymity and privacy; and deeply embedding community governance throughout the project's organisational structures.
 
