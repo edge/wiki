@@ -11,7 +11,7 @@ Edge was founded in 2013 as a decentralised alternative to the cloud. Originally
 
 A crowdsale was held in 2018 to raise funds for the delivery of the core network. Set against a five year roadmap, the crowdsale distributed $EDGE tokens to supporters and future customers.
 
-Edge's testnet - running on the domain test.network - was launched in January 2018. The first release of the mainnet was in May 2018. The first products built on top of the Edge Network are [DNS](https://edge.network/en/dns), [Content Delivery](https://edge.network/cdn) and [Edge Servers](https://edge.network/en/compute), all of which are live and in production.
+Edge's testnet - running on the domain test.network - was launched in January 2018. The first release of the mainnet was in May 2018. The first products built on top of the Edge Protocol are [DNS](https://edge.network/en/dns), [Content Delivery](https://edge.network/cdn) and [Edge Servers](https://edge.network/en/compute), all of which are live and in production.
 
 In 2019 Edge was recognised as the “Best Edge Computing Platform” in the Future Digital Awards.
 

@@ -9,46 +9,11 @@ description: >-
 ## Sign up
 
 {% hint style="danger" %}
-Revue from Twitter has been discontinued. We are looking for a replacement
+Revue from Twitter/X has been discontinued. We are looking for a replacement
 {% endhint %}
 
 ## Archive
 
 Note that since Revue has been discontinued that the links below will not work. We are looking for a replacement solution and expect to have the newsletter back online soon.
 
-| Year | Date           | Link                                                   |
-| ---- | -------------- | ------------------------------------------------------ |
-| 2022 | 08th November  | [ed.ge/digest/issue-34](https://ed.ge/digest/issue-34) |
-|      | 19th October   | [ed.ge/digest/issue-33](https://ed.ge/digest/issue-33) |
-|      | 18th February  | [ed.ge/digest/issue-32](https://ed.ge/digest/issue-32) |
-|      | 13th February  | [ed.ge/digest/issue-31](https://ed.ge/digest/issue-31) |
-|      | 06th February  | [ed.ge/digest/issue-30](https://ed.ge/digest/issue-30) |
-|      | 28th January   | [ed.ge/digest/issue-29](https://ed.ge/digest/issue-29) |
-|      | 25th January   | [ed.ge/digest/issue-28](https://ed.ge/digest/issue-28) |
-|      | 13th January   | [ed.ge/digest/issue-27](https://ed.ge/digest/issue-27) |
-|      | 06th January   | [ed.ge/digest/issue-26](https://ed.ge/digest/issue-26) |
-| 2021 | 17th December  | [ed.ge/digest/issue-25](https://ed.ge/digest/issue-25) |
-|      | 11th December  | [ed.ge/digest/issue-24](https://ed.ge/digest/issue-24) |
-|      | 03rd December  | [ed.ge/digest/issue-23](https://ed.ge/digest/issue-23) |
-|      | 25th November  | [ed.ge/digest/issue-22](https://ed.ge/digest/issue-22) |
-|      | 21st November  | [ed.ge/digest/issue-21](https://ed.ge/digest/issue-21) |
-|      | 16th November  | [ed.ge/digest/issue-20](https://ed.ge/digest/issue-20) |
-|      | 12th November  | [ed.ge/digest/issue-19](https://ed.ge/digest/issue-19) |
-|      | 04th November  | [ed.ge/digest/issue-18](https://ed.ge/digest/issue-18) |
-|      | 28th October   | [ed.ge/digest/issue-17](https://ed.ge/digest/issue-17) |
-|      | 22nd October   | [ed.ge/digest/issue-16](https://ed.ge/digest/issue-16) |
-|      | 14th October   | [ed.ge/digest/issue-15](https://ed.ge/digest/issue-15) |
-|      | 08th October   | [ed.ge/digest/issue-14](https://ed.ge/digest/issue-14) |
-|      | 01st October   | [ed.ge/digest/issue-13](https://ed.ge/digest/issue-13) |
-|      | 23rd September | [ed.ge/digest/issue-12](https://ed.ge/digest/issue-12) |
-|      | 15th September | [ed.ge/digest/issue-11](https://ed.ge/digest/issue-11) |
-|      | 02nd September | [ed.ge/digest/issue-10](https://ed.ge/digest/issue-10) |
-|      | 05th August    | [ed.ge/digest/issue-9](https://ed.ge/digest/issue-9)   |
-|      | 17th July      | [ed.ge/digest/issue-8](https://ed.ge/digest/issue-8)   |
-|      | 01st July      | [ed.ge/digest/issue-7](https://ed.ge/digest/issue-7)   |
-|      | 17th June      | [ed.ge/digest/issue-6](https://ed.ge/digest/issue-6)   |
-|      | 03rd June      | [ed.ge/digest/issue-5](https://ed.ge/digest/issue-5)   |
-|      | 20th May       | [ed.ge/digest/issue-4](https://ed.ge/digest/issue-4)   |
-|      | 06th May       | [ed.ge/digest/issue-3](https://ed.ge/digest/issue-3)   |
-|      | 22nd April     | [ed.ge/digest/issue-2](https://ed.ge/digest/issue-2)   |
-|      | 07th April     | [ed.ge/digest/issue-1](https://ed.ge/digest/issue-1)   |
+<table><thead><tr><th width="111.78755076131932">Year</th><th width="249.47106958382994">Date</th><th>Link</th></tr></thead><tbody><tr><td>2022</td><td>08th November</td><td><a href="https://ed.ge/digest/issue-34">ed.ge/digest/issue-34</a></td></tr><tr><td></td><td>19th October</td><td><a href="https://ed.ge/digest/issue-33">ed.ge/digest/issue-33</a></td></tr><tr><td></td><td>18th February</td><td><a href="https://ed.ge/digest/issue-32">ed.ge/digest/issue-32</a></td></tr><tr><td></td><td>13th February</td><td><a href="https://ed.ge/digest/issue-31">ed.ge/digest/issue-31</a></td></tr><tr><td></td><td>06th February</td><td><a href="https://ed.ge/digest/issue-30">ed.ge/digest/issue-30</a></td></tr><tr><td></td><td>28th January</td><td><a href="https://ed.ge/digest/issue-29">ed.ge/digest/issue-29</a></td></tr><tr><td></td><td>25th January</td><td><a href="https://ed.ge/digest/issue-28">ed.ge/digest/issue-28</a></td></tr><tr><td></td><td>13th January</td><td><a href="https://ed.ge/digest/issue-27">ed.ge/digest/issue-27</a></td></tr><tr><td></td><td>06th January</td><td><a href="https://ed.ge/digest/issue-26">ed.ge/digest/issue-26</a></td></tr><tr><td>2021</td><td>17th December</td><td><a href="https://ed.ge/digest/issue-25">ed.ge/digest/issue-25</a></td></tr><tr><td></td><td>11th December</td><td><a href="https://ed.ge/digest/issue-24">ed.ge/digest/issue-24</a></td></tr><tr><td></td><td>03rd December</td><td><a href="https://ed.ge/digest/issue-23">ed.ge/digest/issue-23</a></td></tr><tr><td></td><td>25th November</td><td><a href="https://ed.ge/digest/issue-22">ed.ge/digest/issue-22</a></td></tr><tr><td></td><td>21st November</td><td><a href="https://ed.ge/digest/issue-21">ed.ge/digest/issue-21</a></td></tr><tr><td></td><td>16th November</td><td><a href="https://ed.ge/digest/issue-20">ed.ge/digest/issue-20</a></td></tr><tr><td></td><td>12th November</td><td><a href="https://ed.ge/digest/issue-19">ed.ge/digest/issue-19</a></td></tr><tr><td></td><td>04th November</td><td><a href="https://ed.ge/digest/issue-18">ed.ge/digest/issue-18</a></td></tr><tr><td></td><td>28th October</td><td><a href="https://ed.ge/digest/issue-17">ed.ge/digest/issue-17</a></td></tr><tr><td></td><td>22nd October</td><td><a href="https://ed.ge/digest/issue-16">ed.ge/digest/issue-16</a></td></tr><tr><td></td><td>14th October</td><td><a href="https://ed.ge/digest/issue-15">ed.ge/digest/issue-15</a></td></tr><tr><td></td><td>08th October</td><td><a href="https://ed.ge/digest/issue-14">ed.ge/digest/issue-14</a></td></tr><tr><td></td><td>01st October</td><td><a href="https://ed.ge/digest/issue-13">ed.ge/digest/issue-13</a></td></tr><tr><td></td><td>23rd September</td><td><a href="https://ed.ge/digest/issue-12">ed.ge/digest/issue-12</a></td></tr><tr><td></td><td>15th September</td><td><a href="https://ed.ge/digest/issue-11">ed.ge/digest/issue-11</a></td></tr><tr><td></td><td>02nd September</td><td><a href="https://ed.ge/digest/issue-10">ed.ge/digest/issue-10</a></td></tr><tr><td></td><td>05th August</td><td><a href="https://ed.ge/digest/issue-9">ed.ge/digest/issue-9</a></td></tr><tr><td></td><td>17th July</td><td><a href="https://ed.ge/digest/issue-8">ed.ge/digest/issue-8</a></td></tr><tr><td></td><td>01st July</td><td><a href="https://ed.ge/digest/issue-7">ed.ge/digest/issue-7</a></td></tr><tr><td></td><td>17th June</td><td><a href="https://ed.ge/digest/issue-6">ed.ge/digest/issue-6</a></td></tr><tr><td></td><td>03rd June</td><td><a href="https://ed.ge/digest/issue-5">ed.ge/digest/issue-5</a></td></tr><tr><td></td><td>20th May</td><td><a href="https://ed.ge/digest/issue-4">ed.ge/digest/issue-4</a></td></tr><tr><td></td><td>06th May</td><td><a href="https://ed.ge/digest/issue-3">ed.ge/digest/issue-3</a></td></tr><tr><td></td><td>22nd April</td><td><a href="https://ed.ge/digest/issue-2">ed.ge/digest/issue-2</a></td></tr><tr><td></td><td>07th April</td><td><a href="https://ed.ge/digest/issue-1">ed.ge/digest/issue-1</a></td></tr></tbody></table>
