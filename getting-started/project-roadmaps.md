@@ -11,6 +11,7 @@ The project roadmap for Edge provides a guide to the current and upcoming develo
 | Year | Milestone                                                                                                  | Status                     |
 | ---- | ---------------------------------------------------------------------------------------------------------- | -------------------------- |
 | 2024 | Edge DB Beta                                                                                               | Planned                    |
+|      | Edge LLM Beta                                                                                              | Planned                    |
 |      | Edge Functions Beta                                                                                        | Planned                    |
 |      | Edge Load Balancers Beta                                                                                   | Planned                    |
 |      | Edge Blockchain-as-a-Service Beta                                                                          | Planned                    |
@@ -23,6 +24,7 @@ The project roadmap for Edge provides a guide to the current and upcoming develo
 |      | Advanced Streaming Video Support in CDN                                                                    | Planned                    |
 |      | Desktop Host Version                                                                                       | Planned                    |
 |      | Edge DB Alpha                                                                                              | Planned                    |
+|      | Edge LLM Alpha                                                                                             | Planned                    |
 |      | Edge Functions Alpha                                                                                       | Planned                    |
 |      | Edge Load Balancers Alpha                                                                                  | Planned                    |
 |      | Edge Blockchain-as-a-Service Alpha                                                                         | Planned                    |
