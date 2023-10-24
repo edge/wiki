@@ -27,6 +27,10 @@ The process is as follows:
 5. Assign the device
 6. Start node
 
+{% hint style="info" %}Prefer a visual guide? Check out the tutorial by community member Pod. {% endhint %}
+
+{% embed url="https://wiki.edge.network/contributing-to-the-network/setup-host-using-staking-gui" %}
+
 ### Install Edge CLI
 
 Browse [Edge Network Files](https://files.edge.network/cli/) to find the right build of CLI for your system, and download it to an executable path.
