@@ -43,7 +43,7 @@ A couple things before you can use the Staking GUI:
 
 <img width="426" alt="4 assign device 3 - Copy" src="https://github.com/edge/wiki/assets/113918164/d8ae91ae-5788-4c33-9d25-b02e634a536f">
 
-- Wait 2-5 minutes until your device assignment is confirmed on the blockchain.
+- Wait a few minutes.
   
 <img width="446" alt="4 assign device 4 - Copy" src="https://github.com/edge/wiki/assets/113918164/4a5ce253-bc1a-4dd4-a78b-c8b56444514b">
 
@@ -53,13 +53,13 @@ A couple things before you can use the Staking GUI:
 
 <img width="219" alt="5 start node - Copy" src="https://github.com/edge/wiki/assets/113918164/d5ed740f-415b-4173-843f-b093bf350036">
 
-- Wait. This can take up to an hour.
+- The GUI will keep autochecking if your node is online and keep you updated via the status bar.
 
 8. (GUI) Setup complete!
 
 <img width="597" alt="6 success - Copy" src="https://github.com/edge/wiki/assets/113918164/00864ed2-704f-4454-89e7-995884213b2f">
 
-9. (Docker, Optional) Autostart docker.
+9. (Docker, Optional) If you are using Docker Desktop, you may need to enable autostart.
 
 - Click the gear icon.
 
