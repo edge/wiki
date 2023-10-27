@@ -29,7 +29,7 @@ The process is as follows:
 
 {% hint style="info" %}Prefer a visual guide? Check out the tutorial by community member Pod. {% endhint %}
 
-{% embed url="https://wiki.edge.network/contributing-to-the-network/setup-host-using-staking-gui" %}
+{% embed url="https://wiki.edge.network/contributing-to-the-network/setup-host/staking-gui" %}
 
 ### Install Edge CLI
 
