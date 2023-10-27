@@ -56,6 +56,7 @@
   * [Install Edge CLI](contributing-to-the-network/edge-cli/install-edge-cli.md)
   * [Set up a Host](contributing-to-the-network/edge-cli/set-up-a-host.md)
 * [Setting up a Host](contributing-to-the-network/setting-up-a-host.md)
+  * [Setup Host using Staking GUI](contributing-to-the-network/setup-host/staking-gui.md)
 * [Edge Devices](contributing-to-the-network/edge-devices/README.md)
   * [Founding Node](contributing-to-the-network/edge-devices/founding-node.md)
   * [Node one](contributing-to-the-network/edge-devices/node-one.md)
