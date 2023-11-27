@@ -96,12 +96,6 @@ The network explorer exposes all on-chain activity and can be used for the monit
 
 In addition to this, the explorer exposes a series of endpoints covering key tokenomic figures such as circulating supply. These can been seen below:
 
-| Endpoint           | URL                                                                            |
-| ------------------ | ------------------------------------------------------------------------------ |
-| Maximum Supply     | [xe.network/api/supply/maximum](https://xe.network/api/supply/maximum)         |
-| Total Supply       | [xe.network/api/supply/total](https://xe.network/api/supply/total)             |
-| Circulating Supply | [xe.network/api/supply/circulating](https://xe.network/api/supply/circulating) |
-| Staked Supply      | [xe.network/api/supply/staked](https://xe.network/api/supply/staked)           |
-| Burned Supply      | [xe.network/api/supply/burned](https://xe.network/api/supply/burned)           |
+<table><thead><tr><th width="197.33333333333331">Endpoint</th><th width="560">URL</th></tr></thead><tbody><tr><td>Maximum Supply</td><td><a href="https://xe.network/api/supply/maximum">xe.network/api/supply/maximum</a></td></tr><tr><td>Total Supply</td><td><a href="https://xe.network/api/supply/total">xe.network/api/supply/total</a></td></tr><tr><td>Circulating Supply</td><td><a href="https://xe.network/api/supply/circulating">xe.network/api/supply/circulating</a></td></tr><tr><td>Staked Supply</td><td><a href="https://xe.network/api/supply/staked">xe.network/api/supply/staked</a></td></tr><tr><td>Burned Supply</td><td><a href="https://xe.network/api/supply/burned">xe.network/api/supply/burned</a></td></tr></tbody></table>
 
 To see a raw numerical response for each endpoint, add `?raw=true` to the end of the URLs above. For example: [https://xe.network/api/supply/maximum?raw=true](https://xe.network/api/supply/maximum?raw=true)

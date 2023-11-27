@@ -52,7 +52,7 @@ Monocle use Edge CDN for the management of images and audio across their estate,
 
 High resolution source images are scaled and intelligently cropped by Edge CDN, significantly reducing the weight of work for their editorial teams.
 
-> We’ve streamlined our production with Edge, saving time and ensuring an optimal experience for our end users. – **Joe Gwynn**, **** Head of Technology | Monocle
+> We’ve streamlined our production with Edge, saving time and ensuring an optimal experience for our end users. – **Joe Gwynn**, Head of Technology | Monocle
 
 View property: [monocle.com](https://monocle.com/)
 

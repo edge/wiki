@@ -14,14 +14,7 @@ The **Dev Fund** holds $XE assigned to support the day-to-day development of the
 **The figures below represent the initial distribution percentages for $XE**
 {% endhint %}
 
-| Distribution          | Percentage Allocation                                                                                                   |        |
-| --------------------- | ----------------------------------------------------------------------------------------------------------------------- | ------ |
-| Dev Fund              | Tokens used for the ongoing development of the project.                                                                 | 13.03% |
-| Growth Fund           | Tokens used for the ongoing promotion and growth of the Edge Network. Under community governance.                       | 8.36%  |
-| Staking Contract      | Tokens locked in the network as stakes against contributed devices.                                                     | 26.28% |
-| Community Circulating | Tokens held by members of the Edge community.                                                                           | 28.99% |
-| Founding Team         | Core team token allocation. 5 year linear vesting schedule starting December 2021.                                      | 6.67%  |
-| Staked Node Rewards   | Tokens locked in the network for slow release as node rewards. Released at a rate of 10% of remaining rewards per year. | 16.67% |
+<table><thead><tr><th width="162.09231609914934">Distribution</th><th width="388.1088265365705">Percentage Allocation</th><th></th></tr></thead><tbody><tr><td>Dev Fund</td><td>Tokens used for the ongoing development of the project.</td><td>13.03%</td></tr><tr><td>Growth Fund</td><td>Tokens used for the ongoing promotion and growth of the Edge Network. Under community governance.</td><td>8.36%</td></tr><tr><td>Staking Contract</td><td>Tokens locked in the network as stakes against contributed devices.</td><td>26.28%</td></tr><tr><td>Community Circulating</td><td>Tokens held by members of the Edge community.</td><td>28.99%</td></tr><tr><td>Founding Team</td><td>Core team token allocation. 5 year linear vesting schedule starting December 2021.</td><td>6.67%</td></tr><tr><td>Staked Node Rewards</td><td>Tokens locked in the network for slow release as node rewards. Released at a rate of 10% of remaining rewards per year.</td><td>16.67%</td></tr></tbody></table>
 
 The Growth Fund is controlled through project governance.
 
