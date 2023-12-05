@@ -26,7 +26,7 @@ As the requirements for Nodes grows, the proof of stake required at each level i
 | :--- | :--- | :--- |
 | Stargate | 250,000 | 20% |
 | Gateway | 25,000 | 15% |
-| Host | 2,500 | 10% |
+| Host | 1,250 | 10% |
 
 {% hint style="info" %}
 **Stake amounts are subject to change**
