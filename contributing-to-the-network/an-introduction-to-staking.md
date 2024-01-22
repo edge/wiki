@@ -8,7 +8,7 @@ Stakes also form an important part of the tokenomics of the platform, locking va
 
 {% hint style="success" %} Staking software is available on desktop (Windows, Linux, MacOS): http://ed.ge/staking **** {% endhint %}
 
-To add a node to the network you have to provide a stake in $XE via your [Edge Wallet](https://wallet.xe.network/).
+To add a node to the network you have to provide a stake in $XE via your [Edge Wallet](https://wallet.xe.network/) or edge CLI.
 
 ## Proof of Stake
 
