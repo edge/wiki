@@ -30,6 +30,9 @@ $EDGE is a tradable utility token on the Ethereum network (ERC-20). It is the en
 
 $EDGE tokens can be bridged into the Edge network and converted to $XE using the Edge Bridge. The relationship between $EDGE and $XE is 1:1, meaning that for every 1 $EDGE bridged into the network, you will receive 1 $XE.
 
+When $EDGE is bridged into the network, it is locked in the token bridge hot wallet [0x956..](https://etherscan.io/address/0x9560f507e34d375b6593d551bb2c10d48884c787), which is backfilled by the bridge cold wallet [0x8f18..](https://etherscan.io/address/0x8f1800a97844c542c04763aD7c126875032eF3D0) if necessary. 
+Currently over 85% of all tokens are circulating as $XE, and thus locked in the $EDGE cold wallet (deployer contract).
+
 When services are purchased in $EDGE, the $EDGE is automatically bridged into the network, reducing circulating supply.
 
 ### Service Purchase
