@@ -10,84 +10,94 @@ The project roadmap for Edge provides a guide to the current and upcoming develo
 
 | Year | Milestone                                                                                                  | Status                     |
 | ---- | ---------------------------------------------------------------------------------------------------------- | -------------------------- |
-| 2024 | Edge DB Beta                                                                                               | Planned                    |
+| 2025 | Edge DB Beta                                                                                               | Planned                    |
 |      | Edge LLM Beta                                                                                              | Planned                    |
 |      | Edge Functions Beta                                                                                        | Planned                    |
 |      | Edge Load Balancers Beta                                                                                   | Planned                    |
 |      | Edge Blockchain-as-a-Service Beta                                                                          | Planned                    |
 |      | Edge Shield Beta                                                                                           | Planned                    |
-|      | Edge Storage General Availability                                                                          | Planned                    |
-|      | PAYG Payments in Crypto                                                                                    | Planned                    |
 |      | XE Transaction Fees                                                                                        | Planned                    |
 |      | Wallet Design Refresh                                                                                      | Planned                    |
 |      | Explorer Design Refresh                                                                                    | Planned                    |
-|      | Advanced Streaming Video Support in CDN                                                                    | Planned                    |
 |      | Desktop Host Version                                                                                       | Planned                    |
 |      | Edge DB Alpha                                                                                              | Planned                    |
 |      | Edge LLM Alpha                                                                                             | Planned                    |
-|      | Edge Functions Alpha                                                                                       | Planned                    |
-|      | Edge Load Balancers Alpha                                                                                  | Planned                    |
 |      | Edge Blockchain-as-a-Service Alpha                                                                         | Planned                    |
-|      | Edge Server Region Expansion                                                                               | Planned                    |
-| 2023 | Edge Storage Beta                                                                                          | Planned                    |
-|      | Gateway/Host Queue Model (v2)                                                                              | Planned                    |
-|      | Edge Server Scheduled Backups                                                                              | Planned                    |
-|      | Edge Shield Alpha                                                                                          | Planned                    |
 |      | XE Non-Fungible Token Support                                                                              | Planned                    |
 |      | XE Fungible Token Support                                                                                  | Planned                    |
 |      | Edge GPU Rental R\&D                                                                                       | Planned                    |
 |      | Host AI Model R\&D                                                                                         | Planned                    |
-|      | Edge Storage Interface                                                                                     | ⏳ In Progress              |
-|      | Edge Storage APIs                                                                                          | ⏳ In Progress              |
-|      | Migration of CDN Customers to Edge Network V2                                                              | ⏳ In Progress              |
-|      | New Customer Facing Website                                                                                | ⏳ In Progress              |
-|      | Edge Storage Alpha                                                                                         | ⏳ In Progress              |
-|      | Internal Account Management Tooling                                                                        | ✅ Delivered                |
-|      | Edge Server Metrics                                                                                        | ✅ Delivered                |
-|      | Edge Lottery                                                                                               | ✅ Delivered                |
-|      | Edge Account Email Sign In                                                                                 | ✅ Delivered                |
-|      | Edge Account Notifications                                                                                 | ✅ Delivered                |
-|      | Edge Account Pay By Card                                                                                   | ✅ Delivered                |
-|      | Edge Account Monthly Billing                                                                               | ✅ Delivered                |
-|      | Edge Account Beta Support                                                                                  | ✅ Delivered                |
-|      | Explorer Map Update(s)                                                                                     | ✅ Delivered                |
-|      | Explorer Burns                                                                                             | ✅ Delivered                |
-|      | Explorer Token Stats                                                                                       | ✅ Delivered                |
-|      | Stargate/Gateway Connectivity Model (v2)                                                                   | ✅ Delivered                |
-|      | Multi-Stargate Support                                                                                     | ✅ Delivered                |
-|      | Multi-user Account Access                                                                                  | ✅ Delivered                |
-| 2022 | Community Governance                                                                                       | ✅ Delivered                |
-|      | Multi-Gateway Support                                                                                      | ✅ Delivered                |
-|      | PAYG Payments in FIAT                                                                                      | ✅ Delivered                |
-|      | Integrate Node Explorer with XE Explorer                                                                   | ✅ Delivered                |
-|      | Edge Server General Availability                                                                           | ✅ Delivered                |
-|      | Edge DNS General Availability                                                                              | ✅ Delivered                |
-|      | PAYG Payments in XE                                                                                        | ✅ Delivered                |
-|      | XE-based Account System                                                                                    | ✅ Delivered                |
-|      | Migration of DNS Customers to Edge Network V2                                                              | ✅ Delivered                |
-|      | Stargate/Gateway (v2) Usage Metrics                                                                        | ✅ Delivered                |
-|      | Automatic Daily Earnings                                                                                   | ✅ Delivered                |
-|      | Edge Server Public Beta                                                                                    | ✅ Delivered                |
-|      | XE iOS Wallet                                                                                              | ✅ Delivered                |
-|      | Basic streaming Video Support in CDN                                                                       | ✅ Delivered                |
-|      | Edge CDN (v2) General Availability                                                                         | ✅ Delivered                |
-| 2021 | Mainnet Device Onboarding & Migration                                                                      | ✅ Delivered                |
-|      | Host V2                                                                                                    | ✅ Delivered                |
-|      | Gateway V2                                                                                                 | ✅ Delivered                |
-|      | Stargate V2                                                                                                | ✅ Delivered                |
-|      | Public Testnet for Network V2                                                                              | ✅ Delivered                |
-|      | Command Line Interface for Staking                                                                         | ✅ Delivered                |
-|      | On-Chain Staking                                                                                           | ✅ Delivered                |
-|      | 2021 Payouts Processed                                                                                     | ✅ Delivered                |
-|      | [Explorer Wallet Index](https://edge.network/en/updates/announcements/weekly-update-wc-04th-october-2021/) | ✅ Delivered 8th October    |
-|      | [Wallet Sell Feature](https://edge.network/en/updates/announcements/weekly-update-wc-27th-september-2021/) | ✅ Delivered 1st October    |
-|      | Console Mothballed                                                                                         | ✅ Delivered 30th September |
-|      | Explorer Wallet View                                                                                       | ✅ Delivered 17th September |
-|      | [Uniswap Listing](https://edge.network/en/updates/announcements/edge-token-launch/)                        | ✅ Delivered 9th September  |
-|      | [Bridge Open](https://edge.network/en/updates/announcements/edge-token-launch/)                            | ✅ Delivered 9th September  |
-|      | [Blockchain Explorer](https://edge.network/en/updates/announcements/weekly-update-wc-16th-august-2021/)    | ✅ Delivered 16th August    |
-|      | [Web Wallet](https://edge.network/en/updates/announcements/weekly-update-wc-31st-may-2021/)                | ✅ Delivered 31st May       |
-|      | [Blockchain Mainnet](https://edge.network/en/updates/announcements/weekly-update-wc-17th-may-2021/)        | ✅ Delivered 17th May       |
+|      | Advanced Streaming Video Support in CDN                                                                    | Planned                    |
+|      | PAYG Payments in Crypto                                                                                    | Planned                    |
+| 2024 | Edge Storage General Availability                                                                          | Planned                    |
+|      | Edge Server Scheduled Backups                                                                              | Planned                    |
+|      | Edge Functions Alpha                                                                                       | Planned                    |
+|      | Edge Load Balancers Alpha                                                                                  | Planned                    |
+|      | Edge Server Region Expansion                                                                               | Planned                    |
+|      | Edge Shield Alpha                                                                                          | Planned                    |
+|      | Edge DNS DNSSEC Support                                                                                    | Planned                    |
+|      | Edge CDN Watermarking support                                                                              | Planned                    |
+|      | Edge Storage Beta                                                                                          | ⏳ In Progress             |
+|      | Gateway/Host Queue Model (v2)                                                                              | ⏳ In Progress             |
+|      | New Customer Facing Website                                                                                | ⏳ In Progress             |
+|      | Liquidity Staking                                                                                          | ⏳ In Progress             |
+|      | Edge Marketplace                                                                                           | ⏳ In Progress             |
+|      | Exchange Listing                                                                                           | ⏳ In Progress             |
+|      | Edge Account Promotional System                                                                            | ✅ Delivered               |
+|      | Edge Account Fiat View                                                                                     | ✅ Delivered               |
+|      | Edge Account Onboarding                                                                                    | ✅ Delivered               |
+|      | Edge Account Sign Up/In With Email                                                                         | ✅ Delivered               |
+| 2023 | Migration of CDN Customers to Edge Network V2                                                              | ✅ Delivered               |
+|      | Edge Pages (using Storage Alpha)                                                                           | ✅ Delivered               |
+|      | Edge Storage Interface                                                                                     | ✅ Delivered               |
+|      | Edge Storage APIs                                                                                          | ✅ Delivered               |
+|      | Edge Storage Alpha                                                                                         | ✅ Delivered               |
+|      | Internal Account Management Tooling                                                                        | ✅ Delivered               |
+|      | Edge Server Metrics                                                                                        | ✅ Delivered               |
+|      | Edge Lottery                                                                                               | ✅ Delivered               |
+|      | Edge Account Email Sign In                                                                                 | ✅ Delivered               |
+|      | Edge Account Notifications                                                                                 | ✅ Delivered               |
+|      | Edge Account Pay By Card                                                                                   | ✅ Delivered               |
+|      | Edge Account Monthly Billing                                                                               | ✅ Delivered               |
+|      | Edge Account Beta Support                                                                                  | ✅ Delivered               |
+|      | Explorer Map Update(s)                                                                                     | ✅ Delivered               |
+|      | Explorer Burns                                                                                             | ✅ Delivered               |
+|      | Explorer Token Stats                                                                                       | ✅ Delivered               |
+|      | Stargate/Gateway Connectivity Model (v2)                                                                   | ✅ Delivered               |
+|      | Multi-Stargate Support                                                                                     | ✅ Delivered               |
+|      | Multi-user Account Access                                                                                  | ✅ Delivered               |
+| 2022 | Community Governance                                                                                       | ✅ Delivered               |
+|      | Multi-Gateway Support                                                                                      | ✅ Delivered               |
+|      | PAYG Payments in FIAT                                                                                      | ✅ Delivered               |
+|      | Integrate Node Explorer with XE Explorer                                                                   | ✅ Delivered               |
+|      | Edge Server General Availability                                                                           | ✅ Delivered               |
+|      | Edge DNS General Availability                                                                              | ✅ Delivered               |
+|      | PAYG Payments in XE                                                                                        | ✅ Delivered               |
+|      | XE-based Account System                                                                                    | ✅ Delivered               |
+|      | Migration of DNS Customers to Edge Network V2                                                              | ✅ Delivered               |
+|      | Stargate/Gateway (v2) Usage Metrics                                                                        | ✅ Delivered               |
+|      | Automatic Daily Earnings                                                                                   | ✅ Delivered               |
+|      | Edge Server Public Beta                                                                                    | ✅ Delivered               |
+|      | XE iOS Wallet                                                                                              | ✅ Delivered               |
+|      | Basic streaming Video Support in CDN                                                                       | ✅ Delivered               |
+|      | Edge CDN (v2) General Availability                                                                         | ✅ Delivered               |
+| 2021 | Mainnet Device Onboarding & Migration                                                                      | ✅ Delivered               |
+|      | Host V2                                                                                                    | ✅ Delivered               |
+|      | Gateway V2                                                                                                 | ✅ Delivered               |
+|      | Stargate V2                                                                                                | ✅ Delivered               |
+|      | Public Testnet for Network V2                                                                              | ✅ Delivered               |
+|      | Command Line Interface for Staking                                                                         | ✅ Delivered               |
+|      | On-Chain Staking                                                                                           | ✅ Delivered               |
+|      | 2021 Payouts Processed                                                                                     | ✅ Delivered               |
+|      | [Explorer Wallet Index](https://edge.network/en/updates/announcements/weekly-update-wc-04th-october-2021/) | ✅ Delivered               |
+|      | [Wallet Sell Feature](https://edge.network/en/updates/announcements/weekly-update-wc-27th-september-2021/) | ✅ Delivered               |
+|      | Console Mothballed                                                                                         | ✅ Delivered               |
+|      | Explorer Wallet View                                                                                       | ✅ Delivered               |
+|      | [Uniswap Listing](https://edge.network/en/updates/announcements/edge-token-launch/)                        | ✅ Delivered               |
+|      | [Bridge Open](https://edge.network/en/updates/announcements/edge-token-launch/)                            | ✅ Delivered               |
+|      | [Blockchain Explorer](https://edge.network/en/updates/announcements/weekly-update-wc-16th-august-2021/)    | ✅ Delivered               |
+|      | [Web Wallet](https://edge.network/en/updates/announcements/weekly-update-wc-31st-may-2021/)                | ✅ Delivered               |
+|      | [Blockchain Mainnet](https://edge.network/en/updates/announcements/weekly-update-wc-17th-may-2021/)        | ✅ Delivered               |
 
 ### Rolling Priorities
 
