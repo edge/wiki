@@ -6,7 +6,7 @@
 **$EDGE was listed on Uniswap on the 09th of September, 2021**
 {% endhint %}
 
-$EDGE is avaulable to trade with a single pairing ($EDGE:$WETH) via a Uniswap V2 pool: [ed.ge/uniswap](https://ed.ge/uniswap)
+$EDGE is available to trade with a single pairing ($EDGE:$WETH) via a Uniswap V2 pool: [ed.ge/uniswap](https://ed.ge/uniswap)
 
 ### $EDGE Contract Address
 
@@ -28,7 +28,7 @@ You can find CoinGecko's token list here: [ed.ge/token-list](https://ed.ge/token
 **$EDGE was listed on XeggeX on the 11th of April, 2024**
 {% endhint %}
 
-$EDGE is avaulable to trade with two pairings ($EDGE:$ETH and $EDGE:$USDT) on XeggeX:
+$EDGE is available to trade with two pairings ($EDGE:$ETH and $EDGE:$USDT) on XeggeX:
 
 {% embed url="http://xeggex.com/market/EDGE_USDT" %}
 
