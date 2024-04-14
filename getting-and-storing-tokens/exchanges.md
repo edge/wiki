@@ -25,7 +25,7 @@ You can find CoinGecko's token list here: [ed.ge/token-list](https://ed.ge/token
 ## $EDGE on XeggeX
 
 {% hint style="success" %}
-**$EDGE was listed on Uniswap on the 09th of September, 2021**
+**$EDGE was listed on XeggeX on the 11th of April, 2024**
 {% endhint %}
 
 $EDGE is avaulable to trade with two pairings ($EDGE:$ETH and $EDGE:$USDT) on XeggeX:
