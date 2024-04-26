@@ -40,9 +40,10 @@ The project roadmap for Edge provides a guide to the current and upcoming develo
 |      | Edge Storage Beta                                                                                          | ⏳ In Progress             |
 |      | Gateway/Host Queue Model (v2)                                                                              | ⏳ In Progress             |
 |      | New Customer Facing Website                                                                                | ⏳ In Progress             |
-|      | Liquidity Staking                                                                                          | ⏳ In Progress             |
 |      | Edge Marketplace                                                                                           | ⏳ In Progress             |
-|      | Exchange Listing                                                                                           | ⏳ In Progress             |
+|      | Edge Account Continuous Enhancement                                                                        | 🔄 Ongoing                 |
+|      | Liquidity Staking                                                                                          | ✅ Delivered               |
+|      | Exchange Listing                                                                                           | ✅ Delivered               |
 |      | Edge Account Promotional System                                                                            | ✅ Delivered               |
 |      | Edge Account Fiat View                                                                                     | ✅ Delivered               |
 |      | Edge Account Onboarding                                                                                    | ✅ Delivered               |
