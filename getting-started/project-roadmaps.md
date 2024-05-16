@@ -30,7 +30,6 @@ The project roadmap for Edge provides a guide to the current and upcoming develo
 |      | Advanced Streaming Video Support in CDN                                                                    | Planned                    |
 |      | PAYG Payments in Crypto                                                                                    | Planned                    |
 | 2024 | Edge Storage General Availability                                                                          | Planned                    |
-|      | Edge Server Scheduled Backups                                                                              | Planned                    |
 |      | Edge Functions Alpha                                                                                       | Planned                    |
 |      | Edge Load Balancers Alpha                                                                                  | Planned                    |
 |      | Edge Server Region Expansion                                                                               | Planned                    |
@@ -38,10 +37,11 @@ The project roadmap for Edge provides a guide to the current and upcoming develo
 |      | Edge DNS DNSSEC Support                                                                                    | Planned                    |
 |      | Edge CDN Watermarking support                                                                              | Planned                    |
 |      | Edge Storage Beta                                                                                          | ⏳ In Progress             |
-|      | Gateway/Host Queue Model (v2)                                                                              | ⏳ In Progress             |
 |      | New Customer Facing Website                                                                                | ⏳ In Progress             |
 |      | Edge Marketplace                                                                                           | ⏳ In Progress             |
+|      | Edge Server Scheduled Backups                                                                              | 🔍 QA                      |
 |      | Edge Account Continuous Enhancement                                                                        | 🔄 Ongoing                 |
+|      | Gateway/Host Queue Improvements                                                                            | 🔄 Ongoing                 |
 |      | Liquidity Staking                                                                                          | ✅ Delivered               |
 |      | Exchange Listing                                                                                           | ✅ Delivered               |
 |      | Edge Account Promotional System                                                                            | ✅ Delivered               |
