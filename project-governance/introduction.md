@@ -22,7 +22,7 @@ Minimum participation, or quorum, is the minimum level of participation required
 
 ## Voting Periods
 
-The voting period for proposals is 7 days by default. In some circumstances this can be extended.
+The voting period for proposals is 21 days by default. In some circumstances this can be extended.
 
 ## Growth Fund
 
