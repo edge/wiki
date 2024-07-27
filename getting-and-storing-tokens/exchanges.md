@@ -6,7 +6,7 @@
 **$EDGE was listed on Uniswap on the 09th of September, 2021**
 {% endhint %}
 
-$EDGE is available to trade with a single pairing ($EDGE:$WETH) via a Uniswap V2 pool: [ed.ge/uniswap](https://ed.ge/uniswap)
+$EDGE is available to trade with a single pairing ($EDGE:$WETH) via Uniswap V2 and V3 pools: [ed.ge/uniswap](https://ed.ge/uniswap)
 
 ### $EDGE Contract Address
 
@@ -39,7 +39,7 @@ $EDGE is available to trade with two pairings ($EDGE:$ETH and $EDGE:$USDT) on Xe
 You can find $EDGE on the following platforms:
 
 * $EDGE on Etherscan: [ed.ge/etherscan](https://ed.ge/etherscan)
-* $EDGE on DEXTools: [ed.ge/dextools](https://ed.ge/dextools)
+* $EDGE on DEXTools (Uniswap v2: [ed.ge/dextools-v2](https://ed.ge/dextools-v2) Uniswap v3: [ed.ge/dextools-v3](https://ed.ge/dextools-v3))
 * $EDGE on CoinMarketCap: [ed.ge/coinmarketcap](https://ed.ge/coinmarketcap)
 * $EDGE on CoinGecko: [ed.ge/coingecko](https://ed.ge/coingecko)
 * $EDGE on KyberSwap: [ed.ge/kyberswap](https://ed.ge/kyberswap)
