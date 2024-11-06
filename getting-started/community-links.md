@@ -1,9 +1,10 @@
-# 🏘 Community Links
+# 🏘️ Community Links
 
 Keep up with the latest developments and join the Edge community:
 
 * X: [@edgenetwork](https://twitter.com/edgenetwork)
 * Discord: [discord.gg/edge-network](https://discord.gg/edge-network)
+* Telegram: [@edgenetwork](https://t.me/edgenetwork)
 * Latest: [edge.network/en/updates](https://edge.network/en/updates)
 
 Join the Edge mailing list:
@@ -12,18 +13,17 @@ Join the Edge mailing list:
 
 Elsewhere:
 
-* Telegram: [@edgenetwork](https://t.me/edgenetwork)
 * YouTube: [ed.ge/youtube](https://ed.ge/youtube)
 * Vimeo: [vimeo.com/edgenetwork](https://vimeo.com/edgenetwork)
 * Facebook: [facebook.com/edgenetworktech](https://www.facebook.com/edgenetworktech)
-* Reddit: [/r/edgenetwork](https://reddit.com/r/edgenetwork) \[Not currently maintained]
-* Medium: [edge.medium.com](https://edge.medium.com) \[Not currently maintained]
+* ~~Reddit:~~ [~~/r/edgenetwork~~](https://reddit.com/r/edgenetwork) ~~\[Not currently maintained]~~
+* ~~Medium:~~ [~~edge.medium.com~~](https://edge.medium.com) ~~\[Not currently maintained]~~
 
 Find us on:
 
 * $EDGE on CoinGecko: [ed.ge/coingecko](https://ed.ge/coingecko)
 * $EDGE on CoinMarketCap: [ed.ge/coinmarketcap](https://ed.ge/coinmarketcap)
-* Delta Direct: [delta.app/en/direct](https://delta.app/en/direct)
+* ~~Delta Direct:~~ [~~delta.app/en/direct~~](https://delta.app/en/direct)
 
 ## Official Domain Names
 
