@@ -2,7 +2,7 @@
 
 The Growth Fund holds $XE assigned to support the marketing and growth in uptake of the Edge Network.
 
-<table><thead><tr><th width="418">$XE Wallet Address</th><th>Percentage Allocation</th></tr></thead><tbody><tr><td><a href="https://xe.network/wallet/xe_ed9e3AcDA88AFFe508d72503845289ca43390032">xe_ed9e3AcDA88AFFe508d72503845289ca43390032</a></td><td>10.03%</td></tr></tbody></table>
+<table><thead><tr><th width="418">$XE Wallet Address</th><th>Initial Allocation</th></tr></thead><tbody><tr><td><a href="https://xe.network/wallet/xe_ed9e3AcDA88AFFe508d72503845289ca43390032">xe_ed9e3AcDA88AFFe508d72503845289ca43390032</a></td><td>10.03%</td></tr></tbody></table>
 
 The use of these funds is under the control of project governance, meaning that community members can raise proposals for its use, and vote on proposals raised.
 

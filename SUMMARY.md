@@ -21,7 +21,7 @@
   * [Dev Fund](getting-started/edge-tokenomics/dev-fund.md)
   * [Growth Fund](getting-started/edge-tokenomics/growth-fund.md)
   * [Founding Team](getting-started/edge-tokenomics/founding-team.md)
-  * [Staking Wallet](getting-started/edge-tokenomics/staking-wallet.md)
+  * [Network Bridge](getting-started/edge-tokenomics/network-bridge.md)
 * [📍 Project Roadmaps](getting-started/project-roadmaps.md)
 * [📰 Project Updates](getting-started/project-updates/README.md)
   * [Weekly Updates](getting-started/project-updates/weekly-updates.md)

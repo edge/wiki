@@ -4,7 +4,7 @@
 **$XE distribution closed at the end of September 2021**
 {% endhint %}
 
-A total of 50 million $XE were minted and distributed. In addition to this, 10 million $XE were locked in the network to be mined and released as node rewards.
+A total of 50 million $XE were minted and distributed at genesis. In addition to this, 10 million $XE were locked in the network to be mined and released as node rewards.
 
 ## Distribution Break Out
 
@@ -28,7 +28,7 @@ $XE has a mineable supply of 10 million coins, with a steady emissions curve tie
 
 The maximum yield in year one is 1 million $XE (10%). This will be reduced in year two, further in year three and so on.
 
-The following table shows expected emitted $XE for the next five years:
+The following table shows  emitted $XE from genesis and for the next five years:
 
 | Year    | Emitted $XE | Supply Increase |
 | ------- | ----------- | --------------- |
@@ -37,6 +37,9 @@ The following table shows expected emitted $XE for the next five years:
 | 2023/24 | 810,000     | 1.56%           |
 | 2024/25 | 729,000     | 1.38%           |
 | 2025/26 | 656,100     | 1.23%           |
+| 2026/27 | 590,490     | 1.09%           |
+| 2027/28 | 531,441     | 0.97%           |
+| 2028/29 | 478,296     | 0.87%           |
 
 Node rewards are held in a network-controlled wallet:
 
