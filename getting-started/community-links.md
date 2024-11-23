@@ -3,7 +3,7 @@
 Keep up with the latest developments and join the Edge community:
 
 * X: [@edgenetwork](https://twitter.com/edgenetwork)
-* Discord: [discord.gg/edge-network](https://discord.gg/edge-network)
+* Discord: [https://discord.gg/3sEvuYJ](https://discord.gg/3sEvuYJ)
 * Telegram: [@edgenetwork](https://t.me/edgenetwork)
 * Latest: [edge.network/en/updates](https://edge.network/en/updates)
 
