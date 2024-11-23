@@ -49,7 +49,6 @@ Edge maintains a short link service using the domain ed.ge, providing quick acce
 * Staking info[ ed.ge/staking](https://ed.ge/staking)
 * Exchange info [ed.ge/exchanges](https://ed.ge/exchanges)
 * Project updates [ed.ge/updates](https://ed.ge/updates)
-* Discord community [ed.ge/community](https://ed.ge/community) & [ed.ge/discord](https://ed.ge/discord)
 * Official Twitter [ed.ge/twitter](https://ed.ge/twitter)
 * Official GitHub [ed.ge/github](https://ed.ge/github)
 * Onboarding info [ed.ge/onboarding](https://ed.ge/onboarding)
