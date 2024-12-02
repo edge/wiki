@@ -3,8 +3,8 @@
 Keep up with the latest developments and join the Edge community:
 
 * X: [@edgenetwork](https://twitter.com/edgenetwork)
-* Discord: [https://discord.gg/3sEvuYJ](https://discord.gg/3sEvuYJ)
-* Telegram: [@edgenetwork](https://t.me/edgenetwork)
+* Discord: [ed.ge/discord](https://ed.ge/discord)
+* Telegram: [ed.ge/telegram](https://ed.ge/telegram)
 * Latest: [edge.network/en/updates](https://edge.network/en/updates)
 
 Join the Edge mailing list:
