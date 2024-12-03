@@ -1,8 +1,6 @@
 # Founding Team
 
-The founding team allocation at crowdsale in 2018 was 20%. This was vested over five years. Three years of vested tokens have been released, in February 2018, February 2019 and February 2020.
-
-The remaining allocation – 8% – has been swapped to $XE and a new vesting schedule has been put in place. This schedule runs over five years, releasing at 20% per year, meaning that a maximum of 1.6% of supply will be made available to the founding team per year.
+The core team hold 6.95% of total supply. There is a vesting schedule for the core team that runs runs over five years from the launch fo the XE Blockchain, releasing at a rate of 20% per year. This means that a maximum of 1.39% of supply will be made available to the founding team per year from the launch of the XE Blockchain.
 
 The three original founders of Edge hold the largest portion of this distribution:
 
