@@ -10,7 +10,7 @@ The Edge Network was first released in 2018, but the technology has been in actv
 
 ### Who Founded the Edge Network?
 
-The Edge Network was originally concieved by Joseph Denne, Chris Mair and Will Lebens.
+The Edge Network was originally concieved by Joseph Denne, Will Lebens and Chris Mair. Joseph and Will continue to serve as guarantors for the not for profit and look after day to day operations.
 
 ### How Many People Are in the Edge Team?
 
