@@ -1,8 +1,8 @@
 # Edge Community Wiki
 
-{% embed url="https://youtu.be/YjjH4RXPEcc" %}
-
 Edge is pioneering the future of the Internet by introducing the world's first dedicated edge computing platform, breaking the grip of the mega corporations that have turned us all into digital serfs. By harnessing the untapped computing potential around us, Edge not only decentralises the cloud but also champions a more sustainable, faster, and democratic digital frontier.
+
+{% embed url="https://youtu.be/YjjH4RXPEcc" %}
 
 Edge is the protocol of web3. Its versatile web services empower you to launch everything from dynamic websites to immersive games. Take part in the evolution and reclaim the web for everyone.
 
