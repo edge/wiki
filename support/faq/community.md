@@ -8,7 +8,7 @@
 
 ### Is There a Primary Community Channel?
 
-Yes. Edge's primary community is Discord. You can join the Edge server here: [discord.gg/edge-network](https://discord.gg/edge-network)
+Yes. Edge's primary community is Discord. You can join the Edge server here: [ed.ge/discord](https://ed.ge/discord)
 
 ### How Often Does the Core Team Update the Community?
 
