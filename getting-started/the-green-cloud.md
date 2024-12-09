@@ -12,7 +12,7 @@ Edge technology is greener by design. First, it reuses hardware we’ve already 
 
 Second, the Edge Network is all around us. This reduces the distance between data storage and data consumption, diminishing the energy required to send it. It's the network under our noses – rather than the one that makes us choke on its emissions.
 
-<figure><img src="../.gitbook/assets/geenNetwork.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/photo_2024-12-09 16.49.44.jpeg" alt=""><figcaption></figcaption></figure>
 
 ## Predicted Carbon Savings
 

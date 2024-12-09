@@ -75,7 +75,7 @@ Emphasis, aka italics, with _asterisks_ or _underscores_.
 
 Strong emphasis, aka bold, with **asterisks** or **underscores**.
 
-Combined emphasis with **asterisks and **_**underscores**_.
+Combined emphasis with **asterisks and&#x20;**_**underscores**_.
 
 ### Lists
 

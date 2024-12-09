@@ -39,7 +39,7 @@ Edge CLI v1.5.3 (Mainnet)
 {% endhint %}
 
 {% hint style="warning" %}
-**On Mac OS, downloading the Edge CLI through a browser may cause difficulty running it due to Mac OS' security model, resulting in the message, \_"edge" **_**is damaged and can't be opened.**_** If you encounter this problem, delete the downloaded binary and use** `curl` **to redownload Edge CLI, and it should work then.**
+**On Mac OS, downloading the Edge CLI through a browser may cause difficulty running it due to Mac OS' security model, resulting in the message, \_"edge"&#x20;**_**is damaged and can't be opened.**_**&#x20;If you encounter this problem, delete the downloaded binary and use** `curl` **to redownload Edge CLI, and it should work then.**
 {% endhint %}
 
 ### Updating Edge CLI

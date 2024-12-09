@@ -12,7 +12,7 @@ Edge networking is a distributed computing paradigm which brings data storage an
 
 This reduces the volumes of data that must be moved, the consequent traffic, and the distance the data must travel, providing lower latency and reduced transmission costs.
 
-![](../.gitbook/assets/edgeNetwork.png)
+<figure><img src="../.gitbook/assets/photo_2024-12-09 16.45.07.jpeg" alt=""><figcaption></figcaption></figure>
 
 ## The Edge Ledger
 
@@ -22,7 +22,7 @@ This reduces the volumes of data that must be moved, the consequent traffic, and
 
 The blockchain at the heart of the network records device usage and value attribution. It uses an internal coin called $XE, run on the XE Blockchain, which is a layer 1 solution that provides fast transfers within the network that are fee free for value attribution. $XE includes bridging functionality that allows the coin to be bridged in to other networks. In this way $XE can be converted to $EDGE on the Ethereum network.
 
-![](../.gitbook/assets/xeChain.png)
+![](<../.gitbook/assets/photo_2024-12-09 16.47.08.jpeg>)
 
 The genesis transaction for the XE Blockchain is imprinted with the project's mission: **The Internet Belongs to Everyone**
 
@@ -38,13 +38,13 @@ Edge comprises hundreds of nodes contributed by individuals and businesses aroun
 
 Edge's technology harnesses the spare capacity that exists in the devices all around us. Take for example set top boxes, which are turned on 24/7, but only in use for an average of a few hours every day. In isolation a set top box doesn’t provide that much power, but when you knit the 35 million devices installed in homes in the UK it becomes an incredibly powerful resource.
 
-![Check out the subpages at edge.network to find your next Scavenger Hunt clue](../.gitbook/assets/localGlobal.png)
+![Check out the subpages at edge.network to find your next Scavenger Hunt clue](<../.gitbook/assets/photo_2024-12-09 16.47.44.jpeg>)
 
 ### BGP Routing
 
 The Edge network utilizes BGP (Border Gateway Protocol) operating within network masternodes to inform top level routing decisions in the network. BGP is the protocol that makes the Internet work. It does this by enabling data routing on the Internet by looking at all of the available paths that data could take from point to point, and picking the best route.
 
-![](../.gitbook/assets/bgp.png)
+![](<../.gitbook/assets/photo_2024-12-09 16.48.14.jpeg>)
 
 ### Internal Network Routing
 
@@ -52,7 +52,7 @@ Edge is network aware, and capable of routing within local networks to minimise 
 
 If you are a network owner or have a significant hardware estate, you can offset the cost of network services by contributing to the network. In addition, by enabling delivery within your own network, you can reduce north-south transport, effectively converting it to east-west transport between devices and end users within your own estate.
 
-![](../.gitbook/assets/internalRouting.png)
+![](<../.gitbook/assets/photo_2024-12-09 16.48.43.jpeg>)
 
 ### Security
 
@@ -60,7 +60,7 @@ Denial of Service attacks continue to escalate in scope, becoming ever more dist
 
 Edge’s layered approach to security effectively defends against DDoS attacks, preventing disruption to your core services, and keeping your apps online
 
-![](../.gitbook/assets/security.png)
+![](<../.gitbook/assets/photo_2024-12-09 16.49.09.jpeg>)
 
 ## Additional Reading
 
