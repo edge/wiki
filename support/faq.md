@@ -144,7 +144,7 @@ Edge's vision and roadmaps are extensive, while resource and time is limited. Th
 
 ### Is There a Primary Community Channel?
 
-Yes. Edge's primary community is Discord. You can join the Edge server here: [discord.gg/edge-network](https://discord.gg/edge-network)
+Yes. Edge's primary community is Discord. You can join the Edge server here: [discord.gg/edgenetwork](https://discord.gg/edgenetwork)
 
 ### Do the Core Team Hold AMAs?
 
