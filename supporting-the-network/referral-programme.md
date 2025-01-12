@@ -10,9 +10,11 @@ The success of the Edge Network depends on the support of its community. These r
 
 Edge provides a generous referral programme for new business to the network.
 
-The referral programme pays 10% of revenue for any business introduced.
+The referral programme pays:
 
-Full stop. Forever.
+* 20% of revenue for any business introduced year #1
+* 10% in year #2
+* 5% in year #3
 
 ## Contributing Nodes
 
