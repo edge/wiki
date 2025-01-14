@@ -5,7 +5,9 @@ description: >-
   capacity all around us.
 ---
 
-# 🕰 A Brief History
+# 🕰️ A Brief History
+
+<figure><img src="../.gitbook/assets/EdgeWikiHistory_v2.png" alt=""><figcaption></figcaption></figure>
 
 Edge was founded in 2013 as a decentralised alternative to the cloud. Originally called DADI, which stood for "Decentralised Architecture for a Democratic Internet", the company was renamed Edge in July 2019, taking the name of the network at the heart of the project to better reflect the evolution of the technology and its mission.
 
