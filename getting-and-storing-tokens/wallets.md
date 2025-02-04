@@ -38,26 +38,12 @@ You can access the XE web wallet at: [wallet.xe.network](https://wallet.xe.netwo
 
 ### Mobile Wallet
 
-{% hint style="success" %}
-**The XE mobile wallet is available now**
+{% hint style="danger" %}
+**The XE mobile wallet isn't currently available**
 {% endhint %}
 
 XE has it's own mobile wallet. It's available for iOS and includes support for $EDGE and $ETH, facilitating the bridging to and from $XE directly in app.
 
 Future versions of the app will allow you to buy and sell $XE directly in the app using the network's exchange function. You will also be able to stake XE and Eth, and in time enable your device directly as a network node.
 
-You can access the XE mobile wallet at: [ed.ge/app](https://ed.ge/app)
-
 ![](../.gitbook/assets/wallet.png)
-
-### Desktop Wallet
-
-{% hint style="info" %}
-**The desktop wallet is currently in development. There is no firm date for release**
-{% endhint %}
-
-The XE Desktop Wallet can also be used for the management of your $XE. It's available for Windows and OSX and can be used to bridge your tokens.
-
-You can also buy and sell $XE directly in the app using the network's exchange function.
-
-It is expected that future itterations of the desktop wallet will bundle in an Edge Network node, allowing staking directly within the wallet.
