@@ -262,7 +262,7 @@ This is an informational command that displays current staking amounts, as confi
 Current staking amounts:
   Stargate: 250,000.000000 XE
   Gateway:   25,000.000000 XE
-  Host:       1,250.000000 XE
+  Host:         100.000000 XE
 ```
 
 ### Create a Stake
@@ -283,8 +283,8 @@ An example of creating a Host:
 
 ```
 % edge stake create host
-You are staking 1,250.000000 XE to run a Host.
-1,250.000000 XE will be deducted from your available balance. You will have 703,668.950000 XE remaining.
+You are staking 100.000000 XE to run a Host.
+100.000000 XE will be deducted from your available balance. You will have 703,668.950000 XE remaining.
 
 Proceed with staking? [yn] y
 
@@ -314,7 +314,7 @@ ID:      1a6e6511e3f8
 Hash:    1df3e124915c
 Tx:      0b86daf2b729fb5d1fea8f8b41d8b2907358cb11dc052b3451c9fc0b0763bc0f
 Created: 2022-01-26 11:14:18
-Amount:  1,250.000000 XE
+Amount:  100.000000 XE
 Type:    Host
 Status:  Active
 ```
@@ -334,7 +334,7 @@ For example, unlocking the stake created above:
 ```
 % edge stake unlock 1a6e6511e3f8
 You are requesting to unlock a Host stake.
-After the unlock wait period of 90 days, you will be able to release the stake and return 1,250.000000 XE to your available balance.
+After the unlock wait period of 90 days, you will be able to release the stake and return 100.000000 XE to your available balance.
 
 Proceed with unlock? [yn] y
 
