@@ -7,7 +7,7 @@ Edge is pioneering the future of the Internet by introducing the world's first d
 Edge is the protocol of web3. Its versatile web services empower you to launch everything from dynamic websites to immersive games. Take part in the evolution and reclaim the web for everyone.
 
 {% hint style="info" %}
-**This is a living document that is regularly updated. Last update: 03rd February 2025**
+**This is a living document that is regularly updated. Last update: 20th March 2025**
 {% endhint %}
 
 The Edge Community Wiki is intended as the go to resource for all things Edge. Here you can learn about the technologies behind the platform; find out how to contribute to the network; how to participate in project governance; read answers to common support questions; and browse network FAQ.
