@@ -6,6 +6,10 @@ description: >-
 
 # 📰 Project Updates
 
+{% hint style="danger" %}
+**Updates are weekly on Telegram and Discord**. This archive is out of date.
+{% endhint %}
+
 There have been 206 of these so far.
 
 {% content-ref url="weekly-updates.md" %}
