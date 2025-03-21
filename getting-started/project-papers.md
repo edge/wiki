@@ -2,6 +2,7 @@
 description: >-
   Discover Edge's core documents: white paper (technology), tokenomics litepaper
   (economics), and blockchain litepaper (architecture).
+hidden: true
 ---
 
 # 🗞️ Project Papers
