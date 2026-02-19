@@ -13,13 +13,10 @@ All releases of CLI for mainnet and testnet are available on [Edge Network Files
 
 You can install Edge CLI manually by downloading the binary through the browser, or by using curl/wget. After downloading the CLI binary, move it to an executable and writable path and ensure the binary itself is also executable.
 
-For example, to download the mainnet CLI on an Ubuntu x64 host:
+On Linux, macOS, or WSL you can use the install script:
 
 ```bash
-curl \
-  -s https://files.edge.network/cli/mainnet/linux/x64/latest/edge \
-  -o /usr/local/bin/edge && \
-chmod +x /usr/local/bin/edge
+curl -fsSL https://files.edge.network/cli/install.sh | bash
 ```
 
 You can verify your download by comparing its checksum with the one in Edge Network Files:
