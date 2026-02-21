@@ -6,7 +6,7 @@ Edge nodes earn $XE coins in return for this, and these can be used to purchase 
 
 Stakes also form an important part of the tokenomics of the platform, locking value in the network and reducing overall circulating supply.
 
-{% hint style="success" %} Staking software is available on desktop (Windows, Linux, MacOS): http://ed.ge/staking **** {% endhint %}
+{% hint style="success" %} Staking software is available on desktop (Windows, Linux, macOS): http://ed.ge/staking **** {% endhint %}
 
 To add a node to the network you have to provide a stake in $XE via your [Edge Wallet](https://wallet.xe.network/) or edge CLI.
 

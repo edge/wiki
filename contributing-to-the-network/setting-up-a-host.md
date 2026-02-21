@@ -3,7 +3,7 @@
 Onboarding is now open for Host nodes on the Edge network, with support for:
 
 * Linux based x64/arm64 devices
-* MacOS x64/arm64 devices
+* macOS x64/arm64 devices
 * Windows x64/arm64 devices
 
 ## Minimum Specifications

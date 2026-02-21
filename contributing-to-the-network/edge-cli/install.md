@@ -6,8 +6,8 @@ All releases of CLI for mainnet and testnet are available on [Edge Network Files
 |:--------|:---|:-----|:-------|:---------|
 | Mainnet | Linux | x64 | [Download](https://files.edge.network/cli/mainnet/linux/x64/latest/edge) | [View](https://files.edge.network/cli/mainnet/linux/x64/latest/checksum) |
 | Mainnet | Linux | arm64 | [Download](https://files.edge.network/cli/mainnet/linux/arm64/latest/edge) | [View](https://files.edge.network/cli/mainnet/linux/arm64/latest/checksum) |
-| Mainnet | Mac OS | x64 | [Download](https://files.edge.network/cli/mainnet/macos/x64/latest/edge) | [View](https://files.edge.network/cli/mainnet/macos/x64/latest/checksum) |
-| Mainnet | Mac OS | arm64 | [Download](https://files.edge.network/cli/mainnet/macos/arm64/latest/edge) | [View](https://files.edge.network/cli/mainnet/macos/arm64/latest/checksum) |
+| Mainnet | macOS | x64 | [Download](https://files.edge.network/cli/mainnet/macos/x64/latest/edge) | [View](https://files.edge.network/cli/mainnet/macos/x64/latest/checksum) |
+| Mainnet | macOS | arm64 | [Download](https://files.edge.network/cli/mainnet/macos/arm64/latest/edge) | [View](https://files.edge.network/cli/mainnet/macos/arm64/latest/checksum) |
 | Mainnet | Windows | x64 | [Download](https://files.edge.network/cli/mainnet/windows/x64/latest/edge) | [View](https://files.edge.network/cli/mainnet/windows/x64/latest/checksum) |
 | Mainnet | Windows | arm64 | [Download](https://files.edge.network/cli/mainnet/windows/x64/latest/edge) | [View](https://files.edge.network/cli/mainnet/windows/x64/latest/checksum) |
 
@@ -25,7 +25,7 @@ chmod +x /usr/local/bin/edge
 You can verify your download by comparing its checksum with the one in Edge Network Files:
 
 - On Linux, `sha256 $(which edge)`
-- On Mac OS, `shasum -a 256 $(which edge)`
+- On macOS, `shasum -a 256 $(which edge)`
 <!-- On Windows TBC -->
 
 Once Edge CLI is installed, run `edge --version` to check it is usable. If the Edge CLI version is displayed without error, it's ready to use:
@@ -40,7 +40,7 @@ Edge CLI v1.5.3 (Mainnet)
 {% endhint %}
 
 {% hint style="warning" %}
-**On Mac OS, downloading the Edge CLI through a browser may cause difficulty running it due to Mac OS' security model, resulting in the message, _"edge" _is damaged and can't be opened._ If you encounter this problem, delete the downloaded binary and use** `curl` **to redownload Edge CLI, and it should work then.**
+**On macOS, downloading the Edge CLI through a browser may cause difficulty running it due to macOS' security model, resulting in the message, _"edge" _is damaged and can't be opened._ If you encounter this problem, delete the downloaded binary and use** `curl` **to redownload Edge CLI, and it should work then.**
 {% endhint %}
 
 ## Updating Edge CLI
