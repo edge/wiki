@@ -1,5 +1,11 @@
 # Install Edge CLI
 
+On Linux, macOS, or WSL you can use the install script:
+
+```bash
+curl -fsSL https://files.edge.network/cli/install.sh | bash
+```
+
 All releases of CLI for mainnet and testnet are available on [Edge Network Files](https://files.edge.network/cli/). You can browse it to find the suitable release for your system, or find the latest version in the table below:
 
 | Network | OS      | Arch  | Binary                                                                     | Checksum                                                                   |
@@ -13,11 +19,16 @@ All releases of CLI for mainnet and testnet are available on [Edge Network Files
 
 You can install Edge CLI manually by downloading the binary through the browser, or by using curl/wget. After downloading the CLI binary, move it to an executable and writable path and ensure the binary itself is also executable.
 
-On Linux, macOS, or WSL you can use the install script:
+For example, to download the mainnet CLI on a Linux x64 host:
 
 ```bash
-curl -fsSL https://files.edge.network/cli/install.sh | bash
+curl \
+  -fsSL https://files.edge.network/cli/mainnet/linux/x64/latest/edge \
+  -o /usr/local/bin/edge && \
+chmod +x /usr/local/bin/edge
 ```
+
+You may need to prefix commands with `sudo` if `/usr/local/bin` is not writable by your user.
 
 You can verify your download by comparing its checksum with the one in Edge Network Files:
 
@@ -49,4 +60,4 @@ If for whatever reason you are unable to self-update Edge CLI, or you need to ch
 
 ### Next Steps
 
-Now that Edge CLI is installed on your device, you can contribute to the network by setting up a Host. For more information about CLI usage, have a look at the Commands Overview.
+Now that Edge CLI is installed on your device, you can contribute to the network by [setting up a Host](set-up-a-host.md). For more information about CLI usage, have a look at the [Commands Overview](overview.md).
