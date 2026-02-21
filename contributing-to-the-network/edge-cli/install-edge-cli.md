@@ -8,8 +8,8 @@ All releases of CLI for mainnet and testnet are available on [Edge Network Files
 | Mainnet | Linux   | arm64 | [Download](https://files.edge.network/cli/mainnet/linux/arm64/latest/edge) | [View](https://files.edge.network/cli/mainnet/linux/arm64/latest/checksum) |
 | Mainnet | macOS   | x64   | [Download](https://files.edge.network/cli/mainnet/macos/x64/latest/edge)   | [View](https://files.edge.network/cli/mainnet/macos/x64/latest/checksum)   |
 | Mainnet | macOS   | arm64 | [Download](https://files.edge.network/cli/mainnet/macos/arm64/latest/edge) | [View](https://files.edge.network/cli/mainnet/macos/arm64/latest/checksum) |
-| Mainnet | Windows | x64   | [Download](https://files.edge.network/cli/mainnet/windows/x64/latest/edge) | [View](https://files.edge.network/cli/mainnet/windows/x64/latest/checksum) |
-| Mainnet | Windows | arm64 | [Download](https://files.edge.network/cli/mainnet/windows/x64/latest/edge) | [View](https://files.edge.network/cli/mainnet/windows/x64/latest/checksum) |
+| Mainnet | Windows | x64   | [Download](https://files.edge.network/cli/mainnet/windows/x64/latest/edge.exe) | [View](https://files.edge.network/cli/mainnet/windows/x64/latest/checksum) |
+| Mainnet | Windows | arm64 | [Download](https://files.edge.network/cli/mainnet/windows/arm64/latest/edge.exe) | [View](https://files.edge.network/cli/mainnet/windows/arm64/latest/checksum) |
 
 You can install Edge CLI manually by downloading the binary through the browser, or by using curl/wget. After downloading the CLI binary, move it to an executable and writable path and ensure the binary itself is also executable.
 
